@@ -1,0 +1,102 @@
+
+BREADSPEAK
+
+A constructed language by Jack Eisenmann
+
+Language goals:
+
+> Make a language that I would enjoy the most
+> Target 600 words
+> CV syllable structure
+> Less ambiguous grammar
+> Moderately efficient to use
+
+Sources of inspiration:
+
+Pegakibo + V0tgil + Zese + Keru ---> Base grammar
+Pegakibo + Zese ---> Phonology
+Pegakibo ---> Script
+V0tgil ---> Lexicon size
+Zese ---> System of word categories
+Zese ---> Etymological spelling
+Keru ---> System of antonyms
+Keru ---> Base dictionary entries
+Conlang Critic ---> More pronouns
+Conlang Critic ---> Improved particles
+
+Consonants:
+
+k = /k/
+g = /g/
+s = /s/
+z = /z/
+t = /t/
+d = /d/
+f = /f/
+v = /v/
+p = /p/
+b = /b/
+
+Vowels:
+
+i = /i/
+e = /e/
+a = /a/
+o = /o/
+u = /u/
+
+Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
+
+By altering the vowel of a category syllable, the speaker can express the antonym of a word. There are two possible vowel modifications of this kind:
+_e (original) ---> _i (antonym)
+_a (original) ---> _u (antonym)
+
+Parts of speech:
+
+> Noun
+> Verb
+> Descriptor
+> Preposition
+> Conjunction
+> Numeric
+> Particle
+
+Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English.
+
+A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
+
+Clause structure 1: [noun phrase 1?] [verb phrase] [noun phrase 2?]
+Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+
+Clause structure 2: [noun phrase?] [verb phrase] [preposition phrase]
+The noun phrase is the subject. The first object of the preposition phrase is the primary object.
+
+Clause structure 3: [noun phrase?] [descriptor phrase]
+The noun phrase is the subject.
+
+Clause structure 4: [simple noun phrase?] [preposition phrase]
+The noun prase is the subject. The first object of the preposition phrase is the primary object.
+
+Descriptor phrase structure: [descriptor phrase?] [descriptor word]
+The descriptor phrase describes the descriptor word.
+
+Simple noun phrase structure: [simple noun phrase?] [descriptor phrase?] [noun word]
+The descriptor phrase describes the noun word. The noun word is of or pertaining to the noun phrase.
+
+Noun phrase structure: [simple noun phrase] [preposition phrase?]
+The simple noun phrase is involved in the relationship described by the preposition phrase.
+
+Simple preposition phrase: [simple preposition phrase?] [descriptor phrase?] [preposition word]
+The descriptor phrase describes the preposition word. The preposition word is of or pertaining to the preposition phrase.
+
+Preposition phrase: [simple preposition phrase] [noun phrase?]
+The noun phrase is the object of the simple preposition phrase.
+
+Verb phrase: [verb phrase?] [descriptor phrase?] [verb word]
+The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase.
+
+A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed before a preposition or at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
+
+(More grammar coming soon. First I need to create concrete spellings of words.)
+
+
