@@ -20,7 +20,7 @@ V0tgil ---> Lexicon size
 Zese ---> System of word categories
 Zese ---> Etymological spelling
 Keru ---> System of antonyms
-Keru ---> Base dictionary entries
+Keru ---> Base dictionary definitions
 Conlang Critic ---> More pronouns
 Conlang Critic ---> Improved particles
 

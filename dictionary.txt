@@ -1,6 +1,18 @@
 
 BREADSPEAK DICTIONARY
 
+NOTE: Right now this is just a list of definitions. The next step is to assign a word spelling to each definition.
+
+Parts of speech abbreviations:
+
+(N) = Noun
+(V) = Verb
+(D) = Descriptor
+(P) = Preposition
+(Conjunction) = Conjunction
+(Numeric) = Numeric
+(Particle) = Particle
+
 An asterisk denotes that a word has a coherent antonym.
 
 > SINGLE SYLLABLE
