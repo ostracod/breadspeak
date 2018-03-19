@@ -77,6 +77,9 @@ The noun phrase is the subject.
 Clause structure 4: [simple noun phrase?] [preposition phrase]
 The noun prase is the subject. The first object of the preposition phrase is the primary object.
 
+Clause structure 5: [simple noun phrase]
+The noun prase is the subject.
+
 Descriptor phrase structure: [descriptor phrase?] [descriptor word]
 The descriptor phrase describes the descriptor word.
 
