@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
 import sys
+from copy import deepcopy
 
 dictionaryPath = "./dictionary.txt"
+categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE", "PA", "PE", "SA", "SE", "TA", "TE", "VA", "VE", "ZA", "ZE"]
 categoryList = []
 
 def isEntryLine(line):
@@ -98,9 +100,33 @@ def countEntriesCommand():
     print "Total word count: " + str(tempTotal)
     print "Number of categories: " + str(len(categoryList))
 
+def categorySyllablesCommand():
+    readDictionaryFile()
+    tempUnusedSyllableList = deepcopy(categorySyllableSet)
+    tempUsedSyllableList = []
+    tempDuplicateSyllableList = []
+    for category in categoryList:
+        tempSyllable = category.syllable
+        if tempSyllable is not None:
+            if tempSyllable in tempUnusedSyllableList:
+                tempUnusedSyllableList.remove(tempSyllable)
+            if tempSyllable in tempUsedSyllableList:
+                if tempSyllable not in tempDuplicateSyllableList:
+                    tempDuplicateSyllableList.append(tempSyllable)
+            else:
+                tempUsedSyllableList.append(tempSyllable)
+    print "Unused category syllables:"
+    print tempUnusedSyllableList
+    print "Used category syllables:"
+    print tempUsedSyllableList
+    print "Duplicate category syllables:"
+    print tempDuplicateSyllableList
+
 def printCliUsageAndQuit():
+    tempScriptPath = "./entryDigest.py"
     print "Usage:"
-    print "./entryDigest.py countEntries"
+    print tempScriptPath + " countEntries"
+    print tempScriptPath + " categorySyllables"
     sys.exit(0)
 
 print "Entry Digest"
@@ -112,6 +138,8 @@ commandName = sys.argv[1]
 
 if commandName == "countEntries":
     countEntriesCommand()
+elif commandName == "categorySyllables":
+    categorySyllablesCommand()
 else:
     printCliUsageAndQuit()
 
