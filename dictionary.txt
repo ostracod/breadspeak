@@ -69,7 +69,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Equal; same.
 (D): Different; other; another.
 
-> POSITION AND ROTATION
+> POSITION AND ROTATION (PA-)
 
 (N): Position; location; place; site.
 (P*): To the right of.
@@ -102,7 +102,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Star; sun.
 (N): World.
 
-> TIME
+> TIME (TA-)
 
 (N): Time.
 (P*): After; since.
@@ -126,7 +126,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Sudden; abrupt.
 (D*): Temporary.
 
-> GEOMETRY
+> GEOMETRY (GE-)
 
 (N): Shape; form; figure; structure.
 (N): Wave.
@@ -165,7 +165,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Hole; cavity.
 (N): Space; gap.
 
-> STIMULI
+> STIMULI (BE-)
 
 (V): Feel; sense; detect; perceive; witness.
 (N*): Light.
@@ -202,7 +202,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Umami; meaty.
 (D): Spicy.
 
-> MOVEMENT
+> MOVEMENT (TE-)
 
 (V*): Move; cause to go.
 (V*): Put; place; add.
@@ -227,7 +227,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Slide; glide; slip.
 (D*): Stable; steady.
 
-> FORCE
+> FORCE (BA-)
 
 (N): Force.
 (N): Energy; power.
@@ -252,7 +252,7 @@ An asterisk denotes that a word has a coherent antonym.
 (V*): Squeeze; compress.
 (V): Shoot; fire.
 
-> EXISTENCE AND IDENTITY
+> EXISTENCE AND IDENTITY (SA-)
 
 (N): Object; item; physical entity.
 (N): Mass; matter.
@@ -279,7 +279,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Example; sample; instance; model.
 (D): Copy; duplicate; replicate; repeat; multiply.
 
-> INFORMATION AND COMMUNICATION
+> INFORMATION AND COMMUNICATION (KA-)
 
 (N): Concept; idea; information; data; signal; notion.
 (V): Think about; process; calculate; compute; analyze; imagine.
@@ -313,7 +313,7 @@ An asterisk denotes that a word has a coherent antonym.
 (V): Describe; explain; report.
 (V): Announce; declare; warn; alert; alarm; advertise.
 
-> GOAL
+> GOAL (GA-)
 
 (N*): Goal; target; project; task; assignment; mission; objective.
 (P*): For; in order to.
@@ -336,7 +336,7 @@ An asterisk denotes that a word has a coherent antonym.
 (V*): Win; succeed at; defeat; beat; dominate.
 (D*): Useful; helpful; convenient; handy.
 
-> FEELING WITH VALUE
+> FEELING WITH VALUE (FE-)
 
 (N): Emotion; mood.
 (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
@@ -361,7 +361,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Art.
 (N): Music; song; tune.
 
-> LIFE
+> LIFE (PE-)
 
 (D*): Alive; living.
 (N): Fungus.
@@ -400,7 +400,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Person; human.
 (V): Have sex with.
 
-> PARTS
+> PARTS (DA-)
 
 (N): Part; piece; component; element; factor; section.
 (N): Atom.
@@ -437,7 +437,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Hill; mountain.
 (N): Sky.
 
-> MATERIALS
+> MATERIALS (VE-)
 
 (N): Material; substance.
 (P): Made of; comprised of; composed of.
@@ -478,7 +478,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
 
-> QUANTITY
+> QUANTITY (SE-)
 
 (N): Quantity; amount; number; proportion.
 (D): Plural; more than one; several; some.
@@ -508,7 +508,7 @@ An asterisk denotes that a word has a coherent antonym.
 (Numeric): Nine.
 (Numeric): Decimal point.
 
-> EXTENT AND ACTION
+> EXTENT AND ACTION (DE-)
 
 (N): Extent; degree.
 (D*): Enough; sufficient; adequate.
@@ -532,7 +532,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Act; perform; behave.
 (V): Interrupt; interfere.
 
-> ORGANIZATION AND RELATIONSHIP
+> ORGANIZATION AND RELATIONSHIP (ZE-)
 
 (N): Order; organization; arrangement; configuration.
 (V*): Organize; order; sort; arrange.
@@ -565,7 +565,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Spouse.
 (N): Sibling.
 
-> QUALITY
+> QUALITY (KE-)
 
 (N): Quality; characteristic; attribute.
 (N): Category; kind; sort; type.
@@ -599,7 +599,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Creative.
 (D*): Crazy; mad; wild; ridiculous; silly.
 
-> TECHNOLOGY AND MEDIA
+> TECHNOLOGY AND MEDIA (ZA-)
 
 (N): Tool; utensil; instrument; device; equipment.
 (N): Machine.
@@ -640,7 +640,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Video; movie; film.
 (N): Mark.
 
-> SOCIETY AND WORK
+> SOCIETY AND WORK (VA-)
 
 (N): Country; nation; state; territory.
 (N): Town; village; city.
@@ -669,7 +669,7 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Free.
 (V*): Fight; attack; compete with; battle.
 
-> FOOD
+> FOOD (FA-)
 
 (N): Food; fuel.
 (N): Drink; beverage.
