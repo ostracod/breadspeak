@@ -14,10 +14,10 @@ def isCategoryLine(line):
     return (line.find("> ") == 0)
 
 def getLineCategoryName(line):
-    endIndex = line.find("(")
+    endIndex = line.find(" (")
     if endIndex < 0:
         endIndex = len(line)
-    return line[2:endIndex]
+    return line[2:(endIndex)]
 
 def getLineCategorySyllable(line):
     index = line.find("(")
@@ -107,6 +107,11 @@ def categorySyllablesCommand():
     tempDuplicateSyllableList = []
     for category in categoryList:
         tempSyllable = category.syllable
+        tempText = leftPad(category.name, 35)
+        if tempSyllable is None:
+            print tempText + ": No category syllable"
+        else:
+            print tempText + ": " + tempSyllable + "-"
         if tempSyllable is not None:
             if tempSyllable in tempUnusedSyllableList:
                 tempUnusedSyllableList.remove(tempSyllable)
