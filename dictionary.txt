@@ -41,6 +41,7 @@ An asterisk denotes that a word has a coherent antonym.
 (N): They/them; genderless.
 (N): They/them; plural.
 (N): Self; refers to the subject of the containing clause.
+(N): Thing; the most general noun; stuff.
 (D): A not previously mentioned one; some.
 (D): The previously mentioned one.
 (D): This; a closer one.
@@ -54,47 +55,46 @@ An asterisk denotes that a word has a coherent antonym.
 (D): True; real; actual; accurate; correct; yes; genuine.
 (D): False; not; no.
 (V): Be an instance of.
+(V): Cause; create; because; build; construct; craft; establish; generate; produce.
+(V): Prevent; destroy.
 (P): In; inside; at.
 (P); Out; outside.
 (P): To; toward.
 (P): From; away from.
-(N): Thing; the most general noun; stuff.
-(V): Cause; create; because; build; construct; craft; establish; generate; produce.
-(V): Prevent; destroy.
 (D): Very; a lot; big; large; extensive; grand; quite.
 (D): Not a lot; a little; little; small.
-(D): Go; move; travel.
-(D): Stay; not move.
 (D): Exist.
 (D): Equal; same.
 (D): Different; other; another.
+(D): Go; move; travel.
+(D): Stay; not move.
 
 > POSITION AND ROTATION (PA-)
 
 (N): Position; location; place; site.
+(N): Rotation; direction; angle.
 (P*): To the right of.
+(D*): Right; the direction.
 (P*): In front of; ahead of; beyond.
+(D*): Forward.
 (P*): Over; above.
-(P*): Near; close to; around; beside; by.
+(D*): Up; high.
 (P*): On the surface of.
-(V): Keep; store; preserve; retain; save.
+(P*): Near; close to; around; beside; by.
+(N): Middle; center.
 (P): Between; among; within.
 (D*): Together.
-(N): Middle; center.
-(N): Rotation; direction; angle.
-(D*): Right; the direction.
-(D*): Forward.
-(D*): Up; high.
+(V): Keep; store; preserve; retain; save.
 (P): Through.
-(D): Back; toward the original location.
-(D*): North.
-(D*): East.
 (P): Across.
 (P): Parallel to; along.
 (P): Perpendicular to.
 (P): Diagonal to.
 (D): Vertical.
 (D): Horizontal.
+(D*): North.
+(D*): East.
+(D): Back; toward the original location.
 (N): Home.
 (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
 (N): Planet; Earth.
@@ -106,64 +106,64 @@ An asterisk denotes that a word has a coherent antonym.
 
 (N): Time.
 (P*): After; since.
-(N): Minute.
-(N): Hour.
-(N): Day; a period of 24 hours.
-(N): Week.
-(N): Month.
-(N): Year.
 (P*): While; during.
-(D*): New; young; fresh.
+(P): Until.
+(D): Soon.
 (D): Recent; just.
 (D): Already.
 (D): Yet.
 (D): Still; not having changed; keep doing; continue.
-(D*): Early.
-(P): Until.
-(D): Soon.
-(N*): Day; the time when the sun is in the sky.
-(N): Season.
 (D): Sudden; abrupt.
+(D*): New; young; fresh.
+(D*): Early.
 (D*): Temporary.
+(N): Minute.
+(N): Hour.
+(N): Day; a period of 24 hours.
+(N*): Day; the time when the sun is in the sky.
+(N): Week.
+(N): Month.
+(N): Year.
+(N): Season.
 
 > GEOMETRY (GE-)
 
 (N): Shape; form; figure; structure.
-(N): Wave.
-(N): Ball; sphere.
-(N): Prism; block; box; cylinder.
-(N): Pipe; tube.
-(N): Circle; oval.
 (N): Rectangle; square.
+(N): Circle; oval.
+(N): Prism; block; box; cylinder.
+(N): Ball; sphere.
+(N): Pipe; tube.
+(N): Wave.
 (N): Bump; lump; pile; mound; heap.
 (N): Net; mesh; network; web.
+(N): Corner; vertex; point.
+(N): Edge; line.
+(N): Area of a surface; region; zone.
+(N): Volume; amount of space.
+(N): Range; span; length; interval; distance.
+(N): Border; outline; frame; profile.
+(N): Surface; side; face; skin.
+(N): Side; neither the top nor the bottom.
+(N*): Top; peak.
+(N): Hole; cavity.
+(N): Space; gap.
 (D*): Long; tall.
 (D*): Wide; broad.
 (D*): Thick in a geometric sense; deep; fat.
-(D): Flat.
 (D): Straight; direct.
 (D): Curved; round.
+(D): Flat.
 (D): Tapered.
 (D*): Bumpy; rough.
+(D*): Sharp; pointy.
 (D*): Split; divide; tear; rip; break; crack; snap.
+(V*): Connect to; join; attach; mechanically link to.
+(V*): Tie a string; sew; stitch.
+(V): Reach; access.
 (D): Stand.
 (D): Sit.
 (D): Lie down.
-(V): Reach; access.
-(V*): Connect to; join; attach; mechanically link to.
-(D*): Sharp; pointy.
-(V*): Tie a string; sew; stitch.
-(N): Side; neither the top nor the bottom.
-(N): Surface; side; face; skin.
-(N): Edge; line.
-(N): Corner; vertex; point.
-(N): Range; span; length; interval; distance.
-(N): Area of a surface; region; zone.
-(N): Volume; amount of space.
-(N*): Top; peak.
-(N): Border; outline; frame; profile.
-(N): Hole; cavity.
-(N): Space; gap.
 
 > STIMULI (BE-)
 
@@ -171,10 +171,10 @@ An asterisk denotes that a word has a coherent antonym.
 (N*): Light.
 (V): See.
 (V): Look at; watch; view; examine; inspect; observe.
-(D*): Bright; light.
 (V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
-(D): Flash; blink; sparkle; glimmer.
+(D*): Bright; light.
 (D*): Saturated; vibrant.
+(D): Flash; blink; sparkle; glimmer.
 (N): Color.
 (D): Red.
 (D): Orange.
@@ -186,10 +186,10 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Black.
 (D): Gray.
 (N): Sound; noise.
-(D*): High pitched.
 (V): Hear.
 (V): Listen.
 (D*): Loud; noisy.
+(D*): High pitched.
 (N): Buzz; hum.
 (N): Beep; chirp.
 (N): Click; tick.
@@ -206,61 +206,66 @@ An asterisk denotes that a word has a coherent antonym.
 
 (V*): Move; cause to go.
 (V*): Put; place; add.
+(V): Carry; bring; transport; deliver; fetch.
+(V*): Raise; lift.
+(V): Send; submit; transmit.
 (V*): Come; go toward; arrive; approach.
 (V): Follow; pursue.
 (V*): Enter; go in.
-(N): Speed; rate; pace.
-(D*): Fast; quick; rapid.
 (D): Walk; run.
-(V): Carry; bring; transport; deliver; fetch.
-(V*): Raise; lift.
-(N): Path; way; route; channel; course.
 (D): Reflect; deflect; bounce.
 (D): Fall; drop; collapse; pour; spill.
 (D): Fly.
+(D): Slide; glide; slip.
 (D): Shower; spray.
 (D*): Spread; disperse.
 (D): Shake; vibrate; shiver.
 (D*): Spin; turn; rotate; tip; twist.
 (V*): Spin; turn; cause to rotate; tip; twist.
-(V): Send; submit; transmit.
-(D): Slide; glide; slip.
+(N): Path; way; route; channel; course.
+(N): Speed; rate; pace.
+(D*): Fast; quick; rapid.
 (D*): Stable; steady.
 
 > FORCE (BA-)
 
 (N): Force.
-(N): Energy; power.
 (N): Gravity; weight.
 (N): Contact; touch.
 (N): Magnetism.
 (N): Electricity.
 (N): Friction.
 (V*): Push; press; shove.
+(V*): Squeeze; compress.
 (V): Hold; support; grab.
 (V): Bond to; stick to.
 (V): Cut; chop; shear; slice.
-(D*): Strong; fit; powerful; tough; sturdy, durable.
 (V): Hit; beat; strike; crash; knock.
-(D*): Bend; fold.
-(D*): Explode; pop; burst.
 (V): Brush; comb; sweep.
 (V): Rub; drag on; wipe; stroke.
 (V): Scratch; scrape.
 (V*): Throw; toss.
-(D): Hang.
-(V*): Squeeze; compress.
 (V): Shoot; fire.
+(D*): Bend; fold.
+(D*): Explode; pop; burst.
+(D): Hang.
+(N): Energy; power.
+(D*): Strong; fit; powerful; tough; sturdy, durable.
 
 > EXISTENCE AND IDENTITY (SA-)
 
+(N): Identity.
 (N): Object; item; physical entity.
 (N): Mass; matter.
-(D): Happen; occur.
 (N): Event; incident.
+(D): Happen; occur.
 (D): Specifies the object to which a clause is referring. The default object is the primary object.
 (D*): Exact; precise; particular; specific; certain; definite.
+(D): Any.
 (D): Which; interrogative identity.
+(N): Name; title.
+(N): Example; sample; instance; model.
+(D): Copy; duplicate; replicate; repeat; multiply.
 (D): Does; interrogative truth.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
@@ -273,45 +278,40 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Complete; finished; be accomplished; be achieved; conclude.
 (V): Complete; finish; accomplish; achieve; conclude.
 (V*): Become; start to be.
-(N): Identity.
-(D): Any.
-(N): Name; title.
-(N): Example; sample; instance; model.
-(D): Copy; duplicate; replicate; repeat; multiply.
 
 > INFORMATION AND COMMUNICATION (KA-)
 
 (N): Concept; idea; information; data; signal; notion.
-(V): Think about; process; calculate; compute; analyze; imagine.
+(N): Story; tale; rumor; plot.
+(N): Science.
+(D*): Sure; confident; certain; indeed; definitely.
 (V): Mean; signify; imply; indicate; represent; be a symbol for.
+(V): Think about; process; calculate; compute; analyze; imagine.
 (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
+(V*): Have the opinion that; think; suppose; believe.
+(V*): Understand; comprehend.
+(V): Recall; remember; recollect.
+(V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
+(V*): Focus on; notice; pay attention to; concentrate on.
+(V*): Learn; study; research; investigate.
+(V): Teach; instruct; educate; lecture.
 (V*): Search for; look for; hunt for; seek; try to find.
 (V*): Find; discover; measure; determine.
-(V*): Learn; study; research; investigate.
-(V): Recall; remember; recollect.
-(V*): Have the opinion that; think; suppose; believe.
-(V*): Focus on; notice; pay attention to; concentrate on.
-(N): Story; tale; rumor; plot.
-(D*): Sure; confident; certain; indeed; definitely.
-(N): Science.
-(V): Teach; instruct; educate; lecture.
 (V): Test; experiment with.
-(V*): Understand; comprehend.
-(V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
 (V): Communicate; state; claim; tell; discuss; express; inform.
-(N): Word; term.
 (V): Say; speak; talk; communicate verbally.
+(V): Call.
 (V): Ask; inquire.
 (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
 (V*): Approve; verify; confirm; praise; support; agree with; concur.
-(V): Call.
-(N): Sentence.
-(N): Language.
-(N): Thank you; thanks; gratitude.
-(N*): Hello; hi; salutation; greeting; welcome.
 (V): Describe; explain; report.
 (V): Announce; declare; warn; alert; alarm; advertise.
+(N): Word; term.
+(N): Sentence.
+(N): Language.
+(N*): Hello; hi; salutation; greeting; welcome.
+(N): Thank you; thanks; gratitude.
 
 > GOAL (GA-)
 
@@ -319,43 +319,43 @@ An asterisk denotes that a word has a coherent antonym.
 (P*): For; in order to.
 (D*): Good.
 (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
-(V*): Want; hope for; wish for; desire.
-(N): Plan; intention; scheme; strategy; design.
-(V*): Try; attempt.
-(V): Use; utilize; employ.
-(V*): Need; require; must.
 (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
+(D*): Useful; helpful; convenient; handy.
+(D*): Ready; prepared.
+(V*): Want; hope for; wish for; desire.
+(V*): Need; require; must.
 (V): Choose; decide; pick; commit; elect; select; vote for.
+(V): Use; utilize; employ.
+(V*): Try; attempt.
+(V*): Win; succeed at; defeat; beat; dominate.
 (V*): Help do something; serve; support; assist; aid.
 (N): Purpose; point; reason for existing; role; justification.
-(D*): Ready; prepared.
+(N): Plan; intention; scheme; strategy; design.
 (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
-(N*): Garbage; trash; pollution.
 (N*): Mistake; error; accident.
+(N*): Garbage; trash; pollution.
 (N*): Prize; reward; award; bonus; treat; present; gift.
-(V*): Win; succeed at; defeat; beat; dominate.
-(D*): Useful; helpful; convenient; handy.
 
 > FEELING WITH VALUE (FE-)
 
 (N): Emotion; mood.
+(N*): Pain; ache.
+(D*): Happy; glad; content.
+(D*): Comfortable.
+(D*): Angry; mad.
+(D*): Nervous; anxious; worried; stressed.
+(D*): Guilty; shameful; sorry; embarrassed.
+(D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Care about; have concern for; worry about; respect.
-(D*): Angry; mad.
-(D*): Guilty; shameful; sorry; embarrassed.
-(D*): Happy; glad; content.
-(D*): Nervous; anxious; worried; stressed.
-(N*): Pain; ache.
-(D*): Comfortable.
-(D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 (V*): Annoy; irritate; bother; disturb.
 (V*): Scare; frighten; startle.
 (V*): Excite; make eager.
 (V*): Surprise; amaze; shock.
-(D*): Fun; funny; entertaining.
+(V*): Interest; fascinate.
+(V*): Entertain; be fun to; be funny to.
 (V): Play.
 (V): Laugh at.
-(V*): Interest; fascinate.
 (N): Game; sport.
 (N): Party; festival; celebration; ceremony.
 (N): Art.
@@ -364,28 +364,26 @@ An asterisk denotes that a word has a coherent antonym.
 > LIFE (PE-)
 
 (D*): Alive; living.
-(N): Fungus.
-(D*): Sleep.
-(V): Breathe; inhale; exhale.
+(N*): Nature.
+(N): Body.
 (D*): Healthy.
+(D): Be born.
+(D): Decompose; decay; rot.
 (N): Baby; infant.
 (N): Child; kid; teenager; adolescent.
 (N): Adult.
-(N*): Nature.
-(D): Be born.
-(D): Decompose; decay; rot.
 (N): Gender.
 (D): Male.
 (D): Female.
-(N): Body.
+(N): Fungus.
 (N): Plant.
 (N): Seed; bean; nut.
 (N): Tree.
 (N): Grass.
-(N): Leaf.
 (N): Animal; creature.
 (N): Egg.
 (N): Mammal.
+(N): Person; human.
 (N): Dog.
 (N): Cat.
 (N): Cow.
@@ -397,93 +395,99 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Fish.
 (N): Arthropod.
 (N): Mollusk.
-(N): Person; human.
+(D*): Sleep.
+(V): Breathe; inhale; exhale.
 (V): Have sex with.
 
 > PARTS (DA-)
 
 (N): Part; piece; component; element; factor; section.
-(N): Atom.
-(N): Proton.
-(N): Neutron.
-(N): Electron.
-(N): Face of a person or animal.
-(N): Head.
-(N): Mouth.
-(N): Eye.
-(N): Torso; trunk.
-(N): Appendage; limb; branch; arm; leg; neck.
-(N): Finger; toe; stick.
-(N): Cell; part of an organism.
-(N): Organ.
-(N): Hand.
-(N): Foot.
-(N): Hair; fur; feather.
-(N): Window.
-(N): Door; gate.
-(N): Room; chamber.
-(N): Stair; step.
-(N): Hinge; joint.
-(N): Wheel.
-(N): Button; key; switch.
-(N): Wall.
-(N): Floor.
-(N): Level; layer; shelf.
-(N): Knob; handle.
-(N): Rod; pole; axle; track; rail; bar; prong.
 (N): Land; ground.
 (N): Ocean; sea; lake; pond.
 (N): River; stream.
 (N): Hill; mountain.
 (N): Sky.
+(N): Room; chamber.
+(N): Wall.
+(N): Floor.
+(N): Window.
+(N): Door; gate.
+(N): Stair; step.
+(N): Level; layer; shelf.
+(N): Hinge; joint.
+(N): Wheel.
+(N): Button; key; switch.
+(N): Knob; handle.
+(N): Rod; pole; axle; track; rail; bar; prong.
+(N): Torso; trunk.
+(N): Head.
+(N): Face of a person or animal.
+(N): Mouth.
+(N): Eye.
+(N): Appendage; limb; branch; arm; leg; neck.
+(N): Finger; toe; stick.
+(N): Leaf.
+(N): Hand.
+(N): Foot.
+(N): Hair; fur; feather.
+(N): Organ.
+(N): Cell; part of an organism.
+(N): Atom.
+(N): Proton.
+(N): Neutron.
+(N): Electron.
 
 > MATERIALS (VE-)
 
 (N): Material; substance.
-(P): Made of; comprised of; composed of.
-(N): Ceramic; cement.
-(N): Plastic.
-(N): Rubber.
-(N): Glass.
-(N): Soil; dirt.
-(N): Oil.
-(N): Cloth.
-(N): Paper.
-(N): Lumber; wood.
-(N): Asphalt; tar.
-(N): Blood.
-(N): Bone.
-(N): Cotton.
-(N): Fat.
-(N): Metal.
-(N): Rock; stone.
-(N): Sand.
-(N): Water.
-(N): Fire; flame.
-(N): Cloud; steam; smoke.
-(N): Gem; crystal; jewel.
-(N): Clay; dough.
-(N*): Acid; acidic liquid.
-(N): Air; atmosphere.
-(N): Soap.
-(N*): Medicine; drug.
-(N): Rain; snow; precipitation.
 (N): Solid.
 (N): Liquid.
 (N): Gas; material in a gaseous state.
+(N): Water.
+(N): Air; atmosphere.
+(N): Fire; flame.
+(N): Cloud; steam; smoke.
+(N): Rock; stone.
+(N): Sand.
+(N): Metal.
+(N): Gem; crystal; jewel.
+(N): Soil; dirt.
+(N): Clay; dough.
+(N): Cotton.
+(N): Rubber.
+(N): Fat.
+(N): Blood.
+(N): Bone.
+(N): Lumber; wood.
+(N): Paper.
+(N): Cloth.
+(N): Oil.
+(N): Plastic.
+(N): Asphalt; tar.
+(N): Ceramic; cement.
+(N): Glass.
+(N): Rain; snow; precipitation.
+(N*): Acid; acidic liquid.
+(N*): Medicine; drug.
+(N): Soap.
 (N): Powder; dust.
 (N): Foam; sponge.
 (D*): Flexible; soft.
 (D*): Clear; transparent; obvious.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
+(P): Made of; comprised of; composed of.
 
 > QUANTITY (SE-)
 
 (N): Quantity; amount; number; proportion.
+(N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
+(N): Limit; constraint; boundary; restriction.
 (D): Plural; more than one; several; some.
 (D*): Many; a lot; often; frequent; numerous.
 (D*): Every; all; each.
+(D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
+(D*): Most; the majority; almost all.
 (D): Again; another time.
 (D): Only; just; alone; unique; sole.
 (D): Also; too.
@@ -492,10 +496,6 @@ An asterisk denotes that a word has a coherent antonym.
 (P*): Exponentiate a number.
 (P*): Multiply by ten raised to a number.
 (D*): Negative; less than zero.
-(N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
-(N): Limit; constraint; boundary; restriction.
-(D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
-(D*): Most; the majority; almost all.
 (Numeric): Zero; no; none.
 (Numeric): One; single; individual.
 (Numeric): Two; a couple of.
@@ -511,26 +511,26 @@ An asterisk denotes that a word has a coherent antonym.
 > EXTENT AND ACTION (DE-)
 
 (N): Extent; degree.
+(D*): More; having a greater degree.
+(D*): Most; having the greatest degree.
+(D*): Total; complete; full; whole; entire; thorough.
 (D*): Enough; sufficient; adequate.
 (D): Extra; spare.
 (D): Too much; excessive.
+(D*): Extreme; radical; severe; intense.
 (D): As; to a certain extent; so.
 (D): Even.
-(D*): Total; complete; full; whole; entire; thorough.
 (D): Almost; nearly; virtually.
 (D): Opposite; inverse in meaning.
-(D*): More; having a greater degree.
-(D*): Most; having the greatest degree.
 (P): Relative to; with respect to; than.
-(D*): Extreme; radical; severe; intense.
 (N): Action; activity.
 (V*): Do; perform; participate in an action.
 (V): Respond to; react.
 (V): Wait for.
 (V): Bear; withstand; endure; suffer; stand; cope with; last.
 (V): Act upon; affect; influence.
-(D): Act; perform; behave.
 (V): Interrupt; interfere.
+(D): Act; perform; behave.
 
 > ORGANIZATION AND RELATIONSHIP (ZE-)
 
@@ -540,11 +540,11 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): First; initial; original.
 (N*): Start; beginning; first part.
 (D*): Next; following.
-(N): Member; individual of a group.
 (N): Group; bunch; combination; set.
+(N): List; sequence; series; queue.
+(N): Member; individual of a group.
 (N): System; process.
 (D*): Main; chief; principal; primary; capital.
-(N): List; sequence; series; queue.
 (P): Of; pertaining to; related to; having a conceptual connection with.
 (P): About; having a subject; having a topic.
 (P): If; under the condition that.
@@ -553,34 +553,34 @@ An asterisk denotes that a word has a coherent antonym.
 (V): Have; own; possess.
 (V*): Give; contribute; donate; transfer; grant; provide; supply.
 (V*): Get; receive; acquire; gain; obtain.
-(N*): Friend; buddy.
+(V): Meet; encounter.
 (V): Depend on; be controlled by; rely on.
 (P): Except; not including; aside from.
-(V): Meet; encounter.
 (P): Instead of; on behalf of; in place of.
-(D*): Public.
+(N*): Friend; buddy.
 (N): Family.
 (V*): Marry.
 (N*): Parent.
 (N): Spouse.
 (N): Sibling.
+(D*): Public.
 
 > QUALITY (KE-)
 
 (N): Quality; characteristic; attribute.
 (N): Category; kind; sort; type.
-(P*): Like; similar to; having a quality pertaining to.
 (N): Manner; method; way; mechanism; technique.
-(P): By means of; having a manner pertaining to; in accordance with; as though; as if.
+(N): Pattern; trend.
+(N): Style; fashion; aesthetic.
+(N): Culture; ethnicity.
 (N): State; status; mode; phase; stage.
+(N): Weather; climate.
+(P*): Like; similar to; having a quality pertaining to.
+(P): By means of; having a manner pertaining to; in accordance with; as though; as if.
 (D): Change; become different; transform.
 (V): Change; alter; convert; cause to become different.
-(V*): Fix; heal; repair; solve; resolve.
 (V*): Seem like; appear to be; look like; sound like.
-(N): Culture; ethnicity.
-(N): Style; fashion; aesthetic.
-(N): Pattern; trend.
-(N): Weather; climate.
+(V*): Fix; heal; repair; solve; resolve.
 (D*): Hot; warm.
 (D*): Wet; damp; moist.
 (D*): Clean.
@@ -593,11 +593,11 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Fancy; formal.
 (D*): Gross; disgusting; nasty.
 (D*): Brave; bold; courageous; confident.
+(D*): Crazy; mad; wild; ridiculous; silly.
 (D*): Careful; alert; prudent; cautious; gentle; responsible.
 (D*): Clever; smart; intelligent.
 (D*): Logical; reasonable.
 (D*): Creative.
-(D*): Crazy; mad; wild; ridiculous; silly.
 
 > TECHNOLOGY AND MEDIA (ZA-)
 
@@ -632,13 +632,13 @@ An asterisk denotes that a word has a coherent antonym.
 (V*): Write; draw.
 (V): Read.
 (N): Image; picture; photo; appearance.
-(N): Book.
+(N): Mark.
 (N): Symbol; letter; digit; character.
+(N): Text; script.
+(N): Book.
 (N): Mail; letter.
 (N): News; tabloid.
-(N): Text; script.
 (N): Video; movie; film.
-(N): Mark.
 
 > SOCIETY AND WORK (VA-)
 
@@ -650,10 +650,10 @@ An asterisk denotes that a word has a coherent antonym.
 (V*): Buy; purchase.
 (N): Shop; store.
 (N): Company; business; enterprise.
-(V): Work on; operate; function; do something productive.
 (N): Job; occupation; career; duty; responsibility; profession.
-(D*): Busy; preoccupied; engaged.
+(V): Work on; operate; function; do something productive.
 (V): Practice; exercise; train.
+(D*): Busy; preoccupied; engaged.
 (D*): Rest; relax.
 (D*): Imperative; please.
 (V): Control; drive; manage; operate; regulate.
@@ -661,13 +661,13 @@ An asterisk denotes that a word has a coherent antonym.
 (V): Suggest; recommend; advise; direct; guide; lead; propose.
 (V*): Let; allow; permit.
 (V*): Demand; request; ask for; order; command.
+(V*): Fight; attack; compete with; battle.
 (N): Government; authority; committee; council; regime.
 (N): Rule; regulation; law; policy.
 (N): Religion.
 (D*): Should; ought to.
 (D*): Fair; just; right.
 (D*): Free.
-(V*): Fight; attack; compete with; battle.
 
 > FOOD (FA-)
 
@@ -682,13 +682,13 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Wheat.
 (N): Corn.
 (N): Tomato.
-(N): Bread; cake; pastry.
-(N): Sugar.
 (N): Meat; flesh; muscle.
+(N): Sugar.
+(N): Salt.
+(N): Bread; cake; pastry.
 (N): Coffee.
 (N): Milk.
 (N): Pasta.
-(N): Salt.
 (N): Cheese.
 (N): Alcohol.
 (V): Eat; drink; consume.
@@ -697,3 +697,5 @@ An asterisk denotes that a word has a coherent antonym.
 (V): Digest.
 (N): Dish; plate; tray.
 (D): Cook; bake.
+
+
