@@ -168,12 +168,29 @@ def categoryWordsCommand(syllable):
     print "Duplicate words:"
     print tempDuplicateWordList
 
+def duplicateWordsCommand():
+    readDictionaryFile()
+    tempUsedWordList = []
+    tempDuplicateWordList = []
+    for category in categoryList:
+        for entry in category.entryList:
+            tempWord = entry.word
+            if tempWord is not None:
+                if tempWord in tempUsedWordList:
+                    if tempWord not in tempDuplicateWordList:
+                        tempDuplicateWordList.append(tempWord)
+                else:
+                    tempUsedWordList.append(tempWord)
+    print "Duplicate words:"
+    print tempDuplicateWordList
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
     print tempScriptPath + " countEntries"
     print tempScriptPath + " categorySyllables"
     print tempScriptPath + " categoryWords (syllable or \"none\")"
+    print tempScriptPath + " duplicateWords"
     sys.exit(0)
 
 print "Entry Digest"
@@ -194,6 +211,8 @@ elif commandName == "categoryWords":
     if tempSyllable == "NONE":
         tempSyllable = None
     categoryWordsCommand(tempSyllable)
+elif commandName == "duplicateWords":
+    duplicateWordsCommand()
 else:
     printCliUsageAndQuit()
 
