@@ -5,6 +5,8 @@ from copy import deepcopy
 
 dictionaryPath = "./dictionary.txt"
 categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE", "PA", "PE", "SA", "SE", "TA", "TE", "VA", "VE", "ZA", "ZE"]
+consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
+vowelSet = ["A", "E", "I", "O", "U"]
 categoryList = []
 
 def isEntryLine(line):
@@ -127,11 +129,51 @@ def categorySyllablesCommand():
     print "Duplicate category syllables:"
     print tempDuplicateSyllableList
 
+def categoryWordsCommand(syllable):
+    readDictionaryFile()
+    category = None
+    for tempCategory in categoryList:
+        if tempCategory.syllable == syllable:
+            category = tempCategory
+            break
+    if category is None:
+        print "Could not find category with the syllable " + syllable + "."
+        return
+    print category.name
+    if syllable is None:
+        syllable = ""
+    tempUnusedWordList = []
+    tempUsedWordList = []
+    tempDuplicateWordList = []
+    for consonant in consonantSet:
+        for vowel in vowelSet:
+            tempUnusedWordList.append(syllable + consonant + vowel)
+    for entry in category.entryList:
+        tempWord = entry.word
+        if tempWord is not None:
+            if tempWord in tempUnusedWordList:
+                tempUnusedWordList.remove(tempWord)
+            if tempWord in tempUsedWordList:
+                if tempWord not in tempDuplicateWordList:
+                    tempDuplicateWordList.append(tempWord)
+            else:
+                tempUsedWordList.append(tempWord)
+    tempUnusedWordList.sort()
+    tempUsedWordList.sort()
+    tempDuplicateWordList.sort()
+    print "Unused words:"
+    print tempUnusedWordList
+    print "Used words:"
+    print tempUsedWordList
+    print "Duplicate words:"
+    print tempDuplicateWordList
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
     print tempScriptPath + " countEntries"
     print tempScriptPath + " categorySyllables"
+    print tempScriptPath + " categoryWords (syllable or \"none\")"
     sys.exit(0)
 
 print "Entry Digest"
@@ -145,6 +187,13 @@ if commandName == "countEntries":
     countEntriesCommand()
 elif commandName == "categorySyllables":
     categorySyllablesCommand()
+elif commandName == "categoryWords":
+    if len(sys.argv) < 3:
+        printCliUsageAndQuit()
+    tempSyllable = sys.argv[2].upper()
+    if tempSyllable == "NONE":
+        tempSyllable = None
+    categoryWordsCommand(tempSyllable)
 else:
     printCliUsageAndQuit()
 
