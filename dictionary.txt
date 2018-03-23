@@ -71,21 +71,21 @@ An asterisk denotes that a word has a coherent antonym.
 
 > POSITION AND ROTATION (PA-)
 
-(N): Position; location; place; site.
-(N): Rotation; direction; angle.
-(P*): To the right of.
-(D*): Right; the direction.
-(P*): In front of; ahead of; beyond.
-(D*): Forward.
-(P*): Over; above.
-(D*): Up; high.
-(P*): On the surface of.
-(P*): Near; close to; around; beside; by.
-(N): Middle; center.
+Papo (N): Position; location; place; site.
+Pado (N): Rotation; direction; angle.
+Pagu (P*): To the right of.
+Pafu (D*): Right; the direction.
+Pago (P*): In front of; ahead of; beyond.
+Pafo (D*): Forward.
+Paga (P*): Over; above.
+Pafa (D*): Up; high.
+Pabi (P*): On the surface of.
+Paki (P*): Near; close to; around; beside; by.
+Pazo (N): Middle; center.
 (P): Between; among; within.
 (D*): Together.
 (V): Keep; store; preserve; retain; save.
-(P): Through.
+Dapu (P): Through.
 (P): Across.
 (P): Parallel to; along.
 (P): Perpendicular to.
@@ -99,14 +99,14 @@ An asterisk denotes that a word has a coherent antonym.
 (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
 (N): Planet; Earth.
 (N): Moon.
-(N): Star; sun.
+Pada (N): Star; sun.
 (N): World.
 
 > TIME (TA-)
 
-(N): Time.
-(P*): After; since.
-(P*): While; during.
+Tata (N): Time.
+Taso (P*): After; since.
+Tapi (P*): While; during.
 (P): Until.
 (D): Soon.
 (D): Recent; just.
@@ -119,34 +119,34 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Temporary.
 (N): Minute.
 (N): Hour.
-(N): Day; a period of 24 hours.
+Tadi (N): Day; a period of 24 hours.
 (N*): Day; the time when the sun is in the sky.
-(N): Week.
-(N): Month.
-(N): Year.
-(N): Season.
+Tade (N): Week.
+Tada (N): Month.
+Tado (N): Season.
+Tadu (N): Year.
 
 > GEOMETRY (GE-)
 
-(N): Shape; form; figure; structure.
-(N): Rectangle; square.
-(N): Circle; oval.
-(N): Prism; block; box; cylinder.
-(N): Ball; sphere.
+Gega (N): Shape; form; figure; structure.
+Gesu (N): Rectangle; square.
+Geso (N): Circle; oval.
+Gegu (N): Prism; block; box; cylinder.
+Gego (N): Ball; sphere.
 (N): Pipe; tube.
-(N): Wave.
+Gebu (N): Wave.
 (N): Bump; lump; pile; mound; heap.
 (N): Net; mesh; network; web.
-(N): Corner; vertex; point.
-(N): Edge; line.
-(N): Area of a surface; region; zone.
-(N): Volume; amount of space.
+Geki (N): Corner; vertex; point.
+Geke (N): Edge; line.
+Geka (N): Area of a surface; region; zone.
+Geku (N): Volume; amount of space.
 (N): Range; span; length; interval; distance.
 (N): Border; outline; frame; profile.
 (N): Surface; side; face; skin.
 (N): Side; neither the top nor the bottom.
 (N*): Top; peak.
-(N): Hole; cavity.
+Gete (N): Hole; cavity.
 (N): Space; gap.
 (D*): Long; tall.
 (D*): Wide; broad.
@@ -155,9 +155,9 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Curved; round.
 (D): Flat.
 (D): Tapered.
-(D*): Bumpy; rough.
+Geza (D*): Bumpy; rough.
 (D*): Sharp; pointy.
-(D*): Split; divide; tear; rip; break; crack; snap.
+Gedi (D*): Split; divide; tear; rip; break; crack; snap.
 (V*): Connect to; join; attach; mechanically link to.
 (V*): Tie a string; sew; stitch.
 (V): Reach; access.
@@ -167,29 +167,29 @@ An asterisk denotes that a word has a coherent antonym.
 
 > STIMULI (BE-)
 
-(V): Feel; sense; detect; perceive; witness.
-(N*): Light.
+Beki (V): Feel; sense; detect; perceive; witness.
+Bebi (N*): Light.
 (V): See.
 (V): Look at; watch; view; examine; inspect; observe.
 (V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
-(D*): Bright; light.
+Bezu (D*): Bright; light.
 (D*): Saturated; vibrant.
 (D): Flash; blink; sparkle; glimmer.
-(N): Color.
-(D): Red.
-(D): Orange.
-(D): Yellow.
-(D): Green.
-(D): Blue.
-(D): Purple.
-(D): White.
-(D): Black.
-(D): Gray.
+Bebe (N): Color.
+Besa (D): Red.
+Beta (D): Orange.
+Bete (D): Yellow.
+Bede (D): Green.
+Bedo (D): Blue.
+Beso (D): Purple.
+Bege (D): White.
+Bega (D): Black.
+Bego (D): Gray.
 (N): Sound; noise.
 (V): Hear.
 (V): Listen.
 (D*): Loud; noisy.
-(D*): High pitched.
+Besi (D*): High pitched.
 (N): Buzz; hum.
 (N): Beep; chirp.
 (N): Click; tick.
@@ -204,8 +204,8 @@ An asterisk denotes that a word has a coherent antonym.
 
 > MOVEMENT (TE-)
 
-(V*): Move; cause to go.
-(V*): Put; place; add.
+Tepo (V*): Move; cause to go.
+Teko (V*): Put; place; add.
 (V): Carry; bring; transport; deliver; fetch.
 (V*): Raise; lift.
 (V): Send; submit; transmit.
@@ -213,7 +213,7 @@ An asterisk denotes that a word has a coherent antonym.
 (V): Follow; pursue.
 (V*): Enter; go in.
 (D): Walk; run.
-(D): Reflect; deflect; bounce.
+Tebu (D): Reflect; deflect; bounce.
 (D): Fall; drop; collapse; pour; spill.
 (D): Fly.
 (D): Slide; glide; slip.
@@ -224,21 +224,21 @@ An asterisk denotes that a word has a coherent antonym.
 (V*): Spin; turn; cause to rotate; tip; twist.
 (N): Path; way; route; channel; course.
 (N): Speed; rate; pace.
-(D*): Fast; quick; rapid.
+Teta (D*): Fast; quick; rapid.
 (D*): Stable; steady.
 
 > FORCE (BA-)
 
-(N): Force.
-(N): Gravity; weight.
-(N): Contact; touch.
-(N): Magnetism.
-(N): Electricity.
-(N): Friction.
-(V*): Push; press; shove.
+Babu (N): Force.
+Babo (N): Gravity; weight.
+Babi (N): Contact; touch.
+Baba (N): Magnetism.
+Bapa (N): Electricity.
+Baku (N): Friction.
+Bade (V*): Push; press; shove.
 (V*): Squeeze; compress.
-(V): Hold; support; grab.
-(V): Bond to; stick to.
+Bapo (V): Hold; support; grab.
+Bapu (V): Bond to; stick to.
 (V): Cut; chop; shear; slice.
 (V): Hit; beat; strike; crash; knock.
 (V): Brush; comb; sweep.
@@ -249,20 +249,20 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Bend; fold.
 (D*): Explode; pop; burst.
 (D): Hang.
-(N): Energy; power.
+Badi (N): Energy; power.
 (D*): Strong; fit; powerful; tough; sturdy, durable.
 
 > EXISTENCE AND IDENTITY (SA-)
 
-(N): Identity.
-(N): Object; item; physical entity.
-(N): Mass; matter.
+Sage (N): Identity.
+Sabo (N): Object; item; physical entity.
+Sabu (N): Mass; matter.
 (N): Event; incident.
-(D): Happen; occur.
+Saba (D): Happen; occur.
 (D): Specifies the object to which a clause is referring. The default object is the primary object.
-(D*): Exact; precise; particular; specific; certain; definite.
+Saki (D*): Exact; precise; particular; specific; certain; definite.
 (D): Any.
-(D): Which; interrogative identity.
+Sazi (D): Which; interrogative identity.
 (N): Name; title.
 (N): Example; sample; instance; model.
 (D): Copy; duplicate; replicate; repeat; multiply.
@@ -272,42 +272,42 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Possible; can; able to happen; capable of happening.
 (N): Probability; chance; luck; odds; prospect.
 (D*): Probably; likely.
-(D): May; might; maybe; perhaps.
-(D*): Start; begin; initiate; launch; proceed.
-(V*): Start; cause to begin; initiate; launch; proceed.
-(D): Complete; finished; be accomplished; be achieved; conclude.
-(V): Complete; finish; accomplish; achieve; conclude.
+Sadi (D): May; might; maybe; perhaps.
+Sati (D*): Start; begin; initiate; launch; proceed.
+Safi (V*): Start; cause to begin; initiate; launch; proceed.
+Sato (D): Complete; finished; be accomplished; be achieved; conclude.
+Safo (V): Complete; finish; accomplish; achieve; conclude.
 (V*): Become; start to be.
 
 > INFORMATION AND COMMUNICATION (KA-)
 
-(N): Concept; idea; information; data; signal; notion.
+Kaka (N): Concept; idea; information; data; signal; notion.
 (N): Story; tale; rumor; plot.
 (N): Science.
 (D*): Sure; confident; certain; indeed; definitely.
-(V): Mean; signify; imply; indicate; represent; be a symbol for.
-(V): Think about; process; calculate; compute; analyze; imagine.
-(V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
-(V*): Have the opinion that; think; suppose; believe.
+Kako (V): Mean; signify; imply; indicate; represent; be a symbol for.
+Kake (V): Think about; process; calculate; compute; analyze; imagine.
+Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
+Kape (V*): Have the opinion that; think; suppose; believe.
 (V*): Understand; comprehend.
 (V): Recall; remember; recollect.
 (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
-(V*): Focus on; notice; pay attention to; concentrate on.
+Kata (V*): Focus on; notice; pay attention to; concentrate on.
 (V*): Learn; study; research; investigate.
 (V): Teach; instruct; educate; lecture.
 (V*): Search for; look for; hunt for; seek; try to find.
 (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
 (V): Communicate; state; claim; tell; discuss; express; inform.
-(V): Say; speak; talk; communicate verbally.
+Kasa (V): Say; speak; talk; communicate verbally.
 (V): Call.
-(V): Ask; inquire.
+Kazi (V): Ask; inquire.
 (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
 (V*): Approve; verify; confirm; praise; support; agree with; concur.
 (V): Describe; explain; report.
 (V): Announce; declare; warn; alert; alarm; advertise.
-(N): Word; term.
+Kabo (N): Word; term.
 (N): Sentence.
 (N): Language.
 (N*): Hello; hi; salutation; greeting; welcome.
@@ -315,22 +315,22 @@ An asterisk denotes that a word has a coherent antonym.
 
 > GOAL (GA-)
 
-(N*): Goal; target; project; task; assignment; mission; objective.
-(P*): For; in order to.
-(D*): Good.
+Gago (N*): Goal; target; project; task; assignment; mission; objective.
+Gako (P*): For; in order to.
+Gagi (D*): Good.
 (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
-(D*): Valuable; important; critical; crucial; major; serious; significant; vital.
+Gake (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
 (D*): Useful; helpful; convenient; handy.
 (D*): Ready; prepared.
-(V*): Want; hope for; wish for; desire.
-(V*): Need; require; must.
-(V): Choose; decide; pick; commit; elect; select; vote for.
-(V): Use; utilize; employ.
-(V*): Try; attempt.
+Gapa (V*): Want; hope for; wish for; desire.
+Gaba (V*): Need; require; must.
+Gage (V): Choose; decide; pick; commit; elect; select; vote for.
+Gato (V): Use; utilize; employ.
+Gatu (V*): Try; attempt.
 (V*): Win; succeed at; defeat; beat; dominate.
 (V*): Help do something; serve; support; assist; aid.
 (N): Purpose; point; reason for existing; role; justification.
-(N): Plan; intention; scheme; strategy; design.
+Gagu (N): Plan; intention; scheme; strategy; design.
 (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
 (N*): Mistake; error; accident.
 (N*): Garbage; trash; pollution.
@@ -338,7 +338,7 @@ An asterisk denotes that a word has a coherent antonym.
 
 > FEELING WITH VALUE (FE-)
 
-(N): Emotion; mood.
+Feku (N): Emotion; mood.
 (N*): Pain; ache.
 (D*): Happy; glad; content.
 (D*): Comfortable.
@@ -346,14 +346,14 @@ An asterisk denotes that a word has a coherent antonym.
 (D*): Nervous; anxious; worried; stressed.
 (D*): Guilty; shameful; sorry; embarrassed.
 (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
-(V*): Enjoy; like; love; appreciate; be appealed by; prefer.
+Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Care about; have concern for; worry about; respect.
 (V*): Annoy; irritate; bother; disturb.
 (V*): Scare; frighten; startle.
 (V*): Excite; make eager.
 (V*): Surprise; amaze; shock.
 (V*): Interest; fascinate.
-(V*): Entertain; be fun to; be funny to.
+Fedo (V*): Entertain; be fun to; be funny to.
 (V): Play.
 (V): Laugh at.
 (N): Game; sport.
