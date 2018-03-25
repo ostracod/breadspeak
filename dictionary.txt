@@ -1,8 +1,6 @@
 
 BREADSPEAK DICTIONARY
 
-NOTE: Right now this is just a list of definitions. The next step is to assign a word spelling to each definition.
-
 Parts of speech abbreviations:
 
 (N) = Noun
@@ -309,7 +307,7 @@ Kazi (V): Ask; inquire.
 (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
 (N): Sentence.
-(N): Language.
+Kase (N): Language.
 (N*): Hello; hi; salutation; greeting; welcome.
 (N): Thank you; thanks; gratitude.
 
@@ -363,50 +361,50 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 > LIFE (PE-)
 
-(D*): Alive; living.
+Pepi (D*): Alive; living.
 (N*): Nature.
 (N): Body.
-(D*): Healthy.
+Pegi (D*): Healthy.
 (D): Be born.
 (D): Decompose; decay; rot.
 (N): Baby; infant.
 (N): Child; kid; teenager; adolescent.
 (N): Adult.
 (N): Gender.
-(D): Male.
-(D): Female.
-(N): Fungus.
-(N): Plant.
-(N): Seed; bean; nut.
+Pezu (D): Male.
+Pezi (D): Female.
+Pepo (N): Fungus.
+Pepa (N): Plant.
+Peti (N): Seed; bean; nut.
 (N): Tree.
-(N): Grass.
-(N): Animal; creature.
+Pede (N): Grass.
+Pepe (N): Animal; creature.
 (N): Egg.
-(N): Mammal.
-(N): Person; human.
+Peda (N): Mammal.
+Peka (N): Person; human.
 (N): Dog.
 (N): Cat.
 (N): Cow.
 (N): Pig.
 (N): Sheep.
-(N): Bird.
+Pebe (N): Bird.
 (N): Chicken.
-(N): Reptile; amphibian.
+Peza (N): Reptile; amphibian.
 (N): Fish.
-(N): Arthropod.
-(N): Mollusk.
+Pesa (N): Arthropod.
+Pega (N): Mollusk.
 (D*): Sleep.
 (V): Breathe; inhale; exhale.
 (V): Have sex with.
 
 > PARTS (DA-)
 
-(N): Part; piece; component; element; factor; section.
-(N): Land; ground.
+Dagi (N): Part; piece; component; element; factor; section.
+Dadu (N): Land; ground.
 (N): Ocean; sea; lake; pond.
 (N): River; stream.
 (N): Hill; mountain.
-(N): Sky.
+Dape (N): Sky.
 (N): Room; chamber.
 (N): Wall.
 (N): Floor.
@@ -419,18 +417,18 @@ Fedo (V*): Entertain; be fun to; be funny to.
 (N): Button; key; switch.
 (N): Knob; handle.
 (N): Rod; pole; axle; track; rail; bar; prong.
-(N): Torso; trunk.
-(N): Head.
+Dazo (N): Torso; trunk.
+Daku (N): Head.
 (N): Face of a person or animal.
 (N): Mouth.
 (N): Eye.
-(N): Appendage; limb; branch; arm; leg; neck.
+Dagu (N): Appendage; limb; branch; arm; leg; neck.
 (N): Finger; toe; stick.
-(N): Leaf.
-(N): Hand.
-(N): Foot.
-(N): Hair; fur; feather.
-(N): Organ.
+Dasu (N): Leaf.
+Dabu (N): Hand.
+Date (N): Foot.
+Dada (N): Hair; fur; feather.
+Daga (N): Organ.
 (N): Cell; part of an organism.
 (N): Atom.
 (N): Proton.
@@ -439,40 +437,40 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 > MATERIALS (VE-)
 
-(N): Material; substance.
-(N): Solid.
-(N): Liquid.
-(N): Gas; material in a gaseous state.
-(N): Water.
+Vepu (N): Material; substance.
+Vepo (N): Solid.
+Vepi (N): Liquid.
+Vepe (N): Gas; material in a gaseous state.
+Vedo (N): Water.
 (N): Air; atmosphere.
-(N): Fire; flame.
-(N): Cloud; steam; smoke.
-(N): Rock; stone.
-(N): Sand.
-(N): Metal.
+Veda (N): Fire; flame.
+Vege (N): Cloud; steam; smoke.
+Veta (N): Rock; stone.
+Veba (N): Sand.
+Veto (N): Metal.
 (N): Gem; crystal; jewel.
-(N): Soil; dirt.
+Vedu (N): Soil; dirt.
 (N): Clay; dough.
 (N): Cotton.
-(N): Rubber.
+Vebu (N): Rubber.
 (N): Fat.
 (N): Blood.
 (N): Bone.
 (N): Lumber; wood.
-(N): Paper.
-(N): Cloth.
-(N): Oil.
-(N): Plastic.
+Vepa (N): Paper.
+Veza (N): Cloth.
+Vedi (N): Oil.
+Veti (N): Plastic.
 (N): Asphalt; tar.
-(N): Ceramic; cement.
-(N): Glass.
+Vete (N): Ceramic; cement.
+Vebi (N): Glass.
 (N): Rain; snow; precipitation.
 (N*): Acid; acidic liquid.
 (N*): Medicine; drug.
 (N): Soap.
-(N): Powder; dust.
-(N): Foam; sponge.
-(D*): Flexible; soft.
+Vebe (N): Powder; dust.
+Vede (N): Foam; sponge.
+Vega (D*): Flexible; soft.
 (D*): Clear; transparent; obvious.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
@@ -480,55 +478,55 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 > QUANTITY (SE-)
 
-(N): Quantity; amount; number; proportion.
-(N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
+Seku (N): Quantity; amount; number; proportion.
+Seka (N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
 (N): Limit; constraint; boundary; restriction.
-(D): Plural; more than one; several; some.
-(D*): Many; a lot; often; frequent; numerous.
-(D*): Every; all; each.
-(D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
+Seko (D): Plural; more than one; several; some.
+Sezu (D*): Many; a lot; often; frequent; numerous.
+Seda (D*): Every; all; each.
+Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
 (D*): Most; the majority; almost all.
 (D): Again; another time.
 (D): Only; just; alone; unique; sole.
 (D): Also; too.
-(P*): Add a number.
-(P*): Multiply a number.
+Sede (P*): Add a number.
+Sepi (P*): Multiply a number.
 (P*): Exponentiate a number.
 (P*): Multiply by ten raised to a number.
 (D*): Negative; less than zero.
-(Numeric): Zero; no; none.
-(Numeric): One; single; individual.
-(Numeric): Two; a couple of.
-(Numeric): Three.
-(Numeric): Four.
-(Numeric): Five.
-(Numeric): Six.
-(Numeric): Seven.
-(Numeric): Eight.
-(Numeric): Nine.
+Setu (Numeric): Zero; no; none.
+Seto (Numeric): One; single; individual.
+Seta (Numeric): Two; a couple of.
+Sete (Numeric): Three.
+Seti (Numeric): Four.
+Sesu (Numeric): Five.
+Seso (Numeric): Six.
+Sesa (Numeric): Seven.
+Sese (Numeric): Eight.
+Sesi (Numeric): Nine.
 (Numeric): Decimal point.
 
 > EXTENT AND ACTION (DE-)
 
-(N): Extent; degree.
-(D*): More; having a greater degree.
-(D*): Most; having the greatest degree.
-(D*): Total; complete; full; whole; entire; thorough.
-(D*): Enough; sufficient; adequate.
+Dede (N): Extent; degree.
+Deko (D*): More; having a greater degree.
+Deda (D*): Most; having the greatest degree.
+Deto (D*): Total; complete; full; whole; entire; thorough.
+Dego (D*): Enough; sufficient; adequate.
 (D): Extra; spare.
-(D): Too much; excessive.
+Desu (D): Too much; excessive.
 (D*): Extreme; radical; severe; intense.
 (D): As; to a certain extent; so.
-(D): Even.
-(D): Almost; nearly; virtually.
-(D): Opposite; inverse in meaning.
-(P): Relative to; with respect to; than.
-(N): Action; activity.
+Dedo (D): Even.
+Degi (D): Almost; nearly; virtually.
+Desa (D): Opposite; inverse in meaning.
+Deku (P): Relative to; with respect to; than.
+Tutu (N): Action; activity.
 (V*): Do; perform; participate in an action.
-(V): Respond to; react.
-(V): Wait for.
+Desi (V): Respond to; react.
+Deta (V): Wait for.
 (V): Bear; withstand; endure; suffer; stand; cope with; last.
-(V): Act upon; affect; influence.
+Dedu (V): Act upon; affect; influence.
 (V): Interrupt; interfere.
 (D): Act; perform; behave.
 
@@ -536,21 +534,21 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 (N): Order; organization; arrangement; configuration.
 (V*): Organize; order; sort; arrange.
-(D): Ranked; converts a cardinal number to an ordinal number.
+Zeku (D): Ranked; converts a cardinal number to an ordinal number.
 (D*): First; initial; original.
 (N*): Start; beginning; first part.
 (D*): Next; following.
-(N): Group; bunch; combination; set.
+Zegu (N): Group; bunch; combination; set.
 (N): List; sequence; series; queue.
 (N): Member; individual of a group.
-(N): System; process.
+Zese (N): System; process.
 (D*): Main; chief; principal; primary; capital.
-(P): Of; pertaining to; related to; having a conceptual connection with.
+Zede (P): Of; pertaining to; related to; having a conceptual connection with.
 (P): About; having a subject; having a topic.
-(P): If; under the condition that.
-(D*): But; however; although; despite.
+Zeko (P): If; under the condition that.
+Zesa (D*): But; however; although; despite.
 (P*): With; along with; accompanied by.
-(V): Have; own; possess.
+Zepa (V): Have; own; possess.
 (V*): Give; contribute; donate; transfer; grant; provide; supply.
 (V*): Get; receive; acquire; gain; obtain.
 (V): Meet; encounter.
@@ -559,7 +557,7 @@ Fedo (V*): Entertain; be fun to; be funny to.
 (P): Instead of; on behalf of; in place of.
 (N*): Friend; buddy.
 (N): Family.
-(V*): Marry.
+Zeta (V*): Marry.
 (N*): Parent.
 (N): Spouse.
 (N): Sibling.
@@ -567,23 +565,23 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 > QUALITY (KE-)
 
-(N): Quality; characteristic; attribute.
+Keke (N): Quality; characteristic; attribute.
 (N): Category; kind; sort; type.
-(N): Manner; method; way; mechanism; technique.
+Ketu (N): Manner; method; way; mechanism; technique.
 (N): Pattern; trend.
 (N): Style; fashion; aesthetic.
 (N): Culture; ethnicity.
-(N): State; status; mode; phase; stage.
+Keta (N): State; status; mode; phase; stage.
 (N): Weather; climate.
-(P*): Like; similar to; having a quality pertaining to.
-(P): By means of; having a manner pertaining to; in accordance with; as though; as if.
+Kezu (P*): Like; similar to; having a quality pertaining to.
+Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
 (D): Change; become different; transform.
 (V): Change; alter; convert; cause to become different.
 (V*): Seem like; appear to be; look like; sound like.
 (V*): Fix; heal; repair; solve; resolve.
-(D*): Hot; warm.
+Keda (D*): Hot; warm.
 (D*): Wet; damp; moist.
-(D*): Clean.
+Kedu (D*): Clean.
 (D*): Safe; secure.
 (D*): Simple; easy; basic; plain.
 (D*): Nice; kind; generous; polite.
@@ -596,19 +594,19 @@ Fedo (V*): Entertain; be fun to; be funny to.
 (D*): Crazy; mad; wild; ridiculous; silly.
 (D*): Careful; alert; prudent; cautious; gentle; responsible.
 (D*): Clever; smart; intelligent.
-(D*): Logical; reasonable.
-(D*): Creative.
+Kegi (D*): Logical; reasonable.
+Keza (D*): Creative.
 
 > TECHNOLOGY AND MEDIA (ZA-)
 
-(N): Tool; utensil; instrument; device; equipment.
-(N): Machine.
-(N*): Outlet; spout; dispenser.
+Zato (N): Tool; utensil; instrument; device; equipment.
+Zase (N): Machine.
+Zako (N*): Outlet; spout; dispenser.
 (N): Lever.
 (N): String; thread; lace; rope; wire; cable.
 (N): Tape; ribbon; belt; band; strip.
 (N): Key; for locking and unlocking.
-(N): Building.
+Zazu (N): Building.
 (N): Road; street.
 (N): Vehicle.
 (D*): On; active; operating; functioning; have the capacity to work.
@@ -617,21 +615,21 @@ Fedo (V*): Entertain; be fun to; be funny to.
 (N): Phone; telephone.
 (N): Program; application; software; code.
 (N): Web; internet.
-(N): Clothing; clothes.
+Zaza (N): Clothing; clothes.
 (V): Wear clothing.
 (N): Furniture.
 (N): Table.
 (N): Bath; basin; tub; shower; sink; toilet.
-(N): Bag; pocket; sack.
-(N): Container; package; case.
+Zasu (N): Bag; pocket; sack.
+Zapi (N): Container; package; case.
 (N): Bowl; cup; bucket; basket; bin; pot.
-(V*): Open.
+Zate (V*): Open.
 (D*): Full; with no space remaining.
 (V*): Cover; wrap.
 (V*): Lock.
-(V*): Write; draw.
+Zabi (V*): Write; draw.
 (V): Read.
-(N): Image; picture; photo; appearance.
+Zaka (N): Image; picture; photo; appearance.
 (N): Mark.
 (N): Symbol; letter; digit; character.
 (N): Text; script.
@@ -644,38 +642,38 @@ Fedo (V*): Entertain; be fun to; be funny to.
 
 (N): Country; nation; state; territory.
 (N): Town; village; city.
-(N): Money; currency.
+Vape (N): Money; currency.
 (N): Price; cost; fee.
 (V*): Pay; give money; spend.
 (V*): Buy; purchase.
 (N): Shop; store.
 (N): Company; business; enterprise.
 (N): Job; occupation; career; duty; responsibility; profession.
-(V): Work on; operate; function; do something productive.
+Vadi (V): Work on; operate; function; do something productive.
 (V): Practice; exercise; train.
 (D*): Busy; preoccupied; engaged.
 (D*): Rest; relax.
-(D*): Imperative; please.
+Vaku (D*): Imperative; please.
 (V): Control; drive; manage; operate; regulate.
 (V*): Capture; trap.
 (V): Suggest; recommend; advise; direct; guide; lead; propose.
-(V*): Let; allow; permit.
+Vagi (V*): Let; allow; permit.
 (V*): Demand; request; ask for; order; command.
 (V*): Fight; attack; compete with; battle.
 (N): Government; authority; committee; council; regime.
-(N): Rule; regulation; law; policy.
+Vaka (N): Rule; regulation; law; policy.
 (N): Religion.
-(D*): Should; ought to.
+Vatu (D*): Should; ought to.
 (D*): Fair; just; right.
 (D*): Free.
 
 > FOOD (FA-)
 
-(N): Food; fuel.
+Fadi (N): Food; fuel.
 (N): Drink; beverage.
 (N): Dessert; treat; candy.
 (N): Vegetable.
-(N): Fruit.
+Fasi (N): Fruit.
 (N): Potato.
 (N): Grain.
 (N): Rice.
@@ -685,7 +683,7 @@ Fedo (V*): Entertain; be fun to; be funny to.
 (N): Meat; flesh; muscle.
 (N): Sugar.
 (N): Salt.
-(N): Bread; cake; pastry.
+Fade (N): Bread; cake; pastry.
 (N): Coffee.
 (N): Milk.
 (N): Pasta.
