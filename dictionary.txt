@@ -83,7 +83,7 @@ Pazo (N): Middle; center.
 (P): Between; among; within.
 (D*): Together.
 (V): Keep; store; preserve; retain; save.
-Dapu (P): Through.
+Papu (P): Through.
 (P): Across.
 (P): Parallel to; along.
 (P): Perpendicular to.
@@ -521,7 +521,7 @@ Dedo (D): Even.
 Degi (D): Almost; nearly; virtually.
 Desa (D): Opposite; inverse in meaning.
 Deku (P): Relative to; with respect to; than.
-Tutu (N): Action; activity.
+Detu (N): Action; activity.
 (V*): Do; perform; participate in an action.
 Desi (V): Respond to; react.
 Deta (V): Wait for.

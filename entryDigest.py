@@ -87,8 +87,12 @@ def countEntriesCommand():
     readDictionaryFile()
     categoryList.sort(compareCategoriesByEntryCount)
     tempTotal = 0
+    tempWordCount = 0
     for category in categoryList:
         tempName = category.name
+        for entry in category.entryList:
+            if entry.word is not None:
+                tempWordCount += 1
         tempCount = len(category.entryList)
         tempText = tempName + ": " + str(tempCount)
         tempText2 = "*" * tempCount
@@ -99,7 +103,8 @@ def countEntriesCommand():
                 tempText2 += " "
         print leftPad(tempText, 35) + " " + tempText2
         tempTotal += tempCount
-    print "Total word count: " + str(tempTotal)
+    print "Total entry count: " + str(tempTotal)
+    print "Number of entries with words: " + str(tempWordCount)
     print "Number of categories: " + str(len(categoryList))
 
 def categorySyllablesCommand():
@@ -114,14 +119,15 @@ def categorySyllablesCommand():
             print tempText + ": No category syllable"
         else:
             print tempText + ": " + tempSyllable + "-"
-        if tempSyllable is not None:
-            if tempSyllable in tempUnusedSyllableList:
-                tempUnusedSyllableList.remove(tempSyllable)
-            if tempSyllable in tempUsedSyllableList:
-                if tempSyllable not in tempDuplicateSyllableList:
-                    tempDuplicateSyllableList.append(tempSyllable)
-            else:
-                tempUsedSyllableList.append(tempSyllable)
+        if tempSyllable is None:
+            continue
+        if tempSyllable in tempUnusedSyllableList:
+            tempUnusedSyllableList.remove(tempSyllable)
+        if tempSyllable in tempUsedSyllableList:
+            if tempSyllable not in tempDuplicateSyllableList:
+                tempDuplicateSyllableList.append(tempSyllable)
+        else:
+            tempUsedSyllableList.append(tempSyllable)
     print "Unused category syllables:"
     print tempUnusedSyllableList
     print "Used category syllables:"
@@ -150,14 +156,15 @@ def categoryWordsCommand(syllable):
             tempUnusedWordList.append(syllable + consonant + vowel)
     for entry in category.entryList:
         tempWord = entry.word
-        if tempWord is not None:
-            if tempWord in tempUnusedWordList:
-                tempUnusedWordList.remove(tempWord)
-            if tempWord in tempUsedWordList:
-                if tempWord not in tempDuplicateWordList:
-                    tempDuplicateWordList.append(tempWord)
-            else:
-                tempUsedWordList.append(tempWord)
+        if tempWord is None:
+            continue
+        if tempWord in tempUnusedWordList:
+            tempUnusedWordList.remove(tempWord)
+        if tempWord in tempUsedWordList:
+            if tempWord not in tempDuplicateWordList:
+                tempDuplicateWordList.append(tempWord)
+        else:
+            tempUsedWordList.append(tempWord)
     tempUnusedWordList.sort()
     tempUsedWordList.sort()
     tempDuplicateWordList.sort()
@@ -175,14 +182,31 @@ def duplicateWordsCommand():
     for category in categoryList:
         for entry in category.entryList:
             tempWord = entry.word
-            if tempWord is not None:
-                if tempWord in tempUsedWordList:
-                    if tempWord not in tempDuplicateWordList:
-                        tempDuplicateWordList.append(tempWord)
-                else:
-                    tempUsedWordList.append(tempWord)
+            if tempWord is None:
+                continue
+            if tempWord in tempUsedWordList:
+                if tempWord not in tempDuplicateWordList:
+                    tempDuplicateWordList.append(tempWord)
+            else:
+                tempUsedWordList.append(tempWord)
     print "Duplicate words:"
     print tempDuplicateWordList
+
+def verifySyllablesCommand():
+    readDictionaryFile()
+    tempBadWordList = []
+    for category in categoryList:
+        if category.syllable is None:
+            continue
+        for entry in category.entryList:
+            tempWord = entry.word
+            if tempWord is None:
+                continue
+            tempSyllable = tempWord[0:2]
+            if category.syllable != tempSyllable:
+                tempBadWordList.append(tempWord)
+    print "Words with incorrect syllables:"
+    print tempBadWordList
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
@@ -191,6 +215,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " categorySyllables"
     print tempScriptPath + " categoryWords (syllable or \"none\")"
     print tempScriptPath + " duplicateWords"
+    print tempScriptPath + " verifySyllables"
     sys.exit(0)
 
 print "Entry Digest"
@@ -213,6 +238,8 @@ elif commandName == "categoryWords":
     categoryWordsCommand(tempSyllable)
 elif commandName == "duplicateWords":
     duplicateWordsCommand()
+elif commandName == "verifySyllables":
+    verifySyllablesCommand()
 else:
     printCliUsageAndQuit()
 
