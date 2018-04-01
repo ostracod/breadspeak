@@ -50,9 +50,9 @@ An asterisk denotes that a word has a coherent antonym.
 (D): Past tense.
 (D): Now; current.
 (D): Then.
-(D): True; real; actual; accurate; correct; yes; genuine.
-(D): False; not; no.
+(D): Not; no.
 (V): Be an instance of.
+(V): Have; own; possess.
 (V): Cause; create; because; build; construct; craft; establish; generate; produce.
 (V): Prevent; destroy.
 (P): In; inside; at.
@@ -264,6 +264,7 @@ Sazi (D): Which; interrogative identity.
 (N): Name; title.
 (N): Example; sample; instance; model.
 (D): Copy; duplicate; replicate; repeat; multiply.
+Sabi (D*): True; real; actual; accurate; correct; yes; genuine.
 (D): Does; interrogative truth.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
@@ -548,7 +549,6 @@ Zede (P): Of; pertaining to; related to; having a conceptual connection with.
 Zeko (P): If; under the condition that.
 Zesa (D*): But; however; although; despite.
 (P*): With; along with; accompanied by.
-Zepa (V): Have; own; possess.
 (V*): Give; contribute; donate; transfer; grant; provide; supply.
 (V*): Get; receive; acquire; gain; obtain.
 (V): Meet; encounter.
