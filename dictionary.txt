@@ -1,6 +1,8 @@
 
 BREADSPEAK DICTIONARY
 
+"$$$" denotes the place where I left off.
+
 Parts of speech abbreviations:
 
 (N) = Noun
@@ -15,57 +17,57 @@ An asterisk denotes that a word has a coherent antonym.
 
 > SINGLE SYLLABLE
 
-(Particle): Start of embedded clause; refers to the state, quality, action, or process of the verb.
-(Particle): End of embedded clause; refers to the state, quality, action, or process of the verb.
-(Particle): Precedes a single word; refers to the state, quality, action or process of the word.
-(Particle): Start of embedded clause; refers to the subject of the clause.
-(Particle): End of embedded clause; refers to the subject of the clause.
-(Particle): Precedes a single word; refers to the subject of the word.
-(Particle): Start of embedded clause; refers to the object of the clause.
-(Particle): End of embedded clause; refers to the object of the clause.
-(Particle): Precedes a single word; refers to the object of the word.
-(Particle): Start of sequence delimited by conjunctions.
-(Particle): End of sequence delimited by conjunctions.
-(Conjunction): And; both.
-(Conjunction): Or; either; one or both.
-(Conjunction): Xor; exactly one but not both.
-(N): I/me.
-(N): You.
-(N): We/us.
-(N): You all.
-(N): He/him.
-(N): She/her.
-(N): It.
-(N): They/them; genderless.
-(N): They/them; plural.
-(N): Self; refers to the subject of the containing clause.
-(N): Thing; the most general noun; stuff.
-(D): A not previously mentioned one; some.
-(D): The previously mentioned one.
-(D): This; a closer one.
-(D): That; a more distant one.
-(D): Here.
-(D): There.
-(D): Future tense.
-(D): Past tense.
-(D): Now; current.
-(D): Then.
-(D): Not; no.
-(V): Be an instance of.
-(V): Have; own; possess.
-(V): Cause; create; because; build; construct; craft; establish; generate; produce.
-(V): Prevent; destroy.
-(P): In; inside; at.
-(P); Out; outside.
-(P): To; toward.
-(P): From; away from.
-(D): Very; a lot; big; large; extensive; grand; quite.
-(D): Not a lot; a little; little; small.
-(D): Exist.
-(D): Equal; same.
-(D): Different; other; another.
-(D): Go; move; travel.
-(D): Stay; not move.
+Da (Particle): Start of embedded clause; refers to the state, quality, action, or process of the verb.
+Du (Particle): End of embedded clause; refers to the state, quality, action, or process of the verb.
+Do (Particle): Precedes a single word; refers to the state, quality, action or process of the word.
+Fa (Particle): Start of embedded clause; refers to the subject of the clause.
+Fu (Particle): End of embedded clause; refers to the subject of the clause.
+Fo (Particle): Precedes a single word; refers to the subject of the word.
+Va (Particle): Start of embedded clause; refers to the object of the clause.
+Vu (Particle): End of embedded clause; refers to the object of the clause.
+Vo (Particle): Precedes a single word; refers to the object of the word.
+Ga (Particle): Start of sequence delimited by conjunctions.
+Gu (Particle): End of sequence delimited by conjunctions.
+Ta (Conjunction): And; both.
+Po (Conjunction): Or; either; one or both.
+Pu (Conjunction): Xor; exactly one but not both.
+Ke (N): You.
+Ki (N): I/me.
+Be (N): You all.
+Bi (N): We/us.
+To (N): He/him.
+Go (N): She/her.
+Bo (N): It.
+Pe (N): They/them; genderless.
+Ko (N): They/them; plural.
+So (N): Self; refers to the subject of the containing clause.
+Su (N): Thing; the most general noun; stuff.
+Se (D): A not previously mentioned one; some.
+Si (D): The previously mentioned one.
+Fe (D): That; a more distant one.
+Fi (D): This; a closer one.
+Ve (D): There.
+Vi (D): Here.
+Ba (D): Future tense.
+Bu (D): Past tense.
+Ze (D): Then.
+Zi (D): Now; current.
+Tu (D): Not; no.
+Zo (V): Be an instance of.
+Pa (V): Have; own; possess.
+Ka (V): Cause; create; because; build; construct; craft; establish; generate; produce.
+Ku (V): Prevent; destroy.
+Pe (P); Out; outside.
+Pi (P): In; inside; at.
+De (P): From; away from.
+Di (P): To; toward.
+Za (D): Not a lot; a little; little; small.
+Zu (D): Very; a lot; big; large; extensive; grand; quite.
+Sa (D): Exist.
+Ge (D): Equal; same.
+Gi (D): Different; other; another.
+Te (D): Go; move; travel.
+Ti (D): Stay; not move.
 
 > POSITION AND ROTATION (PA-)
 
@@ -93,10 +95,10 @@ Papu (P): Through.
 (D*): North.
 (D*): East.
 (D): Back; toward the original location.
-(N): Home.
+Pagi (N): Home.
 (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
-(N): Planet; Earth.
-(N): Moon.
+Padu (N): Planet; Earth.
+Pape (N): Moon.
 Pada (N): Star; sun.
 (N): World.
 
@@ -106,19 +108,19 @@ Tata (N): Time.
 Taso (P*): After; since.
 Tapi (P*): While; during.
 (P): Until.
-(D): Soon.
-(D): Recent; just.
+Taki (D): Soon.
+Tafi (D): Recent; just.
 (D): Already.
 (D): Yet.
 (D): Still; not having changed; keep doing; continue.
 (D): Sudden; abrupt.
 (D*): New; young; fresh.
-(D*): Early.
+Tatu (D*): Early.
 (D*): Temporary.
 (N): Minute.
 (N): Hour.
 Tadi (N): Day; a period of 24 hours.
-(N*): Day; the time when the sun is in the sky.
+Tabi (N*): Day; the time when the sun is in the sky.
 Tade (N): Week.
 Tada (N): Month.
 Tado (N): Season.
@@ -131,10 +133,10 @@ Gesu (N): Rectangle; square.
 Geso (N): Circle; oval.
 Gegu (N): Prism; block; box; cylinder.
 Gego (N): Ball; sphere.
-(N): Pipe; tube.
+Gepu (N): Pipe; tube.
 Gebu (N): Wave.
 (N): Bump; lump; pile; mound; heap.
-(N): Net; mesh; network; web.
+Gese (N): Net; mesh; network; web.
 Geki (N): Corner; vertex; point.
 Geke (N): Edge; line.
 Geka (N): Area of a surface; region; zone.
@@ -143,7 +145,7 @@ Geku (N): Volume; amount of space.
 (N): Border; outline; frame; profile.
 (N): Surface; side; face; skin.
 (N): Side; neither the top nor the bottom.
-(N*): Top; peak.
+Gefa (N*): Top; peak.
 Gete (N): Hole; cavity.
 (N): Space; gap.
 (D*): Long; tall.
@@ -188,11 +190,11 @@ Bego (D): Gray.
 (V): Listen.
 (D*): Loud; noisy.
 Besi (D*): High pitched.
-(N): Buzz; hum.
-(N): Beep; chirp.
-(N): Click; tick.
-(N): Taste; flavor.
-(N): Smell; odor.
+Beze (N): Buzz; hum.
+Bepi (N): Beep; chirp.
+Beka (N): Click; tick.
+Bepu (N): Taste; flavor.
+Bepe (N): Smell; odor.
 (D): Sweet.
 (D): Sour.
 (D): Salty.
@@ -205,23 +207,23 @@ Besi (D*): High pitched.
 Tepo (V*): Move; cause to go.
 Teko (V*): Put; place; add.
 (V): Carry; bring; transport; deliver; fetch.
-(V*): Raise; lift.
+Tefa (V*): Raise; lift.
 (V): Send; submit; transmit.
 (V*): Come; go toward; arrive; approach.
 (V): Follow; pursue.
 (V*): Enter; go in.
 (D): Walk; run.
 Tebu (D): Reflect; deflect; bounce.
-(D): Fall; drop; collapse; pour; spill.
-(D): Fly.
+Tebo (D): Fall; drop; collapse; pour; spill.
+Tepe (D): Fly.
 (D): Slide; glide; slip.
-(D): Shower; spray.
+Tepi (D): Shower; spray.
 (D*): Spread; disperse.
 (D): Shake; vibrate; shiver.
-(D*): Spin; turn; rotate; tip; twist.
-(V*): Spin; turn; cause to rotate; tip; twist.
-(N): Path; way; route; channel; course.
-(N): Speed; rate; pace.
+Tedo (D*): Spin; turn; rotate; tip; twist.
+Tefo (V*): Spin; turn; cause to rotate; tip; twist.
+Tega (N): Path; way; route; channel; course.
+Teku (N): Speed; rate; pace.
 Teta (D*): Fast; quick; rapid.
 (D*): Stable; steady.
 
@@ -239,16 +241,18 @@ Bapo (V): Hold; support; grab.
 Bapu (V): Bond to; stick to.
 (V): Cut; chop; shear; slice.
 (V): Hit; beat; strike; crash; knock.
-(V): Brush; comb; sweep.
-(V): Rub; drag on; wipe; stroke.
+Bada (V): Brush; comb; sweep.
+Baza (V): Rub; drag on; wipe; stroke.
 (V): Scratch; scrape.
-(V*): Throw; toss.
+Bafa (V*): Throw; toss.
 (V): Shoot; fire.
-(D*): Bend; fold.
+Bado (D*): Bend; fold.
 (D*): Explode; pop; burst.
 (D): Hang.
 Badi (N): Energy; power.
-(D*): Strong; fit; powerful; tough; sturdy, durable.
+Bazu (D*): Strong; fit; powerful; tough; sturdy, durable.
+
+$$$
 
 > EXISTENCE AND IDENTITY (SA-)
 
