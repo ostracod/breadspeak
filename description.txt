@@ -100,6 +100,14 @@ The descriptor phrase describes the verb word. The verb word is of or pertaining
 
 A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed before a preposition or at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
-(More grammar coming soon. First I need to create concrete spellings of words.)
+A conjunction phrase consists of a sequence of phrases separated by conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A conjunction phrase behaves as the type of phrase it contains.
+
+A conjunction phrase may be enclosed by a start and end particle ("___" and "___"). If a conjunction phrase does not have these delimiters, it will incorporate the largest phrases possible in the clause.
+
+A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen.
+
+An embedded clause is enclosed by a start particle ("___", "___", or "___") and a corresponding end particle ("___", "___", or "___"). If these delimiters are at the start or end of a sentence, they may be excluded.
+
+If an embedded clause contains only one word, then it may be preceded by a singleton particle ("___", "___", or "___") instead of being enclosed by delimiting particles.
 
 
