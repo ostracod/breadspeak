@@ -252,68 +252,68 @@ Bado (D*): Bend; fold.
 Badi (N): Energy; power.
 Bazu (D*): Strong; fit; powerful; tough; sturdy, durable.
 
-$$$
-
 > EXISTENCE AND IDENTITY (SA-)
 
 Sage (N): Identity.
 Sabo (N): Object; item; physical entity.
 Sabu (N): Mass; matter.
-(N): Event; incident.
+Satu (N): Event; incident.
 Saba (D): Happen; occur.
 (D): Specifies the object to which a clause is referring. The default object is the primary object.
 Saki (D*): Exact; precise; particular; specific; certain; definite.
 (D): Any.
 Sazi (D): Which; interrogative identity.
-(N): Name; title.
+Saka (N): Name; title.
 (N): Example; sample; instance; model.
-(D): Copy; duplicate; replicate; repeat; multiply.
+Sako (D): Copy; duplicate; replicate; repeat; multiply.
 (D): Does; interrogative truth.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
 (D*): Possible; can; able to happen; capable of happening.
-(N): Probability; chance; luck; odds; prospect.
-(D*): Probably; likely.
+Saku (N): Probability; chance; luck; odds; prospect.
+Sazu (D*): Probably; likely.
 Sadi (D): May; might; maybe; perhaps.
 Sati (D*): Start; begin; initiate; launch; proceed.
 Safi (V*): Start; cause to begin; initiate; launch; proceed.
 Sato (D): Complete; finished; be accomplished; be achieved; conclude.
 Safo (V): Complete; finish; accomplish; achieve; conclude.
-(V*): Become; start to be.
+Sata (V*): Become; start to be.
 
 > INFORMATION AND COMMUNICATION (KA-)
 
 Kaka (N): Concept; idea; information; data; signal; notion.
-(N): Story; tale; rumor; plot.
-(N): Science.
-(D*): Sure; confident; certain; indeed; definitely.
+Katu (N): Story; tale; rumor; plot.
+Kagi (N): Science.
+Kaki (D*): Sure; confident; certain; indeed; definitely.
 Kako (V): Mean; signify; imply; indicate; represent; be a symbol for.
 Kake (V): Think about; process; calculate; compute; analyze; imagine.
 Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
 Kape (V*): Have the opinion that; think; suppose; believe.
-(V*): Understand; comprehend.
+Kadi (V*): Understand; comprehend.
 (V): Recall; remember; recollect.
-(V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
+Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
 Kata (V*): Focus on; notice; pay attention to; concentrate on.
-(V*): Learn; study; research; investigate.
+Kati (V*): Learn; study; research; investigate.
 (V): Teach; instruct; educate; lecture.
 (V*): Search for; look for; hunt for; seek; try to find.
-(V*): Find; discover; measure; determine.
+Kapo (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
 (V): Communicate; state; claim; tell; discuss; express; inform.
 Kasa (V): Say; speak; talk; communicate verbally.
 (V): Call.
 Kazi (V): Ask; inquire.
-(V): Answer; respond; reply.
+Kasi (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
 (V*): Approve; verify; confirm; praise; support; agree with; concur.
 (V): Describe; explain; report.
 (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
-(N): Sentence.
+Kagu (N): Sentence.
 Kase (N): Language.
 (N*): Hello; hi; salutation; greeting; welcome.
 (N): Thank you; thanks; gratitude.
+
+$$$
 
 > GOAL (GA-)
 
