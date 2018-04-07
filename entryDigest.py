@@ -241,6 +241,10 @@ def verifyAllCommand():
     readDictionaryFile()
     checkForDuplicateWords()
     verifyCategorySyllables()
+    tempTotal = 0
+    for category in categoryList:
+        tempTotal += len(category.entryList)
+    print "Total entry count: " + str(tempTotal)
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
