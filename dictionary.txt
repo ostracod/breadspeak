@@ -82,7 +82,7 @@ Pafa (D*): Up; high.
 Pabi (P*): On the surface of.
 Paki (P*): Near; close to; around; beside; by.
 Pazo (N): Middle; center.
-(P): Between; among; within.
+Papi (P): Between; among; within.
 (D*): Together.
 (V): Keep; store; preserve; retain; save.
 Papu (P): Through.
@@ -114,9 +114,9 @@ Tafi (D): Recent; just.
 (D): Yet.
 (D): Still; not having changed; keep doing; continue.
 (D): Sudden; abrupt.
-(D*): New; young; fresh.
+Taza (D*): New; young; fresh.
 Tatu (D*): Early.
-(D*): Temporary.
+Tate (D*): Temporary.
 (N): Minute.
 (N): Hour.
 Tadi (N): Day; a period of 24 hours.
@@ -147,7 +147,7 @@ Geku (N): Volume; amount of space.
 (N): Side; neither the top nor the bottom.
 Gefa (N*): Top; peak.
 Gete (N): Hole; cavity.
-(N): Space; gap.
+Gepe (N): Space; gap.
 (D*): Long; tall.
 (D*): Wide; broad.
 (D*): Thick in a geometric sense; deep; fat.
@@ -209,7 +209,7 @@ Teko (V*): Put; place; add.
 (V): Carry; bring; transport; deliver; fetch.
 Tefa (V*): Raise; lift.
 (V): Send; submit; transmit.
-(V*): Come; go toward; arrive; approach.
+Tedi (V*): Come; go toward; arrive; approach.
 (V): Follow; pursue.
 (V*): Enter; go in.
 (D): Walk; run.
@@ -218,7 +218,7 @@ Tebo (D): Fall; drop; collapse; pour; spill.
 Tepe (D): Fly.
 (D): Slide; glide; slip.
 Tepi (D): Shower; spray.
-(D*): Spread; disperse.
+Tede (D*): Spread; disperse.
 (D): Shake; vibrate; shiver.
 Tedo (D*): Spin; turn; rotate; tip; twist.
 Tefo (V*): Spin; turn; cause to rotate; tip; twist.
