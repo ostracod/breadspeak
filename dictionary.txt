@@ -313,8 +313,6 @@ Kase (N): Language.
 (N*): Hello; hi; salutation; greeting; welcome.
 (N): Thank you; thanks; gratitude.
 
-$$$
-
 > GOAL (GA-)
 
 Gago (N*): Goal; target; project; task; assignment; mission; objective.
@@ -331,9 +329,9 @@ Gato (V): Use; utilize; employ.
 Gatu (V*): Try; attempt.
 (V*): Win; succeed at; defeat; beat; dominate.
 (V*): Help do something; serve; support; assist; aid.
-(N): Purpose; point; reason for existing; role; justification.
+Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
-(N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
+Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
 (N*): Mistake; error; accident.
 (N*): Garbage; trash; pollution.
 (N*): Prize; reward; award; bonus; treat; present; gift.
@@ -342,12 +340,12 @@ Gagu (N): Plan; intention; scheme; strategy; design.
 
 Feku (N): Emotion; mood.
 (N*): Pain; ache.
-(D*): Happy; glad; content.
-(D*): Comfortable.
-(D*): Angry; mad.
+Fegi (D*): Happy; glad; content.
+Fega (D*): Comfortable.
+Feda (D*): Angry; mad.
 (D*): Nervous; anxious; worried; stressed.
-(D*): Guilty; shameful; sorry; embarrassed.
-(D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
+Fetu (D*): Guilty; shameful; sorry; embarrassed.
+Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Care about; have concern for; worry about; respect.
 (V*): Annoy; irritate; bother; disturb.
@@ -357,11 +355,11 @@ Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Interest; fascinate.
 Fedo (V*): Entertain; be fun to; be funny to.
 (V): Play.
-(V): Laugh at.
+Fefa (V): Laugh at.
 (N): Game; sport.
 (N): Party; festival; celebration; ceremony.
-(N): Art.
-(N): Music; song; tune.
+Febo (N): Art.
+Fesa (N): Music; song; tune.
 
 > LIFE (PE-)
 
@@ -370,7 +368,7 @@ Pepi (D*): Alive; living.
 (N): Body.
 Pegi (D*): Healthy.
 (D): Be born.
-(D): Decompose; decay; rot.
+Peku (D): Decompose; decay; rot.
 (N): Baby; infant.
 (N): Child; kid; teenager; adolescent.
 (N): Adult.
@@ -405,21 +403,21 @@ Pega (N): Mollusk.
 
 Dagi (N): Part; piece; component; element; factor; section.
 Dadu (N): Land; ground.
-(N): Ocean; sea; lake; pond.
+Dapi (N): Ocean; sea; lake; pond.
 (N): River; stream.
 (N): Hill; mountain.
 Dape (N): Sky.
-(N): Room; chamber.
+Dazu (N): Room; chamber.
 (N): Wall.
 (N): Floor.
-(N): Window.
+Dabi (N): Window.
 (N): Door; gate.
 (N): Stair; step.
-(N): Level; layer; shelf.
+Dafa (N): Level; layer; shelf.
 (N): Hinge; joint.
-(N): Wheel.
-(N): Button; key; switch.
-(N): Knob; handle.
+Dado (N): Wheel.
+Dabe (N): Button; key; switch.
+Dapo (N): Knob; handle.
 (N): Rod; pole; axle; track; rail; bar; prong.
 Dazo (N): Torso; trunk.
 Daku (N): Head.
@@ -434,10 +432,10 @@ Date (N): Foot.
 Dada (N): Hair; fur; feather.
 Daga (N): Organ.
 (N): Cell; part of an organism.
-(N): Atom.
+Daza (N): Atom.
 (N): Proton.
 (N): Neutron.
-(N): Electron.
+Dapa (N): Electron.
 
 > MATERIALS (VE-)
 
@@ -452,13 +450,13 @@ Vege (N): Cloud; steam; smoke.
 Veta (N): Rock; stone.
 Veba (N): Sand.
 Veto (N): Metal.
-(N): Gem; crystal; jewel.
+Veke (N): Gem; crystal; jewel.
 Vedu (N): Soil; dirt.
 (N): Clay; dough.
 (N): Cotton.
 Vebu (N): Rubber.
 (N): Fat.
-(N): Blood.
+Vesa (N): Blood.
 (N): Bone.
 (N): Lumber; wood.
 Vepa (N): Paper.
@@ -468,9 +466,9 @@ Veti (N): Plastic.
 (N): Asphalt; tar.
 Vete (N): Ceramic; cement.
 Vebi (N): Glass.
-(N): Rain; snow; precipitation.
+Vefa (N): Rain; snow; precipitation.
 (N*): Acid; acidic liquid.
-(N*): Medicine; drug.
+Vegi (N*): Medicine; drug.
 (N): Soap.
 Vebe (N): Powder; dust.
 Vede (N): Foam; sponge.
@@ -479,6 +477,8 @@ Vega (D*): Flexible; soft.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
 (P): Made of; comprised of; composed of.
+
+$$$
 
 > QUANTITY (SE-)
 
