@@ -49,6 +49,17 @@ class Entry(object):
         else:
             self.hasAntonym = False
         self.definition = line[(tempEndIndex + 3):len(line)]
+    
+    def toString(self):
+        if self.word is None:
+            output = ""
+        else:
+            output = self.word.capitalize() + " "
+        output += "(" + self.partOfSpeech
+        if self.hasAntonym:
+            output += "*"
+        output += "): " + self.definition
+        return output
 
 class Category(object):
     
@@ -175,8 +186,7 @@ def categoryWordsCommand(syllable):
     print "Duplicate words:"
     print tempDuplicateWordList
 
-def duplicateWordsCommand():
-    readDictionaryFile()
+def checkForDuplicateWords():
     tempUsedWordList = []
     tempDuplicateWordList = []
     for category in categoryList:
@@ -192,8 +202,11 @@ def duplicateWordsCommand():
     print "Duplicate words:"
     print tempDuplicateWordList
 
-def verifySyllablesCommand():
+def duplicateWordsCommand():
     readDictionaryFile()
+    checkForDuplicateWords()
+
+def verifyCategorySyllables():
     tempBadWordList = []
     for category in categoryList:
         if category.syllable is None:
@@ -208,6 +221,27 @@ def verifySyllablesCommand():
     print "Words with incorrect syllables:"
     print tempBadWordList
 
+def verifySyllablesCommand():
+    readDictionaryFile()
+    verifyCategorySyllables()
+
+def wordExistsCommand(word):
+    readDictionaryFile()
+    for category in categoryList:
+        for entry in category.entryList:
+            tempWord = entry.word
+            if tempWord is not None:
+                if tempWord == word:
+                    print word + " exists in the dictionary."
+                    print entry.toString()
+                    return
+    print word + " is not in the dictionary."
+
+def verifyAllCommand():
+    readDictionaryFile()
+    checkForDuplicateWords()
+    verifyCategorySyllables()
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -216,6 +250,8 @@ def printCliUsageAndQuit():
     print tempScriptPath + " categoryWords (syllable or \"none\")"
     print tempScriptPath + " duplicateWords"
     print tempScriptPath + " verifySyllables"
+    print tempScriptPath + " wordExists (word)"
+    print tempScriptPath + " verifyAll"
     sys.exit(0)
 
 print "Entry Digest"
@@ -240,6 +276,13 @@ elif commandName == "duplicateWords":
     duplicateWordsCommand()
 elif commandName == "verifySyllables":
     verifySyllablesCommand()
+elif commandName == "wordExists":
+    if len(sys.argv) < 3:
+        printCliUsageAndQuit()
+    tempWord = sys.argv[2].upper()
+    wordExistsCommand(tempWord)
+elif commandName == "verifyAll":
+    verifyAllCommand()
 else:
     printCliUsageAndQuit()
 
