@@ -94,7 +94,7 @@ Papu (P): Through.
 (D): Horizontal.
 (D*): North.
 (D*): East.
-(D): Back; toward the original location.
+Pako (D): Back; toward the original location.
 Pagi (N): Home.
 (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
 Padu (N): Planet; Earth.
@@ -478,8 +478,6 @@ Vega (D*): Flexible; soft.
 (D*): Dense.
 (P): Made of; comprised of; composed of.
 
-$$$
-
 > QUANTITY (SE-)
 
 Seku (N): Quantity; amount; number; proportion.
@@ -519,45 +517,45 @@ Deto (D*): Total; complete; full; whole; entire; thorough.
 Dego (D*): Enough; sufficient; adequate.
 (D): Extra; spare.
 Desu (D): Too much; excessive.
-(D*): Extreme; radical; severe; intense.
-(D): As; to a certain extent; so.
+Dezu (D*): Extreme; radical; severe; intense.
+Deki (D): As; to a certain extent; so.
 Dedo (D): Even.
 Degi (D): Almost; nearly; virtually.
 Desa (D): Opposite; inverse in meaning.
 Deku (P): Relative to; with respect to; than.
 Detu (N): Action; activity.
-(V*): Do; perform; participate in an action.
+Deka (V*): Do; perform; participate in an action.
 Desi (V): Respond to; react.
 Deta (V): Wait for.
 (V): Bear; withstand; endure; suffer; stand; cope with; last.
 Dedu (V): Act upon; affect; influence.
-(V): Interrupt; interfere.
-(D): Act; perform; behave.
+Depi (V): Interrupt; interfere.
+Deke (D): Act; perform; behave.
 
 > ORGANIZATION AND RELATIONSHIP (ZE-)
 
-(N): Order; organization; arrangement; configuration.
-(V*): Organize; order; sort; arrange.
+Zeze (N): Order; organization; arrangement; configuration.
+Zeka (V*): Organize; order; sort; arrange.
 Zeku (D): Ranked; converts a cardinal number to an ordinal number.
-(D*): First; initial; original.
-(N*): Start; beginning; first part.
-(D*): Next; following.
+Zeto (D*): First; initial; original.
+Zeti (N*): Start; beginning; first part.
+Zeso (D*): Next; following.
 Zegu (N): Group; bunch; combination; set.
 (N): List; sequence; series; queue.
-(N): Member; individual of a group.
+Zega (N): Member; individual of a group.
 Zese (N): System; process.
-(D*): Main; chief; principal; primary; capital.
+Zezu (D*): Main; chief; principal; primary; capital.
 Zede (P): Of; pertaining to; related to; having a conceptual connection with.
 (P): About; having a subject; having a topic.
 Zeko (P): If; under the condition that.
 Zesa (D*): But; however; although; despite.
-(P*): With; along with; accompanied by.
+Zegi (P*): With; along with; accompanied by.
 Zepa (V): Have; own; possess.
 (V*): Give; contribute; donate; transfer; grant; provide; supply.
 (V*): Get; receive; acquire; gain; obtain.
 (V): Meet; encounter.
 (V): Depend on; be controlled by; rely on.
-(P): Except; not including; aside from.
+Zetu (P): Except; not including; aside from.
 (P): Instead of; on behalf of; in place of.
 (N*): Friend; buddy.
 (N): Family.
@@ -570,21 +568,21 @@ Zeta (V*): Marry.
 > QUALITY (KE-)
 
 Keke (N): Quality; characteristic; attribute.
-(N): Category; kind; sort; type.
+Kegu (N): Category; kind; sort; type.
 Ketu (N): Manner; method; way; mechanism; technique.
 (N): Pattern; trend.
-(N): Style; fashion; aesthetic.
-(N): Culture; ethnicity.
+Kefe (N): Style; fashion; aesthetic.
+Keva (N): Culture; ethnicity.
 Keta (N): State; status; mode; phase; stage.
-(N): Weather; climate.
+Kepe (N): Weather; climate.
 Kezu (P*): Like; similar to; having a quality pertaining to.
 Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
-(D): Change; become different; transform.
-(V): Change; alter; convert; cause to become different.
+Keti (D): Change; become different; transform.
+Kefi (V): Change; alter; convert; cause to become different.
 (V*): Seem like; appear to be; look like; sound like.
 (V*): Fix; heal; repair; solve; resolve.
 Keda (D*): Hot; warm.
-(D*): Wet; damp; moist.
+Kepi (D*): Wet; damp; moist.
 Kedu (D*): Clean.
 (D*): Safe; secure.
 (D*): Simple; easy; basic; plain.
@@ -595,9 +593,9 @@ Kedu (D*): Clean.
 (D*): Fancy; formal.
 (D*): Gross; disgusting; nasty.
 (D*): Brave; bold; courageous; confident.
-(D*): Crazy; mad; wild; ridiculous; silly.
+Kedi (D*): Crazy; mad; wild; ridiculous; silly.
 (D*): Careful; alert; prudent; cautious; gentle; responsible.
-(D*): Clever; smart; intelligent.
+Keka (D*): Clever; smart; intelligent.
 Kegi (D*): Logical; reasonable.
 Keza (D*): Creative.
 
@@ -606,29 +604,29 @@ Keza (D*): Creative.
 Zato (N): Tool; utensil; instrument; device; equipment.
 Zase (N): Machine.
 Zako (N*): Outlet; spout; dispenser.
-(N): Lever.
+Zado (N): Lever.
 (N): String; thread; lace; rope; wire; cable.
 (N): Tape; ribbon; belt; band; strip.
 (N): Key; for locking and unlocking.
 Zazu (N): Building.
 (N): Road; street.
 (N): Vehicle.
-(D*): On; active; operating; functioning; have the capacity to work.
-(N): Radio; wireless communication.
-(N): Computer.
-(N): Phone; telephone.
+Zadi (D*): On; active; operating; functioning; have the capacity to work.
+Zape (N): Radio; wireless communication.
+Zake (N): Computer.
+Zasa (N): Phone; telephone.
 (N): Program; application; software; code.
 (N): Web; internet.
 Zaza (N): Clothing; clothes.
 (V): Wear clothing.
-(N): Furniture.
+Zaga (N): Furniture.
 (N): Table.
 (N): Bath; basin; tub; shower; sink; toilet.
 Zasu (N): Bag; pocket; sack.
 Zapi (N): Container; package; case.
 (N): Bowl; cup; bucket; basket; bin; pot.
 Zate (V*): Open.
-(D*): Full; with no space remaining.
+Zada (D*): Full; with no space remaining.
 (V*): Cover; wrap.
 (V*): Lock.
 Zabi (V*): Write; draw.
@@ -637,20 +635,20 @@ Zaka (N): Image; picture; photo; appearance.
 (N): Mark.
 (N): Symbol; letter; digit; character.
 (N): Text; script.
-(N): Book.
+Zapa (N): Book.
 (N): Mail; letter.
-(N): News; tabloid.
+Zata (N): News; tabloid.
 (N): Video; movie; film.
 
 > SOCIETY AND WORK (VA-)
 
-(N): Country; nation; state; territory.
-(N): Town; village; city.
+Vadu (N): Country; nation; state; territory.
+Vagu (N): Town; village; city.
 Vape (N): Money; currency.
 (N): Price; cost; fee.
 (V*): Pay; give money; spend.
 (V*): Buy; purchase.
-(N): Shop; store.
+Vazu (N): Shop; store.
 (N): Company; business; enterprise.
 (N): Job; occupation; career; duty; responsibility; profession.
 Vadi (V): Work on; operate; function; do something productive.
@@ -664,7 +662,7 @@ Vaku (D*): Imperative; please.
 Vagi (V*): Let; allow; permit.
 (V*): Demand; request; ask for; order; command.
 (V*): Fight; attack; compete with; battle.
-(N): Government; authority; committee; council; regime.
+Vase (N): Government; authority; committee; council; regime.
 Vaka (N): Rule; regulation; law; policy.
 (N): Religion.
 Vatu (D*): Should; ought to.
@@ -674,30 +672,30 @@ Vatu (D*): Should; ought to.
 > FOOD (FA-)
 
 Fadi (N): Food; fuel.
-(N): Drink; beverage.
-(N): Dessert; treat; candy.
-(N): Vegetable.
+Fapi (N): Drink; beverage.
+Fagi (N): Dessert; treat; candy.
+Fapa (N): Vegetable.
 Fasi (N): Fruit.
-(N): Potato.
+Fadu (N): Potato.
 (N): Grain.
 (N): Rice.
 (N): Wheat.
-(N): Corn.
-(N): Tomato.
-(N): Meat; flesh; muscle.
+Fate (N): Corn.
+Fasa (N): Tomato.
+Fape (N): Meat; flesh; muscle.
 (N): Sugar.
 (N): Salt.
 Fade (N): Bread; cake; pastry.
 (N): Coffee.
-(N): Milk.
+Fage (N): Milk.
 (N): Pasta.
 (N): Cheese.
 (N): Alcohol.
-(V): Eat; drink; consume.
+Fato (V): Eat; drink; consume.
 (V): Bite; chew.
-(V): Swallow.
+Fapu (V): Swallow.
 (V): Digest.
 (N): Dish; plate; tray.
-(D): Cook; bake.
+Fada (D): Cook; bake.
 
 
