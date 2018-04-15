@@ -87,13 +87,13 @@ Papi (P): Between; among; within.
 (V): Keep; store; preserve; retain; save.
 Papu (P): Through.
 (P): Across.
-(P): Parallel to; along.
-(P): Perpendicular to.
-(P): Diagonal to.
-(D): Vertical.
-(D): Horizontal.
-(D*): North.
-(D*): East.
+Pata (P): Perpendicular to.
+Patu (P): Parallel to; along.
+Pato (P): Diagonal to.
+Pavi (D): Vertical.
+Pavu (D): Horizontal.
+Pade (D*): East.
+Padi (D*): North.
 Pako (D): Back; toward the original location.
 Pagi (N): Home.
 (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
@@ -117,8 +117,8 @@ Tafi (D): Recent; just.
 Taza (D*): New; young; fresh.
 Tatu (D*): Early.
 Tate (D*): Temporary.
-(N): Minute.
-(N): Hour.
+Take (N): Minute.
+Tako (N): Hour.
 Tadi (N): Day; a period of 24 hours.
 Tabi (N*): Day; the time when the sun is in the sky.
 Tade (N): Week.
@@ -148,22 +148,22 @@ Geku (N): Volume; amount of space.
 Gefa (N*): Top; peak.
 Gete (N): Hole; cavity.
 Gepe (N): Space; gap.
-(D*): Long; tall.
-(D*): Wide; broad.
-(D*): Thick in a geometric sense; deep; fat.
+Gefi (D*): Long; tall.
+Gefe (D*): Wide; broad.
+Gefo (D*): Thick in a geometric sense; deep; fat.
 (D): Straight; direct.
 (D): Curved; round.
 (D): Flat.
-(D): Tapered.
 Geza (D*): Bumpy; rough.
-(D*): Sharp; pointy.
+Gezu (D): Tapered.
+Gezi (D*): Sharp; pointy.
 Gedi (D*): Split; divide; tear; rip; break; crack; snap.
 (V*): Connect to; join; attach; mechanically link to.
 (V*): Tie a string; sew; stitch.
 (V): Reach; access.
-(D): Stand.
-(D): Sit.
-(D): Lie down.
+Gevi (D): Stand.
+Geva (D): Sit.
+Gevu (D): Lie down.
 
 > STIMULI (BE-)
 
