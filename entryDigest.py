@@ -8,6 +8,11 @@ categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE
 consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
 vowelSet = ["A", "E", "I", "O", "U"]
 categoryList = []
+syllableSet = []
+
+for consonant in consonantSet:
+    for vowel in vowelSet:
+        syllableSet.append(consonant + vowel)
 
 def isEntryLine(line):
     return (line.find("): ") >= 0)
@@ -74,6 +79,15 @@ class Category(object):
 def compareCategoriesByEntryCount(category1, category2):
     tempCount1 = len(category1.entryList)
     tempCount2 = len(category2.entryList)
+    if tempCount1 > tempCount2:
+        return -1
+    if tempCount1 < tempCount2:
+        return 1
+    return 0
+
+def compareSyllableCountPair(pair1, pair2):
+    tempCount1 = pair1[1]
+    tempCount2 = pair2[1]
     if tempCount1 > tempCount2:
         return -1
     if tempCount1 < tempCount2:
@@ -162,9 +176,8 @@ def categoryWordsCommand(syllable):
     tempUnusedWordList = []
     tempUsedWordList = []
     tempDuplicateWordList = []
-    for consonant in consonantSet:
-        for vowel in vowelSet:
-            tempUnusedWordList.append(syllable + consonant + vowel)
+    for secondSyllable in syllableSet:
+        tempUnusedWordList.append(syllable + secondSyllable)
     for entry in category.entryList:
         tempWord = entry.word
         if tempWord is None:
@@ -246,6 +259,36 @@ def verifyAllCommand():
         tempTotal += len(category.entryList)
     print "Total entry count: " + str(tempTotal)
 
+def syllableStatsCommand(shouldSort):
+    readDictionaryFile()
+    tempSyllableCountMap = {}
+    for syllable in syllableSet:
+        tempSyllableCountMap[syllable] = 0
+    for category in categoryList:
+        if category.syllable is not None:
+            for entry in category.entryList:
+                tempWord = entry.word
+                if tempWord is not None:
+                    tempSyllable = tempWord[(len(tempWord) - 2):len(tempWord)]
+                    tempSyllableCountMap[tempSyllable] += 1
+    tempPairList = []
+    for syllable in syllableSet:
+        tempCount = tempSyllableCountMap[syllable]
+        tempPairList.append([syllable, tempCount])
+    if shouldSort:
+        tempPairList.sort(compareSyllableCountPair)
+    for pair in tempPairList:
+        tempSyllable = pair[0]
+        tempCount = pair[1]
+        tempText = tempSyllable + ": " + str(tempCount)
+        tempText2 = "*" * tempCount
+        while len(tempText2) < 20:
+            if len(tempText2) % 2 == 1:
+                tempText2 += "|"
+            else:
+                tempText2 += " "
+        print leftPad(tempText, 10) + " " + tempText2
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -255,6 +298,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " duplicateWords"
     print tempScriptPath + " verifySyllables"
     print tempScriptPath + " wordExists (word)"
+    print tempScriptPath + " syllableStats (should sort)"
     print tempScriptPath + " verifyAll"
     sys.exit(0)
 
@@ -285,6 +329,12 @@ elif commandName == "wordExists":
         printCliUsageAndQuit()
     tempWord = sys.argv[2].upper()
     wordExistsCommand(tempWord)
+elif commandName == "syllableStats":
+    if len(sys.argv) < 3:
+        shouldSort = True
+    else:
+        shouldSort = (int(sys.argv[2]) != 0)
+    syllableStatsCommand(shouldSort)
 elif commandName == "verifyAll":
     verifyAllCommand()
 else:
