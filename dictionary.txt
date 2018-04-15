@@ -52,7 +52,7 @@ Ba (D): Future tense.
 Bu (D): Past tense.
 Ze (D): Then.
 Zi (D): Now; current.
-Ta (D*): True; real; actual; accurate; correct; yes; genuine.
+Ta (D): True; real; actual; accurate; correct; yes; genuine.
 Tu (D): False; not; no.
 Zo (V): Be an instance of.
 Ka (V): Cause; create; because; build; construct; craft; establish; generate; produce.
