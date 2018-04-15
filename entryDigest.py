@@ -85,7 +85,7 @@ def compareCategoriesByEntryCount(category1, category2):
         return 1
     return 0
 
-def compareSyllableCountPair(pair1, pair2):
+def compareTextCountPair(pair1, pair2):
     tempCount1 = pair1[1]
     tempCount2 = pair2[1]
     if tempCount1 > tempCount2:
@@ -276,13 +276,42 @@ def syllableStatsCommand(shouldSort):
         tempCount = tempSyllableCountMap[syllable]
         tempPairList.append([syllable, tempCount])
     if shouldSort:
-        tempPairList.sort(compareSyllableCountPair)
+        tempPairList.sort(compareTextCountPair)
     for pair in tempPairList:
         tempSyllable = pair[0]
         tempCount = pair[1]
         tempText = tempSyllable + ": " + str(tempCount)
         tempText2 = "*" * tempCount
         while len(tempText2) < 20:
+            if len(tempText2) % 2 == 1:
+                tempText2 += "|"
+            else:
+                tempText2 += " "
+        print leftPad(tempText, 10) + " " + tempText2
+
+def consonantStatsCommand():
+    readDictionaryFile()
+    tempConsonantCountMap = {}
+    for consonant in consonantSet:
+        tempConsonantCountMap[consonant] = 0
+    for category in categoryList:
+        if category.syllable is not None:
+            for entry in category.entryList:
+                tempWord = entry.word
+                if tempWord is not None:
+                    tempConsonant = tempWord[(len(tempWord) - 2):(len(tempWord) - 1)]
+                    tempConsonantCountMap[tempConsonant] += 1
+    tempPairList = []
+    for consonant in tempConsonantCountMap:
+        tempCount = tempConsonantCountMap[consonant]
+        tempPairList.append([consonant, tempCount])
+    tempPairList.sort(compareTextCountPair)
+    for pair in tempPairList:
+        tempConsonant = pair[0]
+        tempCount = pair[1]
+        tempText = tempConsonant + ": " + str(tempCount)
+        tempText2 = "*" * (tempCount / 2)
+        while len(tempText2) < 50:
             if len(tempText2) % 2 == 1:
                 tempText2 += "|"
             else:
@@ -299,6 +328,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " verifySyllables"
     print tempScriptPath + " wordExists (word)"
     print tempScriptPath + " syllableStats (should sort)"
+    print tempScriptPath + " consonantStats"
     print tempScriptPath + " verifyAll"
     sys.exit(0)
 
@@ -335,6 +365,8 @@ elif commandName == "syllableStats":
     else:
         shouldSort = (int(sys.argv[2]) != 0)
     syllableStatsCommand(shouldSort)
+elif commandName == "consonantStats":
+    consonantStatsCommand()
 elif commandName == "verifyAll":
     verifyAllCommand()
 else:
