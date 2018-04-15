@@ -94,6 +94,16 @@ def compareTextCountPair(pair1, pair2):
         return 1
     return 0
 
+def printBarMetric(text, count, leftPadAmount, maximumCount):
+    tempText = text + ": " + str(count)
+    tempText2 = "*" * count
+    while len(tempText2) < maximumCount:
+        if len(tempText2) % 2 == 1:
+            tempText2 += "|"
+        else:
+            tempText2 += " "
+    print leftPad(tempText, leftPadAmount) + " " + tempText2
+
 def readDictionaryFile():
     with open(dictionaryPath, "r") as file:
         inputText = file.read()
@@ -119,14 +129,7 @@ def countEntriesCommand():
             if entry.word is not None:
                 tempWordCount += 1
         tempCount = len(category.entryList)
-        tempText = tempName + ": " + str(tempCount)
-        tempText2 = "*" * tempCount
-        while len(tempText2) < 50:
-            if len(tempText2) % 2 == 1:
-                tempText2 += "|"
-            else:
-                tempText2 += " "
-        print leftPad(tempText, 35) + " " + tempText2
+        printBarMetric(tempName, tempCount, 35, 50)
         tempTotal += tempCount
     print "Total entry count: " + str(tempTotal)
     print "Number of entries with words: " + str(tempWordCount)
@@ -280,14 +283,7 @@ def syllableStatsCommand(shouldSort):
     for pair in tempPairList:
         tempSyllable = pair[0]
         tempCount = pair[1]
-        tempText = tempSyllable + ": " + str(tempCount)
-        tempText2 = "*" * tempCount
-        while len(tempText2) < 20:
-            if len(tempText2) % 2 == 1:
-                tempText2 += "|"
-            else:
-                tempText2 += " "
-        print leftPad(tempText, 10) + " " + tempText2
+        printBarMetric(tempSyllable, tempCount, 10, 20)
 
 def consonantStatsCommand():
     readDictionaryFile()
@@ -309,14 +305,7 @@ def consonantStatsCommand():
     for pair in tempPairList:
         tempConsonant = pair[0]
         tempCount = pair[1]
-        tempText = tempConsonant + ": " + str(tempCount)
-        tempText2 = "*" * (tempCount / 2)
-        while len(tempText2) < 50:
-            if len(tempText2) % 2 == 1:
-                tempText2 += "|"
-            else:
-                tempText2 += " "
-        print leftPad(tempText, 10) + " " + tempText2
+        printBarMetric(tempConsonant, tempCount / 2, 10, 50)
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
