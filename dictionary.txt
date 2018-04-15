@@ -248,7 +248,7 @@ Bafa (V*): Throw; toss.
 (V): Shoot; fire.
 Bado (D*): Bend; fold.
 (D*): Explode; pop; burst.
-(D): Hang.
+Bavi (D): Hang.
 Badi (N): Energy; power.
 Bazu (D*): Strong; fit; powerful; tough; sturdy; durable.
 
@@ -339,7 +339,7 @@ Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; em
 > FEELING WITH VALUE (FE-)
 
 Feku (N): Emotion; mood.
-(N*): Pain; ache.
+Feti (N*): Pain; ache.
 Fegi (D*): Happy; glad; content.
 Fega (D*): Comfortable.
 Feda (D*): Angry; mad.
@@ -378,7 +378,7 @@ Pezi (D): Female.
 Pepo (N): Fungus.
 Pepa (N): Plant.
 Peti (N): Seed; bean; nut.
-(N): Tree.
+Pevi (N): Tree.
 Pede (N): Grass.
 Pepe (N): Animal; creature.
 (N): Egg.
@@ -395,7 +395,7 @@ Peza (N): Reptile; amphibian.
 (N): Fish.
 Pesa (N): Arthropod.
 Pega (N): Mollusk.
-(D*): Sleep.
+Pevu (D*): Sleep.
 (V): Breathe; inhale; exhale.
 (V): Have sex with.
 
@@ -408,8 +408,8 @@ Dapi (N): Ocean; sea; lake; pond.
 (N): Hill; mountain.
 Dape (N): Sky.
 Dazu (N): Room; chamber.
-(N): Wall.
-(N): Floor.
+Davi (N): Wall.
+Davu (N): Floor.
 Dabi (N): Window.
 (N): Door; gate.
 (N): Stair; step.
@@ -418,7 +418,7 @@ Dafa (N): Level; layer; shelf.
 Dado (N): Wheel.
 Dabe (N): Button; key; switch.
 Dapo (N): Knob; handle.
-(N): Rod; pole; axle; track; rail; bar; prong.
+Dafi (N): Rod; pole; axle; track; rail; bar; prong.
 Dazo (N): Torso; trunk.
 Daku (N): Head.
 (N): Face of a person or animal.
@@ -527,7 +527,7 @@ Detu (N): Action; activity.
 Deka (V*): Do; perform; participate in an action.
 Desi (V): Respond to; react.
 Deta (V): Wait for.
-(V): Bear; withstand; endure; suffer; stand; cope with; last.
+Defi (V): Bear; withstand; endure; suffer; stand; cope with; last.
 Dedu (V): Act upon; affect; influence.
 Depi (V): Interrupt; interfere.
 Deke (D): Act; perform; behave.
@@ -541,7 +541,7 @@ Zeto (D*): First; initial; original.
 Zeti (N*): Start; beginning; first part.
 Zeso (D*): Next; following.
 Zegu (N): Group; bunch; combination; set.
-(N): List; sequence; series; queue.
+Zefi (N): List; sequence; series; queue.
 Zega (N): Member; individual of a group.
 Zese (N): System; process.
 Zezu (D*): Main; chief; principal; primary; capital.
@@ -605,8 +605,8 @@ Zato (N): Tool; utensil; instrument; device; equipment.
 Zase (N): Machine.
 Zako (N*): Outlet; spout; dispenser.
 Zado (N): Lever.
-(N): String; thread; lace; rope; wire; cable.
-(N): Tape; ribbon; belt; band; strip.
+Zafi (N): String; thread; lace; rope; wire; cable.
+Zafe (N): Tape; ribbon; belt; band; strip.
 (N): Key; for locking and unlocking.
 Zazu (N): Building.
 (N): Road; street.
@@ -620,7 +620,7 @@ Zasa (N): Phone; telephone.
 Zaza (N): Clothing; clothes.
 (V): Wear clothing.
 Zaga (N): Furniture.
-(N): Table.
+Zavu (N): Table.
 (N): Bath; basin; tub; shower; sink; toilet.
 Zasu (N): Bag; pocket; sack.
 Zapi (N): Container; package; case.
@@ -654,7 +654,7 @@ Vazu (N): Shop; store.
 Vadi (V): Work on; operate; function; do something productive.
 (V): Practice; exercise; train.
 (D*): Busy; preoccupied; engaged.
-(D*): Rest; relax.
+Vavu (D*): Rest; relax.
 Vaku (D*): Imperative; please.
 (V): Control; drive; manage; operate; regulate.
 (V*): Capture; trap.
@@ -695,7 +695,7 @@ Fato (V): Eat; drink; consume.
 (V): Bite; chew.
 Fapu (V): Swallow.
 (V): Digest.
-(N): Dish; plate; tray.
+Favu (N): Dish; plate; tray.
 Fada (D): Cook; bake.
 
 
