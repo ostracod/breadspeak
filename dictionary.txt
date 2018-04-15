@@ -169,8 +169,8 @@ Gevu (D): Lie down.
 
 Beki (V): Feel; sense; detect; perceive; witness.
 Bebi (N*): Light.
-(V): See.
-(V): Look at; watch; view; examine; inspect; observe.
+Befe (V): See.
+Befo (V): Look at; watch; view; examine; inspect; observe.
 (V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
 Bezu (D*): Bright; light.
 (D*): Saturated; vibrant.
@@ -186,8 +186,8 @@ Bege (D): White.
 Bega (D): Black.
 Bego (D): Gray.
 (N): Sound; noise.
-(V): Hear.
-(V): Listen.
+Beve (V): Hear.
+Bevo (V): Listen.
 (D*): Loud; noisy.
 Besi (D*): High pitched.
 Beze (N): Buzz; hum.
@@ -195,12 +195,12 @@ Bepi (N): Beep; chirp.
 Beka (N): Click; tick.
 Bepu (N): Taste; flavor.
 Bepe (N): Smell; odor.
-(D): Sweet.
-(D): Sour.
-(D): Salty.
-(D): Bitter.
-(D): Umami; meaty.
-(D): Spicy.
+Bezi (D): Sweet.
+Beza (D): Salty.
+Bebu (D): Sour.
+Beba (D): Bitter.
+Begi (D): Spicy.
+Begu (D): Umami; meaty.
 
 > MOVEMENT (TE-)
 
@@ -300,7 +300,7 @@ Kapo (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
 (V): Communicate; state; claim; tell; discuss; express; inform.
 Kasa (V): Say; speak; talk; communicate verbally.
-(V): Call.
+Kavo (V): Call.
 Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
@@ -310,7 +310,7 @@ Kasi (V): Answer; respond; reply.
 Kabo (N): Word; term.
 Kagu (N): Sentence.
 Kase (N): Language.
-(N*): Hello; hi; salutation; greeting; welcome.
+Kafe (N*): Hello; hi; salutation; greeting; welcome.
 (N): Thank you; thanks; gratitude.
 
 > GOAL (GA-)
@@ -352,7 +352,7 @@ Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Scare; frighten; startle.
 (V*): Excite; make eager.
 (V*): Surprise; amaze; shock.
-(V*): Interest; fascinate.
+Fefo (V*): Interest; fascinate.
 Fedo (V*): Entertain; be fun to; be funny to.
 (V): Play.
 Fefa (V): Laugh at.
@@ -423,7 +423,7 @@ Dazo (N): Torso; trunk.
 Daku (N): Head.
 (N): Face of a person or animal.
 (N): Mouth.
-(N): Eye.
+Dafe (N): Eye.
 Dagu (N): Appendage; limb; branch; arm; leg; neck.
 (N): Finger; toe; stick.
 Dasu (N): Leaf.
@@ -473,7 +473,7 @@ Vegi (N*): Medicine; drug.
 Vebe (N): Powder; dust.
 Vede (N): Foam; sponge.
 Vega (D*): Flexible; soft.
-(D*): Clear; transparent; obvious.
+Vefe (D*): Clear; transparent; obvious.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
 (P): Made of; comprised of; composed of.
@@ -553,7 +553,7 @@ Zegi (P*): With; along with; accompanied by.
 Zepa (V): Have; own; possess.
 (V*): Give; contribute; donate; transfer; grant; provide; supply.
 (V*): Get; receive; acquire; gain; obtain.
-(V): Meet; encounter.
+Zefe (V): Meet; encounter.
 (V): Depend on; be controlled by; rely on.
 Zetu (P): Except; not including; aside from.
 (P): Instead of; on behalf of; in place of.
@@ -589,7 +589,7 @@ Kedu (D*): Clean.
 (D*): Nice; kind; generous; polite.
 (D*): Cute; adorable.
 (D*): Popular; cool; famous.
-(D*): Beautiful; pretty; attractive; gorgeous.
+Kefo (D*): Beautiful; pretty; attractive; gorgeous.
 (D*): Fancy; formal.
 (D*): Gross; disgusting; nasty.
 (D*): Brave; bold; courageous; confident.
@@ -630,7 +630,7 @@ Zada (D*): Full; with no space remaining.
 (V*): Cover; wrap.
 (V*): Lock.
 Zabi (V*): Write; draw.
-(V): Read.
+Zafo (V): Read.
 Zaka (N): Image; picture; photo; appearance.
 (N): Mark.
 (N): Symbol; letter; digit; character.
@@ -683,13 +683,13 @@ Fadu (N): Potato.
 Fate (N): Corn.
 Fasa (N): Tomato.
 Fape (N): Meat; flesh; muscle.
-(N): Sugar.
-(N): Salt.
+Fazi (N): Sugar.
+Faza (N): Salt.
 Fade (N): Bread; cake; pastry.
-(N): Coffee.
+Faba (N): Coffee.
 Fage (N): Milk.
 (N): Pasta.
-(N): Cheese.
+Fagu (N): Cheese.
 (N): Alcohol.
 Fato (V): Eat; drink; consume.
 (V): Bite; chew.
