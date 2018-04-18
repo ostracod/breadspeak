@@ -210,7 +210,7 @@ Teko (V*): Put; place; add.
 Tefa (V*): Raise; lift.
 (V): Send; submit; transmit.
 Tedi (V*): Come; go toward; arrive; approach.
-(V): Follow; pursue.
+Teda (V): Follow; pursue.
 (V*): Enter; go in.
 (D): Walk; run.
 Tebu (D): Reflect; deflect; bounce.
@@ -236,16 +236,16 @@ Baba (N): Magnetism.
 Bapa (N): Electricity.
 Baku (N): Friction.
 Bade (V*): Push; press; shove.
-(V*): Squeeze; compress.
+Badu (V*): Squeeze; compress.
 Bapo (V): Hold; support; grab.
 Bapu (V): Bond to; stick to.
 (V): Cut; chop; shear; slice.
 (V): Hit; beat; strike; crash; knock.
 Bada (V): Brush; comb; sweep.
 Baza (V): Rub; drag on; wipe; stroke.
-(V): Scratch; scrape.
+Baze (V): Scratch; scrape.
 Bafa (V*): Throw; toss.
-(V): Shoot; fire.
+Bafu (V): Shoot; fire.
 Bado (D*): Bend; fold.
 (D*): Explode; pop; burst.
 Bavi (D): Hang.
@@ -269,7 +269,7 @@ Sako (D): Copy; duplicate; replicate; repeat; multiply.
 (D): Does; interrogative truth.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
-(D*): Possible; can; able to happen; capable of happening.
+Sake (D*): Possible; can; able to happen; capable of happening.
 Saku (N): Probability; chance; luck; odds; prospect.
 Sazu (D*): Probably; likely.
 Sadi (D): May; might; maybe; perhaps.
@@ -290,11 +290,11 @@ Kake (V): Think about; process; calculate; compute; analyze; imagine.
 Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
 Kape (V*): Have the opinion that; think; suppose; believe.
 Kadi (V*): Understand; comprehend.
-(V): Recall; remember; recollect.
+Kapi (V): Recall; remember; recollect.
 Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
 Kata (V*): Focus on; notice; pay attention to; concentrate on.
 Kati (V*): Learn; study; research; investigate.
-(V): Teach; instruct; educate; lecture.
+Kate (V): Teach; instruct; educate; lecture.
 (V*): Search for; look for; hunt for; seek; try to find.
 Kapo (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
@@ -318,9 +318,9 @@ Kafe (N*): Hello; hi; salutation; greeting; welcome.
 Gago (N*): Goal; target; project; task; assignment; mission; objective.
 Gako (P*): For; in order to.
 Gagi (D*): Good.
-(D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
+Gaga (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
 Gake (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
-(D*): Useful; helpful; convenient; handy.
+Gaka (D*): Useful; helpful; convenient; handy.
 (D*): Ready; prepared.
 Gapa (V*): Want; hope for; wish for; desire.
 Gaba (V*): Need; require; must.
@@ -354,9 +354,9 @@ Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Surprise; amaze; shock.
 Fefo (V*): Interest; fascinate.
 Fedo (V*): Entertain; be fun to; be funny to.
-(V): Play.
 Fefa (V): Laugh at.
-(N): Game; sport.
+Febi (V): Play.
+Feba (N): Game; sport.
 (N): Party; festival; celebration; ceremony.
 Febo (N): Art.
 Fesa (N): Music; song; tune.
@@ -369,28 +369,28 @@ Pepi (D*): Alive; living.
 Pegi (D*): Healthy.
 (D): Be born.
 Peku (D): Decompose; decay; rot.
-(N): Baby; infant.
-(N): Child; kid; teenager; adolescent.
-(N): Adult.
+Pete (N): Baby; infant.
+Peta (N): Child; kid; teenager; adolescent.
+Peto (N): Adult.
 (N): Gender.
 Pezu (D): Male.
 Pezi (D): Female.
 Pepo (N): Fungus.
 Pepa (N): Plant.
-Peti (N): Seed; bean; nut.
+(N): Seed; bean; nut.
 Pevi (N): Tree.
 Pede (N): Grass.
 Pepe (N): Animal; creature.
-(N): Egg.
+Peti (N): Egg.
 Peda (N): Mammal.
 Peka (N): Person; human.
-(N): Dog.
-(N): Cat.
-(N): Cow.
-(N): Pig.
-(N): Sheep.
+Peke (N): Cat.
+Peko (N): Dog.
+Pege (N): Sheep.
+Pego (N): Pig.
+Pegu (N): Cow.
 Pebe (N): Bird.
-(N): Chicken.
+Peba (N): Chicken.
 Peza (N): Reptile; amphibian.
 (N): Fish.
 Pesa (N): Arthropod.
@@ -425,7 +425,7 @@ Daku (N): Head.
 (N): Mouth.
 Dafe (N): Eye.
 Dagu (N): Appendage; limb; branch; arm; leg; neck.
-(N): Finger; toe; stick.
+Dage (N): Finger; toe; stick.
 Dasu (N): Leaf.
 Dabu (N): Hand.
 Date (N): Foot.
@@ -433,9 +433,11 @@ Dada (N): Hair; fur; feather.
 Daga (N): Organ.
 (N): Cell; part of an organism.
 Daza (N): Atom.
-(N): Proton.
-(N): Neutron.
+Daba (N): Proton.
+Dabo (N): Neutron.
 Dapa (N): Electron.
+
+$$$
 
 > MATERIALS (VE-)
 
