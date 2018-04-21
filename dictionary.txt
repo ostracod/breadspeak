@@ -208,7 +208,7 @@ Tepo (V*): Move; cause to go.
 Teko (V*): Put; place; add.
 (V): Carry; bring; transport; deliver; fetch.
 Tefa (V*): Raise; lift.
-(V): Send; submit; transmit.
+Teve (V): Send; submit; transmit.
 Tedi (V*): Come; go toward; arrive; approach.
 Teda (V): Follow; pursue.
 (V*): Enter; go in.
@@ -298,14 +298,14 @@ Kate (V): Teach; instruct; educate; lecture.
 (V*): Search for; look for; hunt for; seek; try to find.
 Kapo (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
-(V): Communicate; state; claim; tell; discuss; express; inform.
+Kadu (V): Communicate; state; claim; tell; discuss; express; inform.
 Kasa (V): Say; speak; talk; communicate verbally.
 Kavo (V): Call.
 Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
 (V*): Approve; verify; confirm; praise; support; agree with; concur.
-(V): Describe; explain; report.
+Kave (V): Describe; explain; report.
 (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
 Kagu (N): Sentence.
@@ -328,13 +328,13 @@ Gage (V): Choose; decide; pick; commit; elect; select; vote for.
 Gato (V): Use; utilize; employ.
 Gatu (V*): Try; attempt.
 (V*): Win; succeed at; defeat; beat; dominate.
-(V*): Help do something; serve; support; assist; aid.
+Gave (V*): Help do something; serve; support; assist; aid.
 Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
 Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
 (N*): Mistake; error; accident.
 (N*): Garbage; trash; pollution.
-(N*): Prize; reward; award; bonus; treat; present; gift.
+Gavo (N*): Prize; reward; award; bonus; treat; present; gift.
 
 > FEELING WITH VALUE (FE-)
 
@@ -397,7 +397,7 @@ Pesa (N): Arthropod.
 Pega (N): Mollusk.
 Pevu (D*): Sleep.
 Pezo (V): Breathe; inhale; exhale.
-(V): Have sex with.
+Pefo (V): Have sex with.
 
 > PARTS (DA-)
 
@@ -422,7 +422,7 @@ Dafi (N): Rod; pole; axle; track; rail; bar; prong.
 Dazo (N): Torso; trunk.
 Daku (N): Head.
 (N): Face of a person or animal.
-(N): Mouth.
+Davo (N): Mouth.
 Dafe (N): Eye.
 Dagu (N): Appendage; limb; branch; arm; leg; neck.
 Dage (N): Finger; toe; stick.
@@ -478,8 +478,6 @@ Vefe (D*): Clear; transparent; obvious.
 (D*): Dense.
 (P): Made of; comprised of; composed of.
 
-$$$
-
 > QUANTITY (SE-)
 
 Seku (N): Quantity; amount; number; proportion.
@@ -495,8 +493,8 @@ Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to;
 (D): Also; too.
 Sede (P*): Add a number.
 Sepi (P*): Multiply a number.
-(P*): Exponentiate a number.
-(P*): Multiply by ten raised to a number.
+Seva (P*): Exponentiate a number.
+Sevo (P*): Multiply by ten raised to a number.
 (D*): Negative; less than zero.
 Setu (Numeric): Zero; no; none.
 Seto (Numeric): One; single; individual.
@@ -517,7 +515,7 @@ Deko (D*): More; having a greater degree.
 Deda (D*): Most; having the greatest degree.
 Deto (D*): Total; complete; full; whole; entire; thorough.
 Dego (D*): Enough; sufficient; adequate.
-(D): Extra; spare.
+Dega (D): Extra; spare.
 Desu (D): Too much; excessive.
 Dezu (D*): Extreme; radical; severe; intense.
 Deki (D): As; to a certain extent; so.
@@ -548,13 +546,13 @@ Zega (N): Member; individual of a group.
 Zese (N): System; process.
 Zezu (D*): Main; chief; principal; primary; capital.
 Zede (P): Of; pertaining to; related to; having a conceptual connection with.
-(P): About; having a subject; having a topic.
+Zedu (P): About; having a subject; having a topic.
 Zeko (P): If; under the condition that.
 Zesa (D*): But; however; although; despite.
 Zegi (P*): With; along with; accompanied by.
 Zepa (V): Have; own; possess.
-(V*): Give; contribute; donate; transfer; grant; provide; supply.
-(V*): Get; receive; acquire; gain; obtain.
+Zeve (V*): Give; contribute; donate; transfer; grant; provide; supply.
+Zevo (V*): Get; receive; acquire; gain; obtain.
 Zefe (V): Meet; encounter.
 (V): Depend on; be controlled by; rely on.
 Zetu (P): Except; not including; aside from.
@@ -562,10 +560,12 @@ Zetu (P): Except; not including; aside from.
 (N*): Friend; buddy.
 (N): Family.
 Zeta (V*): Marry.
-(N*): Parent.
-(N): Spouse.
-(N): Sibling.
+Zete (N): Spouse.
+Zefo (N*): Parent.
+Zefa (N): Sibling.
 (D*): Public.
+
+$$$
 
 > QUALITY (KE-)
 
@@ -588,7 +588,7 @@ Kepi (D*): Wet; damp; moist.
 Kedu (D*): Clean.
 (D*): Safe; secure.
 (D*): Simple; easy; basic; plain.
-(D*): Nice; kind; generous; polite.
+Keve (D*): Nice; kind; generous; polite.
 (D*): Cute; adorable.
 (D*): Popular; cool; famous.
 Kefo (D*): Beautiful; pretty; attractive; gorgeous.
@@ -618,7 +618,7 @@ Zape (N): Radio; wireless communication.
 Zake (N): Computer.
 Zasa (N): Phone; telephone.
 (N): Program; application; software; code.
-(N): Web; internet.
+Zadu (N): Web; internet.
 Zaza (N): Clothing; clothes.
 (V): Wear clothing.
 Zaga (N): Furniture.
@@ -638,7 +638,7 @@ Zaka (N): Image; picture; photo; appearance.
 (N): Symbol; letter; digit; character.
 (N): Text; script.
 Zapa (N): Book.
-(N): Mail; letter.
+Zave (N): Mail; letter.
 Zata (N): News; tabloid.
 (N): Video; movie; film.
 
@@ -648,8 +648,8 @@ Vadu (N): Country; nation; state; territory.
 Vagu (N): Town; village; city.
 Vape (N): Money; currency.
 (N): Price; cost; fee.
-(V*): Pay; give money; spend.
-(V*): Buy; purchase.
+Vave (V*): Pay; give money; spend.
+Vavo (V*): Buy; purchase.
 Vazu (N): Shop; store.
 (N): Company; business; enterprise.
 (N): Job; occupation; career; duty; responsibility; profession.
@@ -696,7 +696,7 @@ Fagu (N): Cheese.
 Fato (V): Eat; drink; consume.
 (V): Bite; chew.
 Fapu (V): Swallow.
-(V): Digest.
+Favo (V): Digest.
 Favu (N): Dish; plate; tray.
 Fada (D): Cook; bake.
 
