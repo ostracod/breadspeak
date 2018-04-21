@@ -135,7 +135,7 @@ Gegu (N): Prism; block; box; cylinder.
 Gego (N): Ball; sphere.
 Gepu (N): Pipe; tube.
 Gebu (N): Wave.
-(N): Bump; lump; pile; mound; heap.
+Gefu (N): Bump; lump; pile; mound; heap.
 Gese (N): Net; mesh; network; web.
 Geki (N): Corner; vertex; point.
 Geke (N): Edge; line.
@@ -185,7 +185,7 @@ Beso (D): Purple.
 Bege (D): White.
 Bega (D): Black.
 Bego (D): Gray.
-(N): Sound; noise.
+Bezo (N): Sound; noise.
 Beve (V): Hear.
 Bevo (V): Listen.
 (D*): Loud; noisy.
@@ -396,7 +396,7 @@ Peza (N): Reptile; amphibian.
 Pesa (N): Arthropod.
 Pega (N): Mollusk.
 Pevu (D*): Sleep.
-(V): Breathe; inhale; exhale.
+Pezo (V): Breathe; inhale; exhale.
 (V): Have sex with.
 
 > PARTS (DA-)
@@ -405,7 +405,7 @@ Dagi (N): Part; piece; component; element; factor; section.
 Dadu (N): Land; ground.
 Dapi (N): Ocean; sea; lake; pond.
 (N): River; stream.
-(N): Hill; mountain.
+Dafu (N): Hill; mountain.
 Dape (N): Sky.
 Dazu (N): Room; chamber.
 Davi (N): Wall.
@@ -437,8 +437,6 @@ Daba (N): Proton.
 Dabo (N): Neutron.
 Dapa (N): Electron.
 
-$$$
-
 > MATERIALS (VE-)
 
 Vepu (N): Material; substance.
@@ -446,7 +444,7 @@ Vepo (N): Solid.
 Vepi (N): Liquid.
 Vepe (N): Gas; material in a gaseous state.
 Vedo (N): Water.
-(N): Air; atmosphere.
+Vezo (N): Air; atmosphere.
 Veda (N): Fire; flame.
 Vege (N): Cloud; steam; smoke.
 Veta (N): Rock; stone.
@@ -454,24 +452,24 @@ Veba (N): Sand.
 Veto (N): Metal.
 Veke (N): Gem; crystal; jewel.
 Vedu (N): Soil; dirt.
-(N): Clay; dough.
+Vefu (N): Clay; dough.
 (N): Cotton.
 Vebu (N): Rubber.
 (N): Fat.
 Vesa (N): Blood.
-(N): Bone.
-(N): Lumber; wood.
+Veka (N): Lumber; wood.
+Veko (N): Bone.
 Vepa (N): Paper.
 Veza (N): Cloth.
 Vedi (N): Oil.
 Veti (N): Plastic.
-(N): Asphalt; tar.
+Vetu (N): Asphalt; tar.
 Vete (N): Ceramic; cement.
 Vebi (N): Glass.
 Vefa (N): Rain; snow; precipitation.
 (N*): Acid; acidic liquid.
 Vegi (N*): Medicine; drug.
-(N): Soap.
+Vego (N): Soap.
 Vebe (N): Powder; dust.
 Vede (N): Foam; sponge.
 Vega (D*): Flexible; soft.
@@ -479,6 +477,8 @@ Vefe (D*): Clear; transparent; obvious.
 (D*): Viscous; thick; gooey.
 (D*): Dense.
 (P): Made of; comprised of; composed of.
+
+$$$
 
 > QUANTITY (SE-)
 
@@ -690,7 +690,7 @@ Faza (N): Salt.
 Fade (N): Bread; cake; pastry.
 Faba (N): Coffee.
 Fage (N): Milk.
-(N): Pasta.
+Fafu (N): Pasta.
 Fagu (N): Cheese.
 (N): Alcohol.
 Fato (V): Eat; drink; consume.
