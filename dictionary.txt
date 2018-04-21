@@ -81,12 +81,12 @@ Paga (P*): Over; above.
 Pafa (D*): Up; high.
 Pabi (P*): On the surface of.
 Paki (P*): Near; close to; around; beside; by.
+Pake (D*): Together.
 Pazo (N): Middle; center.
 Papi (P): Between; among; within.
-(D*): Together.
 (V): Keep; store; preserve; retain; save.
 Papu (P): Through.
-(P): Across.
+Paka (P): Across.
 Pata (P): Perpendicular to.
 Patu (P): Parallel to; along.
 Pato (P): Diagonal to.
@@ -96,24 +96,24 @@ Pade (D*): East.
 Padi (D*): North.
 Pako (D): Back; toward the original location.
 Pagi (N): Home.
-(N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
 Padu (N): Planet; Earth.
 Pape (N): Moon.
 Pada (N): Star; sun.
-(N): World.
+Paso (N): World.
+Pase (N): Environment; setting; surroundings; context; circumstance; situation; case; condition.
 
 > TIME (TA-)
 
 Tata (N): Time.
 Taso (P*): After; since.
+Tase (P): Until.
 Tapi (P*): While; during.
-(P): Until.
 Taki (D): Soon.
 Tafi (D): Recent; just.
+Taka (D): Sudden; abrupt.
 (D): Already.
 (D): Yet.
 (D): Still; not having changed; keep doing; continue.
-(D): Sudden; abrupt.
 Taza (D*): New; young; fresh.
 Tatu (D*): Early.
 Tate (D*): Temporary.
@@ -142,9 +142,9 @@ Geke (N): Edge; line.
 Geka (N): Area of a surface; region; zone.
 Geku (N): Volume; amount of space.
 (N): Range; span; length; interval; distance.
-(N): Border; outline; frame; profile.
-(N): Surface; side; face; skin.
-(N): Side; neither the top nor the bottom.
+Gezi (N): Border; outline; frame; profile.
+Geze (N): Surface; side; face; skin.
+Gezo (N): Side; neither the top nor the bottom.
 Gefa (N*): Top; peak.
 Gete (N): Hole; cavity.
 Gepe (N): Space; gap.
@@ -205,8 +205,8 @@ Begu (D): Umami; meaty.
 > MOVEMENT (TE-)
 
 Tepo (V*): Move; cause to go.
+Tepa (V): Carry; bring; transport; deliver; fetch.
 Teko (V*): Put; place; add.
-(V): Carry; bring; transport; deliver; fetch.
 Tefa (V*): Raise; lift.
 Teve (V): Send; submit; transmit.
 Tedi (V*): Come; go toward; arrive; approach.
@@ -216,7 +216,7 @@ Teda (V): Follow; pursue.
 Tebu (D): Reflect; deflect; bounce.
 Tebo (D): Fall; drop; collapse; pour; spill.
 Tepe (D): Fly.
-(D): Slide; glide; slip.
+Teze (D): Slide; glide; slip.
 Tepi (D): Shower; spray.
 Tede (D*): Spread; disperse.
 (D): Shake; vibrate; shiver.
@@ -255,18 +255,18 @@ Bazu (D*): Strong; fit; powerful; tough; sturdy; durable.
 > EXISTENCE AND IDENTITY (SA-)
 
 Sage (N): Identity.
+Sagu (D): Any.
 Sabo (N): Object; item; physical entity.
 Sabu (N): Mass; matter.
 Satu (N): Event; incident.
 Saba (D): Happen; occur.
 (D): Specifies the object to which a clause is referring. The default object is the primary object.
 Saki (D*): Exact; precise; particular; specific; certain; definite.
-(D): Any.
 Sazi (D): Which; interrogative identity.
+Saze (D): Does; interrogative truth.
 Saka (N): Name; title.
 (N): Example; sample; instance; model.
 Sako (D): Copy; duplicate; replicate; repeat; multiply.
-(D): Does; interrogative truth.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
 Sake (D*): Possible; can; able to happen; capable of happening.
@@ -295,7 +295,7 @@ Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presu
 Kata (V*): Focus on; notice; pay attention to; concentrate on.
 Kati (V*): Learn; study; research; investigate.
 Kate (V): Teach; instruct; educate; lecture.
-(V*): Search for; look for; hunt for; seek; try to find.
+Kapu (V*): Search for; look for; hunt for; seek; try to find.
 Kapo (V*): Find; discover; measure; determine.
 (V): Test; experiment with.
 Kadu (V): Communicate; state; claim; tell; discuss; express; inform.
@@ -306,7 +306,7 @@ Kasi (V): Answer; respond; reply.
 (V): Argue about; debate; dispute.
 (V*): Approve; verify; confirm; praise; support; agree with; concur.
 Kave (V): Describe; explain; report.
-(V): Announce; declare; warn; alert; alarm; advertise.
+Kavi (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
 Kagu (N): Sentence.
 Kase (N): Language.
@@ -327,7 +327,7 @@ Gaba (V*): Need; require; must.
 Gage (V): Choose; decide; pick; commit; elect; select; vote for.
 Gato (V): Use; utilize; employ.
 Gatu (V*): Try; attempt.
-(V*): Win; succeed at; defeat; beat; dominate.
+Gati (V*): Win; succeed at; defeat; beat; dominate.
 Gave (V*): Help do something; serve; support; assist; aid.
 Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
@@ -349,9 +349,9 @@ Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Care about; have concern for; worry about; respect.
 (V*): Annoy; irritate; bother; disturb.
-(V*): Scare; frighten; startle.
+Feki (V*): Surprise; amaze; shock.
+Feka (V*): Scare; frighten; startle.
 (V*): Excite; make eager.
-(V*): Surprise; amaze; shock.
 Fefo (V*): Interest; fascinate.
 Fedo (V*): Entertain; be fun to; be funny to.
 Fefa (V): Laugh at.
@@ -364,7 +364,7 @@ Fesa (N): Music; song; tune.
 > LIFE (PE-)
 
 Pepi (D*): Alive; living.
-(N*): Nature.
+Pepu (N*): Nature.
 (N): Body.
 Pegi (D*): Healthy.
 (D): Be born.
@@ -372,12 +372,12 @@ Peku (D): Decompose; decay; rot.
 Pete (N): Baby; infant.
 Peta (N): Child; kid; teenager; adolescent.
 Peto (N): Adult.
-(N): Gender.
+Peze (N): Gender.
 Pezu (D): Male.
 Pezi (D): Female.
 Pepo (N): Fungus.
 Pepa (N): Plant.
-(N): Seed; bean; nut.
+Pedi (N): Seed; bean; nut.
 Pevi (N): Tree.
 Pede (N): Grass.
 Pepe (N): Animal; creature.
@@ -392,7 +392,7 @@ Pegu (N): Cow.
 Pebe (N): Bird.
 Peba (N): Chicken.
 Peza (N): Reptile; amphibian.
-(N): Fish.
+Pedo (N): Fish.
 Pesa (N): Arthropod.
 Pega (N): Mollusk.
 Pevu (D*): Sleep.
@@ -421,7 +421,7 @@ Dapo (N): Knob; handle.
 Dafi (N): Rod; pole; axle; track; rail; bar; prong.
 Dazo (N): Torso; trunk.
 Daku (N): Head.
-(N): Face of a person or animal.
+Daze (N): Face of a person or animal.
 Davo (N): Mouth.
 Dafe (N): Eye.
 Dagu (N): Appendage; limb; branch; arm; leg; neck.
@@ -482,7 +482,7 @@ Vefe (D*): Clear; transparent; obvious.
 
 Seku (N): Quantity; amount; number; proportion.
 Seka (N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
-(N): Limit; constraint; boundary; restriction.
+Sezi (N): Limit; constraint; boundary; restriction.
 Seko (D): Plural; more than one; several; some.
 Sezu (D*): Many; a lot; often; frequent; numerous.
 Seda (D*): Every; all; each.
@@ -581,7 +581,7 @@ Kezu (P*): Like; similar to; having a quality pertaining to.
 Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
 Keti (D): Change; become different; transform.
 Kefi (V): Change; alter; convert; cause to become different.
-(V*): Seem like; appear to be; look like; sound like.
+Keze (V*): Seem like; appear to be; look like; sound like.
 (V*): Fix; heal; repair; solve; resolve.
 Keda (D*): Hot; warm.
 Kepi (D*): Wet; damp; moist.
@@ -611,7 +611,7 @@ Zafi (N): String; thread; lace; rope; wire; cable.
 Zafe (N): Tape; ribbon; belt; band; strip.
 (N): Key; for locking and unlocking.
 Zazu (N): Building.
-(N): Road; street.
+Zaze (N): Road; street.
 (N): Vehicle.
 Zadi (D*): On; active; operating; functioning; have the capacity to work.
 Zape (N): Radio; wireless communication.
