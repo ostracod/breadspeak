@@ -113,7 +113,7 @@ Tafi (D): Recent; just.
 Taka (D): Sudden; abrupt.
 (D): Already.
 (D): Yet.
-(D): Still; not having changed; keep doing; continue.
+Tabe (D): Still; not having changed; keep doing; continue.
 Taza (D*): New; young; fresh.
 Tatu (D*): Early.
 Tate (D*): Temporary.
@@ -138,10 +138,9 @@ Gebu (N): Wave.
 Gefu (N): Bump; lump; pile; mound; heap.
 Gese (N): Net; mesh; network; web.
 Geki (N): Corner; vertex; point.
-Geke (N): Edge; line.
+Geke (N): Edge; line; length; distance; range; span; interval.
 Geka (N): Area of a surface; region; zone.
 Geku (N): Volume; amount of space.
-(N): Range; span; length; interval; distance.
 Gezi (N): Border; outline; frame; profile.
 Geze (N): Surface; side; face; skin.
 Gezo (N): Side; neither the top nor the bottom.
@@ -151,19 +150,21 @@ Gepe (N): Space; gap.
 Gefi (D*): Long; tall.
 Gefe (D*): Wide; broad.
 Gefo (D*): Thick in a geometric sense; deep; fat.
-(D): Straight; direct.
-(D): Curved; round.
-(D): Flat.
+Gebi (D): Straight; direct.
+Gebe (D): Flat.
+Gebo (D): Curved; round.
 Geza (D*): Bumpy; rough.
 Getu (D): Tapered.
 Geti (D*): Sharp; pointy.
 Gedi (D*): Split; divide; tear; rip; break; crack; snap.
-(V*): Connect to; join; attach; mechanically link to.
-(V*): Tie a string; sew; stitch.
+Gepa (V*): Connect to; join; attach; mechanically link to.
+Gepi (V*): Tie a string; sew; stitch.
 (V): Reach; access.
 Gevi (D): Stand.
 Geva (D): Sit.
 Gevu (D): Lie down.
+
+$$$
 
 > STIMULI (BE-)
 
@@ -343,7 +344,7 @@ Feti (N*): Pain; ache.
 Fegi (D*): Happy; glad; content.
 Fega (D*): Comfortable.
 Feda (D*): Angry; mad.
-(D*): Nervous; anxious; worried; stressed.
+Fepi (D*): Nervous; anxious; worried; stressed.
 Fetu (D*): Guilty; shameful; sorry; embarrassed.
 Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
@@ -585,7 +586,7 @@ Keda (D*): Hot; warm.
 Kepi (D*): Wet; damp; moist.
 Kedu (D*): Clean.
 (D*): Safe; secure.
-(D*): Simple; easy; basic; plain.
+Kebi (D*): Simple; easy; basic; plain.
 Keve (D*): Nice; kind; generous; polite.
 (D*): Cute; adorable.
 (D*): Popular; cool; famous.
