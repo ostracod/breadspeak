@@ -669,8 +669,6 @@ Vaka (N): Rule; regulation; law; policy.
 Vatu (D*): Should; ought to.
 Vato (D*): Fair; just; right.
 
-$$$
-
 > FOOD (FA-)
 
 Fadi (N): Food; fuel.
