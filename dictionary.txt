@@ -212,7 +212,7 @@ Teve (V): Send; submit; transmit.
 Tedi (V*): Come; go toward; arrive; approach.
 Teda (V): Follow; pursue.
 (V*): Enter; go in.
-(D): Walk; run.
+Teso (D): Walk; run.
 Tebu (D): Reflect; deflect; bounce.
 Tebo (D): Fall; drop; collapse; pour; spill.
 Tepe (D): Fly.
@@ -265,7 +265,7 @@ Saki (D*): Exact; precise; particular; specific; certain; definite.
 Sazi (D): Which; interrogative identity.
 Saze (D): Does; interrogative truth.
 Saka (N): Name; title.
-(N): Example; sample; instance; model.
+Sade (N): Example; sample; instance; model.
 Sako (D): Copy; duplicate; replicate; repeat; multiply.
 (D): Whether; if; represents the truth of a clause.
 (D): Hypothetical; imaginary; conditional; would.
@@ -297,14 +297,14 @@ Kati (V*): Learn; study; research; investigate.
 Kate (V): Teach; instruct; educate; lecture.
 Kapu (V*): Search for; look for; hunt for; seek; try to find.
 Kapo (V*): Find; discover; measure; determine.
-(V): Test; experiment with.
+Kade (V): Test; experiment with.
 Kadu (V): Communicate; state; claim; tell; discuss; express; inform.
 Kasa (V): Say; speak; talk; communicate verbally.
 Kavo (V): Call.
 Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
-(V): Argue about; debate; dispute.
-(V*): Approve; verify; confirm; praise; support; agree with; concur.
+Kafa (V): Argue about; debate; dispute.
+Kafi (V*): Approve; verify; confirm; praise; support; agree with; concur.
 Kave (V): Describe; explain; report.
 Kavi (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
@@ -488,9 +488,9 @@ Sezu (D*): Many; a lot; often; frequent; numerous.
 Seda (D*): Every; all; each.
 Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
 (D*): Most; the majority; almost all.
-(D): Again; another time.
 (D): Only; just; alone; unique; sole.
-(D): Also; too.
+Seve (D): Again; another time.
+Sevi (D): Also; too.
 Sede (P*): Add a number.
 Sepi (P*): Multiply a number.
 Seva (P*): Exponentiate a number.
@@ -557,15 +557,13 @@ Zefe (V): Meet; encounter.
 (V): Depend on; be controlled by; rely on.
 Zetu (P): Except; not including; aside from.
 (P): Instead of; on behalf of; in place of.
-(N*): Friend; buddy.
+Zepi (N*): Friend; buddy.
 (N): Family.
 Zeta (V*): Marry.
 Zete (N): Spouse.
 Zefo (N*): Parent.
 Zefa (N): Sibling.
-(D*): Public.
-
-$$$
+Zege (D*): Public.
 
 > QUALITY (KE-)
 
@@ -605,71 +603,73 @@ Keza (D*): Creative.
 
 Zato (N): Tool; utensil; instrument; device; equipment.
 Zase (N): Machine.
+Zaso (N): Vehicle.
 Zako (N*): Outlet; spout; dispenser.
 Zado (N): Lever.
 Zafi (N): String; thread; lace; rope; wire; cable.
 Zafe (N): Tape; ribbon; belt; band; strip.
-(N): Key; for locking and unlocking.
 Zazu (N): Building.
 Zaze (N): Road; street.
-(N): Vehicle.
 Zadi (D*): On; active; operating; functioning; have the capacity to work.
 Zape (N): Radio; wireless communication.
 Zake (N): Computer.
+Zaki (N): Program; application; software; code.
 Zasa (N): Phone; telephone.
-(N): Program; application; software; code.
 Zadu (N): Web; internet.
 Zaza (N): Clothing; clothes.
-(V): Wear clothing.
+Zazo (V): Wear clothing.
 Zaga (N): Furniture.
 Zavu (N): Table.
-(N): Bath; basin; tub; shower; sink; toilet.
 Zasu (N): Bag; pocket; sack.
 Zapi (N): Container; package; case.
-(N): Bowl; cup; bucket; basket; bin; pot.
+Zabo (N): Bowl; cup; bucket; basket; bin; pot.
+Zabu (N): Bath; basin; tub; shower; sink; toilet.
 Zate (V*): Open.
 Zada (D*): Full; with no space remaining.
 (V*): Cover; wrap.
-(V*): Lock.
+Zatu (V*): Lock.
+Zati (N): Key; for locking and unlocking.
 Zabi (V*): Write; draw.
 Zafo (V): Read.
 Zaka (N): Image; picture; photo; appearance.
-(N): Mark.
-(N): Symbol; letter; digit; character.
-(N): Text; script.
+Zaku (N): Video; movie; film.
+Zavi (N): Mark.
+Zava (N): Symbol; letter; digit; character.
+Zavo (N): Text; script.
 Zapa (N): Book.
 Zave (N): Mail; letter.
 Zata (N): News; tabloid.
-(N): Video; movie; film.
 
 > SOCIETY AND WORK (VA-)
 
 Vadu (N): Country; nation; state; territory.
 Vagu (N): Town; village; city.
 Vape (N): Money; currency.
-(N): Price; cost; fee.
+Vapo (N): Price; cost; fee.
 Vave (V*): Pay; give money; spend.
 Vavo (V*): Buy; purchase.
 Vazu (N): Shop; store.
-(N): Company; business; enterprise.
-(N): Job; occupation; career; duty; responsibility; profession.
+Vazo (N): Company; business; enterprise.
 Vadi (V): Work on; operate; function; do something productive.
-(V): Practice; exercise; train.
-(D*): Busy; preoccupied; engaged.
+Vade (V): Practice; exercise; train.
+Vada (D*): Busy; preoccupied; engaged.
+Vado (N): Job; occupation; career; duty; responsibility; profession.
 Vavu (D*): Rest; relax.
 Vaku (D*): Imperative; please.
-(V): Control; drive; manage; operate; regulate.
-(V*): Capture; trap.
-(V): Suggest; recommend; advise; direct; guide; lead; propose.
+Vako (V): Control; drive; manage; operate; regulate.
+Vake (V*): Capture; trap.
 Vagi (V*): Let; allow; permit.
-(V*): Demand; request; ask for; order; command.
-(V*): Fight; attack; compete with; battle.
+Vage (D*): Free.
+Vapi (V): Suggest; recommend; advise; direct; guide; lead; propose.
+Vapa (V*): Demand; request; ask for; order; command.
+Vapu (V*): Fight; attack; compete with; battle.
 Vase (N): Government; authority; committee; council; regime.
 Vaka (N): Rule; regulation; law; policy.
 (N): Religion.
 Vatu (D*): Should; ought to.
-(D*): Fair; just; right.
-(D*): Free.
+Vato (D*): Fair; just; right.
+
+$$$
 
 > FOOD (FA-)
 
