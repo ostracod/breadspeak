@@ -239,7 +239,7 @@ Bade (V*): Push; press; shove.
 Badu (V*): Squeeze; compress.
 Bapo (V): Hold; support; grab.
 Bapu (V): Bond to; stick to.
-(V): Cut; chop; shear; slice.
+Bati (V): Cut; chop; shear; slice.
 (V): Hit; beat; strike; crash; knock.
 Bada (V): Brush; comb; sweep.
 Baza (V): Rub; drag on; wipe; stroke.
@@ -332,7 +332,7 @@ Gave (V*): Help do something; serve; support; assist; aid.
 Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
 Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
-(N*): Mistake; error; accident.
+Gapo (N*): Mistake; error; accident.
 (N*): Garbage; trash; pollution.
 Gavo (N*): Prize; reward; award; bonus; treat; present; gift.
 
@@ -675,13 +675,14 @@ $$$
 
 Fadi (N): Food; fuel.
 Fapi (N): Drink; beverage.
+Fapo (N): Alcohol.
 Fagi (N): Dessert; treat; candy.
 Fapa (N): Vegetable.
 Fasi (N): Fruit.
 Fadu (N): Potato.
-(N): Grain.
-(N): Rice.
-(N): Wheat.
+Fava (N): Grain.
+Fave (N): Wheat.
+Favi (N): Rice.
 Fate (N): Corn.
 Fasa (N): Tomato.
 Fape (N): Meat; flesh; muscle.
@@ -692,9 +693,8 @@ Faba (N): Coffee.
 Fage (N): Milk.
 Fafu (N): Pasta.
 Fagu (N): Cheese.
-(N): Alcohol.
 Fato (V): Eat; drink; consume.
-(V): Bite; chew.
+Fati (V): Bite; chew.
 Fapu (V): Swallow.
 Favo (V): Digest.
 Favu (N): Dish; plate; tray.
