@@ -111,7 +111,7 @@ Tapi (P*): While; during.
 Taki (D): Soon.
 Tafi (D): Recent; just.
 Taka (D): Sudden; abrupt.
-(D): Already.
+Tazi (D): Already.
 (D): Yet.
 Tabe (D): Still; not having changed; keep doing; continue.
 Taza (D*): New; young; fresh.
@@ -163,8 +163,6 @@ Gepi (V*): Tie a string; sew; stitch.
 Gevi (D): Stand.
 Geva (D): Sit.
 Gevu (D): Lie down.
-
-$$$
 
 > STIMULI (BE-)
 
@@ -261,19 +259,19 @@ Sabo (N): Object; item; physical entity.
 Sabu (N): Mass; matter.
 Satu (N): Event; incident.
 Saba (D): Happen; occur.
-(D): Specifies the object to which a clause is referring. The default object is the primary object.
+Savo (D): Specifies the object to which a clause is referring. The default object is the primary object.
 Saki (D*): Exact; precise; particular; specific; certain; definite.
 Sazi (D): Which; interrogative identity.
 Saze (D): Does; interrogative truth.
+Sase (D): Whether; if; represents the truth of a clause.
 Saka (N): Name; title.
 Sade (N): Example; sample; instance; model.
 Sako (D): Copy; duplicate; replicate; repeat; multiply.
-(D): Whether; if; represents the truth of a clause.
-(D): Hypothetical; imaginary; conditional; would.
 Sake (D*): Possible; can; able to happen; capable of happening.
 Saku (N): Probability; chance; luck; odds; prospect.
 Sazu (D*): Probably; likely.
 Sadi (D): May; might; maybe; perhaps.
+Sadu (D): Hypothetical; imaginary; conditional; would.
 Sati (D*): Start; begin; initiate; launch; proceed.
 Safi (V*): Start; cause to begin; initiate; launch; proceed.
 Sato (D): Complete; finished; be accomplished; be achieved; conclude.
@@ -306,13 +304,13 @@ Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
 Kafa (V): Argue about; debate; dispute.
 Kafi (V*): Approve; verify; confirm; praise; support; agree with; concur.
+Kafo (N): Thank you; thanks; gratitude.
 Kave (V): Describe; explain; report.
 Kavi (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
 Kagu (N): Sentence.
 Kase (N): Language.
 Kafe (N*): Hello; hi; salutation; greeting; welcome.
-(N): Thank you; thanks; gratitude.
 
 > GOAL (GA-)
 
@@ -322,7 +320,7 @@ Gagi (D*): Good.
 Gaga (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
 Gake (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
 Gaka (D*): Useful; helpful; convenient; handy.
-(D*): Ready; prepared.
+Gaki (D*): Ready; prepared.
 Gapa (V*): Want; hope for; wish for; desire.
 Gaba (V*): Need; require; must.
 Gage (V): Choose; decide; pick; commit; elect; select; vote for.
@@ -334,8 +332,10 @@ Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
 Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
 Gapo (N*): Mistake; error; accident.
-(N*): Garbage; trash; pollution.
+Gapu (N*): Garbage; trash; pollution.
 Gavo (N*): Prize; reward; award; bonus; treat; present; gift.
+
+$$$
 
 > FEELING WITH VALUE (FE-)
 
@@ -349,7 +349,7 @@ Fetu (D*): Guilty; shameful; sorry; embarrassed.
 Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
 (V*): Care about; have concern for; worry about; respect.
-(V*): Annoy; irritate; bother; disturb.
+Fepu (V*): Annoy; irritate; bother; disturb.
 Feki (V*): Surprise; amaze; shock.
 Feka (V*): Scare; frighten; startle.
 (V*): Excite; make eager.
@@ -592,7 +592,7 @@ Keve (D*): Nice; kind; generous; polite.
 (D*): Popular; cool; famous.
 Kefo (D*): Beautiful; pretty; attractive; gorgeous.
 (D*): Fancy; formal.
-(D*): Gross; disgusting; nasty.
+Kepu (D*): Gross; disgusting; nasty.
 (D*): Brave; bold; courageous; confident.
 Kedi (D*): Crazy; mad; wild; ridiculous; silly.
 (D*): Careful; alert; prudent; cautious; gentle; responsible.
