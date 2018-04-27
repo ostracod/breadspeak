@@ -335,8 +335,6 @@ Gapo (N*): Mistake; error; accident.
 Gapu (N*): Garbage; trash; pollution.
 Gavo (N*): Prize; reward; award; bonus; treat; present; gift.
 
-$$$
-
 > FEELING WITH VALUE (FE-)
 
 Feku (N): Emotion; mood.
@@ -345,15 +343,15 @@ Fegi (D*): Happy; glad; content.
 Fega (D*): Comfortable.
 Feda (D*): Angry; mad.
 Fepi (D*): Nervous; anxious; worried; stressed.
+Fepa (V*): Care about; have concern for; worry about; respect.
 Fetu (D*): Guilty; shameful; sorry; embarrassed.
 Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
 Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
-(V*): Care about; have concern for; worry about; respect.
 Fepu (V*): Annoy; irritate; bother; disturb.
 Feki (V*): Surprise; amaze; shock.
 Feka (V*): Scare; frighten; startle.
-(V*): Excite; make eager.
 Fefo (V*): Interest; fascinate.
+Fefi (V*): Excite; make eager.
 Fedo (V*): Entertain; be fun to; be funny to.
 Fefa (V): Laugh at.
 Febi (V): Play.
@@ -405,7 +403,7 @@ Pefo (V): Have sex with.
 Dagi (N): Part; piece; component; element; factor; section.
 Dadu (N): Land; ground.
 Dapi (N): Ocean; sea; lake; pond.
-(N): River; stream.
+Dapu (N): River; stream.
 Dafu (N): Hill; mountain.
 Dape (N): Sky.
 Dazu (N): Room; chamber.
@@ -413,9 +411,9 @@ Davi (N): Wall.
 Davu (N): Floor.
 Dabi (N): Window.
 (N): Door; gate.
-(N): Stair; step.
 Dafa (N): Level; layer; shelf.
-(N): Hinge; joint.
+Dafo (N): Stair; step.
+Dade (N): Hinge; joint.
 Dado (N): Wheel.
 Dabe (N): Button; key; switch.
 Dapo (N): Knob; handle.
@@ -432,11 +430,13 @@ Dabu (N): Hand.
 Date (N): Foot.
 Dada (N): Hair; fur; feather.
 Daga (N): Organ.
-(N): Cell; part of an organism.
+Dasa (N): Cell; part of an organism.
 Daza (N): Atom.
 Daba (N): Proton.
 Dabo (N): Neutron.
 Dapa (N): Electron.
+
+$$$
 
 > MATERIALS (VE-)
 
@@ -595,7 +595,7 @@ Kefo (D*): Beautiful; pretty; attractive; gorgeous.
 Kepu (D*): Gross; disgusting; nasty.
 (D*): Brave; bold; courageous; confident.
 Kedi (D*): Crazy; mad; wild; ridiculous; silly.
-(D*): Careful; alert; prudent; cautious; gentle; responsible.
+Kepa (D*): Careful; alert; prudent; cautious; gentle; responsible.
 Keka (D*): Clever; smart; intelligent.
 Kegi (D*): Logical; reasonable.
 Keza (D*): Creative.
