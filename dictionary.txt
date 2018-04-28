@@ -218,7 +218,7 @@ Tepe (D): Fly.
 Teze (D): Slide; glide; slip.
 Tepi (D): Shower; spray.
 Tede (D*): Spread; disperse.
-(D): Shake; vibrate; shiver.
+Tezo (D): Shake; vibrate; shiver.
 Tedo (D*): Spin; turn; rotate; tip; twist.
 Tefo (V*): Spin; turn; cause to rotate; tip; twist.
 Tega (N): Path; way; route; channel; course.
@@ -436,8 +436,6 @@ Daba (N): Proton.
 Dabo (N): Neutron.
 Dapa (N): Electron.
 
-$$$
-
 > MATERIALS (VE-)
 
 Vepu (N): Material; substance.
@@ -488,7 +486,7 @@ Seko (D): Plural; more than one; several; some.
 Sezu (D*): Many; a lot; often; frequent; numerous.
 Seda (D*): Every; all; each.
 Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
-(D*): Most; the majority; almost all.
+Sego (D*): Most; the majority; almost all.
 (D): Only; just; alone; unique; sole.
 Seve (D): Again; another time.
 Sevi (D): Also; too.
@@ -548,6 +546,7 @@ Zese (N): System; process.
 Zezu (D*): Main; chief; principal; primary; capital.
 Zede (P): Of; pertaining to; related to; having a conceptual connection with.
 Zedu (P): About; having a subject; having a topic.
+Zeda (V): Depend on; be controlled by; rely on.
 Zeko (P): If; under the condition that.
 Zesa (D*): But; however; although; despite.
 Zegi (P*): With; along with; accompanied by.
@@ -555,7 +554,6 @@ Zepa (V): Have; own; possess.
 Zeve (V*): Give; contribute; donate; transfer; grant; provide; supply.
 Zevo (V*): Get; receive; acquire; gain; obtain.
 Zefe (V): Meet; encounter.
-(V): Depend on; be controlled by; rely on.
 Zetu (P): Except; not including; aside from.
 (P): Instead of; on behalf of; in place of.
 Zepi (N*): Friend; buddy.
@@ -571,12 +569,12 @@ Zege (D*): Public.
 Keke (N): Quality; characteristic; attribute.
 Kegu (N): Category; kind; sort; type.
 Ketu (N): Manner; method; way; mechanism; technique.
-(N): Pattern; trend.
 Kefe (N): Style; fashion; aesthetic.
 Keva (N): Culture; ethnicity.
 Keta (N): State; status; mode; phase; stage.
 Kepe (N): Weather; climate.
 Kezu (P*): Like; similar to; having a quality pertaining to.
+Kezo (N): Pattern; trend.
 Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
 Keti (D): Change; become different; transform.
 Kefi (V): Change; alter; convert; cause to become different.
@@ -599,6 +597,8 @@ Kepa (D*): Careful; alert; prudent; cautious; gentle; responsible.
 Keka (D*): Clever; smart; intelligent.
 Kegi (D*): Logical; reasonable.
 Keza (D*): Creative.
+
+$$$
 
 > TECHNOLOGY AND MEDIA (ZA-)
 
