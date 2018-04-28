@@ -84,7 +84,7 @@ Paki (P*): Near; close to; around; beside; by.
 Pake (D*): Together.
 Pazo (N): Middle; center.
 Papi (P): Between; among; within.
-(V): Keep; store; preserve; retain; save.
+Pasu (V): Keep; store; preserve; retain; save.
 Papu (P): Through.
 Paka (P): Across.
 Pata (P): Perpendicular to.
@@ -112,7 +112,7 @@ Taki (D): Soon.
 Tafi (D): Recent; just.
 Taka (D): Sudden; abrupt.
 Tazi (D): Already.
-(D): Yet.
+Taba (D): Yet.
 Tabe (D): Still; not having changed; keep doing; continue.
 Taza (D*): New; young; fresh.
 Tatu (D*): Early.
@@ -159,7 +159,7 @@ Geti (D*): Sharp; pointy.
 Gedi (D*): Split; divide; tear; rip; break; crack; snap.
 Gepa (V*): Connect to; join; attach; mechanically link to.
 Gepi (V*): Tie a string; sew; stitch.
-(V): Reach; access.
+Gezu (V): Reach; access.
 Gevi (D): Stand.
 Geva (D): Sit.
 Gevu (D): Lie down.
@@ -170,10 +170,10 @@ Beki (V): Feel; sense; detect; perceive; witness.
 Bebi (N*): Light.
 Befe (V): See.
 Befo (V): Look at; watch; view; examine; inspect; observe.
-(V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
+Beko (V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
 Bezu (D*): Bright; light.
-(D*): Saturated; vibrant.
-(D): Flash; blink; sparkle; glimmer.
+Besu (D*): Saturated; vibrant.
+Beti (D): Flash; blink; sparkle; glimmer.
 Bebe (N): Color.
 Besa (D): Red.
 Beta (D): Orange.
@@ -187,7 +187,7 @@ Bego (D): Gray.
 Bezo (N): Sound; noise.
 Beve (V): Hear.
 Bevo (V): Listen.
-(D*): Loud; noisy.
+Beva (D*): Loud; noisy.
 Besi (D*): High pitched.
 Beze (N): Buzz; hum.
 Bepi (N): Beep; chirp.
@@ -200,6 +200,8 @@ Bebu (D): Sour.
 Beba (D): Bitter.
 Begi (D): Spicy.
 Begu (D): Umami; meaty.
+
+$$$
 
 > MOVEMENT (TE-)
 
