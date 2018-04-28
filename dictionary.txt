@@ -201,8 +201,6 @@ Beba (D): Bitter.
 Begi (D): Spicy.
 Begu (D): Umami; meaty.
 
-$$$
-
 > MOVEMENT (TE-)
 
 Tepo (V*): Move; cause to go.
@@ -212,7 +210,7 @@ Tefa (V*): Raise; lift.
 Teve (V): Send; submit; transmit.
 Tedi (V*): Come; go toward; arrive; approach.
 Teda (V): Follow; pursue.
-(V*): Enter; go in.
+Tezu (V*): Enter; go in.
 Teso (D): Walk; run.
 Tebu (D): Reflect; deflect; bounce.
 Tebo (D): Fall; drop; collapse; pour; spill.
@@ -226,7 +224,7 @@ Tefo (V*): Spin; turn; cause to rotate; tip; twist.
 Tega (N): Path; way; route; channel; course.
 Teku (N): Speed; rate; pace.
 Teta (D*): Fast; quick; rapid.
-(D*): Stable; steady.
+Tebe (D*): Stable; steady.
 
 > FORCE (BA-)
 
@@ -241,17 +239,19 @@ Badu (V*): Squeeze; compress.
 Bapo (V): Hold; support; grab.
 Bapu (V): Bond to; stick to.
 Bati (V): Cut; chop; shear; slice.
-(V): Hit; beat; strike; crash; knock.
+Baka (V): Hit; beat; strike; crash; knock.
 Bada (V): Brush; comb; sweep.
 Baza (V): Rub; drag on; wipe; stroke.
 Baze (V): Scratch; scrape.
 Bafa (V*): Throw; toss.
 Bafu (V): Shoot; fire.
 Bado (D*): Bend; fold.
-(D*): Explode; pop; burst.
+Bafo (D*): Explode; pop; burst.
 Bavi (D): Hang.
 Badi (N): Energy; power.
 Bazu (D*): Strong; fit; powerful; tough; sturdy; durable.
+
+$$$
 
 > EXISTENCE AND IDENTITY (SA-)
 
@@ -585,7 +585,7 @@ Keze (V*): Seem like; appear to be; look like; sound like.
 Keda (D*): Hot; warm.
 Kepi (D*): Wet; damp; moist.
 Kedu (D*): Clean.
-(D*): Safe; secure.
+Kebe (D*): Safe; secure.
 Kebi (D*): Simple; easy; basic; plain.
 Keve (D*): Nice; kind; generous; polite.
 (D*): Cute; adorable.
