@@ -598,8 +598,6 @@ Keka (D*): Clever; smart; intelligent.
 Kegi (D*): Logical; reasonable.
 Keza (D*): Creative.
 
-$$$
-
 > TECHNOLOGY AND MEDIA (ZA-)
 
 Zato (N): Tool; utensil; instrument; device; equipment.
@@ -623,11 +621,11 @@ Zaga (N): Furniture.
 Zavu (N): Table.
 Zasu (N): Bag; pocket; sack.
 Zapi (N): Container; package; case.
+Zapu (V*): Cover; wrap.
 Zabo (N): Bowl; cup; bucket; basket; bin; pot.
 Zabu (N): Bath; basin; tub; shower; sink; toilet.
 Zate (V*): Open.
 Zada (D*): Full; with no space remaining.
-(V*): Cover; wrap.
 Zatu (V*): Lock.
 Zati (N): Key; for locking and unlocking.
 Zabi (V*): Write; draw.
