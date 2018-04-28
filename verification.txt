@@ -1,2415 +1,2420 @@
 
 Source: Longman 3000 list
 
-(Yes) means that the word is already in the dictionary.
+The purpose of these translations is to verify that a wide variety of English words can be translated into BreadSpeak.
 
-A: (Yes)
-Abandon: Leave forever
-Ability: Thing which can be done
-Able: (Yes)
-About: (Yes)
-Above: (Yes)
-Abroad: Far away
-Absence: State of not existing
-Absolute: Certain
-Absorb: Become a part of
-Abuse: Behave unkind toward
-Academic: Pertaining to research
-Accept: Think to be acceptable
-Access: (Yes)
-Accident: (Yes)
-Accommodation: Helpful condition
-Accompany: Be with
-According to: Following
-Account: Personal information
-Accurate: (Yes)
-Accuse: Claim bad behavior
-Achieve: (Yes)
-Acid: (Yes)
-Acknowledge: State the existence of
-Acquire: (Yes)
-Across: (Yes)
-Act: (Yes)
-Action: (Yes)
-Active: (Yes)
-Activity: (Yes)
-Actor: One who acts
-Actual: (Yes)
-Ad: Company announcement
-Adapt: Change to endure
-Add: (Yes)
-Address: Position information
-Adequate: (Yes)
-Adjust: Change amount
-Administration: Controlling group
-Admire: Appreciate an action
-Admit: Allow to enter
-Adopt: Start to own
-Adult: (Yes)
-Advance: Go forward
-Advantage: Ability to perform better
-Advertise: (Yes)
-Advice: (Yes)
-Affair: Happenings
-Affect: (Yes)
-Afford: Able to buy
-Affraid: (Yes)
-After: (Yes)
-Afternoon: After the middle of the day
-Again: (Yes)
-Against: (Yes)
-Age: Amount of oldness
-Agency: Ability to control
-Agent: Someone who does something
-Aggressive: Wanting to fight
-Ago: Before
-Agree: (Yes)
-Agriculture: System for creating plants
-Ahead: (Yes)
-Aid: (Yes)
-Aim: Fix direction
-Air: (Yes)
-Aircraft: Air vehicle
-Airline: Air travel system
-Airport: Air vehicle building
-Alarm: (Yes)
-Album: Group of music
-Alcohol: (Yes)
-Alive: (Yes)
-All: (Yes)
-Allow: (Yes)
-Allowance: Allowed money
-Almost: (Yes)
-Alone: (Yes)
-Along: (Yes)
-Already: (Yes)
-Also: (Yes)
-Alter: (Yes)
-Alternative: Different than normal
-Although: (Yes)
-Altogether: (Yes)
-Always: During all times
-Amazing: (Yes)
-Ambition: Wanting to work
-Ambulance: Healing vehicle
-Among: (Yes)
-Amount: (Yes)
-Analyze: (Yes)
-Ancient: Very old
-And: (Yes)
-Anger: (Yes)
-Angle: (Yes)
-Animal: (Yes)
-Announce: (Yes)
-Annoy: (Yes)
-Annual: Once per year
-Another: (Yes)
-Answer: (Yes)
-Anticipate: Think something will happen
-Anxiety: (Yes)
-Any: (Yes)
-Apart: (Yes)
-Apartment: Many home building
-Apologize: Say that you are sorry
-Apparent: Able to be seen
-Appeal: (Yes)
-Appear: Come into sight
-Appearance: (Yes)
-Apple: Red fruit
-Application: (Yes)
-Apply: Put on
-Appoint: Give a job
-Appointment: Meeting time
-Appreciate: (Yes)
-Approach: (Yes)
-Appropriate: (Yes)
-Approval: (Yes)
-Approximate: (Yes)
-Architect: Creator of building designs
-Area: (Yes)
-Argue: (Yes)
-Arise: Come into sight
-Arm: (Yes)
-Army: Group of fighters
-Around: (Yes)
-Arrange: (Yes)
-Arrest: Give punishment
-Arrive: (Yes)
-Art: (Yes)
-Article: Part
-Artificial: Not natural
-As: (Yes)
-Ashamed: (Yes)
-Aside: (Yes)
-Ask: (Yes)
-Asleep: (Yes)
-Aspect: Part
-Assess: Study the quality of
-Assignment: (Yes)
-Assist: (Yes)
-Associate: Think to be related to
-Assume: (Yes)
-Assure: Cause to be calm
-At: (Yes)
-Atmosphere: Planet air
-Attach: (Yes)
-Attack: (Yes)
-Attempt: (Yes)
-Attend: Be at
-Attention: (Yes)
-Attitude: Quality of behavior
-Attorney: Law person
-Attract: Pull toward
-Attractive: (Yes)
-Audience: Watchers
-Aunt: Parent's sibling
-Author: Writer
-Authority: (Yes)
-Automatic: Work by itself
-Autumn: Season of becoming cold
-Available: Able to be taken
-Average: (Yes)
-Avoid: (Yes)
-Awake: (Yes)
-Award: (Yes)
-Aware: (Yes)
-Away: (Yes)
-Awful: Very bad
-Awkward: Unhelpful
-Baby: (Yes)
-Back: (Yes)
-Background: Environment behind
-Backwards: (Yes)
-Bacon: Pig meat
-Bad: (Yes)
-Bag: (Yes)
-Bake: (Yes)
-Balance: Weight position
-Ball (Yes)
-Ban: Not allow
-Band: (Yes)
-Bang: Explosion noise
-Bank: Money building
-Bar: (Yes)
-Barrier: Stopping object
-Base: (Yes)
-Baseball: Striking sport
-Basic: (Yes)
-Basis: Supporting idea
-Basket: (Yes)
-Bat: Flying night mammal
-Bath: (Yes)
-Bathroom: Toilet room
-Battery: Power container
-Battle: (Yes)
-Be: (Yes)
-Beach: Ocean border
-Bean: (Yes)
-Bear: (Yes)
-Beard: Low facial hair
-Beat: (Yes)
-Beautiful: (Yes)
-Because: (Yes)
-Become: (Yes)
-Bed: Sleeping furniture
-Beef: Cow meat
-Beer: Wheat alcohol
-Before: (Yes)
-Begin: (Yes)
-Behalf: (Yes)
-Behave: (Yes)
-Behind: (Yes)
-Belief: (Yes)
-Bell: Alert noise tool
-Belong: Should be in
-Below: (Yes)
-Belt: (Yes)
-Bench: Sitting furniture
-Bend: (Yes)
-Beneath (Yes)
-Benefit: Good effect
-Beside: (Yes)
-Best: Most good
-Bet: Pay with risk
-Better: More good
-Between: (Yes)
-Beyond: (Yes)
-Bicycle: Foot vehicle
-Bid: Try to pay the most
-Big: (Yes)
-Bill: Requesting money paper
-Bin: (Yes)
-Bird: (Yes)
-Birth: Animal creation
-Biscuit: Bread
-Bit: Small part
-Bite: (Yes)
-Bitter: (Yes)
-Black: (Yes)
-Blade: Cutting edge
-Blame: Claim someone to have done something bad
-Blank: Empty
-Bless: Praise by religion
-Blind: Unable to see
-Block: (Yes)
-Blonde: Yellow hair
-Blood: (Yes)
-Blow: Push air
-Blue: (Yes)
-Board: Flat tool
-Boat: Water vehicle
-Body: (Yes)
-Boil: Become a gas
-Bomb: Explosion device
-Bone: (Yes)
-Bonus: (Yes)
-Book: (Yes)
-Boom: Explosion sound
-Boot: Rubber foot clothing
-Border: (Yes)
-Bored: (Yes)
-Born: (Yes)
-Borrow: Own temporarily
-Boss: (Yes)
-Both: (Yes)
-Bother: (Yes)
-Bottle: Liquid container
-Bottom: (Yes)
-Bounce: (Yes)
-Bound: (Yes)
-Bowl: (Yes)
-Box: (Yes)
-Boy: Male child
-Brain: Thinking organ
-Branch: (Yes)
-Brave: (Yes)
-Bread: (Yes)
-Break: (Yes)
-Breakfast: Start of day food
-Breast: Milk organ
-Breath: (Yes)
-Breathe: (Yes)
-Brick: Ceramic block
-Bridge: Road above land
-Brief: During a short time
-Bright: (Yes)
-Brilliant: (Yes)
-Bring: (Yes)
-Broad: (Yes)
-Brother: Male sibling
-Brown: Dark orange
-Brush: (Yes)
-Bucket: (Yes)
-Buddy: (Yes)
-Budget: Amount of money for spending
-Bug: Arthropod
-Build: (Yes)
-Building: (Yes)
-Bump: (Yes)
-Bunch: (Yes)
-Burn: Be eaten by fire
-Burst: (Yes)
-Bury: Put into the ground
-Bus: Many person road vehicle
-Business: (Yes)
-Busy: (Yes)
-But: (Yes)
-Butter: Milk fat
-Button: (Yes)
-Buy: (Yes)
-By: (Yes)
-Bye: (Yes)
-Cabinet: Storage furniture
-Cable: (Yes)
-Cake: Dessert bread
-Calculate: (Yes)
-Calendar: Month plan
-Call: (Yes)
-Calm: (Yes)
-Camera: Seeing machine
-Camp: Land with a particular purpose
-Campaign: Plan of action
-Can: (Yes)
-Cancel: (Yes)
-Cancer: Cell replication disease
-Candidate: Thing which can be chosen
-Candle: Fire light
-Candy: (Yes)
-Cap: Top cover
-Capable: (Yes)
-Capital: (Yes)
-Captain: (Yes)
-Capture: (Yes)
-Car: Road vehicle
-Card: Small paper
-Care: (Yes)
-Career: (Yes)
-Careful: (Yes)
-Carpet: Floor cloth
-Carrot: Long orange vegetable
-Carry: (Yes)
-Cartoon: Drawn video
-Case: (Yes)
-Cash: Money object
-Cast: Put liquid into a shape hole
-Castle: Attack building
-Cat: (Yes)
-Catalogue: Book of things for buying
-Catch: (Yes)
-Category: (Yes)
-Cause: (Yes)
-Cease: (Yes)
-Ceiling: Room top
-Celebrate: (Yes)
-Cell: (Yes)
-Cellphone: Wireless phone
-Central: (Yes)
-Cereal: Grain food.
-Certain: (Yes)
-Certificate: Authority verification
-Chain: Link string
-Chair: Sitting furniture
-Challenge: Difficult task
-Champion: Best winner
-Chance: (Yes)
-Change: (Yes)
-Channel: (Yes)
-Chapter: Part of a book
-Character: (Yes)
-Characteristic: (Yes)
-Charge: Give power
-Charity: Company for giving free money.
-Chart: Representation drawing
-Chase: Try to reach quickly
-Chat: (Yes)
-Cheap: Small cost
-Cheat: Not follow the rules
-Check: Look at the status of
-Cheek: Mouth side
-Cheese: Cheese
-Chemical: Configuration of atoms
-Cherry: Small red fruit
-Chest: Top of torso
-Chicken: (Yes)
-Chief: (Yes)
-Child: (Yes)
-Chip: Flat piece
-Chocolate: Bitter sugar treat
-Choose: (Yes)
-Chop: (Yes)
-Chuck: (Yes)
-Church: Religion building
-Cigarette: Smoke stick
-Cinema: Movie building
-Circle: (Yes)
-Circuit: Electricity path
-Circumstance: (Yes)
-Citizen: Person having a home in a place
-City: (Yes)
-Civil: Pertaining to a group of people
-Claim: (Yes)
-Class: Education time
-Classic: Having old qualities
-Clean: (Yes)
-Clear: (Yes)
-Clever: (Yes)
-Click: (Yes)
-Client: Person being helped
-Climate: (Yes)
-Climb: Go up a side
-Clock: Time device
-Close: (Yes)
-Closet: Storage room
-Cloth: (Yes)
-Clothes: (Yes)
-Cloud: (Yes)
-Club: Group of people
-Clue: Aid for understanding
-Coach: (Yes)
-Coal: Dirty black rock
-Coast: Edge of land
-Coat: Warm clothing
-Code: (Yes)
-Coffee: (Yes)
-Coin: Metal money circle
-Cold: (Yes)
-Collapse: (Yes)
-Collar: Neck band
-Colleague: Worker in the same company
-Collect: Put together
-College: Higher education
-Color: (Yes)
-Column: Vertical group
-Combine: Put together
-Come: (Yes)
-Comfortable: (Yes)
-Command: (Yes)
-Comment: (Yes)
-Commercial: Video advertisement
-Commission: Payed work
-Commit: (Yes)
-Committee: (Yes)
-Common: (Yes)
-Communicate: (Yes)
-Community: Group of people
-Company: (Yes)
-Compare: Focus on differences
-Compete: (Yes)
-Complain: Talk about problems
-Complete: (Yes)
-Complex: (Yes)
-Component: (Yes)
-Comprehensive: (Yes)
-Comprise: Be a part of
-Computer: (Yes)
-Concentrate: (Yes)
-Concept: (Yes)
-Concern: (Yes)
-Concert: Music time
-Conclude: (Yes)
-Condition: (Yes)
-Conduct: (Yes)
-Conference: (Yes)
-Confident: (Yes)
-Confine: Keep in a space
-Confirm: (Yes)
-Conflict: (Yes)
-Confuse: Cause to misunderstand
-Congrate: Say that someone did well
-Connect: (Yes)
-Conscious: (Yes)
-Consent: (Yes)
-Consequence: Something that is caused
-Consider: Think about an option
-Consist: (Yes)
-Consistent: Often having a single quality
-Constant: Never stopping
-Constitute: Be a part of
-Construct: (Yes)
-Consult: Get advice from
-Consumer: (Yes)
-Contact: (Yes)
-Contain: Have inside
-Contemporary: Having new qualities
-Content: (Yes)
-Contest: (Yes)
-Context: (Yes)
-Continue: (Yes)
-Contract: Agreement in writing
-Contrast: (Yes)
-Contribute: (Yes)
-Control: (Yes)
-Convenient: (Yes)
-Convention: Normal method
-Conversation: (Yes)
-Convert: (Yes)
-Conviction: (Yes)
-Convince: Cause to believe
-Cook: (Yes)
-Cookie: Circle treat
-Cool: (Yes)
-Cooperate: Work together
-Cope: (Yes)
-Copy: (Yes)
-Core: Center part
-Corn: (Yes)
-Corner: (Yes)
-Correct: (Yes)
-Corridor: Long room
-Cost: (Yes)
-Cotton: (Yes)
-Could: Would be able
-Council: (Yes)
-Count: Measure the quantity of
-Country: (Yes)
-Couple: (Yes)
-Courage: (Yes)
-Course: (Yes)
-Court: Law room
-Cousin: Parent's sibling's offspring
-Cover: (Yes)
-Cow: (Yes)
-Crack: (Yes)
-Craft: (Yes)
-Crash: (Yes)
-Crazy: (Yes)
-Create: (Yes)
-Creative: (Yes)
-Creature: (Yes)
-Credit: Confirmation of an action
-Crew: Group of workers
-Crime: Action against the law
-Crisis: (Yes)
-Criterion: Requirement for
-Criticize: Show the problems of
-Crop: Plant food
-Cross: Go across
-Crowd: Group of people
-Crown: Valuable metal head clothing
-Crucial: (Yes)
-Cruel: (Yes)
-Cry: Produce water from eyes
-Culture: (Yes)
-Cup: (Yes)
-Cupboard: Storage furniture
-Curious: Wanting to learn
-Currency: (Yes)
-Current: (Yes)
-Curtain: Window cloth
-Curve: (Yes)
-Cushion: Comfortable furniture bag
-Custom: Specially chosen
-Customer: (Yes)
-Cut: (Yes)
-Cute: (Yes)
-Cycle: Repeating events
-Dad: Male parent
-Daily: Every day
-Damage: (Yes)
-Dance: Move body with music
-Danger: (Yes)
-Dare: Be brave enough
-Dark: (Yes)
-Darling: Loved
-Data: (Yes)
-Database: Data storage
-Date: Time of year
-Daughter: Female offspring
-Day: (Yes)
-Dead: (Yes)
-Deaf: Cannot hear
-Deal: Agreement
-Dear: Loved
-Debate: (Yes)
-Debt: Money that should be payed
-Decent: (Yes)
-Decide: (Yes)
-Declare: (Yes)
-Decline: Not agree
-Deep: (Yes)
-Defeat: (Yes)
-Defend: (Yes)
-Define: State the meaning of
-Definite: (Yes)
-Degree: (Yes)
-Delay: Waiting time
-Deliberately: By intention
-Deliver: (Yes)
-Demand: (Yes)
-Democracy: Government in which everyone has some control
-Demonstrate: (Yes)
-Dentist: Mouth fixing person
-Deny: (Yes)
-Department: Part of an authority
-Departure: (Yes)
-Depend: (Yes)
-Dependent: (Yes)
-Deposit: Put money into
-Depression: Sadness disease
-Depth: (Yes)
-Derive: Find using logic
-Describe: (Yes)
-Desert: Land with scarce rain
-Deserve: Should have
-Design: (Yes)
-Desire: (Yes)
-Desk: Work table
-Desperate: Having few options
-Despite: (Yes)
-Destroy: (Yes)
-Detail: Part of design
-Detect: (Yes)
-Determination: Wanting to achieve
-Determine: (Yes)
-Develop: Become more complete
-Device: (Yes)
-Devil: Bad religion man
-Diagram: Design picture
-Diamond: Hardest gem
-Diary: Book for writing thoughts
-Die: Become dead
-Diet: Things which someone eats
-Differ: Be different with respect to
-Different: (Yes)
-Difficult: (Yes)
-Dig: Make a hole in the ground
-Dimension: Length in a direction
-Dinner: Night food
-Direct: (Yes)
-Direction: (Yes)
-Directory: List of information about people
-Dirt: (Yes)
-Dirty: (Yes)
-Disabled: Not able to do something
-Disagree: (Yes)
-Disappear: Leave sight
-Disappoint: Be worse than expected
-Disaster: Very bad event
-Disc: Flat circle object
-Discipline: Teach good behavior
-Discount: Lower price
-Discover: (Yes)
-Discuss: (Yes)
-Disease: (Yes)
-Disgust: (Yes)
-Dish: (Yes)
-Dismiss: Command to leave
-Display: Electronic picture device
-Dispute: (Yes)
-Distance: (Yes)
-Distant: (Yes)
-Distinct: Having a different identity
-Distinguish: Determine the difference between
-Distribute: Give to many people
-District: Part of land
-Disturb: (Yes)
-Divide: (Yes)
-Divorce: (Yes)
-Do: (Yes)
-Document: Text report
-Dog: (Yes)
-Dollar: (Yes)
-Domestic: Pertaining to home
-Dominate: (Yes)
-Door: (Yes)
-Dot: Circle mark
-Double: Amount multiplied by two
-Doubt: (Yes)
-Down: (Yes)
-Draft: Form before completion
-Drag: (Yes)
-Drama: (Yes)
-Draw: (Yes)
-Drawer: Sliding storage box
-Dream: Sleep thinking
-Dress: Cause to wear
-Drink: (Yes)
-Drive: (Yes)
-Drop: (Yes)
-Drug: (Yes)
-Drunk: Affected by alcohol
-Dry: (Yes)
-Duck: Water bird
-Dude: Male person
-Due: Should be completed before a time
-Dull: (Yes)
-Dumb: (Yes)
-Dump: (Yes)
-During: (Yes)
-Dust: (Yes)
-Duty: (Yes)
-Each: (Yes)
-Ear: Hearing organ
-Early: (Yes)
-Earn: Receive by means of work
-Earth: (Yes)
-East: (Yes)
-Easy: (Yes)
-Eat: (Yes)
-Economy: Money system
-Edge: (Yes)
-Edition: Version of text
-Educate: (Yes)
-Effect: Something which is caused
-Effective: Good for causing something
-Efficient: Using a small amount of something valuable
-Effort: (Yes)
-Egg: (Yes)
-Either: (Yes)
-Elderly: (Yes)
-Elect: (Yes)
-Electricity: (Yes)
-Element: (Yes)
-Elevator: Lift machine
-Else: If not
-Email: Electronic mail
-Embarrassed: (Yes)
-Emerge: Come into sight
-Emergency: (Yes)
-Emotion: (Yes)
-Emphasize: Show the importance of
-Empire: Big government
-Employ: (Yes)
-Empty: (Yes)
-Enable: Cause to be possible
-Encounter: (Yes)
-Encourage: Cause to want to do something
-End: (Yes)
-Enemy: (Yes)
-Energy: (Yes)
-Engage: (Yes)
-Engine: Spin machine
-Engineer: Machine making person
-Enhance: Make better
-Enjoy: (Yes)
-Enormous: Very big
-Enough: (Yes)
-Enquiry: (Yes)
-Ensure: Cause to be certain
-Enter: (Yes)
-Enterprise: (Yes)
-Entertain: (Yes)
-Enthusiastic: Showing enjoyment
-Entire: (Yes)
-Entitle: Give a name
-Envelope: Paper mail container
-Environment: (Yes)
-Equal: (Yes)
-Equipment: (Yes)
-Equivalent: Same with respect to a particular purpose
-Era: Long time
-Error: (Yes)
-Escape: (Yes)
-Especially: Uncommonly very
-Essay: Long text pertaining to something
-Essential: Required for a purpose
-Establish: (Yes)
-Estate: Home land
-Estimate: (Yes)
-Ethnic: (Yes)
-Even: (Yes)
-Evening: End of day
-Event: (Yes)
-Eventual: Happening after a long time
-Ever: Any time
-Every: (Yes)
-Evidence: Something which indicates a truth
-Evil: Very mean
-Exact: (Yes)
-Exam: Knowledge test
-Examine: (Yes)
-Example: (Yes)
-Excellent: Very good
-Except: (Yes)
-Exchange: Give and receive
-Excite: (Yes)
-Exclude: Not be in
-Excuse: Show to be fair
-Executive: Pertaining to control
-Exercise: (Yes)
-Exhibition: Art show
-Exist: (Yes)
-Exit: (Yes)
-Expand: Become larger
-Expect: (Yes)
-Expensive: Having a large price
-Experience: Work knowledge
-Experiment: (Yes)
-Expert: Knowing a lot about something
-Explain: (Yes)
-Explode: (Yes)
-Explore: Travel for learning
-Export: Send to another place
-Expose: (Yes)
-Express: (Yes)
-Extend: Become longer
-Extensive: (Yes)
-Extent: (Yes)
-External: (Yes)
-Extra: (Yes)
-Extraordinary: Very good
-Extreme: (Yes)
-Eye: (Yes)
-Face: (Yes)
-Facility: Useful place
-Fact: True concept
-Factor: (Yes)
-Factory: Item creation building
-Fail: (Yes)
-Fair: (Yes)
-Faith: (Yes)
-Fall: (Yes)
-False: (Yes)
-Familiar: (Yes)
-Family: (Yes)
-Famous: (Yes)
-Fan: Air tool
-Fancy: (Yes)
-Fantastic: Very good
-Far: (Yes)
-Farm: Food land
-Fascinate: (Yes)
-Fashion: (Yes)
-Fast: (Yes)
-Fat: (Yes)
-Father: Male parent
-Fault: Bad part
-Favor: Special help
-Favorite: Most enjoyed
-Fear: (Yes)
-Feature: Good part
-Federal: (Yes)
-Fee: (Yes)
-Feed: Give food
-Feedback: Opinion about something
-Feel: (Yes)
-Female: (Yes)
-Fence: Wooden wall
-Festival: (Yes)
-Fetch: (Yes)
-Few: (Yes)
-Field: Grass land
-Fight: (Yes)
-Figure: (Yes)
-File: Data container
-Fill: Cause to be full
-Film: (Yes)
-Filthy: (Yes)
-Final: (Yes)
-Financial: Pertaining to money
-Find: (Yes)
-Fine: (Yes)
-Finger: (Yes)
-Finish: (Yes)
-Fire: (Yes)
-Firm: (Yes)
-First: (Yes)
-Fish: (Yes)
-Fit: (Yes)
-Fix: (Yes)
-Flash: (Yes)
-Flat: (Yes)
-Flavor: (Yes)
-Flesh: (Yes)
-Flood: Water emergency
-Floor: (Yes)
-Flow: Liquid movement
-Flower: Beautiful plant organ
-Fly: (Yes)
-Focus: (Yes)
-Fold: (Yes)
-Follow: (Yes)
-Food: (Yes)
-Foot: (Yes)
-Football: Foot ball sport
-For: (Yes)
-Force: (Yes)
-Foreign: From a different land
-Forest: Tree land
-Forever: During all times
-Forget: (Yes)
-Forgive: Stop being angry toward
-Fork: Many prong utensil
-Form: (Yes)
-Formal: (Yes)
-Formation: Position organization
-Former: (Yes)
-Formula: Number relationship
-Fortunate: Having good luck
-Fortune: A lot of money
-Forward: (Yes)
-Foundation: Bottom
-Frame: (Yes)
-Frank: Saying the truth
-Free: (Yes)
-Freeway: Many vehicle road
-Freeze: Become a solid
-Frequent: (Yes)
-Fresh: (Yes)
-Friend: (Yes)
-Frighten: (Yes)
-From: (Yes)
-Front: (Yes)
-Fruit: (Yes)
-Fry: Cook in oil
-Fuel: (Yes)
-Fulfil: Achieve requirements
-Full: (Yes)
-Fully: (Yes)
-Fun: (Yes)
-Function: (Yes)
-Fund: Money for a specific purpose
-Fundamental: Important for many things
-Funeral: Death ceremony
-Funny: (Yes)
-Furniture: (Yes)
-Future: (Yes)
-Gain: (Yes)
-Gallery: Art shop
-Game: (Yes)
-Gang: Group of people
-Gap: (Yes)
-Garage: Vehicle building
-Garbage: (Yes)
-Garden: Small plant land
-Garlic: Strong smell vegetable
-Gas: (Yes)
-Gasoline: Vehicle oil fuel
-Gate: (Yes)
-Gather: Come together
-Gay: Preferring the same gender
-Gear: Force transfer wheel
-Gene: Cell data
-General: (Yes)
-Generate: (Yes)
-Generous: Giving often
-Gentle: (Yes)
-Genuine: (Yes)
-Get: (Yes)
-Giant: Very big
-Gift: (Yes)
-Girl: Female child
-Give: (Yes)
-Glad: (Yes)
-Glance: Look quickly
-Glass: (Yes)
-Global: Pertaining to the entire Earth
-Glove: Hand clothing
-Go: (Yes)
-Goal: (Yes)
-God: Religion person
-Gold: Valuable yellow metal
-Golf: Distant hole sport
-Good: (Yes)
-Goodbye: (Yes)
-Gorgeous: (Yes)
-Government: (Yes)
-Grab: (Yes)
-Grade: Quality level
-Gradual: (Yes)
-Gram: (Yes)
-Grammar: Language organization
-Grand: (Yes)
-Grandfather: Male parent of parent
-Grandmother: Female parent of parent
-Grant: (Yes)
-Graph: Picture representing many numbers
-Grass: (Yes)
-Grateful: Feeling gratitude toward
-Gray: (Yes)
-Great: (Yes)
-Green: (Yes)
-Grocery: Sold food
-Gross: (Yes)
-Ground: (Yes)
-Group: (Yes)
-Grow: Become larger
-Guarantee: Say that something is certain
-Guard: (Yes)
-Guess: (Yes)
-Guest: Someone who stays temporarily
-Guide: (Yes)
-Guilty: (Yes)
-Guitar: String music instrument
-Gun: Shooting device
-Guy: Male person
-Habit: Frequent action
-Hair: (Yes)
-Half: (Yes)
-Hall: Long room
-Hand: (Yes)
-Handle: (Yes)
-Handy: (Yes)
-Hang: (Yes)
-Happen: (Yes)
-Happy: (Yes)
-Hard: (Yes)
-Hardly: Almost not
-Harm: (Yes)
-Hat: Head top clothing
-Hate: (Yes)
-Have: (Yes)
-Head: (Yes)
-Healthy: (Yes)
-Hear: (Yes)
-Heart: Blood organ
-Heat: (Yes)
-Heaven: Good religion place
-Heavy: Having a large weight
-Height: Vertical length
-Hell: Bad religion place
-Hello: (Yes)
-Help: (Yes)
-Hence: (Yes)
-Her: (Yes)
-Here: (Yes)
-Hero: Brave protecting person
-Hesitate: Nervous wait
-Hi: (Yes)
-Hide: (Yes)
-High: (Yes)
-Highlight: Show the importance of
-Highway: Many vehicle road
-Hill: (Yes)
-Him: (Yes)
-Hire: Give a job
-History: Time study
-Hit: (Yes)
-Hold: (Yes)
-Hole: (Yes)
-Holiday: No work day
-Holy: Pertaining to religion
-Home: (Yes)
-Honest: Saying the truth
-Honey: Sweet arthropod liquid
-Honor: Respected a lot
-Hook: Holding tool
-Hope: (Yes)
-Horrible: Very bad
-Horror: Scary feeling
-Horse: Vehicle animal
-Hospital: Health building
-Host: Event organizer
-Hot: (Yes)
-Hotel: Many temporary home building
-Hour: (Yes)
-House: Home building
-How: Which manner
-However: (Yes)
-Huge: (Yes)
-Human: (Yes)
-Hungry: Wanting food
-Hunt: Try to kill
-Hurry: Work quickly
-Hurt: (Yes)
-Husband: Male spouse
-I: (Yes)
-Ice: Solid water
-Ice cream: Cold milk dessert
-Idea: (Yes)
-Ideal: Most good
-Identity: (Yes)
-Idiot: Dumb person
-If: (Yes)
-Ignore: (Yes)
-Ill: (Yes)
-Illegal: Against the law
-Illustrate: Draw a picture
-Image: (Yes)
-Imagine: (Yes)
-Immediate: Very soon
-Impact: (Yes)
-Implement: Create according to a plan
-Implication: (Yes)
-Imply: (Yes)
-Import: Bring from another place
-Important: (Yes)
-Impose: Cause by means of strength
-Impossible: (Yes)
-Impress: Cause to appreciate
-Improve: Cause to become better
-In: (Yes)
-Incident: (Yes)
-Include: Be in
-Income: Payed money
-Increase: Cause to become more numerous
-Incredible: Not possible to believe
-Indeed: (Yes)
-Independent: Not depending on others
-Index: Sequence position
-Indicate: (Yes)
-Individual: (Yes)
-Industry: System of companies
-Inevitable: Definitely going to happen
-Infant: (Yes)
-Infection: Living things unhealthy for container
-Inflation: Become larger by means of air
-Influence: (Yes)
-Inform: (Yes)
-Informal: (Yes)
-Initial: (Yes)
-Initiative: Ability to start something
-Injure: (Yes)
-Inner: (Yes)
-Innocent: Not guilty
-Innovation: Creating new ideas
-Input: Received information
-Inquiry: (Yes)
-Insect: Six foot arthropod
-Inside: (Yes)
-Insist: Demand with force
-Inspect: (Yes)
-Install: Place for usage
-Instance: (Yes)
-Instant: Very short time
-Instead: (Yes)
-Institution: System of people for a particular purpose
-Instruct: (Yes)
-Instrument: (Yes)
-Insurance: Accident money
-Intelligent: (Yes)
-Intend: (Yes)
-Intense: (Yes)
-Interaction: Acting upon together
-Interest: (Yes)
-Internal: (Yes)
-International: Pertaining to many countries
-Internet: (Yes)
-Interpret: Try to understand
-Interval: (Yes)
-Intervention: Interrupt bad behavior
-Interview: Question time
-Into: In to
-Introduce: Help meet
-Invest: Spend for the purpose of gaining
-Investigate: (Yes)
-Invite: Allow to enter
-Involve: Be a part of
-Iron: Gray magnetic metal
-Island: Ocean border land
-Issue: (Yes)
-It: (Yes)
-Item: (Yes)
-Jacket: Warm upper torso clothing
-Jam: Thick fruit fluid
-Job: (Yes)
-Join: (Yes)
-Joint: (Yes)
-Joke: Funny communication
-Journalist: News writer
-Journey: (Yes)
-Joy: (Yes)
-Judge: (Yes)
-Juice: Fruit liquid
-Jump: Push self into the air
-Junior: Young person
-Jury: Group of people deciding guilt
-Just: (Yes)
-Justice: (Yes)
-Justify: Show to be reasonable
-Keen: (Yes)
-Keep: (Yes)
-Kettle: Hot beverage container
-Key: (Yes)
-Keyboard: Symbol key device
-Kick: Hit by means of foot
-Kid: (Yes)
-Kill: Cause to die
-Kind: (Yes)
-King: Country ruler
-Kiss: Touch by means of mouth
-Kit: Group of items for a specific purpose
-Kitchen: Cooking room
-Knee: Leg joint
-Knife: Cutting tool
-Knock: (Yes)
-Know: (Yes)
-Lab: Science room
-Label: Bonded text paper
-Labor: (Yes)
-Lack: Not have
-Ladder: Move up tool
-Lady: Female person
-Lake: (Yes)
-Lamb: Young sheep
-Lamp: Light tool
-Land: (Yes)
-Lane: Parallel part of road
-Language: (Yes)
-Large: (Yes)
-Last: (Yes)
-Late: (Yes)
-Latter: (Yes)
-Laugh: (Yes)
-Launch: (Yes)
-Law: (Yes)
-Lawyer: Law knowing person
-Lay: (Yes)
-Layer: (Yes)
-Lazy: Not working a lot
-Lead: (Yes)
-Leaf: (Yes)
-League: Sports competition
-Lean: Pushing by means of gravity
-Learn: (Yes)
-Least: (Yes)
-Leather: Cow skin
-Leave: (Yes)
-Lecture: (Yes)
-Left: (Yes)
-Leg: Foot limb
-Legal: Pertaining to law
-Leisure: (Yes)
-Lend: Temporarily give
-Length: (Yes)
-Less: (Yes)
-Lesson: (Yes)
-Let: (Yes)
-Letter: (Yes)
-Level: (Yes)
-Liberal: With few constraints
-Library: Book building
-License: Authority permission
-Lick: Touch with taste organ
-Lid: (Yes)
-Lie: (Yes)
-Lift: (Yes)
-Light: (Yes)
-Lighting: (Yes)
-Like: (Yes)
-Likely: (Yes)
-Limit: (Yes)
-Line: (Yes)
-Link: (Yes)
-Lip: Mouth border
-Liquid: (Yes)
-List: (Yes)
-Listen: (Yes)
-Literal: According to actual meaning
-Literature: Word art
-Little: (Yes)
-Live: (Yes)
-Load: (Yes)
-Loan: Pay temporarily
-Local: Pertaining to nearby places
-Location: (Yes)
-Lock: (Yes)
-Log: Tree torso piece
-Logical: (Yes)
-Lonely: Sad about being alone
-Long: (Yes)
-Look: (Yes)
-Loose: Not compressing
-Lord: Religion person
-Lose: (Yes)
-Lost: Not knowing location
-Lot: (Yes)
-Loud: (Yes)
-Lounge: Relaxation room
-Love: (Yes)
-Low: (Yes)
-Lucky: Good chance
-Lump: (Yes)
-Lunch: Middle of day food
-Machine: (Yes)
-Mad: (Yes)
-Magazine: Book created several times per year
-Magic: Not by means of science
-Mail: (Yes)
-Main: (Yes)
-Maintain: Keep healthy
-Major: (Yes)
-Make: (Yes)
-Male: (Yes)
-Mall: Building of many selling locations
-Man: Male person
-Manage: (Yes)
-Manner: (Yes)
-Manufacture: Create an item
-Many: (Yes)
-Map: Image representing land
-March: Walk together for a particular purpose
-Margin: Space on the side
-Mark: (Yes)
-Market: Place for buying things
-Marry: (Yes)
-Marvellous: Very good
-Mass: (Yes)
-Master: (Yes)
-Match: Find similar things
-Material: (Yes)
-Math: Number science
-Matter: (Yes)
-Maximum: Biggest limit
-May: (Yes)
-Maybe: (Yes)
-Meal: Food for eating
-Mean: (Yes)
-Measure: Find amount
-Meat: (Yes)
-Mechanism: (Yes)
-Media: Communication to many people
-Medicine: (Yes)
-Medieval: Very old
-Medium: Middle amount
-Meet: (Yes)
-Member: (Yes)
-Memory: (Yes)
-Mental: Pertaining to thought
-Mention: Briefly talk about
-Menu: List of options
-Message: (Yes)
-Messy: (Yes)
-Metal: (Yes)
-Meter: (Yes)
-Method: (Yes)
-Middle: (Yes)
-Midnight: Middle of the night
-Might: (Yes)
-Military: Pertaining to combat of nations
-Milk: (Yes)
-Mind: Thought system
-Mine: (Yes)
-Mineral: Natural solid not containing carbon
-Minimum: Smallest limit
-Minor: (Yes)
-Minority: (Yes)
-Minute: (Yes)
-Mirror: Image reflecting surface
-Misery: (Yes)
-Miss: Not hit
-Mission: (Yes)
-Mistake: (Yes)
-Mix: (Yes)
-Mixture: (Yes)
-Mobile: Able to move
-Mode: (Yes)
-Model: (Yes)
-Modern: New style
-Mom: Female parent
-Moment: Short time
-Money: (Yes)
-Monitor: Image machine
-Month: (Yes)
-Mood: (Yes)
-Moon: (Yes)
-Moral: Rule pertaining to fairness
-More: (Yes)
-Morning: Start of day
-Mortgage: Building cost
-Most: (Yes)
-Motion: (Yes)
-Motor: Turning machine
-Mountain: (Yes)
-Mouse: Very small mammal
-Mouth: (Yes)
-Move: (Yes)
-Movie: (Yes)
-Much: (Yes)
-Mud: Wet dirt
-Murder: Causing death
-Muscle: (Yes)
-Museum: Building showing old objects
-Mushroom: (Yes)
-Music: (Yes)
-Must: (Yes)
-My: (Yes)
-Mystery: Something nobody knows
-Nail: Finger surface bone
-Naked: Not wearing anything
-Name: (Yes)
-Narrow: (Yes)
-Nasty: (Yes)
-Nation: (Yes)
-Native: Born in a particular place
-Nature: (Yes)
-Naughty: (Yes)
-Near: (Yes)
-Nearly: (Yes)
-Neat: (Yes)
-Necessary: (Yes)
-Neck: Head limb
-Need: (Yes)
-Negative: Less than zero
-Negotiate: Cause by means of discussion
-Neighbor: Nearby person
-Neither: Not something and not something else
-Nerve: Cell for transmitting information
-Nervous: (Yes)
-Net: (Yes)
-Network: (Yes)
-Never: At no time
-New: (Yes)
-News: (Yes)
-Next: (Yes)
-Nice: (Yes)
-Night: (Yes)
-No: (Yes)
-Nod: Vertically shake head
-Noise: (Yes)
-None: (Yes)
-Nonsense: (Yes)
-Nope: (Yes)
-Nor: Not something and not something else
-Normal: (Yes)
-North: (Yes)
-Nose: Smell organ
-Not: (Yes)
-Notable: Important to notice
-Note: Text for remembering
-Nothing: No thing
-Notice: (Yes)
-Notion: (Yes)
-Novel: Story book
-Now: (Yes)
-Nowhere: In no place
-Nuclear: Pertaining to protons and neutrons
-Nuisance: (Yes)
-Number: (Yes)
-Nurse: Healing body person
-Nut: (Yes)
-Object: (Yes)
-Objective: (Yes)
-Obligation: Something which should be done
-Observe: (Yes)
-Obtain: (Yes)
-Obvious: (Yes)
-Occasion: Time of event
-Occasional: Not often
-Occupation: (Yes)
-Occupy: Be inside
-Occur: (Yes)
-Ocean: (Yes)
-Odd: (Yes)
-Odds: (Yes)
-Of: (Yes)
-Off: (Yes)
-Offense: Pertaining to attack
-Offer: Allow to have
-Office: Work building
-Official: Approved by an authority
-Often: (Yes)
-Oil: (Yes)
-Okay: (Yes)
-Old: (Yes)
-On: (Yes)
-Once: One time
-One: (Yes)
-Onion: Eye water vegetable
-Only: (Yes)
-Onto: On to
-Open: (Yes)
-Operate: (Yes)
-Opinion: (Yes)
-Opponent: (Yes)
-Opportunity: Circumstance for possibility
-Oppose: (Yes)
-Opposite: (Yes)
-Option: (Yes)
-Or: (Yes)
-Orange: (Yes)
-Order: (Yes)
-Ordinary: (Yes)
-Organ: (Yes)
-Organize: (Yes)
-Origin: Starting place
-Original: First
-Other: (Yes)
-Ought: (Yes)
-Our: (Yes)
-Out: (Yes)
-Outcome: (Yes)
-Output: Given information
-Outside: (Yes)
-Outstanding: Very good
-Oven: Cooking machine
-Over: (Yes)
-Owe: Should give
-Own: (Yes)
-Pace: (Yes)
-Pack: Put into container
-Package: (Yes)
-Packet: Bag container
-Pad: Soft flat object
-Page: Paper piece
-Pain: (Yes)
-Paint: Color drawing liquid
-Painting: Picture created by hand
-Pair: Two things
-Palace: Home of government person
-Pale: (Yes)
-Pan: Flat cooking bowl
-Panel: Surface piece
-Panic: (Yes)
-Pants: Foot limb clothing
-Paper: (Yes)
-Pardon: Stop being angry toward
-Parent: (Yes)
-Park: Nature land
-Part: (Yes)
-Participate: (Yes)
-Particular: (Yes)
-Partner: Person working together
-Party: (Yes)
-Pass: Go by
-Passage: (Yes)
-Passenger: Person going in a vehicle
-Passion: Strong enjoyment
-Past: (Yes)
-Path: (Yes)
-Patient: Able to wait
-Pattern: (Yes)
-Pause: Temporarily stop
-Pay: (Yes)
-Peace: (Yes)
-Peak: (Yes)
-Pen: Liquid writing tool
-Penalty: (Yes)
-Pencil: Gray solid writing tool
-Penny: 0.01 dollar object
-Pepper: Spicy vegetable
-Per: For each
-Perceive: (Yes)
-Perfect: Most good
-Perform: (Yes)
-Perhaps: (Yes)
-Period: Time interval
-Permanent: (Yes)
-Permit: (Yes)
-Person: (Yes)
-Personality: Quality of behavior
-Perspective: Position of perception
-Persuade: Try to cause to do something
-Phase: (Yes)
-Philosophy: Science of existence
-Phone: (Yes)
-Photo: (Yes)
-Phrase: Group of words
-Physical: Pertaining to physical entities
-Piano: Button string music instrument
-Pick: (Yes)
-Picture: (Yes)
-Pie: Pastry bowl dessert
-Piece: (Yes)
-Pig: (Yes)
-Pile: (Yes)
-Pill: Solid medicine object
-Pilot: Flying vehicle controller
-Pin: Sharp metal prong
-Pink: Light red
-Pipe: (Yes)
-Pitch: (Yes)
-Pity: Sadness about someone's pain
-Pizza: Flat bread with tomato and cheese
-Place: (Yes)
-Plain: (Yes)
-Plan: (Yes)
-Plane: Flying vehicle
-Planet: (Yes)
-Plant: (Yes)
-Plastic: (Yes)
-Plate: (Yes)
-Platform: Place for standing
-Play: (Yes)
-Pleasant: Able to be enjoyed
-Please: Cause to be happy
-Plenty: More than enough
-Plot: (Yes)
-Plug: Electronic link
-Plus: (Yes)
-Pocket: (Yes)
-Poem: Artistic words
-Point: (Yes)
-Pole: (Yes)
-Police: Government security system
-Policy: (Yes)
-Polite: (Yes)
-Politics: Governemnt activity
-Poll: Choice inquiry
-Polution: Material damaging nature
-Pond: (Yes)
-Pool: Body of water
-Poor: Not having a lot of money
-Pop: (Yes)
-Popular: (Yes)
-Population: Amount of people
-Port: Data outlet
-Pose: Try to have a shape
-Position: (Yes)
-Positive: More than zero
-Possess: (Yes)
-Possible: (Yes)
-Post: Cause to be public
-Poster: Wall paper
-Pot: (Yes)
-Potato: (Yes)
-Potential: Able to happen
-Pour: (Yes)
-Poverty: State of not having money
-Power: (Yes)
-Practical: Pertaining to work
-Practice: (Yes)
-Praise: (Yes)
-Pray: Request help from religion person
-Precise: (Yes)
-Predict: (Yes)
-Prefer: (Yes)
-Pregnant: Contain a baby
-Premise: Previous belief
-Prepare: Become ready
-Presence: Existence in a place
-Present: (Yes)
-Presentation: (Yes)
-Preserve: (Yes)
-President: Country leader
-Press: (Yes)
-Pressure: (Yes)
-Presume: (Yes)
-Pretend: Act as though
-Pretty: (Yes)
-Prevent: (Yes)
-Previous: (Yes)
-Price: (Yes)
-Pride: (Yes)
-Primary: (Yes)
-Prince: Male child of country ruler
-Princess: Female child of country ruler
-Principal: (Yes)
-Principle: Primary rule
-Print: Draw by means of machine
-Prior: (Yes)
-Priority: Amount of importance
-Prison: Punishment building
-Private: (Yes)
-Privilege: Special ability
-Prize: (Yes)
-Probably: (Yes)
-Problem: (Yes)
-Procedure: Sequence of actions
-Proceed: (Yes)
-Process: System of actions
-Produce: (Yes)
-Product: Something created by a company
-Profession: (Yes)
-Professor: (Yes)
-Profile: (Yes)
-Profit: Extra gained money
-Program: (Yes)
-Progress: (Yes)
-Project: (Yes)
-Promise: Say that something will definitely happen
-Promote: Publicly praise
-Prompt: Request information
-Proof: Something which shows truth
-Proper: (Yes)
-Property: (Yes)
-Proportion: (Yes)
-Propose: (Yes)
-Prospect: (Yes)
-Protect: (Yes)
-Protest: (Yes)
-Proud: (Yes)
-Prove: Show to be true
-Provide: (Yes)
-Provision: (Yes)
-Psychology: Behavior science
-Pub: Alcohol building
-Public: (Yes)
-Publish: Cause to be public
-Pudding: Viscous liquid desert
-Pull: (Yes)
-Punch: Hit with hand
-Punish: Give punishment
-Purchase: (Yes)
-Pure: Not containing other materials
-Purple: (Yes)
-Purpose: (Yes)
-Purse: Hand bag
-Pursue: Try to accomplish
-Push: (Yes)
-Put: (Yes)
-Qualify: Describe quality
-Quantity: (Yes)
-Queen: Country ruler
-Question: (Yes)
-Queue: (Yes)
-Quick: (Yes)
-Quiet: (Yes)
-Quit: Stop an occupation
-Quite: (Yes)
-Quote: Exact statement
-Race: Speed game
-Radical: (Yes)
-Radio: (Yes)
-Rail: (Yes)
-Rain: (Yes)
-Raise: (Yes)
-Range: (Yes)
-Rank: (Yes)
-Rapid: (Yes)
-Rare: (Yes)
-Rate: (Yes)
-Rather: Prefer more
-Ratio: Amount divided by amount
-Raw: Not cooked
-Reach: (Yes)
-React: (Yes)
-Read: (Yes)
-Ready: (Yes)
-Real: (Yes)
-Realize: Start to be aware of
-Really: (Yes)
-Reason: (Yes)
-Reasonable: (Yes)
-Recall: (Yes)
-Receipt: List showing purchases
-Receive: (Yes)
-Recent: (Yes)
-Recipe: Instructions for creating something
-Reckon: (Yes)
-Recognition: (Yes)
-Recommend: (Yes)
-Record: Store information
-Recover: Cause to have previous state
-Red: (Yes)
-Reduce: Cause to be less
-Refer: Talk about
-Reflect: (Yes)
-Reform: Change behavior
-Refridgerator: Cold machine
-Refuse: Not agree to allow
-Regard: Think about in a specific way
-Regime: (Yes)
-Region: (Yes)
-Register: Store information
-Regret: Be unhappy about
-Regular: (Yes)
-Regulate: (Yes)
-Reinforce: Cause to be stronger
-Reject: (Yes)
-Relate: (Yes)
-Relax: (Yes)
-Release: (Yes)
-Relevant: Strongly related
-Relief: (Yes)
-Religion: (Yes)
-Rely: (Yes)
-Remain: (Yes)
-Remark: Talk about
-Remarkable: Very good
-Remember: (Yes)
-Remind: Cause to recall
-Remote: (Yes)
-Remove: (Yes)
-Rent: Temporarily buy
-Repair: (Yes)
-Repeat: (Yes)
-Replace: Put instead of
-Reply: (Yes)
-Report: (Yes)
-Represent: (Yes)
-Republic: Government chosen by many people
-Reputation: Opinions of other people
-Request: (Yes)
-Require: (Yes)
-Rescue: Cause to be safe
-Research: (Yes)
-Reserve: Keep for future usage
-Resident: Person who has a home in a place
-Resign: Stop an occupation
-Resist: Try to stop
-Resolve: (Yes)
-Resort: Do something instead
-Resource: (Yes)
-Respect: (Yes)
-Respond: (Yes)
-Responsibility: (Yes)
-Responsible: (Yes)
-Rest: (Yes)
-Restaurant: Eating building
-Restore: Cause to have previous state
-Restrict: Cause a constraint
-Result: (Yes)
-Retain: (Yes)
-Retire: Stop an occupation
-Return: Give back
-Reveal: (Yes)
-Revenue: Received money
-Reverse: (Yes)
-Review: Look for mistakes
-Revolution: Rotate by 360 degrees
-Reward: (Yes)
-Rhythm: Music time pattern
-Rice: (Yes)
-Rich: Have a lot of money
-Rid: Cause to be free from
-Ride: Travel inside
-Ridiculous: (Yes)
-Right: (Yes)
-Ring: Alert sound
-Rip: (Yes)
-Rise: Go up
-Risk: Chance of something bad
-Rival: (Yes)
-River: (Yes)
-Road: (Yes)
-Rob: Take without permission
-Rock: (Yes)
-Role: (Yes)
-Roll: Move by rotating
-Roof: Building top
-Room: (Yes)
-Root: Plant soil organ
-Rope: (Yes)
-Rough: (Yes)
-Roughly: (Yes)
-Round: (Yes)
-Route: (Yes)
-Routine: Usual sequence of actions
-Row: Horizontal sequence
-Royal: Pertaining to government family
-Rub: (Yes)
-Rubber: (Yes)
-Rude: (Yes)
-Ruin: Cause to be bad
-Rule: (Yes)
-Run: (Yes)
-Rural: Far from the city
-Rush: Work quickly
-Sack: (Yes)
-Sad: (Yes)
-Safe: (Yes)
-Sail: Air pushing cloth
-Sake: (Yes)
-Salad: Leaf food
-Salary: Occupation money
-Sale: (Yes)
-Salt: (Yes)
-Same: (Yes)
-Sample: (Yes)
-Sand: (Yes)
-Sandwich: Bread layer food
-Satellite: Planet space machine
-Satisfy: Complete the needs of
-Sauce: Extra flavor liquid
-Sausage: Long round meat
-Save: (Yes)
-Say: (Yes)
-Scale: Finding weight machine
-Scare: (Yes)
-Scene: Event place
-Schedule: Time plan
-Scheme: (Yes)
-School: Learning building
-Science: (Yes)
-Scope: Context of importance
-Score: Success amount
-Scratch: (Yes)
-Scream: Speak very loudly
-Screen: Image machine
-Screw: Rotating connection object
-Script: (Yes)
-Sea: (Yes)
-Seal: (Yes)
-Search: (Yes)
-Season: (Yes)
-Seat: Sitting place
-Second: (Yes)
-Secret: (Yes)
-Section: (Yes)
-Secure: (Yes)
-See: (Yes)
-Seed: (Yes)
-Seek: (Yes)
-Seem: (Yes)
-Seize: Take by force
-Select: (Yes)
-Self: (Yes)
-Sell: (Yes)
-Send: (Yes)
-Senior: (Yes)
-Sense: (Yes)
-Sensitive: Able to sense small changes
-Sentence: (Yes)
-Separate: (Yes)
-Sequence: (Yes)
-Series: (Yes)
-Serious: (Yes)
-Serve: (Yes)
-Service: (Yes)
-Session: Activity interval
-Set: (Yes)
-Setting: (Yes)
-Settle: Start to agree
-Several: (Yes)
-Severe: (Yes)
-Sew: (Yes)
-Sex: (Yes)
-Shadow: (Yes)
-Shake: (Yes)
-Shame: (Yes)
-Shape: (Yes)
-Share: Use together
-Sharp: (Yes)
-Shave: Cut hair
-Shed: Small building
-Sheep: (Yes)
-Sheet: Flat piece
-Shelf: (Yes)
-Shell: Mollusk bone
-Shelter: Safe place
-Shift: Cause to change position
-Shine: Create light
-Ship: Water vehicle
-Shirt: Torso clothing
-Shock: (Yes)
-Shoe: Foot clothing
-Shoot: (Yes)
-Shop: (Yes)
-Short: (Yes)
-Should: (Yes)
-Shoulder: Upper limb torso joint
-Shout: Speak loudly
-Shove: (Yes)
-Show: (Yes)
-Shower: (Yes)
-Shrug: Body communication of not knowing
-Shut: (Yes)
-Sick: (Yes)
-Side: (Yes)
-Sight: (Yes)
-Sign: (Yes)
-Signal: (Yes)
-Signature: Written name
-Significant: (Yes)
-Silent: Not making noise
-Silly: (Yes)
-Silver: Reflective gray valuable metal
-Similar: (Yes)
-Simple: (Yes)
-Sin: Bad action with respect to religion
-Since: (Yes)
-Sing: Speak music
-Single: (Yes)
-Sink: (Yes)
-Sister: Female sibling
-Sit: (Yes)
-Site: (Yes)
-Situation: (Yes)
-Size: Amount of largeness
-Skill: Ability to do something
-Skin: (Yes)
-Skirt: Upper foot limb clothing
-Sky: (Yes)
-Sleep: (Yes)
-Slice: (Yes)
-Slide: (Yes)
-Slight: (Yes)
-Slim: (Yes)
-Slip: (Yes)
-Slope: Diagonal surface
-Slow: (Yes)
-Small: (Yes)
-Smart: (Yes)
-Smell: (Yes)
-Smile: Happy mouth shape
-Smoke: (Yes)
-Smooth: (Yes)
-Snap: (Yes)
-Snow: Crystal precipitation
-So: (Yes)
-Soap: (Yes)
-Social: Pertaining to the activity of people
-Society: Group of people working together
-Sock: Soft foot clothing
-Soft: (Yes)
-Software: (Yes)
-Soil: (Yes)
-Soldier: (Yes)
-Sole: (Yes)
-Solicitor: (Yes)
-Solid: (Yes)
-Solve: (Yes)
-Some: (Yes)
-Son: Male offspring
-Song: (Yes)
-Soon: (Yes)
-Sore: Having pain
-Sorry: (Yes)
-Sort: (Yes)
-Soul: Emotional part of person
-Sound: (Yes)
-Soup: Liquid food
-Source: Original location
-South: (Yes)
-Space: (Yes)
-Spare: (Yes)
-Speak: (Yes)
-Special: (Yes)
-Species: Type of living thing
-Specific: (Yes)
-Specify: Cause to be more specific
-Speech: (Yes)
-Speed: (Yes)
-Spell: Say the letters of a word
-Spend: (Yes)
-Spill: (Yes)
-Spin: (Yes)
-Spirit: Emotional part of person
-Spite: Desire to damage someone
-Split: (Yes)
-Spoil: Become bad
-Spoon: Liquid food utensil
-Sport: (Yes)
-Spot: Circle mark
-Spray: (Yes)
-Spread: (Yes)
-Spring: Becoming warm season
-Squad: Task people group
-Square: (Yes)
-Squeeze: (Yes)
-Stable: (Yes)
-Staff: (Yes)
-Stage: (Yes)
-Stair: (Yes)
-Stake: Something which can be lost
-Stall: Cause to wait
-Stamp: Mail payment mark
-Stand: (Yes)
-Standard: (Yes)
-Star: (Yes)
-Stare: Look at for a long time
-Start: (Yes)
-Starve: Die because of not eating
-State: (Yes)
-Station: Temporary rest building
-Statistic: Probability number
-Status: (Yes)
-Stay: (Yes)
-Steady: (Yes)
-Steak: Cow meat
-Steal: Take without permission
-Steam: (Yes)
-Steel: Stronger gray metal
-Steep: Having a large angle
-Step: (Yes)
-Stick: (Yes)
-Stiff: (Yes)
-Still: (Yes)
-Stir: Mix a liquid
-Stock: Items for selling
-Stomach: Digestion organ
-Stone: (Yes)
-Stop: (Yes)
-Storage: Place for storing
-Store: (Yes)
-Storm: Bad weather
-Story: (Yes)
-Straight: (Yes)
-Strain: Cause to work a lot
-Strange: (Yes)
-Strategy: (Yes)
-Straw: Drinking tube
-Strawberry: Small red fruit
-Stream: (Yes)
-Street: (Yes)
-Stress: (Yes)
-Stretch: (Yes)
-Strict: Following the rules a lot
-Strike: (Yes)
-String: (Yes)
-Strip: (Yes)
-Stroke: (Yes)
-Strong: (Yes)
-Structure: (Yes)
-Struggle: Have trouble doing something
-Student: (Yes)
-Studio: Art work place
-Study: (Yes)
-Stuff: (Yes)
-Stupid: (Yes)
-Style: (Yes)
-Subject: The concept to which something pertains
-Submit: (Yes)
-Substance: (Yes)
-Substantial: Significant amount
-Succeed: (Yes)
-Such: That kind of
-Suck: Pull air
-Sudden: (Yes)
-Suffer: (Yes)
-Sufficient: (Yes)
-Sugar: (Yes)
-Suggest: (Yes)
-Suit: Formal clothing
-Suitable: (Yes)
-Sum: Addition of numbers
-Summer: Hot season
-Sun: (Yes)
-Super: Very good
-Supply: (Yes)
-Support: (Yes)
-Suppose: (Yes)
-Sure: (Yes)
-Surface: (Yes)
-Surgery: Fixing a body by means of cutting
-Surprise: (Yes)
-Surround: Be on all sides of
-Survey: Asking for information from many people
-Survive: Be alive after
-Suspect: (Yes)
-Sustain: Cause to continue
-Swap: Put in place of
-Swear: Bad word
-Sweep: (Yes)
-Sweet: (Yes)
-Swim: Move in water
-Swing: Hang and move
-Switch: (Yes)
-Symbol: (Yes)
-Sympathy: Feeling together
-System: (Yes)
-Table: (Yes)
-Tablet: Small medicine piece
-Tackle: (Yes)
-Tail: Long back appendage
-Take: (Yes)
-Tale: (Yes)
-Talent: Special ability
-Talk: (Yes)
-Tall: (Yes)
-Tank: Liquid container
-Tap: Small touch
-Tape: (Yes)
-Target: (Yes)
-Task: (Yes)
-Taste: (Yes)
-Tax: Government fee
-Taxi: Payment vehicle
-Tea: Hot leaf beverage
-Teach: (Yes)
-Team: Group working together
-Tear: (Yes)
-Technique: (Yes)
-Technology: Usage of science
-Telephone: (Yes)
-Television: Video machine
-Tell: (Yes)
-Temperature: Amount of heat
-Temporary: (Yes)
-Tend: (Yes)
-Tennis: Net ball sport
-Tension: (Yes)
-Tent: Cloth building
-Term: (Yes)
-Terrible: Very bad
-Territory: (Yes)
-Terror: (Yes)
-Test: (Yes)
-Text: (Yes)
-Than: (Yes)
-Thank: (Yes)
-That: (Yes)
-The: (Yes)
-Theater: Acting building
-Theme: Related concept
-Then: (Yes)
-Theory: Hypothetical explanation
-There: (Yes)
-Therefore: (Yes)
-They: (Yes)
-Thick: (Yes)
-Thin: (Yes)
-Thing: (Yes)
-Think: (Yes)
-This: (Yes)
-Though: (Yes)
-Threat: Something which may cause harm
-Three: (Yes)
-Throat: Swallowing organ
-Through: (Yes)
-Throw: (Yes)
-Thus: (Yes)
-Ticket: Permission paper
-Tidy: (Yes)
-Tie: (Yes)
-Tight: Compressing
-Tile: Flat cermaic piece
-Time: (Yes)
-Tin: Container made of metal
-Tiny: Very small
-Tip: (Yes)
-Tire: Wheel rubber
-Tired: (Yes)
-Title: (Yes)
-To: (Yes)
-Toast: Cooked bread
-Today: Current day
-Toe: (Yes)
-Together: (Yes)
-Toilet: (Yes)
-Tomato: (Yes)
-Tomorrow: Next day
-Tongue: Taste organ
-Tonight: Current night
-Too: (Yes)
-Tool: (Yes)
-Tooth: Biting bone
-Top: (Yes)
-Topic: The concept to which something pertains
-Total: (Yes)
-Touch: (Yes)
-Tough: (Yes)
-Tour: Travel for sights
-Towards: (Yes)
-Towel: Drying cloth
-Tower: Tall building
-Town: (Yes)
-Toy: Entertainment object
-Track: (Yes)
-Trade: Give and receive
-Tradition: Old usual action
-Traffic: Too many vehicles
-Trailer: Pulled vehicle
-Train: Rail vehicle
-Transaction: (Yes)
-Tranfser: (Yes)
-Transform: (Yes)
-Transition: Change context
-Translate: Change language
-Transport: (Yes)
-Trash: (Yes)
-Travel: (Yes)
-Tray: (Yes)
-Treat: (Yes)
-Treaty: Country agreement
-Tree: (Yes)
-Tremendous: Very big
-Trend: (Yes)
-Trial: (Yes)
-Trick: Cause to believe something false
-Trip: Fall while walking
-Troop: Group of fighters
-Trouble: (Yes)
-Truck: Object transportation vehicle
-True: (Yes)
-Trust: Believe to be kind
-Try: (Yes)
-Tube: (Yes)
-Tune: (Yes)
-Tunnel: Hole road
-Turn: (Yes)
-Twice: Two times
-Twist: (Yes)
-Type: (Yes)
-Typical: (Yes)
-Ugly: (Yes)
-Ultimate: (Yes)
-Unable: (Yes)
-Unbelievable: Unable to be believed
-Uncle: Male sibling of parent
-Under: (Yes)
-Understand: (Yes)
-Undertake: Start work
-Unemployed: Not having a job
-Unfair: (Yes)
-Unfortunate: Having bad luck
-Unhappy: (Yes)
-Uniform: Having the same quality
-Union: (Yes)
-Unique: (Yes)
-Unit: (Yes)
-Unite: Become together
-Universal: True in all places
-University: Adult education system
-Unknown: Not known
-Unless: Except if
-Unlike: (Yes)
-Unlikely: (Yes)
-Until: (Yes)
-Unusual: (Yes)
-Up: (Yes)
-Upset: (Yes)
-Urban: Pertaining to the city
-Urge: Strong desire
-Urgent: Must be done soon
-Use: (Yes)
-Useful: (Yes)
-Usual: (Yes)
-Vacation: Time without work
-Vague: (Yes)
-Valley: Low land
-Valuable: (Yes)
-Van: Large road vehicle
-Vary: Be different
-Vast: Having a great extent
-Vegetable: (Yes)
-Vehicle: (Yes)
-Version: Design state
-Very: (Yes)
-Vet: Animal healing person
-Victim: Harmed person
-Victory: (Yes)
-Video: (Yes)
-View: (Yes)
-Village: (Yes)
-Violence: (Yes)
-Virtually: (Yes)
-Virtue: Good behavior
-Virus: Cell disease
-Visible: Able to be seen
-Vision: Ability to see
-Visit: Temporarily be at a place
-Vital: (Yes)
-Voice: Speech sound
-Volume: (Yes)
-Voluntary: By means of desire
-Vote: (Yes)
-Vulnerable: Able to be hurt
-Wage: Job money
-Wait: (Yes)
-Wake: Cause to be awake
-Walk: (Yes)
-Wall: (Yes)
-Wander: Travel without purpose
-Want: (Yes)
-War: (Yes)
-Wardrobe: Clothing container furniture
-Warm: (Yes)
-Warn: (Yes)
-Wash: Cause to become clean
-Waste: Use with no purpose
-Watch: (Yes)
-Water: (Yes)
-Wave: (Yes)
-Way: (Yes)
-We: (Yes)
-Weak: (Yes)
-Wealth: Extra money
-Weapon: Fighting tool
-Wear: (Yes)
-Weather: (Yes)
-Web: (Yes)
-Website: Internet place
-Wedding: (Yes)
-Week: (Yes)
-Weight: (Yes)
-Weird: (Yes)
-Welcome: (Yes)
-Well: (Yes)
-West: (Yes)
-Wet: (Yes)
-What: Which thing
-Wheel: (Yes)
-Whether: (Yes)
-Which: (Yes)
-While: (Yes)
-Whisper: Speak quietly
-White: (Yes)
-Whole: (Yes)
-Wide: (Yes)
-Wife: Female spouse
-Wild: (Yes)
-Will: (Yes)
-Win: (Yes)
-Wind: Moving air
-Window: (Yes)
-Wine: Fruit alcohol
-Wing: Flying appendage
-Winter: Cold season
-Wipe: (Yes)
-Wire: (Yes)
-Wise: Knowing a lot
-Wish: (Yes)
-With: (Yes)
-Withdraw: Take from
-Witness: (Yes)
-Woman: Female person
-Wonder: Want to know
-Wonderful: Very good
-Wood: (Yes)
-Wool: Sheep hair
-Word: (Yes)
-Work: (Yes)
-World: (Yes)
-Worry: (Yes)
-Worse: More bad
-Worth: Amount of importance
-Would: (Yes)
-Wound: Breaking of skin
-Wrap: (Yes)
-Write: (Yes)
-Wrong: (Yes)
-Yard: Land near building
-Yeah: (Yes)
-Year: (Yes)
-Yellow: (Yes)
-Yep: (Yes)
-Yes: (Yes)
-Yesterday: Previous day
-Yet: (Yes)
-You: (Yes)
-Young: (Yes)
-Youth: (Yes)
-Zone: (Yes)
+Please note that these translations are NOT part of the official BreadSpeak specification.
+
+(~) means that the gloss is the same as the original English.
+
+A: (~)
+Abandon: (Leave forever)
+Ability: (Thing which can be done)
+Able: (~)
+About: (~)
+Above: (~)
+Abroad: (Far away)
+Absence: (State of not existing)
+Absolute: (Certain)
+Absorb: (Become a part of)
+Abuse: (Behave unkind toward)
+Academic: (Pertaining to research)
+Accept: (Think to be acceptable)
+Access: (~)
+Accident: (~)
+Accommodation: (Helpful condition)
+Accompany: (Be with)
+According (to: Following)
+Account: (Personal information)
+Accurate: (~)
+Accuse: (Claim bad behavior)
+Achieve: (~)
+Acid: (~)
+Acknowledge: (State the existence of)
+Acquire: (~)
+Across: (~)
+Act: (~)
+Action: (~)
+Active: (~)
+Activity: (~)
+Actor: (One who acts)
+Actual: (~)
+Ad: (Company announcement)
+Adapt: (Change to endure)
+Add: (~)
+Address: (Position information)
+Adequate: (~)
+Adjust: (Change amount)
+Administration: (Controlling group)
+Admire: (Appreciate an action)
+Admit: (Allow to enter)
+Adopt: (Start to own)
+Adult: (~)
+Advance: (Go forward)
+Advantage: (Ability to perform better)
+Advertise: (~)
+Advice: (~)
+Affair: (Happenings)
+Affect: (~)
+Afford: (Able to buy)
+Affraid: (~)
+After: (~)
+Afternoon: (After the middle of the day)
+Again: (~)
+Against: (~)
+Age: (Amount of oldness)
+Agency: (Ability to control)
+Agent: (Someone who does something)
+Aggressive: (Wanting to fight)
+Ago: (Before)
+Agree: (~)
+Agriculture: (System for creating plants)
+Ahead: (~)
+Aid: (~)
+Aim: (Fix direction)
+Air: (~)
+Aircraft: (Air vehicle)
+Airline: (Air travel system)
+Airport: (Air vehicle building)
+Alarm: (~)
+Album: (Group of music)
+Alcohol: (~)
+Alive: (~)
+All: (~)
+Allow: (~)
+Allowance: (Allowed money)
+Almost: (~)
+Alone: (~)
+Along: (~)
+Already: (~)
+Also: (~)
+Alter: (~)
+Alternative: (Different than normal)
+Although: (~)
+Altogether: (~)
+Always: (During all times)
+Amazing: (~)
+Ambition: (Wanting to work)
+Ambulance: (Healing vehicle)
+Among: (~)
+Amount: (~)
+Analyze: (~)
+Ancient: (Very old)
+And: (~)
+Anger: (~)
+Angle: (~)
+Animal: (~)
+Announce: (~)
+Annoy: (~)
+Annual: (Once per year)
+Another: (~)
+Answer: (~)
+Anticipate: (Think something will happen)
+Anxiety: (~)
+Any: (~)
+Apart: (~)
+Apartment: (Many home building)
+Apologize: (Say that you are sorry)
+Apparent: (Able to be seen)
+Appeal: (~)
+Appear: (Come into sight)
+Appearance: (~)
+Apple: (Red fruit)
+Application: (~)
+Apply: (Put on)
+Appoint: (Give a job)
+Appointment: (Meeting time)
+Appreciate: (~)
+Approach: (~)
+Appropriate: (~)
+Approval: (~)
+Approximate: (~)
+Architect: (Creator of building designs)
+Area: (~)
+Argue: (~)
+Arise: (Come into sight)
+Arm: (~)
+Army: (Group of fighters)
+Around: (~)
+Arrange: (~)
+Arrest: (Give punishment)
+Arrive: (~)
+Art: (~)
+Article: (Part)
+Artificial: (Not natural)
+As: (~)
+Ashamed: (~)
+Aside: (~)
+Ask: (~)
+Asleep: (~)
+Aspect: (Part)
+Assess: (Study the quality of)
+Assignment: (~)
+Assist: (~)
+Associate: (Think to be related to)
+Assume: (~)
+Assure: (Cause to be calm)
+At: (~)
+Atmosphere: (Planet air)
+Attach: (~)
+Attack: (~)
+Attempt: (~)
+Attend: (Be at)
+Attention: (~)
+Attitude: (Quality of behavior)
+Attorney: (Law person)
+Attract: (Pull toward)
+Attractive: (~)
+Audience: (Watchers)
+Aunt: (Parent's sibling)
+Author: (Writer)
+Authority: (~)
+Automatic: (Work by itself)
+Autumn: (Season of becoming cold)
+Available: (Able to be taken)
+Average: (~)
+Avoid: (~)
+Awake: (~)
+Award: (~)
+Aware: (~)
+Away: (~)
+Awful: (Very bad)
+Awkward: (Unhelpful)
+Baby: (~)
+Back: (~)
+Background: (Environment behind)
+Backwards: (~)
+Bacon: (Pig meat)
+Bad: (~)
+Bag: (~)
+Bake: (~)
+Balance: (Weight position)
+Ball (~)
+Ban: (Not allow)
+Band: (~)
+Bang: (Explosion noise)
+Bank: (Money building)
+Bar: (~)
+Barrier: (Stopping object)
+Base: (~)
+Baseball: (Striking sport)
+Basic: (~)
+Basis: (Supporting idea)
+Basket: (~)
+Bat: (Flying night mammal)
+Bath: (~)
+Bathroom: (Toilet room)
+Battery: (Power container)
+Battle: (~)
+Be: (~)
+Beach: (Ocean border)
+Bean: (~)
+Bear: (~)
+Beard: (Low facial hair)
+Beat: (~)
+Beautiful: (~)
+Because: (~)
+Become: (~)
+Bed: (Sleeping furniture)
+Beef: (Cow meat)
+Beer: (Wheat alcohol)
+Before: (~)
+Begin: (~)
+Behalf: (~)
+Behave: (~)
+Behind: (~)
+Belief: (~)
+Bell: (Alert noise tool)
+Belong: (Should be in)
+Below: (~)
+Belt: (~)
+Bench: (Sitting furniture)
+Bend: (~)
+Beneath (~)
+Benefit: (Good effect)
+Beside: (~)
+Best: (Most good)
+Bet: (Pay with risk)
+Better: (More good)
+Between: (~)
+Beyond: (~)
+Bicycle: (Foot vehicle)
+Bid: (Try to pay the most)
+Big: (~)
+Bill: (Requesting money paper)
+Bin: (~)
+Bird: (~)
+Birth: (Animal creation)
+Biscuit: (Bread)
+Bit: (Small part)
+Bite: (~)
+Bitter: (~)
+Black: (~)
+Blade: (Cutting edge)
+Blame: (Claim someone to have done something bad)
+Blank: (Empty)
+Bless: (Praise by religion)
+Blind: (Unable to see)
+Block: (~)
+Blonde: (Yellow hair)
+Blood: (~)
+Blow: (Push air)
+Blue: (~)
+Board: (Flat tool)
+Boat: (Water vehicle)
+Body: (~)
+Boil: (Become a gas)
+Bomb: (Explosion device)
+Bone: (~)
+Bonus: (~)
+Book: (~)
+Boom: (Explosion sound)
+Boot: (Rubber foot clothing)
+Border: (~)
+Bored: (~)
+Born: (~)
+Borrow: (Own temporarily)
+Boss: (~)
+Both: (~)
+Bother: (~)
+Bottle: (Liquid container)
+Bottom: (~)
+Bounce: (~)
+Bound: (~)
+Bowl: (~)
+Box: (~)
+Boy: (Male child)
+Brain: (Thinking organ)
+Branch: (~)
+Brave: (~)
+Bread: (~)
+Break: (~)
+Breakfast: (Start of day food)
+Breast: (Milk organ)
+Breath: (~)
+Breathe: (~)
+Brick: (Ceramic block)
+Bridge: (Road above land)
+Brief: (During a short time)
+Bright: (~)
+Brilliant: (~)
+Bring: (~)
+Broad: (~)
+Brother: (Male sibling)
+Brown: (Dark orange)
+Brush: (~)
+Bucket: (~)
+Buddy: (~)
+Budget: (Amount of money for spending)
+Bug: (Arthropod)
+Build: (~)
+Building: (~)
+Bump: (~)
+Bunch: (~)
+Burn: (Be eaten by fire)
+Burst: (~)
+Bury: (Put into the ground)
+Bus: (Many person road vehicle)
+Business: (~)
+Busy: (~)
+But: (~)
+Butter: (Milk fat)
+Button: (~)
+Buy: (~)
+By: (~)
+Bye: (~)
+Cabinet: (Storage furniture)
+Cable: (~)
+Cake: (Dessert bread)
+Calculate: (~)
+Calendar: (Month plan)
+Call: (~)
+Calm: (~)
+Camera: (Seeing machine)
+Camp: (Land with a particular purpose)
+Campaign: (Plan of action)
+Can: (~)
+Cancel: (~)
+Cancer: (Cell replication disease)
+Candidate: (Thing which can be chosen)
+Candle: (Fire light)
+Candy: (~)
+Cap: (Top cover)
+Capable: (~)
+Capital: (~)
+Captain: (~)
+Capture: (~)
+Car: (Road vehicle)
+Card: (Small paper)
+Care: (~)
+Career: (~)
+Careful: (~)
+Carpet: (Floor cloth)
+Carrot: (Long orange vegetable)
+Carry: (~)
+Cartoon: (Drawn video)
+Case: (~)
+Cash: (Money object)
+Cast: (Put liquid into a shape hole)
+Castle: (Attack building)
+Cat: (~)
+Catalogue: (Book of things for buying)
+Catch: (~)
+Category: (~)
+Cause: (~)
+Cease: (~)
+Ceiling: (Room top)
+Celebrate: (~)
+Cell: (~)
+Cellphone: (Wireless phone)
+Central: (~)
+Cereal: (Grain food.)
+Certain: (~)
+Certificate: (Authority verification)
+Chain: (Link string)
+Chair: (Sitting furniture)
+Challenge: (Difficult task)
+Champion: (Best winner)
+Chance: (~)
+Change: (~)
+Channel: (~)
+Chapter: (Part of a book)
+Character: (~)
+Characteristic: (~)
+Charge: (Give power)
+Charity: (Company for giving free money.)
+Chart: (Representation drawing)
+Chase: (Try to reach quickly)
+Chat: (~)
+Cheap: (Small cost)
+Cheat: (Not follow the rules)
+Check: (Look at the status of)
+Cheek: (Mouth side)
+Cheese: (Cheese)
+Chemical: (Configuration of atoms)
+Cherry: (Small red fruit)
+Chest: (Top of torso)
+Chicken: (~)
+Chief: (~)
+Child: (~)
+Chip: (Flat piece)
+Chocolate: (Bitter sugar treat)
+Choose: (~)
+Chop: (~)
+Chuck: (~)
+Church: (Religion building)
+Cigarette: (Smoke stick)
+Cinema: (Movie building)
+Circle: (~)
+Circuit: (Electricity path)
+Circumstance: (~)
+Citizen: (Person having a home in a place)
+City: (~)
+Civil: (Pertaining to a group of people)
+Claim: (~)
+Class: (Education time)
+Classic: (Having old qualities)
+Clean: (~)
+Clear: (~)
+Clever: (~)
+Click: (~)
+Client: (Person being helped)
+Climate: (~)
+Climb: (Go up a side)
+Clock: (Time device)
+Close: (~)
+Closet: (Storage room)
+Cloth: (~)
+Clothes: (~)
+Cloud: (~)
+Club: (Group of people)
+Clue: (Aid for understanding)
+Coach: (~)
+Coal: (Dirty black rock)
+Coast: (Edge of land)
+Coat: (Warm clothing)
+Code: (~)
+Coffee: (~)
+Coin: (Metal money circle)
+Cold: (~)
+Collapse: (~)
+Collar: (Neck band)
+Colleague: (Worker in the same company)
+Collect: (Put together)
+College: (Higher education)
+Color: (~)
+Column: (Vertical group)
+Combine: (Put together)
+Come: (~)
+Comfortable: (~)
+Command: (~)
+Comment: (~)
+Commercial: (Video advertisement)
+Commission: (Payed work)
+Commit: (~)
+Committee: (~)
+Common: (~)
+Communicate: (~)
+Community: (Group of people)
+Company: (~)
+Compare: (Focus on differences)
+Compete: (~)
+Complain: (Talk about problems)
+Complete: (~)
+Complex: (~)
+Component: (~)
+Comprehensive: (~)
+Comprise: (Be a part of)
+Computer: (~)
+Concentrate: (~)
+Concept: (~)
+Concern: (~)
+Concert: (Music time)
+Conclude: (~)
+Condition: (~)
+Conduct: (~)
+Conference: (~)
+Confident: (~)
+Confine: (Keep in a space)
+Confirm: (~)
+Conflict: (~)
+Confuse: (Cause to misunderstand)
+Congrate: (Say that someone did well)
+Connect: (~)
+Conscious: (~)
+Consent: (~)
+Consequence: (Something that is caused)
+Consider: (Think about an option)
+Consist: (~)
+Consistent: (Often having a single quality)
+Constant: (Never stopping)
+Constitute: (Be a part of)
+Construct: (~)
+Consult: (Get advice from)
+Consumer: (~)
+Contact: (~)
+Contain: (Have inside)
+Contemporary: (Having new qualities)
+Content: (~)
+Contest: (~)
+Context: (~)
+Continue: (~)
+Contract: (Agreement in writing)
+Contrast: (~)
+Contribute: (~)
+Control: (~)
+Convenient: (~)
+Convention: (Normal method)
+Conversation: (~)
+Convert: (~)
+Conviction: (~)
+Convince: (Cause to believe)
+Cook: (~)
+Cookie: (Circle treat)
+Cool: (~)
+Cooperate: (Work together)
+Cope: (~)
+Copy: (~)
+Core: (Center part)
+Corn: (~)
+Corner: (~)
+Correct: (~)
+Corridor: (Long room)
+Cost: (~)
+Cotton: (~)
+Could: (Would be able)
+Council: (~)
+Count: (Measure the quantity of)
+Country: (~)
+Couple: (~)
+Courage: (~)
+Course: (~)
+Court: (Law room)
+Cousin: (Parent's sibling's offspring)
+Cover: (~)
+Cow: (~)
+Crack: (~)
+Craft: (~)
+Crash: (~)
+Crazy: (~)
+Create: (~)
+Creative: (~)
+Creature: (~)
+Credit: (Confirmation of an action)
+Crew: (Group of workers)
+Crime: (Action against the law)
+Crisis: (~)
+Criterion: (Requirement for)
+Criticize: (Show the problems of)
+Crop: (Plant food)
+Cross: (Go across)
+Crowd: (Group of people)
+Crown: (Valuable metal head clothing)
+Crucial: (~)
+Cruel: (~)
+Cry: (Produce water from eyes)
+Culture: (~)
+Cup: (~)
+Cupboard: (Storage furniture)
+Curious: (Wanting to learn)
+Currency: (~)
+Current: (~)
+Curtain: (Window cloth)
+Curve: (~)
+Cushion: (Comfortable furniture bag)
+Custom: (Specially chosen)
+Customer: (~)
+Cut: (~)
+Cute: (~)
+Cycle: (Repeating events)
+Dad: (Male parent)
+Daily: (Every day)
+Damage: (~)
+Dance: (Move body with music)
+Danger: (~)
+Dare: (Be brave enough)
+Dark: (~)
+Darling: (Loved)
+Data: (~)
+Database: (Data storage)
+Date: (Time of year)
+Daughter: (Female offspring)
+Day: (~)
+Dead: (~)
+Deaf: (Cannot hear)
+Deal: (Agreement)
+Dear: (Loved)
+Debate: (~)
+Debt: (Money that should be payed)
+Decent: (~)
+Decide: (~)
+Declare: (~)
+Decline: (Not agree)
+Deep: (~)
+Defeat: (~)
+Defend: (~)
+Define: (State the meaning of)
+Definite: (~)
+Degree: (~)
+Delay: (Waiting time)
+Deliberately: (By intention)
+Deliver: (~)
+Demand: (~)
+Democracy: (Government in which everyone has some control)
+Demonstrate: (~)
+Dentist: (Mouth fixing person)
+Deny: (~)
+Department: (Part of an authority)
+Departure: (~)
+Depend: (~)
+Dependent: (~)
+Deposit: (Put money into)
+Depression: (Sadness disease)
+Depth: (~)
+Derive: (Find using logic)
+Describe: (~)
+Desert: (Land with scarce rain)
+Deserve: (Should have)
+Design: (~)
+Desire: (~)
+Desk: (Work table)
+Desperate: (Having few options)
+Despite: (~)
+Destroy: (~)
+Detail: (Part of design)
+Detect: (~)
+Determination: (Wanting to achieve)
+Determine: (~)
+Develop: (Become more complete)
+Device: (~)
+Devil: (Bad religion man)
+Diagram: (Design picture)
+Diamond: (Hardest gem)
+Diary: (Book for writing thoughts)
+Die: (Become dead)
+Diet: (Things which someone eats)
+Differ: (Be different with respect to)
+Different: (~)
+Difficult: (~)
+Dig: (Make a hole in the ground)
+Dimension: (Length in a direction)
+Dinner: (Night food)
+Direct: (~)
+Direction: (~)
+Directory: (List of information about people)
+Dirt: (~)
+Dirty: (~)
+Disabled: (Not able to do something)
+Disagree: (~)
+Disappear: (Leave sight)
+Disappoint: (Be worse than expected)
+Disaster: (Very bad event)
+Disc: (Flat circle object)
+Discipline: (Teach good behavior)
+Discount: (Lower price)
+Discover: (~)
+Discuss: (~)
+Disease: (~)
+Disgust: (~)
+Dish: (~)
+Dismiss: (Command to leave)
+Display: (Electronic picture device)
+Dispute: (~)
+Distance: (~)
+Distant: (~)
+Distinct: (Having a different identity)
+Distinguish: (Determine the difference between)
+Distribute: (Give to many people)
+District: (Part of land)
+Disturb: (~)
+Divide: (~)
+Divorce: (~)
+Do: (~)
+Document: (Text report)
+Dog: (~)
+Dollar: (~)
+Domestic: (Pertaining to home)
+Dominate: (~)
+Door: (~)
+Dot: (Circle mark)
+Double: (Amount multiplied by two)
+Doubt: (~)
+Down: (~)
+Draft: (Form before completion)
+Drag: (~)
+Drama: (~)
+Draw: (~)
+Drawer: (Sliding storage box)
+Dream: (Sleep thinking)
+Dress: (Cause to wear)
+Drink: (~)
+Drive: (~)
+Drop: (~)
+Drug: (~)
+Drunk: (Affected by alcohol)
+Dry: (~)
+Duck: (Water bird)
+Dude: (Male person)
+Due: (Should be completed before a time)
+Dull: (~)
+Dumb: (~)
+Dump: (~)
+During: (~)
+Dust: (~)
+Duty: (~)
+Each: (~)
+Ear: (Hearing organ)
+Early: (~)
+Earn: (Receive by means of work)
+Earth: (~)
+East: (~)
+Easy: (~)
+Eat: (~)
+Economy: (Money system)
+Edge: (~)
+Edition: (Version of text)
+Educate: (~)
+Effect: (Something which is caused)
+Effective: (Good for causing something)
+Efficient: (Using a small amount of something valuable)
+Effort: (~)
+Egg: (~)
+Either: (~)
+Elderly: (~)
+Elect: (~)
+Electricity: (~)
+Element: (~)
+Elevator: (Lift machine)
+Else: (If not)
+Email: (Electronic mail)
+Embarrassed: (~)
+Emerge: (Come into sight)
+Emergency: (~)
+Emotion: (~)
+Emphasize: (Show the importance of)
+Empire: (Big government)
+Employ: (~)
+Empty: (~)
+Enable: (Cause to be possible)
+Encounter: (~)
+Encourage: (Cause to want to do something)
+End: (~)
+Enemy: (~)
+Energy: (~)
+Engage: (~)
+Engine: (Spin machine)
+Engineer: (Machine making person)
+Enhance: (Make better)
+Enjoy: (~)
+Enormous: (Very big)
+Enough: (~)
+Enquiry: (~)
+Ensure: (Cause to be certain)
+Enter: (~)
+Enterprise: (~)
+Entertain: (~)
+Enthusiastic: (Showing enjoyment)
+Entire: (~)
+Entitle: (Give a name)
+Envelope: (Paper mail container)
+Environment: (~)
+Equal: (~)
+Equipment: (~)
+Equivalent: (Same with respect to a particular purpose)
+Era: (Long time)
+Error: (~)
+Escape: (~)
+Especially: (Uncommonly very)
+Essay: (Long text pertaining to something)
+Essential: (Required for a purpose)
+Establish: (~)
+Estate: (Home land)
+Estimate: (~)
+Ethnic: (~)
+Even: (~)
+Evening: (End of day)
+Event: (~)
+Eventual: (Happening after a long time)
+Ever: (Any time)
+Every: (~)
+Evidence: (Something which indicates a truth)
+Evil: (Very mean)
+Exact: (~)
+Exam: (Knowledge test)
+Examine: (~)
+Example: (~)
+Excellent: (Very good)
+Except: (~)
+Exchange: (Give and receive)
+Excite: (~)
+Exclude: (Not be in)
+Excuse: (Show to be fair)
+Executive: (Pertaining to control)
+Exercise: (~)
+Exhibition: (Art show)
+Exist: (~)
+Exit: (~)
+Expand: (Become larger)
+Expect: (~)
+Expensive: (Having a large price)
+Experience: (Work knowledge)
+Experiment: (~)
+Expert: (Knowing a lot about something)
+Explain: (~)
+Explode: (~)
+Explore: (Travel for learning)
+Export: (Send to another place)
+Expose: (~)
+Express: (~)
+Extend: (Become longer)
+Extensive: (~)
+Extent: (~)
+External: (~)
+Extra: (~)
+Extraordinary: (Very good)
+Extreme: (~)
+Eye: (~)
+Face: (~)
+Facility: (Useful place)
+Fact: (True concept)
+Factor: (~)
+Factory: (Item creation building)
+Fail: (~)
+Fair: (~)
+Faith: (~)
+Fall: (~)
+False: (~)
+Familiar: (~)
+Family: (~)
+Famous: (~)
+Fan: (Air tool)
+Fancy: (~)
+Fantastic: (Very good)
+Far: (~)
+Farm: (Food land)
+Fascinate: (~)
+Fashion: (~)
+Fast: (~)
+Fat: (~)
+Father: (Male parent)
+Fault: (Bad part)
+Favor: (Special help)
+Favorite: (Most enjoyed)
+Fear: (~)
+Feature: (Good part)
+Federal: (~)
+Fee: (~)
+Feed: (Give food)
+Feedback: (Opinion about something)
+Feel: (~)
+Female: (~)
+Fence: (Wooden wall)
+Festival: (~)
+Fetch: (~)
+Few: (~)
+Field: (Grass land)
+Fight: (~)
+Figure: (~)
+File: (Data container)
+Fill: (Cause to be full)
+Film: (~)
+Filthy: (~)
+Final: (~)
+Financial: (Pertaining to money)
+Find: (~)
+Fine: (~)
+Finger: (~)
+Finish: (~)
+Fire: (~)
+Firm: (~)
+First: (~)
+Fish: (~)
+Fit: (~)
+Fix: (~)
+Flash: (~)
+Flat: (~)
+Flavor: (~)
+Flesh: (~)
+Flood: (Water emergency)
+Floor: (~)
+Flow: (Liquid movement)
+Flower: (Beautiful plant organ)
+Fly: (~)
+Focus: (~)
+Fold: (~)
+Follow: (~)
+Food: (~)
+Foot: (~)
+Football: (Foot ball sport)
+For: (~)
+Force: (~)
+Foreign: (From a different land)
+Forest: (Tree land)
+Forever: (During all times)
+Forget: (~)
+Forgive: (Stop being angry toward)
+Fork: (Many prong utensil)
+Form: (~)
+Formal: (~)
+Formation: (Position organization)
+Former: (~)
+Formula: (Number relationship)
+Fortunate: (Having good luck)
+Fortune: (A lot of money)
+Forward: (~)
+Foundation: (Bottom)
+Frame: (~)
+Frank: (Saying the truth)
+Free: (~)
+Freeway: (Many vehicle road)
+Freeze: (Become a solid)
+Frequent: (~)
+Fresh: (~)
+Friend: (~)
+Frighten: (~)
+From: (~)
+Front: (~)
+Fruit: (~)
+Fry: (Cook in oil)
+Fuel: (~)
+Fulfil: (Achieve requirements)
+Full: (~)
+Fully: (~)
+Fun: (~)
+Function: (~)
+Fund: (Money for a specific purpose)
+Fundamental: (Important for many things)
+Funeral: (Death ceremony)
+Funny: (~)
+Furniture: (~)
+Future: (~)
+Gain: (~)
+Gallery: (Art shop)
+Game: (~)
+Gang: (Group of people)
+Gap: (~)
+Garage: (Vehicle building)
+Garbage: (~)
+Garden: (Small plant land)
+Garlic: (Strong smell vegetable)
+Gas: (~)
+Gasoline: (Vehicle oil fuel)
+Gate: (~)
+Gather: (Come together)
+Gay: (Preferring the same gender)
+Gear: (Force transfer wheel)
+Gene: (Cell data)
+General: (~)
+Generate: (~)
+Generous: (Giving often)
+Gentle: (~)
+Genuine: (~)
+Get: (~)
+Giant: (Very big)
+Gift: (~)
+Girl: (Female child)
+Give: (~)
+Glad: (~)
+Glance: (Look quickly)
+Glass: (~)
+Global: (Pertaining to the entire Earth)
+Glove: (Hand clothing)
+Go: (~)
+Goal: (~)
+God: (Religion person)
+Gold: (Valuable yellow metal)
+Golf: (Distant hole sport)
+Good: (~)
+Goodbye: (~)
+Gorgeous: (~)
+Government: (~)
+Grab: (~)
+Grade: (Quality level)
+Gradual: (~)
+Gram: (~)
+Grammar: (Language organization)
+Grand: (~)
+Grandfather: (Male parent of parent)
+Grandmother: (Female parent of parent)
+Grant: (~)
+Graph: (Picture representing many numbers)
+Grass: (~)
+Grateful: (Feeling gratitude toward)
+Gray: (~)
+Great: (~)
+Green: (~)
+Grocery: (Sold food)
+Gross: (~)
+Ground: (~)
+Group: (~)
+Grow: (Become larger)
+Guarantee: (Say that something is certain)
+Guard: (~)
+Guess: (~)
+Guest: (Someone who stays temporarily)
+Guide: (~)
+Guilty: (~)
+Guitar: (String music instrument)
+Gun: (Shooting device)
+Guy: (Male person)
+Habit: (Frequent action)
+Hair: (~)
+Half: (~)
+Hall: (Long room)
+Hand: (~)
+Handle: (~)
+Handy: (~)
+Hang: (~)
+Happen: (~)
+Happy: (~)
+Hard: (~)
+Hardly: (Almost not)
+Harm: (~)
+Hat: (Head top clothing)
+Hate: (~)
+Have: (~)
+Head: (~)
+Healthy: (~)
+Hear: (~)
+Heart: (Blood organ)
+Heat: (~)
+Heaven: (Good religion place)
+Heavy: (Having a large weight)
+Height: (Vertical length)
+Hell: (Bad religion place)
+Hello: (~)
+Help: (~)
+Hence: (~)
+Her: (~)
+Here: (~)
+Hero: (Brave protecting person)
+Hesitate: (Nervous wait)
+Hi: (~)
+Hide: (~)
+High: (~)
+Highlight: (Show the importance of)
+Highway: (Many vehicle road)
+Hill: (~)
+Him: (~)
+Hire: (Give a job)
+History: (Time study)
+Hit: (~)
+Hold: (~)
+Hole: (~)
+Holiday: (No work day)
+Holy: (Pertaining to religion)
+Home: (~)
+Honest: (Saying the truth)
+Honey: (Sweet arthropod liquid)
+Honor: (Respected a lot)
+Hook: (Holding tool)
+Hope: (~)
+Horrible: (Very bad)
+Horror: (Scary feeling)
+Horse: (Vehicle animal)
+Hospital: (Health building)
+Host: (Event organizer)
+Hot: (~)
+Hotel: (Many temporary home building)
+Hour: (~)
+House: (Home building)
+How: (Which manner)
+However: (~)
+Huge: (~)
+Human: (~)
+Hungry: (Wanting food)
+Hunt: (Try to kill)
+Hurry: (Work quickly)
+Hurt: (~)
+Husband: (Male spouse)
+I: (~)
+Ice: (Solid water)
+Ice (cream: Cold milk dessert)
+Idea: (~)
+Ideal: (Most good)
+Identity: (~)
+Idiot: (Dumb person)
+If: (~)
+Ignore: (~)
+Ill: (~)
+Illegal: (Against the law)
+Illustrate: (Draw a picture)
+Image: (~)
+Imagine: (~)
+Immediate: (Very soon)
+Impact: (~)
+Implement: (Create according to a plan)
+Implication: (~)
+Imply: (~)
+Import: (Bring from another place)
+Important: (~)
+Impose: (Cause by means of strength)
+Impossible: (~)
+Impress: (Cause to appreciate)
+Improve: (Cause to become better)
+In: (~)
+Incident: (~)
+Include: (Be in)
+Income: (Payed money)
+Increase: (Cause to become more numerous)
+Incredible: (Not possible to believe)
+Indeed: (~)
+Independent: (Not depending on others)
+Index: (Sequence position)
+Indicate: (~)
+Individual: (~)
+Industry: (System of companies)
+Inevitable: (Definitely going to happen)
+Infant: (~)
+Infection: (Living things unhealthy for container)
+Inflation: (Become larger by means of air)
+Influence: (~)
+Inform: (~)
+Informal: (~)
+Initial: (~)
+Initiative: (Ability to start something)
+Injure: (~)
+Inner: (~)
+Innocent: (Not guilty)
+Innovation: (Creating new ideas)
+Input: (Received information)
+Inquiry: (~)
+Insect: (Six foot arthropod)
+Inside: (~)
+Insist: (Demand with force)
+Inspect: (~)
+Install: (Place for usage)
+Instance: (~)
+Instant: (Very short time)
+Instead: (~)
+Institution: (System of people for a particular purpose)
+Instruct: (~)
+Instrument: (~)
+Insurance: (Accident money)
+Intelligent: (~)
+Intend: (~)
+Intense: (~)
+Interaction: (Acting upon together)
+Interest: (~)
+Internal: (~)
+International: (Pertaining to many countries)
+Internet: (~)
+Interpret: (Try to understand)
+Interval: (~)
+Intervention: (Interrupt bad behavior)
+Interview: (Question time)
+Into: (In to)
+Introduce: (Help meet)
+Invest: (Spend for the purpose of gaining)
+Investigate: (~)
+Invite: (Allow to enter)
+Involve: (Be a part of)
+Iron: (Gray magnetic metal)
+Island: (Ocean border land)
+Issue: (~)
+It: (~)
+Item: (~)
+Jacket: (Warm upper torso clothing)
+Jam: (Thick fruit fluid)
+Job: (~)
+Join: (~)
+Joint: (~)
+Joke: (Funny communication)
+Journalist: (News writer)
+Journey: (~)
+Joy: (~)
+Judge: (~)
+Juice: (Fruit liquid)
+Jump: (Push self into the air)
+Junior: (Young person)
+Jury: (Group of people deciding guilt)
+Just: (~)
+Justice: (~)
+Justify: (Show to be reasonable)
+Keen: (~)
+Keep: (~)
+Kettle: (Hot beverage container)
+Key: (~)
+Keyboard: (Symbol key device)
+Kick: (Hit by means of foot)
+Kid: (~)
+Kill: (Cause to die)
+Kind: (~)
+King: (Country ruler)
+Kiss: (Touch by means of mouth)
+Kit: (Group of items for a specific purpose)
+Kitchen: (Cooking room)
+Knee: (Leg joint)
+Knife: (Cutting tool)
+Knock: (~)
+Know: (~)
+Lab: (Science room)
+Label: (Bonded text paper)
+Labor: (~)
+Lack: (Not have)
+Ladder: (Move up tool)
+Lady: (Female person)
+Lake: (~)
+Lamb: (Young sheep)
+Lamp: (Light tool)
+Land: (~)
+Lane: (Parallel part of road)
+Language: (~)
+Large: (~)
+Last: (~)
+Late: (~)
+Latter: (~)
+Laugh: (~)
+Launch: (~)
+Law: (~)
+Lawyer: (Law knowing person)
+Lay: (~)
+Layer: (~)
+Lazy: (Not working a lot)
+Lead: (~)
+Leaf: (~)
+League: (Sports competition)
+Lean: (Pushing by means of gravity)
+Learn: (~)
+Least: (~)
+Leather: (Cow skin)
+Leave: (~)
+Lecture: (~)
+Left: (~)
+Leg: (Foot limb)
+Legal: (Pertaining to law)
+Leisure: (~)
+Lend: (Temporarily give)
+Length: (~)
+Less: (~)
+Lesson: (~)
+Let: (~)
+Letter: (~)
+Level: (~)
+Liberal: (With few constraints)
+Library: (Book building)
+License: (Authority permission)
+Lick: (Touch with taste organ)
+Lid: (~)
+Lie: (~)
+Lift: (~)
+Light: (~)
+Lighting: (~)
+Like: (~)
+Likely: (~)
+Limit: (~)
+Line: (~)
+Link: (~)
+Lip: (Mouth border)
+Liquid: (~)
+List: (~)
+Listen: (~)
+Literal: (According to actual meaning)
+Literature: (Word art)
+Little: (~)
+Live: (~)
+Load: (~)
+Loan: (Pay temporarily)
+Local: (Pertaining to nearby places)
+Location: (~)
+Lock: (~)
+Log: (Tree torso piece)
+Logical: (~)
+Lonely: (Sad about being alone)
+Long: (~)
+Look: (~)
+Loose: (Not compressing)
+Lord: (Religion person)
+Lose: (~)
+Lost: (Not knowing location)
+Lot: (~)
+Loud: (~)
+Lounge: (Relaxation room)
+Love: (~)
+Low: (~)
+Lucky: (Good chance)
+Lump: (~)
+Lunch: (Middle of day food)
+Machine: (~)
+Mad: (~)
+Magazine: (Book created several times per year)
+Magic: (Not by means of science)
+Mail: (~)
+Main: (~)
+Maintain: (Keep healthy)
+Major: (~)
+Make: (~)
+Male: (~)
+Mall: (Building of many selling locations)
+Man: (Male person)
+Manage: (~)
+Manner: (~)
+Manufacture: (Create an item)
+Many: (~)
+Map: (Image representing land)
+March: (Walk together for a particular purpose)
+Margin: (Space on the side)
+Mark: (~)
+Market: (Place for buying things)
+Marry: (~)
+Marvellous: (Very good)
+Mass: (~)
+Master: (~)
+Match: (Find similar things)
+Material: (~)
+Math: (Number science)
+Matter: (~)
+Maximum: (Biggest limit)
+May: (~)
+Maybe: (~)
+Meal: (Food for eating)
+Mean: (~)
+Measure: (Find amount)
+Meat: (~)
+Mechanism: (~)
+Media: (Communication to many people)
+Medicine: (~)
+Medieval: (Very old)
+Medium: (Middle amount)
+Meet: (~)
+Member: (~)
+Memory: (~)
+Mental: (Pertaining to thought)
+Mention: (Briefly talk about)
+Menu: (List of options)
+Message: (~)
+Messy: (~)
+Metal: (~)
+Meter: (~)
+Method: (~)
+Middle: (~)
+Midnight: (Middle of the night)
+Might: (~)
+Military: (Pertaining to combat of nations)
+Milk: (~)
+Mind: (Thought system)
+Mine: (~)
+Mineral: (Natural solid not containing carbon)
+Minimum: (Smallest limit)
+Minor: (~)
+Minority: (~)
+Minute: (~)
+Mirror: (Image reflecting surface)
+Misery: (~)
+Miss: (Not hit)
+Mission: (~)
+Mistake: (~)
+Mix: (~)
+Mixture: (~)
+Mobile: (Able to move)
+Mode: (~)
+Model: (~)
+Modern: (New style)
+Mom: (Female parent)
+Moment: (Short time)
+Money: (~)
+Monitor: (Image machine)
+Month: (~)
+Mood: (~)
+Moon: (~)
+Moral: (Rule pertaining to fairness)
+More: (~)
+Morning: (Start of day)
+Mortgage: (Building cost)
+Most: (~)
+Motion: (~)
+Motor: (Turning machine)
+Mountain: (~)
+Mouse: (Very small mammal)
+Mouth: (~)
+Move: (~)
+Movie: (~)
+Much: (~)
+Mud: (Wet dirt)
+Murder: (Causing death)
+Muscle: (~)
+Museum: (Building showing old objects)
+Mushroom: (~)
+Music: (~)
+Must: (~)
+My: (~)
+Mystery: (Something nobody knows)
+Nail: (Finger surface bone)
+Naked: (Not wearing anything)
+Name: (~)
+Narrow: (~)
+Nasty: (~)
+Nation: (~)
+Native: (Born in a particular place)
+Nature: (~)
+Naughty: (~)
+Near: (~)
+Nearly: (~)
+Neat: (~)
+Necessary: (~)
+Neck: (Head limb)
+Need: (~)
+Negative: (Less than zero)
+Negotiate: (Cause by means of discussion)
+Neighbor: (Nearby person)
+Neither: (Not something and not something else)
+Nerve: (Cell for transmitting information)
+Nervous: (~)
+Net: (~)
+Network: (~)
+Never: (At no time)
+New: (~)
+News: (~)
+Next: (~)
+Nice: (~)
+Night: (~)
+No: (~)
+Nod: (Vertically shake head)
+Noise: (~)
+None: (~)
+Nonsense: (~)
+Nope: (~)
+Nor: (Not something and not something else)
+Normal: (~)
+North: (~)
+Nose: (Smell organ)
+Not: (~)
+Notable: (Important to notice)
+Note: (Text for remembering)
+Nothing: (No thing)
+Notice: (~)
+Notion: (~)
+Novel: (Story book)
+Now: (~)
+Nowhere: (In no place)
+Nuclear: (Pertaining to protons and neutrons)
+Nuisance: (~)
+Number: (~)
+Nurse: (Healing body person)
+Nut: (~)
+Object: (~)
+Objective: (~)
+Obligation: (Something which should be done)
+Observe: (~)
+Obtain: (~)
+Obvious: (~)
+Occasion: (Time of event)
+Occasional: (Not often)
+Occupation: (~)
+Occupy: (Be inside)
+Occur: (~)
+Ocean: (~)
+Odd: (~)
+Odds: (~)
+Of: (~)
+Off: (~)
+Offense: (Pertaining to attack)
+Offer: (Allow to have)
+Office: (Work building)
+Official: (Approved by an authority)
+Often: (~)
+Oil: (~)
+Okay: (~)
+Old: (~)
+On: (~)
+Once: (One time)
+One: (~)
+Onion: (Eye water vegetable)
+Only: (~)
+Onto: (On to)
+Open: (~)
+Operate: (~)
+Opinion: (~)
+Opponent: (~)
+Opportunity: (Circumstance for possibility)
+Oppose: (~)
+Opposite: (~)
+Option: (~)
+Or: (~)
+Orange: (~)
+Order: (~)
+Ordinary: (~)
+Organ: (~)
+Organize: (~)
+Origin: (Starting place)
+Original: (First)
+Other: (~)
+Ought: (~)
+Our: (~)
+Out: (~)
+Outcome: (~)
+Output: (Given information)
+Outside: (~)
+Outstanding: (Very good)
+Oven: (Cooking machine)
+Over: (~)
+Owe: (Should give)
+Own: (~)
+Pace: (~)
+Pack: (Put into container)
+Package: (~)
+Packet: (Bag container)
+Pad: (Soft flat object)
+Page: (Paper piece)
+Pain: (~)
+Paint: (Color drawing liquid)
+Painting: (Picture created by hand)
+Pair: (Two things)
+Palace: (Home of government person)
+Pale: (~)
+Pan: (Flat cooking bowl)
+Panel: (Surface piece)
+Panic: (~)
+Pants: (Foot limb clothing)
+Paper: (~)
+Pardon: (Stop being angry toward)
+Parent: (~)
+Park: (Nature land)
+Part: (~)
+Participate: (~)
+Particular: (~)
+Partner: (Person working together)
+Party: (~)
+Pass: (Go by)
+Passage: (~)
+Passenger: (Person going in a vehicle)
+Passion: (Strong enjoyment)
+Past: (~)
+Path: (~)
+Patient: (Able to wait)
+Pattern: (~)
+Pause: (Temporarily stop)
+Pay: (~)
+Peace: (~)
+Peak: (~)
+Pen: (Liquid writing tool)
+Penalty: (~)
+Pencil: (Gray solid writing tool)
+Penny: (0.01 dollar object)
+Pepper: (Spicy vegetable)
+Per: (For each)
+Perceive: (~)
+Perfect: (Most good)
+Perform: (~)
+Perhaps: (~)
+Period: (Time interval)
+Permanent: (~)
+Permit: (~)
+Person: (~)
+Personality: (Quality of behavior)
+Perspective: (Position of perception)
+Persuade: (Try to cause to do something)
+Phase: (~)
+Philosophy: (Science of existence)
+Phone: (~)
+Photo: (~)
+Phrase: (Group of words)
+Physical: (Pertaining to physical entities)
+Piano: (Button string music instrument)
+Pick: (~)
+Picture: (~)
+Pie: (Pastry bowl dessert)
+Piece: (~)
+Pig: (~)
+Pile: (~)
+Pill: (Solid medicine object)
+Pilot: (Flying vehicle controller)
+Pin: (Sharp metal prong)
+Pink: (Light red)
+Pipe: (~)
+Pitch: (~)
+Pity: (Sadness about someone's pain)
+Pizza: (Flat bread with tomato and cheese)
+Place: (~)
+Plain: (~)
+Plan: (~)
+Plane: (Flying vehicle)
+Planet: (~)
+Plant: (~)
+Plastic: (~)
+Plate: (~)
+Platform: (Place for standing)
+Play: (~)
+Pleasant: (Able to be enjoyed)
+Please: (Cause to be happy)
+Plenty: (More than enough)
+Plot: (~)
+Plug: (Electronic link)
+Plus: (~)
+Pocket: (~)
+Poem: (Artistic words)
+Point: (~)
+Pole: (~)
+Police: (Government security system)
+Policy: (~)
+Polite: (~)
+Politics: (Governemnt activity)
+Poll: (Choice inquiry)
+Polution: (Material damaging nature)
+Pond: (~)
+Pool: (Body of water)
+Poor: (Not having a lot of money)
+Pop: (~)
+Popular: (~)
+Population: (Amount of people)
+Port: (Data outlet)
+Pose: (Try to have a shape)
+Position: (~)
+Positive: (More than zero)
+Possess: (~)
+Possible: (~)
+Post: (Cause to be public)
+Poster: (Wall paper)
+Pot: (~)
+Potato: (~)
+Potential: (Able to happen)
+Pour: (~)
+Poverty: (State of not having money)
+Power: (~)
+Practical: (Pertaining to work)
+Practice: (~)
+Praise: (~)
+Pray: (Request help from religion person)
+Precise: (~)
+Predict: (~)
+Prefer: (~)
+Pregnant: (Contain a baby)
+Premise: (Previous belief)
+Prepare: (Become ready)
+Presence: (Existence in a place)
+Present: (~)
+Presentation: (~)
+Preserve: (~)
+President: (Country leader)
+Press: (~)
+Pressure: (~)
+Presume: (~)
+Pretend: (Act as though)
+Pretty: (~)
+Prevent: (~)
+Previous: (~)
+Price: (~)
+Pride: (~)
+Primary: (~)
+Prince: (Male child of country ruler)
+Princess: (Female child of country ruler)
+Principal: (~)
+Principle: (Primary rule)
+Print: (Draw by means of machine)
+Prior: (~)
+Priority: (Amount of importance)
+Prison: (Punishment building)
+Private: (~)
+Privilege: (Special ability)
+Prize: (~)
+Probably: (~)
+Problem: (~)
+Procedure: (Sequence of actions)
+Proceed: (~)
+Process: (System of actions)
+Produce: (~)
+Product: (Something created by a company)
+Profession: (~)
+Professor: (~)
+Profile: (~)
+Profit: (Extra gained money)
+Program: (~)
+Progress: (~)
+Project: (~)
+Promise: (Say that something will definitely happen)
+Promote: (Publicly praise)
+Prompt: (Request information)
+Proof: (Something which shows truth)
+Proper: (~)
+Property: (~)
+Proportion: (~)
+Propose: (~)
+Prospect: (~)
+Protect: (~)
+Protest: (~)
+Proud: (~)
+Prove: (Show to be true)
+Provide: (~)
+Provision: (~)
+Psychology: (Behavior science)
+Pub: (Alcohol building)
+Public: (~)
+Publish: (Cause to be public)
+Pudding: (Viscous liquid desert)
+Pull: (~)
+Punch: (Hit with hand)
+Punish: (Give punishment)
+Purchase: (~)
+Pure: (Not containing other materials)
+Purple: (~)
+Purpose: (~)
+Purse: (Hand bag)
+Pursue: (Try to accomplish)
+Push: (~)
+Put: (~)
+Qualify: (Describe quality)
+Quantity: (~)
+Queen: (Country ruler)
+Question: (~)
+Queue: (~)
+Quick: (~)
+Quiet: (~)
+Quit: (Stop an occupation)
+Quite: (~)
+Quote: (Exact statement)
+Race: (Speed game)
+Radical: (~)
+Radio: (~)
+Rail: (~)
+Rain: (~)
+Raise: (~)
+Range: (~)
+Rank: (~)
+Rapid: (~)
+Rare: (~)
+Rate: (~)
+Rather: (Prefer more)
+Ratio: (Amount divided by amount)
+Raw: (Not cooked)
+Reach: (~)
+React: (~)
+Read: (~)
+Ready: (~)
+Real: (~)
+Realize: (Start to be aware of)
+Really: (~)
+Reason: (~)
+Reasonable: (~)
+Recall: (~)
+Receipt: (List showing purchases)
+Receive: (~)
+Recent: (~)
+Recipe: (Instructions for creating something)
+Reckon: (~)
+Recognition: (~)
+Recommend: (~)
+Record: (Store information)
+Recover: (Cause to have previous state)
+Red: (~)
+Reduce: (Cause to be less)
+Refer: (Talk about)
+Reflect: (~)
+Reform: (Change behavior)
+Refridgerator: (Cold machine)
+Refuse: (Not agree to allow)
+Regard: (Think about in a specific way)
+Regime: (~)
+Region: (~)
+Register: (Store information)
+Regret: (Be unhappy about)
+Regular: (~)
+Regulate: (~)
+Reinforce: (Cause to be stronger)
+Reject: (~)
+Relate: (~)
+Relax: (~)
+Release: (~)
+Relevant: (Strongly related)
+Relief: (~)
+Religion: (~)
+Rely: (~)
+Remain: (~)
+Remark: (Talk about)
+Remarkable: (Very good)
+Remember: (~)
+Remind: (Cause to recall)
+Remote: (~)
+Remove: (~)
+Rent: (Temporarily buy)
+Repair: (~)
+Repeat: (~)
+Replace: (Put instead of)
+Reply: (~)
+Report: (~)
+Represent: (~)
+Republic: (Government chosen by many people)
+Reputation: (Opinions of other people)
+Request: (~)
+Require: (~)
+Rescue: (Cause to be safe)
+Research: (~)
+Reserve: (Keep for future usage)
+Resident: (Person who has a home in a place)
+Resign: (Stop an occupation)
+Resist: (Try to stop)
+Resolve: (~)
+Resort: (Do something instead)
+Resource: (~)
+Respect: (~)
+Respond: (~)
+Responsibility: (~)
+Responsible: (~)
+Rest: (~)
+Restaurant: (Eating building)
+Restore: (Cause to have previous state)
+Restrict: (Cause a constraint)
+Result: (~)
+Retain: (~)
+Retire: (Stop an occupation)
+Return: (Give back)
+Reveal: (~)
+Revenue: (Received money)
+Reverse: (~)
+Review: (Look for mistakes)
+Revolution: (Rotate by 360 degrees)
+Reward: (~)
+Rhythm: (Music time pattern)
+Rice: (~)
+Rich: (Have a lot of money)
+Rid: (Cause to be free from)
+Ride: (Travel inside)
+Ridiculous: (~)
+Right: (~)
+Ring: (Alert sound)
+Rip: (~)
+Rise: (Go up)
+Risk: (Chance of something bad)
+Rival: (~)
+River: (~)
+Road: (~)
+Rob: (Take without permission)
+Rock: (~)
+Role: (~)
+Roll: (Move by rotating)
+Roof: (Building top)
+Room: (~)
+Root: (Plant soil organ)
+Rope: (~)
+Rough: (~)
+Roughly: (~)
+Round: (~)
+Route: (~)
+Routine: (Usual sequence of actions)
+Row: (Horizontal sequence)
+Royal: (Pertaining to government family)
+Rub: (~)
+Rubber: (~)
+Rude: (~)
+Ruin: (Cause to be bad)
+Rule: (~)
+Run: (~)
+Rural: (Far from the city)
+Rush: (Work quickly)
+Sack: (~)
+Sad: (~)
+Safe: (~)
+Sail: (Air pushing cloth)
+Sake: (~)
+Salad: (Leaf food)
+Salary: (Occupation money)
+Sale: (~)
+Salt: (~)
+Same: (~)
+Sample: (~)
+Sand: (~)
+Sandwich: (Bread layer food)
+Satellite: (Planet space machine)
+Satisfy: (Complete the needs of)
+Sauce: (Extra flavor liquid)
+Sausage: (Long round meat)
+Save: (~)
+Say: (~)
+Scale: (Finding weight machine)
+Scare: (~)
+Scene: (Event place)
+Schedule: (Time plan)
+Scheme: (~)
+School: (Learning building)
+Science: (~)
+Scope: (Context of importance)
+Score: (Success amount)
+Scratch: (~)
+Scream: (Speak very loudly)
+Screen: (Image machine)
+Screw: (Rotating connection object)
+Script: (~)
+Sea: (~)
+Seal: (~)
+Search: (~)
+Season: (~)
+Seat: (Sitting place)
+Second: (~)
+Secret: (~)
+Section: (~)
+Secure: (~)
+See: (~)
+Seed: (~)
+Seek: (~)
+Seem: (~)
+Seize: (Take by force)
+Select: (~)
+Self: (~)
+Sell: (~)
+Send: (~)
+Senior: (~)
+Sense: (~)
+Sensitive: (Able to sense small changes)
+Sentence: (~)
+Separate: (~)
+Sequence: (~)
+Series: (~)
+Serious: (~)
+Serve: (~)
+Service: (~)
+Session: (Activity interval)
+Set: (~)
+Setting: (~)
+Settle: (Start to agree)
+Several: (~)
+Severe: (~)
+Sew: (~)
+Sex: (~)
+Shadow: (~)
+Shake: (~)
+Shame: (~)
+Shape: (~)
+Share: (Use together)
+Sharp: (~)
+Shave: (Cut hair)
+Shed: (Small building)
+Sheep: (~)
+Sheet: (Flat piece)
+Shelf: (~)
+Shell: (Mollusk bone)
+Shelter: (Safe place)
+Shift: (Cause to change position)
+Shine: (Create light)
+Ship: (Water vehicle)
+Shirt: (Torso clothing)
+Shock: (~)
+Shoe: (Foot clothing)
+Shoot: (~)
+Shop: (~)
+Short: (~)
+Should: (~)
+Shoulder: (Upper limb torso joint)
+Shout: (Speak loudly)
+Shove: (~)
+Show: (~)
+Shower: (~)
+Shrug: (Body communication of not knowing)
+Shut: (~)
+Sick: (~)
+Side: (~)
+Sight: (~)
+Sign: (~)
+Signal: (~)
+Signature: (Written name)
+Significant: (~)
+Silent: (Not making noise)
+Silly: (~)
+Silver: (Reflective gray valuable metal)
+Similar: (~)
+Simple: (~)
+Sin: (Bad action with respect to religion)
+Since: (~)
+Sing: (Speak music)
+Single: (~)
+Sink: (~)
+Sister: (Female sibling)
+Sit: (~)
+Site: (~)
+Situation: (~)
+Size: (Amount of largeness)
+Skill: (Ability to do something)
+Skin: (~)
+Skirt: (Upper foot limb clothing)
+Sky: (~)
+Sleep: (~)
+Slice: (~)
+Slide: (~)
+Slight: (~)
+Slim: (~)
+Slip: (~)
+Slope: (Diagonal surface)
+Slow: (~)
+Small: (~)
+Smart: (~)
+Smell: (~)
+Smile: (Happy mouth shape)
+Smoke: (~)
+Smooth: (~)
+Snap: (~)
+Snow: (Crystal precipitation)
+So: (~)
+Soap: (~)
+Social: (Pertaining to the activity of people)
+Society: (Group of people working together)
+Sock: (Soft foot clothing)
+Soft: (~)
+Software: (~)
+Soil: (~)
+Soldier: (~)
+Sole: (~)
+Solicitor: (~)
+Solid: (~)
+Solve: (~)
+Some: (~)
+Son: (Male offspring)
+Song: (~)
+Soon: (~)
+Sore: (Having pain)
+Sorry: (~)
+Sort: (~)
+Soul: (Emotional part of person)
+Sound: (~)
+Soup: (Liquid food)
+Source: (Original location)
+South: (~)
+Space: (~)
+Spare: (~)
+Speak: (~)
+Special: (~)
+Species: (Type of living thing)
+Specific: (~)
+Specify: (Cause to be more specific)
+Speech: (~)
+Speed: (~)
+Spell: (Say the letters of a word)
+Spend: (~)
+Spill: (~)
+Spin: (~)
+Spirit: (Emotional part of person)
+Spite: (Desire to damage someone)
+Split: (~)
+Spoil: (Become bad)
+Spoon: (Liquid food utensil)
+Sport: (~)
+Spot: (Circle mark)
+Spray: (~)
+Spread: (~)
+Spring: (Becoming warm season)
+Squad: (Task people group)
+Square: (~)
+Squeeze: (~)
+Stable: (~)
+Staff: (~)
+Stage: (~)
+Stair: (~)
+Stake: (Something which can be lost)
+Stall: (Cause to wait)
+Stamp: (Mail payment mark)
+Stand: (~)
+Standard: (~)
+Star: (~)
+Stare: (Look at for a long time)
+Start: (~)
+Starve: (Die because of not eating)
+State: (~)
+Station: (Temporary rest building)
+Statistic: (Probability number)
+Status: (~)
+Stay: (~)
+Steady: (~)
+Steak: (Cow meat)
+Steal: (Take without permission)
+Steam: (~)
+Steel: (Stronger gray metal)
+Steep: (Having a large angle)
+Step: (~)
+Stick: (~)
+Stiff: (~)
+Still: (~)
+Stir: (Mix a liquid)
+Stock: (Items for selling)
+Stomach: (Digestion organ)
+Stone: (~)
+Stop: (~)
+Storage: (Place for storing)
+Store: (~)
+Storm: (Bad weather)
+Story: (~)
+Straight: (~)
+Strain: (Cause to work a lot)
+Strange: (~)
+Strategy: (~)
+Straw: (Drinking tube)
+Strawberry: (Small red fruit)
+Stream: (~)
+Street: (~)
+Stress: (~)
+Stretch: (~)
+Strict: (Following the rules a lot)
+Strike: (~)
+String: (~)
+Strip: (~)
+Stroke: (~)
+Strong: (~)
+Structure: (~)
+Struggle: (Have trouble doing something)
+Student: (~)
+Studio: (Art work place)
+Study: (~)
+Stuff: (~)
+Stupid: (~)
+Style: (~)
+Subject: (The concept to which something pertains)
+Submit: (~)
+Substance: (~)
+Substantial: (Significant amount)
+Succeed: (~)
+Such: (That kind of)
+Suck: (Pull air)
+Sudden: (~)
+Suffer: (~)
+Sufficient: (~)
+Sugar: (~)
+Suggest: (~)
+Suit: (Formal clothing)
+Suitable: (~)
+Sum: (Addition of numbers)
+Summer: (Hot season)
+Sun: (~)
+Super: (Very good)
+Supply: (~)
+Support: (~)
+Suppose: (~)
+Sure: (~)
+Surface: (~)
+Surgery: (Fixing a body by means of cutting)
+Surprise: (~)
+Surround: (Be on all sides of)
+Survey: (Asking for information from many people)
+Survive: (Be alive after)
+Suspect: (~)
+Sustain: (Cause to continue)
+Swap: (Put in place of)
+Swear: (Bad word)
+Sweep: (~)
+Sweet: (~)
+Swim: (Move in water)
+Swing: (Hang and move)
+Switch: (~)
+Symbol: (~)
+Sympathy: (Feeling together)
+System: (~)
+Table: (~)
+Tablet: (Small medicine piece)
+Tackle: (~)
+Tail: (Long back appendage)
+Take: (~)
+Tale: (~)
+Talent: (Special ability)
+Talk: (~)
+Tall: (~)
+Tank: (Liquid container)
+Tap: (Small touch)
+Tape: (~)
+Target: (~)
+Task: (~)
+Taste: (~)
+Tax: (Government fee)
+Taxi: (Payment vehicle)
+Tea: (Hot leaf beverage)
+Teach: (~)
+Team: (Group working together)
+Tear: (~)
+Technique: (~)
+Technology: (Usage of science)
+Telephone: (~)
+Television: (Video machine)
+Tell: (~)
+Temperature: (Amount of heat)
+Temporary: (~)
+Tend: (~)
+Tennis: (Net ball sport)
+Tension: (~)
+Tent: (Cloth building)
+Term: (~)
+Terrible: (Very bad)
+Territory: (~)
+Terror: (~)
+Test: (~)
+Text: (~)
+Than: (~)
+Thank: (~)
+That: (~)
+The: (~)
+Theater: (Acting building)
+Theme: (Related concept)
+Then: (~)
+Theory: (Hypothetical explanation)
+There: (~)
+Therefore: (~)
+They: (~)
+Thick: (~)
+Thin: (~)
+Thing: (~)
+Think: (~)
+This: (~)
+Though: (~)
+Threat: (Something which may cause harm)
+Three: (~)
+Throat: (Swallowing organ)
+Through: (~)
+Throw: (~)
+Thus: (~)
+Ticket: (Permission paper)
+Tidy: (~)
+Tie: (~)
+Tight: (Compressing)
+Tile: (Flat cermaic piece)
+Time: (~)
+Tin: (Container made of metal)
+Tiny: (Very small)
+Tip: (~)
+Tire: (Wheel rubber)
+Tired: (~)
+Title: (~)
+To: (~)
+Toast: (Cooked bread)
+Today: (Current day)
+Toe: (~)
+Together: (~)
+Toilet: (~)
+Tomato: (~)
+Tomorrow: (Next day)
+Tongue: (Taste organ)
+Tonight: (Current night)
+Too: (~)
+Tool: (~)
+Tooth: (Biting bone)
+Top: (~)
+Topic: (The concept to which something pertains)
+Total: (~)
+Touch: (~)
+Tough: (~)
+Tour: (Travel for sights)
+Towards: (~)
+Towel: (Drying cloth)
+Tower: (Tall building)
+Town: (~)
+Toy: (Entertainment object)
+Track: (~)
+Trade: (Give and receive)
+Tradition: (Old usual action)
+Traffic: (Too many vehicles)
+Trailer: (Pulled vehicle)
+Train: (Rail vehicle)
+Transaction: (~)
+Tranfser: (~)
+Transform: (~)
+Transition: (Change context)
+Translate: (Change language)
+Transport: (~)
+Trash: (~)
+Travel: (~)
+Tray: (~)
+Treat: (~)
+Treaty: (Country agreement)
+Tree: (~)
+Tremendous: (Very big)
+Trend: (~)
+Trial: (~)
+Trick: (Cause to believe something false)
+Trip: (Fall while walking)
+Troop: (Group of fighters)
+Trouble: (~)
+Truck: (Object transportation vehicle)
+True: (~)
+Trust: (Believe to be kind)
+Try: (~)
+Tube: (~)
+Tune: (~)
+Tunnel: (Hole road)
+Turn: (~)
+Twice: (Two times)
+Twist: (~)
+Type: (~)
+Typical: (~)
+Ugly: (~)
+Ultimate: (~)
+Unable: (~)
+Unbelievable: (Unable to be believed)
+Uncle: (Male sibling of parent)
+Under: (~)
+Understand: (~)
+Undertake: (Start work)
+Unemployed: (Not having a job)
+Unfair: (~)
+Unfortunate: (Having bad luck)
+Unhappy: (~)
+Uniform: (Having the same quality)
+Union: (~)
+Unique: (~)
+Unit: (~)
+Unite: (Become together)
+Universal: (True in all places)
+University: (Adult education system)
+Unknown: (Not known)
+Unless: (Except if)
+Unlike: (~)
+Unlikely: (~)
+Until: (~)
+Unusual: (~)
+Up: (~)
+Upset: (~)
+Urban: (Pertaining to the city)
+Urge: (Strong desire)
+Urgent: (Must be done soon)
+Use: (~)
+Useful: (~)
+Usual: (~)
+Vacation: (Time without work)
+Vague: (~)
+Valley: (Low land)
+Valuable: (~)
+Van: (Large road vehicle)
+Vary: (Be different)
+Vast: (Having a great extent)
+Vegetable: (~)
+Vehicle: (~)
+Version: (Design state)
+Very: (~)
+Vet: (Animal healing person)
+Victim: (Harmed person)
+Victory: (~)
+Video: (~)
+View: (~)
+Village: (~)
+Violence: (~)
+Virtually: (~)
+Virtue: (Good behavior)
+Virus: (Cell disease)
+Visible: (Able to be seen)
+Vision: (Ability to see)
+Visit: (Temporarily be at a place)
+Vital: (~)
+Voice: (Speech sound)
+Volume: (~)
+Voluntary: (By means of desire)
+Vote: (~)
+Vulnerable: (Able to be hurt)
+Wage: (Job money)
+Wait: (~)
+Wake: (Cause to be awake)
+Walk: (~)
+Wall: (~)
+Wander: (Travel without purpose)
+Want: (~)
+War: (~)
+Wardrobe: (Clothing container furniture)
+Warm: (~)
+Warn: (~)
+Wash: (Cause to become clean)
+Waste: (Use with no purpose)
+Watch: (~)
+Water: (~)
+Wave: (~)
+Way: (~)
+We: (~)
+Weak: (~)
+Wealth: (Extra money)
+Weapon: (Fighting tool)
+Wear: (~)
+Weather: (~)
+Web: (~)
+Website: (Internet place)
+Wedding: (~)
+Week: (~)
+Weight: (~)
+Weird: (~)
+Welcome: (~)
+Well: (~)
+West: (~)
+Wet: (~)
+What: (Which thing)
+Wheel: (~)
+Whether: (~)
+Which: (~)
+While: (~)
+Whisper: (Speak quietly)
+White: (~)
+Whole: (~)
+Wide: (~)
+Wife: (Female spouse)
+Wild: (~)
+Will: (~)
+Win: (~)
+Wind: (Moving air)
+Window: (~)
+Wine: (Fruit alcohol)
+Wing: (Flying appendage)
+Winter: (Cold season)
+Wipe: (~)
+Wire: (~)
+Wise: (Knowing a lot)
+Wish: (~)
+With: (~)
+Withdraw: (Take from)
+Witness: (~)
+Woman: (Female person)
+Wonder: (Want to know)
+Wonderful: (Very good)
+Wood: (~)
+Wool: (Sheep hair)
+Word: (~)
+Work: (~)
+World: (~)
+Worry: (~)
+Worse: (More bad)
+Worth: (Amount of importance)
+Would: (~)
+Wound: (Breaking of skin)
+Wrap: (~)
+Write: (~)
+Wrong: (~)
+Yard: (Land near building)
+Yeah: (~)
+Year: (~)
+Yellow: (~)
+Yep: (~)
+Yes: (~)
+Yesterday: (Previous day)
+Yet: (~)
+You: (~)
+Young: (~)
+Youth: (~)
+Zone: (~)
+
 
