@@ -251,8 +251,6 @@ Bavi (D): Hang.
 Badi (N): Energy; power.
 Bazu (D*): Strong; fit; powerful; tough; sturdy; durable.
 
-$$$
-
 > EXISTENCE AND IDENTITY (SA-)
 
 Sage (N): Identity.
@@ -358,7 +356,7 @@ Fedo (V*): Entertain; be fun to; be funny to.
 Fefa (V): Laugh at.
 Febi (V): Play.
 Feba (N): Game; sport.
-(N): Party; festival; celebration; ceremony.
+Fegu (N): Party; festival; celebration; ceremony.
 Febo (N): Art.
 Fesa (N): Music; song; tune.
 
@@ -366,9 +364,9 @@ Fesa (N): Music; song; tune.
 
 Pepi (D*): Alive; living.
 Pepu (N*): Nature.
-(N): Body.
+Pebo (N): Body.
 Pegi (D*): Healthy.
-(D): Be born.
+Peva (D): Be born.
 Peku (D): Decompose; decay; rot.
 Pete (N): Baby; infant.
 Peta (N): Child; kid; teenager; adolescent.
@@ -412,10 +410,10 @@ Dazu (N): Room; chamber.
 Davi (N): Wall.
 Davu (N): Floor.
 Dabi (N): Window.
-(N): Door; gate.
 Dafa (N): Level; layer; shelf.
 Dafo (N): Stair; step.
-Dade (N): Hinge; joint.
+Dadi (N): Hinge; joint.
+Dade (N): Door; gate.
 Dado (N): Wheel.
 Dabe (N): Button; key; switch.
 Dapo (N): Knob; handle.
@@ -437,6 +435,8 @@ Daza (N): Atom.
 Daba (N): Proton.
 Dabo (N): Neutron.
 Dapa (N): Electron.
+
+$$$
 
 > MATERIALS (VE-)
 
@@ -559,7 +559,7 @@ Zefe (V): Meet; encounter.
 Zetu (P): Except; not including; aside from.
 (P): Instead of; on behalf of; in place of.
 Zepi (N*): Friend; buddy.
-(N): Family.
+Zeva (N): Family.
 Zeta (V*): Marry.
 Zete (N): Spouse.
 Zefo (N*): Parent.
