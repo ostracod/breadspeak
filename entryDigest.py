@@ -75,6 +75,14 @@ class Category(object):
     
     def addEntry(self, entry):
         self.entryList.append(entry)
+    
+    def containsWord(self, word):
+        word = word.upper()
+        for entry in self.entryList:
+            if entry.word is not None:
+                if entry.word == word:
+                    return True
+        return False
 
 def compareCategoriesByEntryCount(category1, category2):
     tempCount1 = len(category1.entryList)
@@ -307,6 +315,22 @@ def consonantStatsCommand():
         tempCount = pair[1]
         printBarMetric(tempConsonant, tempCount / 2, 10, 50)
 
+def missingWordsCommand(secondSyllable=None):
+    readDictionaryFile()
+    tempConsonantCountMap = {}
+    for category in categoryList:
+        if secondSyllable is not None:
+            if category.syllable is None:
+                tempWord = secondSyllable
+            else:
+                tempWord = category.syllable + secondSyllable
+            if category.containsWord(tempWord):
+                continue
+        for entry in category.entryList:
+            tempWord = entry.word
+            if tempWord is None:
+                print category.syllable + "__ " + entry.toString()
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -318,6 +342,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " wordExists (word)"
     print tempScriptPath + " syllableStats (should sort)"
     print tempScriptPath + " consonantStats"
+    print tempScriptPath + " missingWords (second syllable?)"
     print tempScriptPath + " verifyAll"
     sys.exit(0)
 
@@ -356,6 +381,12 @@ elif commandName == "syllableStats":
     syllableStatsCommand(shouldSort)
 elif commandName == "consonantStats":
     consonantStatsCommand()
+elif commandName == "missingWords":
+    if len(sys.argv) < 3:
+        secondSyllable = None
+    else:
+        secondSyllable = sys.argv[2]
+    missingWordsCommand(secondSyllable=secondSyllable)
 elif commandName == "verifyAll":
     verifyAllCommand()
 else:
