@@ -1,8 +1,6 @@
 
 BREADSPEAK DICTIONARY
 
-"$$$" denotes the place where I left off.
-
 Parts of speech abbreviations:
 
 (N) = Noun

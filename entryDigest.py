@@ -317,7 +317,6 @@ def consonantStatsCommand():
 
 def missingWordsCommand(secondSyllable=None):
     readDictionaryFile()
-    tempConsonantCountMap = {}
     for category in categoryList:
         if secondSyllable is not None:
             if category.syllable is None:
@@ -331,6 +330,16 @@ def missingWordsCommand(secondSyllable=None):
             if tempWord is None:
                 print category.syllable + "__ " + entry.toString()
 
+def secondSyllableCommand(secondSyllable):
+    readDictionaryFile()
+    for category in categoryList:
+        for entry in category.entryList:
+            tempWord = entry.word
+            if tempWord is not None:
+                tempSyllable = tempWord[(len(tempWord) - 2):len(tempWord)]
+                if tempSyllable == secondSyllable:
+                    print entry.toString()
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -343,6 +352,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " syllableStats (should sort)"
     print tempScriptPath + " consonantStats"
     print tempScriptPath + " missingWords (second syllable?)"
+    print tempScriptPath + " secondSyllable (syllable)"
     print tempScriptPath + " verifyAll"
     sys.exit(0)
 
@@ -387,6 +397,11 @@ elif commandName == "missingWords":
     else:
         secondSyllable = sys.argv[2]
     missingWordsCommand(secondSyllable=secondSyllable)
+elif commandName == "secondSyllable":
+    if len(sys.argv) < 3:
+        printCliUsageAndQuit()
+    tempSyllable = sys.argv[2].upper()
+    secondSyllableCommand(tempSyllable)
 elif commandName == "verifyAll":
     verifyAllCommand()
 else:
