@@ -436,8 +436,6 @@ Daba (N): Proton.
 Dabo (N): Neutron.
 Dapa (N): Electron.
 
-$$$
-
 > MATERIALS (VE-)
 
 Vepu (N): Material; substance.
@@ -454,9 +452,9 @@ Veto (N): Metal.
 Veke (N): Gem; crystal; jewel.
 Vedu (N): Soil; dirt.
 Vefu (N): Clay; dough.
-(N): Cotton.
+Vese (N): Cotton.
 Vebu (N): Rubber.
-(N): Fat.
+Vefo (N): Fat.
 Vesa (N): Blood.
 Veka (N): Lumber; wood.
 Veko (N): Bone.
@@ -468,16 +466,16 @@ Vetu (N): Asphalt; tar.
 Vete (N): Ceramic; cement.
 Vebi (N): Glass.
 Vefa (N): Rain; snow; precipitation.
-(N*): Acid; acidic liquid.
+Vevo (N*): Acid; acidic liquid.
 Vegi (N*): Medicine; drug.
 Vego (N): Soap.
 Vebe (N): Powder; dust.
 Vede (N): Foam; sponge.
 Vega (D*): Flexible; soft.
 Vefe (D*): Clear; transparent; obvious.
-(D*): Viscous; thick; gooey.
-(D*): Dense.
-(P): Made of; comprised of; composed of.
+Vezu (D*): Viscous; thick; gooey.
+Vebo (D*): Dense.
+Veku (P): Made of; comprised of; composed of.
 
 > QUANTITY (SE-)
 
@@ -489,14 +487,14 @@ Sezu (D*): Many; a lot; often; frequent; numerous.
 Seda (D*): Every; all; each.
 Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
 Sego (D*): Most; the majority; almost all.
-(D): Only; just; alone; unique; sole.
+Sedo (D): Only; just; alone; unique; sole.
 Seve (D): Again; another time.
 Sevi (D): Also; too.
 Sede (P*): Add a number.
 Sepi (P*): Multiply a number.
 Seva (P*): Exponentiate a number.
 Sevo (P*): Multiply by ten raised to a number.
-(D*): Negative; less than zero.
+Sedu (D*): Negative; less than zero.
 Setu (Numeric): Zero; no; none.
 Seto (Numeric): One; single; individual.
 Seta (Numeric): Two; a couple of.
@@ -507,7 +505,9 @@ Seso (Numeric): Six.
 Sesa (Numeric): Seven.
 Sese (Numeric): Eight.
 Sesi (Numeric): Nine.
-(Numeric): Decimal point.
+Seki (Numeric): Decimal point.
+
+$$$
 
 > EXTENT AND ACTION (DE-)
 
