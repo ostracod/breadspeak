@@ -507,8 +507,6 @@ Sese (Numeric): Eight.
 Sesi (Numeric): Nine.
 Seki (Numeric): Decimal point.
 
-$$$
-
 > EXTENT AND ACTION (DE-)
 
 Dede (N): Extent; degree.
@@ -557,7 +555,7 @@ Zeve (V*): Give; contribute; donate; transfer; grant; provide; supply.
 Zevo (V*): Get; receive; acquire; gain; obtain.
 Zefe (V): Meet; encounter.
 Zetu (P): Except; not including; aside from.
-(P): Instead of; on behalf of; in place of.
+Zepo (P): Instead of; on behalf of; in place of.
 Zepi (N*): Friend; buddy.
 Zeva (N): Family.
 Zeta (V*): Marry.
@@ -581,19 +579,19 @@ Keko (P): By means of; having a manner pertaining to; in accordance with; as tho
 Keti (D): Change; become different; transform.
 Kefi (V): Change; alter; convert; cause to become different.
 Keze (V*): Seem like; appear to be; look like; sound like.
-(V*): Fix; heal; repair; solve; resolve.
+Keba (V*): Fix; heal; repair; solve; resolve.
 Keda (D*): Hot; warm.
 Kepi (D*): Wet; damp; moist.
 Kedu (D*): Clean.
 Kebe (D*): Safe; secure.
 Kebi (D*): Simple; easy; basic; plain.
 Keve (D*): Nice; kind; generous; polite.
-(D*): Cute; adorable.
-(D*): Popular; cool; famous.
+Kesi (D*): Cute; adorable.
+Kevi (D*): Popular; cool; famous.
 Kefo (D*): Beautiful; pretty; attractive; gorgeous.
-(D*): Fancy; formal.
+Kebu (D*): Fancy; formal.
 Kepu (D*): Gross; disgusting; nasty.
-(D*): Brave; bold; courageous; confident.
+Kede (D*): Brave; bold; courageous; confident.
 Kedi (D*): Crazy; mad; wild; ridiculous; silly.
 Kepa (D*): Careful; alert; prudent; cautious; gentle; responsible.
 Keka (D*): Clever; smart; intelligent.
@@ -666,7 +664,7 @@ Vapa (V*): Demand; request; ask for; order; command.
 Vapu (V*): Fight; attack; compete with; battle.
 Vase (N): Government; authority; committee; council; regime.
 Vaka (N): Rule; regulation; law; policy.
-(N): Religion.
+Vaza (N): Religion.
 Vatu (D*): Should; ought to.
 Vato (D*): Fair; just; right.
 
