@@ -288,7 +288,7 @@ Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; b
 Kape (V*): Have the opinion that; think; suppose; believe.
 Kadi (V*): Understand; comprehend.
 Kapi (V): Recall; remember; recollect.
-Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume.
+Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume; anticipate.
 Kata (V*): Focus on; notice; pay attention to; concentrate on.
 Kati (V*): Learn; study; research; investigate.
 Kate (V): Teach; instruct; educate; lecture.
@@ -315,7 +315,7 @@ Kafe (N*): Hello; hi; salutation; greeting; welcome.
 Gago (N*): Goal; target; project; task; assignment; mission; objective.
 Gako (P*): For; in order to.
 Gagi (D*): Good.
-Gaga (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper.
+Gaga (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper; adequate.
 Gake (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
 Gaka (D*): Useful; helpful; convenient; handy.
 Gaki (D*): Ready; prepared.
