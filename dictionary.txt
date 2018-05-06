@@ -15,8 +15,8 @@ An asterisk denotes that a word has a coherent antonym.
 
 > SINGLE SYLLABLE
 
-Da (Particle): Start of embedded clause; refers to the state, quality, action, or process of the verb.
-Du (Particle): End of embedded clause; refers to the state, quality, action, or process of the verb.
+Da (Particle): Start of embedded clause; refers to the state, quality, action, or process of the clause.
+Du (Particle): End of embedded clause; refers to the state, quality, action, or process of the clause.
 Do (Particle): Precedes a single word; refers to the state, quality, action or process of the word.
 Fa (Particle): Start of embedded clause; refers to the subject of the clause.
 Fu (Particle): End of embedded clause; refers to the subject of the clause.
