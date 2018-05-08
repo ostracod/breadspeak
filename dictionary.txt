@@ -473,7 +473,7 @@ Vega (D*): Flexible; soft.
 Vefe (D*): Clear; transparent; obvious.
 Vezu (D*): Viscous; thick; gooey.
 Vebo (D*): Dense.
-Veku (P): Made of; comprised of; composed of.
+Veku (P): Made of; comprised of; composed of; consisting of.
 
 > QUANTITY (SE-)
 
