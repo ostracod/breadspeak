@@ -569,7 +569,7 @@ Kegu (N): Category; kind; sort; type.
 Ketu (N): Manner; method; way; mechanism; technique.
 Kefe (N): Style; fashion; aesthetic.
 Keva (N): Culture; ethnicity.
-Keta (N): State; status; mode; phase; stage.
+Keta (N): State; status; mode; phase; stage; version.
 Kepe (N): Weather; climate.
 Kezu (P*): Like; similar to; having a quality pertaining to.
 Kezo (N): Pattern; trend.
