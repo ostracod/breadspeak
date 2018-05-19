@@ -24,8 +24,8 @@ Fo (Particle): Precedes a single word; refers to the subject of the word.
 Va (Particle): Start of embedded clause; refers to the object of the clause.
 Vu (Particle): End of embedded clause; refers to the object of the clause.
 Vo (Particle): Precedes a single word; refers to the object of the word.
-Ga (Particle): Start of sequence delimited by conjunctions.
-Gu (Particle): End of sequence delimited by conjunctions.
+Ga (Particle): Start of conjunction phrase.
+Gu (Particle): End of conjunction phrase.
 Pa (Conjunction): And; both.
 Po (Conjunction): Or; either; one or both.
 Pu (Conjunction): Xor; exactly one but not both.
