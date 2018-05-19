@@ -372,7 +372,7 @@ Peto (N): Adult.
 Peze (N): Gender.
 Pezu (D): Male.
 Pezi (D): Female.
-Pepo (N): Fungus.
+Pepo (N): Fungus; mushroom; mold.
 Pepa (N): Plant.
 Pedi (N): Seed; bean; nut.
 Pevi (N): Tree.
