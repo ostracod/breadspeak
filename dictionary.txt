@@ -301,7 +301,7 @@ Kavo (V): Call.
 Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
 Kafa (V): Argue about; debate; dispute; protest.
-Kafi (V*): Approve; verify; confirm; praise; support; agree with; concur.
+Kafi (V*): Approve; verify; confirm; praise; support; agree with; concur; accept.
 Kafo (N): Thank you; thanks; gratitude.
 Kave (V): Describe; explain; report.
 Kavi (V): Announce; declare; warn; alert; alarm; advertise.
