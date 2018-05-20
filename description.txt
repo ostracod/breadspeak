@@ -13,14 +13,14 @@ Language goals:
 
 Sources of inspiration:
 
-Pegakibo + V0tgil + Zese + Keru ---> Base grammar
-Pegakibo + Zese ---> Phonology
-Pegakibo ---> Script
-V0tgil ---> Lexicon size
+Zese ---> Base grammar
+Zese ---> Phonology
 Zese ---> System of word categories
 Zese ---> Etymological spelling
 Keru ---> System of antonyms
 Keru ---> Base dictionary definitions
+Pegakibo ---> Script
+V0tgil ---> Lexicon size
 Conlang Critic ---> More pronouns
 Conlang Critic ---> Improved particles
 
@@ -65,19 +65,19 @@ Descriptors encompass what would be adjectives, adverbs, articles, and intransit
 
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
 
-Clause structure 1: [noun phrase 1?] [verb phrase] [noun phrase 2?]
+Verb-object clause structure: [noun phrase 1?] [verb phrase] [noun phrase 2?]
 Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
 
-Clause structure 2: [noun phrase?] [verb phrase] [preposition phrase]
+Verb-preposition clause structure: [noun phrase?] [verb phrase] [preposition phrase]
 The noun phrase is the subject. The first object of the preposition phrase is the primary object.
 
-Clause structure 3: [noun phrase?] [descriptor phrase]
+Descriptor clause structure: [noun phrase?] [descriptor phrase]
 The noun phrase is the subject.
 
-Clause structure 4: [simple noun phrase?] [preposition phrase]
+Preposition clause structure: [simple noun phrase?] [preposition phrase]
 The noun prase is the subject. The first object of the preposition phrase is the primary object.
 
-Clause structure 5: [simple noun phrase]
+Noun clause structure: [simple noun phrase]
 The noun prase is the subject.
 
 Descriptor phrase structure: [descriptor phrase?] [descriptor word]
@@ -102,12 +102,19 @@ A numeric phrase consists of a sequence of consecutive numeric words. If a numer
 
 A conjunction phrase consists of a sequence of phrases separated by conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A conjunction phrase behaves as the type of phrase it contains.
 
-A conjunction phrase may be enclosed by a start and end particle ("___" and "___"). If a conjunction phrase does not have these delimiters, it will incorporate the largest phrases possible in the clause.
+A conjunction phrase may be enclosed by a start and end particle ("ga" and "gu"). If a conjunction phrase does not have these delimiters, it will incorporate the largest phrases possible in the clause. In particular, conjunctions attempt to capture phrases in this order:
+
+1. Descriptor phrase
+2. Simple noun phrase
+3. Noun phrase
+4. Simple preposition phrase
+5. Preposition phrase
+6. Verb phrase
 
 A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen.
 
-An embedded clause is enclosed by a start particle ("___", "___", or "___") and a corresponding end particle ("___", "___", or "___"). If these delimiters are at the start or end of a sentence, they may be excluded.
+An embedded clause is enclosed by a start particle ("da", "fa", or "va") and a corresponding end particle ("du", "fu", or "vu"). If these delimiters are at the start or end of a sentence, they may be excluded.
 
-If an embedded clause contains only one word, then it may be preceded by a singleton particle ("___", "___", or "___") instead of being enclosed by delimiting particles.
+If an embedded clause contains only one word, then it may be preceded by a singleton particle ("do", "fo", or "vo") instead of being enclosed by delimiting particles.
 
 
