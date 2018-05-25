@@ -71,6 +71,9 @@ Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
 Verb-preposition clause structure: [noun phrase?] [verb phrase] [preposition phrase]
 The noun phrase is the subject. The first object of the preposition phrase is the primary object.
 
+Verb-object-preposition clause structure: [noun phrase 1?] [verb phrase] [noun phrase 2] "so" [preposition phrase]
+Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+
 Descriptor clause structure: [noun phrase?] [descriptor phrase]
 The noun phrase is the subject.
 
