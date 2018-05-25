@@ -100,9 +100,9 @@ The descriptor phrase describes the verb word. The verb word is of or pertaining
 
 A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed before a preposition or at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
-A conjunction phrase consists of a sequence of phrases separated by conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A conjunction phrase behaves as the type of phrase it contains.
+A uniform conjunction phrase consists of a sequence of phrases separated by uniform conjunction words ("pa", "po", or "pu"). Each conjunction word must be the same, and each phrase must be of the same type. A uniform conjunction phrase behaves as the type of phrase it contains.
 
-A conjunction phrase may be enclosed by a start and end particle ("ga" and "gu"). If a conjunction phrase does not have these delimiters, it will incorporate the largest phrases possible in the clause. In particular, conjunctions attempt to capture phrases in this order:
+A uniform conjunction phrase may be enclosed by a start and end particle ("ga" and "gu"). If a uniform conjunction phrase does not have these delimiters, it will incorporate the largest phrases possible in the clause. In particular, uniform conjunctions attempt to capture phrases in this order:
 
 1. Descriptor phrase
 2. Simple noun phrase
@@ -110,6 +110,12 @@ A conjunction phrase may be enclosed by a start and end particle ("ga" and "gu")
 4. Simple preposition phrase
 5. Preposition phrase
 6. Verb phrase
+
+If "ga" or "gu" are at the start or end of a sentence, they may be excluded.
+
+A mixed conjunction phrase is similar to a uniform conjunction phrase, but may incorporate phrases of different types. The specific types allowed are specified by each mixed conjunction. The effective phrase type is also specified by each mixed conjunction.
+
+A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains.
 
 A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen.
 
