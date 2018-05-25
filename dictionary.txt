@@ -12,22 +12,22 @@ An asterisk denotes that a word has a coherent antonym.
 
 > SINGLE SYLLABLE
 
-Da (Delimiting Particle): Start of embedded clause; refers to the state, quality, action, or process of the clause.
-Du (Delimiting Particle): End of embedded clause; refers to the state, quality, action, or process of the clause.
+Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the clause.
+Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the clause.
 Do (Singleton Particle): Precedes a single word; refers to the state, quality, action or process of the word.
-Fa (Delimiting Particle): Start of embedded clause; refers to the subject of the clause.
-Fu (Delimiting Particle): End of embedded clause; refers to the subject of the clause.
+Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the clause.
+Fu (Enclosing Particle): End of embedded clause; refers to the subject of the clause.
 Fo (Singleton Particle): Precedes a single word; refers to the subject of the word.
-Va (Delimiting Particle): Start of embedded clause; refers to the object of the clause.
-Vu (Delimiting Particle): End of embedded clause; refers to the object of the clause.
+Va (Enclosing Particle): Start of embedded clause; refers to the object of the clause.
+Vu (Enclosing Particle): End of embedded clause; refers to the object of the clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
-Ga (Delimiting Particle): Start of conjunction phrase.
-Gu (Delimiting Particle): End of conjunction phrase.
+So (Delimiting particle): Forms a descriptor-preposition clause.
+Ga (Enclosing Particle): Start of conjunction phrase.
+Gu (Enclosing Particle): End of conjunction phrase.
 Pi (Narrow Conjunction): And; both.
-Pe (Mixed Conjunction): And; both; operates on descriptor phrases and preposition phrases. Conjunction phrase behaves as a descriptor.
-Pa (Uniform Conjunction): And; both.
-Po (Uniform Conjunction): Or; either; one or both.
-Pu (Uniform Conjunction): Xor; exactly one but not both.
+Pa (Wide Conjunction): And; both.
+Po (Wide Conjunction): Or; either; one or both.
+Pu (Wide Conjunction): Xor; exactly one but not both.
 Ke (N): You.
 Ki (N): I/me.
 Be (N): You all.
@@ -37,7 +37,7 @@ Go (N): She/her.
 Bo (N): It.
 Zo (N): They/them; genderless.
 Ko (N): They/them; plural.
-So (N): Self; refers to the subject of the containing clause.
+Pe (N): Self; refers to the subject of the containing clause.
 Su (N): Thing; the most general noun; stuff.
 Se (D): A not previously mentioned one; some.
 Si (D): The previously mentioned one.
