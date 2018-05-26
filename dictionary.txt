@@ -21,23 +21,23 @@ Fo (Singleton Particle): Precedes a single word; refers to the subject of the wo
 Va (Enclosing Particle): Start of embedded clause; refers to the object of the clause.
 Vu (Enclosing Particle): End of embedded clause; refers to the object of the clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
-So (Delimiting particle): Forms a descriptor-preposition clauses and verb-object-preposition clauses.
-Ga (Enclosing Particle): Start of conjunction phrase.
-Gu (Enclosing Particle): End of conjunction phrase.
-Pi (Narrow Conjunction): And; both.
-Pa (Wide Conjunction): And; both.
-Po (Wide Conjunction): Or; either; one or both.
-Pu (Wide Conjunction): Xor; exactly one but not both.
+So (Delimiting particle): Forms descriptor-preposition clauses and verb-object-preposition clauses.
+Pa (Enclosing Particle): Start of conjunction phrase.
+Pu (Enclosing Particle): End of conjunction phrase.
+Gi (Narrow Conjunction): And; both.
+Ga (Wide Conjunction): And; both.
+Go (Wide Conjunction): Or; either; one or both.
+Gu (Wide Conjunction): Xor; exactly one but not both.
 Ke (N): You.
 Ki (N): I/me.
 Be (N): You all.
 Bi (N): We/us.
 To (N): He/him.
-Go (N): She/her.
+Po (N): She/her.
 Bo (N): It.
 Zo (N): They/them; genderless.
 Ko (N): They/them; plural.
-Pe (N): Self; refers to the subject of the containing clause.
+Ge (N): Self; refers to the subject of the containing clause.
 Su (N): Thing; the most general noun; stuff.
 Se (D): A not previously mentioned one; some.
 Si (D): The previously mentioned one.
@@ -54,8 +54,8 @@ Tu (D): False; not; no.
 Sa (V): Be an instance of.
 Ka (V): Cause; create; because; build; construct; craft; establish; generate; produce.
 Ku (V): Prevent; destroy.
-Ge (P): Out; outside.
-Gi (P): In; inside; at.
+Pe (P): Out; outside.
+Pi (P): In; inside; at.
 De (P): From; away from.
 Di (P): To; toward.
 Za (D): Not a lot; a little; little; small.

@@ -108,7 +108,7 @@ A numeric phrase consists of a sequence of consecutive numeric words. If a numer
 
 A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A wide conjunction phrase behaves as the type of phrase it contains.
 
-A wide conjunction phrase may be enclosed by the particles "ga" and "gu". If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate phrases in this order:
+A conjunction phrase may be enclosed by the particles "pa" and "pu". If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate phrases in this order:
 
 1. Verb phrase
 2. Preposition phrase
