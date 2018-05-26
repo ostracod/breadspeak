@@ -58,7 +58,7 @@ Pe (P): Out; outside.
 Pi (P): In; inside; at.
 De (P): From; away from.
 Di (P): To; toward.
-Za (D): Not a lot; a little; little; small.
+Za (D): Not a lot; a little; slight; little; small.
 Zu (D): Very; a lot; big; large; extensive; grand; quite.
 Te (D): Go; move; travel.
 Ti (D): Stay; not move.
