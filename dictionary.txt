@@ -66,7 +66,7 @@ Ti (D): Stay; not move.
 > POSITION AND ROTATION (PA-)
 
 Papo (N): Position; location; place; site.
-Pado (N): Rotation; direction; angle.
+Pado (N): Rotation; orientation; direction; angle.
 Pagu (P*): To the right of.
 Pafu (D*): Right; the direction.
 Pago (P*): In front of; ahead of; beyond.
@@ -218,7 +218,7 @@ Tefo (V*): Spin; turn; cause to rotate; tip; twist.
 Tega (N): Path; way; route; channel; course.
 Teku (N): Speed; rate; pace.
 Teta (D*): Fast; quick; rapid.
-Tebe (D*): Stable; steady.
+Tebe (D*): Stable; steady; difficult to change.
 
 > FORCE (BA-)
 
