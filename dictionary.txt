@@ -1,14 +1,13 @@
 
 BREADSPEAK DICTIONARY
 
-Parts of speech abbreviations:
+Abbreviations:
 
 (N) = Noun
 (V) = Verb
 (D) = Descriptor
 (P) = Preposition
-
-An asterisk denotes that a word has a coherent antonym.
+(*) = Antonym
 
 > SINGLE SYLLABLE
 
@@ -67,15 +66,15 @@ Ti (D): Stay; not move.
 
 Papo (N): Position; location; place; site.
 Pado (N): Rotation; orientation; direction; angle.
-Pagu (P*): To the right of.
-Pafu (D*): Right; the direction.
-Pago (P*): In front of; ahead of; beyond.
-Pafo (D*): Forward.
-Paga (P*): Over; above.
-Pafa (D*): Up; high.
-Pabi (P*): On the surface of.
-Paki (P*): Near; close to; around; beside; by.
-Pake (D*): Together.
+Pagu (P): To the right of. Pugu (*): To the left of.
+Pafu (D): Right; the direction. Pufu (*): Left.
+Pago (P): In front of; ahead of; beyond. Pugo (*): Behind.
+Pafo (D): Forward. Pufo (*): Backward.
+Paga (P): Over; above. Puga (*): Under; below.
+Pafa (D): Up; high. Pufa (*): Down; low.
+Pabi (P): On the surface of. Pubi (*): Off.
+Paki (P): Near; close to; around; beside; by. Puki (*): Far; distant from.
+Pake (D): Together. Puke (*): Apart; separate.
 Pazo (N): Middle; center.
 Papi (P): Between; among; within.
 Pasu (V): Keep; store; preserve; retain; save.
@@ -86,8 +85,8 @@ Patu (P): Parallel to; along.
 Pato (P): Diagonal to.
 Pavi (D): Vertical.
 Pavu (D): Horizontal.
-Pade (D*): East.
-Padi (D*): North.
+Pade (D): East. Pude (*): West.
+Padi (D): North. Pudi (*): South.
 Pako (D): Back; toward the original location.
 Pagi (N): Home.
 Padu (N): Planet; Earth.
@@ -99,22 +98,22 @@ Pase (N): Environment; setting; surroundings; context; circumstance; situation; 
 > TIME (TA-)
 
 Tata (N): Time.
-Taso (P*): After; since.
+Taso (P): After; since. Tuso (*): Before.
 Tase (P): Until.
-Tapi (P*): While; during.
-Taki (D): Soon.
+Tapi (P): While; during. Tupi (*): Not while.
+Taki (D): Soon. Tuki (*): Eventual.
 Tafi (D): Recent; just.
 Taka (D): Sudden; abrupt.
 Tazi (D): Already.
 Taba (D): Yet.
 Tabe (D): Still; not having changed; keep doing; continue.
-Taza (D*): New; young; fresh.
-Tatu (D*): Early.
-Tate (D*): Temporary.
+Taza (D): New; young; fresh. Tuza (*): Old.
+Tatu (D): Early. Tutu (*): Late.
+Tate (D): Temporary. Tute (*): Permanent.
 Take (N): Minute.
 Tako (N): Hour.
 Tadi (N): Day; a period of 24 hours.
-Tabi (N*): Day; the time when the sun is in the sky.
+Tabi (N): Day; the time when the sun is in the sky. Tubi (*): Night.
 Tade (N): Week.
 Tada (N): Month.
 Tado (N): Season.
@@ -138,21 +137,21 @@ Geku (N): Volume; amount of space.
 Gezi (N): Border; outline; frame; profile.
 Geze (N): Surface; side; face; skin.
 Gezo (N): Side; neither the top nor the bottom.
-Gefa (N*): Top; peak.
+Gefa (N): Top; peak. Gifa (*): Bottom; base.
 Gete (N): Hole; cavity.
 Gepe (N): Space; gap.
-Gefi (D*): Long; tall.
-Gefe (D*): Wide; broad.
-Gefo (D*): Thick in a geometric sense; deep; fat.
+Gefi (D): Long; tall. Gifi (*): Short.
+Gefe (D): Wide; broad. Gife (*): Narrow.
+Gefo (D): Thick in a geometric sense; deep; fat. Gifo (*): Thin.
 Gebi (D): Straight; direct.
 Gebe (D): Flat.
 Gebo (D): Curved; round.
-Geza (D*): Bumpy; rough.
+Geza (D): Bumpy; rough. Giza (*): Smooth.
 Getu (D): Tapered.
-Geti (D*): Sharp; pointy.
-Gedi (D*): Split; divide; tear; rip; break; crack; snap.
-Gepa (V*): Connect to; join; attach; mechanically link to.
-Gepi (V*): Tie a string; sew; stitch.
+Geti (D): Sharp; pointy. Giti (*): Dull.
+Gedi (D): Split; divide; tear; rip; break; crack; snap. Gidi (*): Merge; fuse.
+Gepa (V): Connect to; join; attach; mechanically link to. Gipa (*): Disconnect; separate.
+Gepi (V): Tie a string; sew; stitch. Gipi (*): Untie.
 Gezu (V): Reach; access.
 Gevi (D): Stand.
 Geva (D): Sit.
@@ -161,12 +160,12 @@ Gevu (D): Lie down.
 > STIMULI (BE-)
 
 Beki (V): Feel; sense; detect; perceive; witness.
-Bebi (N*): Light.
+Bebi (N): Light. Bibi (*): Shadow; shade.
 Befe (V): See.
 Befo (V): Look at; watch; view; examine; inspect; observe.
-Beko (V*): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal.
-Bezu (D*): Bright; light.
-Besu (D*): Saturated; vibrant.
+Beko (V): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal. Biko (*): Hide; conceal.
+Bezu (D): Bright; light. Bizu (*): Dark; dim.
+Besu (D): Saturated; vibrant. Bisu (*): Pale.
 Beti (D): Flash; blink; sparkle; glimmer.
 Bebe (N): Color.
 Besa (D): Red.
@@ -181,8 +180,8 @@ Bego (D): Gray.
 Bezo (N): Sound; noise.
 Beve (V): Hear.
 Bevo (V): Listen.
-Beva (D*): Loud; noisy.
-Besi (D*): High pitched.
+Beva (D): Loud; noisy. Biva (*): Quiet.
+Besi (D): High pitched. Bisi (*): Low pitched.
 Beze (N): Buzz; hum.
 Bepi (N): Beep; chirp.
 Beka (N): Click; tick.
@@ -197,28 +196,28 @@ Begu (D): Umami; meaty.
 
 > MOVEMENT (TE-)
 
-Tepo (V*): Move; cause to go.
+Tepo (V): Move; cause to go. Tipo (*): Stop.
 Tepa (V): Carry; bring; transport; deliver; fetch.
-Teko (V*): Put; place; add.
-Tefa (V*): Raise; lift.
+Teko (V): Put; place; add. Tiko (*): Take; remove.
+Tefa (V): Raise; lift. Tifa (*): Lower.
 Teve (V): Send; submit; transmit.
-Tedi (V*): Come; go toward; arrive; approach.
+Tedi (V): Come; go toward; arrive; approach. Tidi (*): Leave.
 Teda (V): Follow; pursue.
-Tezu (V*): Enter; go in.
+Tezu (V): Enter; go in. Tizu (*): Exit.
 Teso (D): Walk; run.
 Tebu (D): Reflect; deflect; bounce.
 Tebo (D): Fall; drop; collapse; pour; spill.
 Tepe (D): Fly.
 Teze (D): Slide; glide; slip.
 Tepi (D): Shower; spray.
-Tede (D*): Spread; disperse.
+Tede (D): Spread; disperse. Tide (*): Gather; congregate.
 Tezo (D): Shake; vibrate; shiver.
-Tedo (D*): Spin; turn; rotate; tip; twist.
-Tefo (V*): Spin; turn; cause to rotate; tip; twist.
+Tedo (D): Spin; turn; rotate; tip; twist. Tido (*): Keep a constant orientation.
+Tefo (V): Spin; turn; cause to rotate; tip; twist. Tifo (*): Cause to have a constant orientation.
 Tega (N): Path; way; route; channel; course.
 Teku (N): Speed; rate; pace.
-Teta (D*): Fast; quick; rapid.
-Tebe (D*): Stable; steady; difficult to change.
+Teta (D): Fast; quick; rapid. Tita (*): Slow.
+Tebe (D): Stable; steady; difficult to change. Tibe (*): Unstable.
 
 > FORCE (BA-)
 
@@ -228,8 +227,8 @@ Babi (N): Contact; touch.
 Baba (N): Magnetism.
 Bapa (N): Electricity.
 Baku (N): Friction.
-Bade (V*): Push; press; shove.
-Badu (V*): Squeeze; compress.
+Bade (V): Push; press; shove. Bude (*): Tug.
+Badu (V): Squeeze; compress. Budu (*): Stretch.
 Bapo (V): Hold; support; grab.
 Bapu (V): Bond to; stick to.
 Bati (V): Cut; chop; shear; slice.
@@ -237,13 +236,13 @@ Baka (V): Hit; beat; strike; crash; knock.
 Bada (V): Brush; comb; sweep.
 Baza (V): Rub; drag on; wipe; stroke.
 Baze (V): Scratch; scrape.
-Bafa (V*): Throw; toss.
+Bafa (V): Throw; toss. Bufa (*): Catch.
 Bafu (V): Shoot; fire.
-Bado (D*): Bend; fold.
-Bafo (D*): Explode; pop; burst.
+Bado (D): Bend; fold. Budo (*): Unfold.
+Bafo (D): Explode; pop; burst. Bufo (*): Implode.
 Bavi (D): Hang.
 Badi (N): Energy; power.
-Bazu (D*): Strong; fit; powerful; tough; sturdy; durable.
+Bazu (D): Strong; fit; powerful; tough; sturdy; durable. Buzu (*): Weak; feeble.
 
 > EXISTENCE AND IDENTITY (SA-)
 
@@ -256,42 +255,42 @@ Sabu (N): Mass; matter.
 Satu (N): Event; incident.
 Saba (D): Happen; occur.
 Savo (D): Specifies the object to which a clause is referring. The default object is the primary object.
-Saki (D*): Exact; precise; particular; specific; certain; definite.
+Saki (D): Exact; precise; particular; specific; certain; definite. Suki (*): Vague; general; imprecise.
 Sazi (D): Which; interrogative identity.
 Saze (D): Does; interrogative truth.
 Sase (D): Whether; if; represents the truth of a clause.
 Saka (N): Name; title.
 Sade (N): Example; sample; instance; model.
 Sako (D): Copy; duplicate; replicate; repeat; multiply.
-Sake (D*): Possible; can; able to happen; capable of happening; potential.
+Sake (D): Possible; can; able to happen; capable of happening; potential. Suke (*): Impossible.
 Saku (N): Probability; chance; luck; odds; prospect.
-Sazu (D*): Probably; likely.
+Sazu (D): Probably; likely. Suzu (*): Unlikely.
 Sadi (D): May; might; maybe; perhaps.
 Sadu (D): Hypothetical; imaginary; conditional; would.
-Sati (D*): Start; begin; initiate; launch; proceed; become.
-Safi (V*): Start; cause to begin; initiate; launch; proceed.
+Sati (D): Start; begin; initiate; launch; proceed; become. Suti (*): Stop; end.
+Safi (V): Start; cause to begin; initiate; launch; proceed. Sufi (*): Stop; cause to end.
 Sato (D): Complete; finished; be accomplished; be achieved; conclude.
 Safo (V): Complete; finish; accomplish; achieve; conclude.
-Sata (V*): Become; start to be.
+Sata (V): Become; start to be. Suta (*): Become not.
 
 > INFORMATION AND COMMUNICATION (KA-)
 
 Kaka (N): Concept; idea; information; data; signal; notion.
 Katu (N): Story; tale; rumor; plot.
 Kagi (N): Science.
-Kaki (D*): Sure; confident; certain; indeed; definitely.
+Kaki (D): Sure; confident; certain; indeed; definitely. Kuki (*): Unsure; uncertain.
 Kako (V): Mean; signify; imply; indicate; represent; be a symbol for.
 Kake (V): Think about; process; calculate; compute; analyze; imagine.
 Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
-Kape (V*): Have the opinion that; think; suppose; believe.
-Kadi (V*): Understand; comprehend.
+Kape (V): Have the opinion that; think; suppose; believe. Kupe (*): Not believe.
+Kadi (V): Understand; comprehend. Kudi (*): Be confused by; misunderstand.
 Kapi (V): Recall; remember; recollect.
 Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume; anticipate.
-Kata (V*): Focus on; notice; pay attention to; concentrate on.
-Kati (V*): Learn; study; research; investigate.
+Kata (V): Focus on; notice; pay attention to; concentrate on. Kuta (*): Ignore.
+Kati (V): Learn; study; research; investigate. Kuti (*): Forget.
 Kate (V): Teach; instruct; educate; lecture.
-Kapu (V*): Search for; look for; hunt for; seek; try to find.
-Kapo (V*): Find; discover; measure; determine.
+Kapu (V): Search for; look for; hunt for; seek; try to find. Kupu (*): Avoid.
+Kapo (V): Find; discover; measure; determine. Kupo (*): Lose.
 Kade (V): Test; experiment with.
 Kadu (V): Communicate; state; claim; tell; discuss; express; inform.
 Kasa (V): Say; speak; talk; communicate verbally.
@@ -299,56 +298,56 @@ Kavo (V): Call.
 Kazi (V): Ask; inquire.
 Kasi (V): Answer; respond; reply.
 Kafa (V): Argue about; debate; dispute; protest.
-Kafi (V*): Approve; verify; confirm; praise; support; agree with; concur; accept.
+Kafi (V): Approve; verify; confirm; praise; support; agree with; concur; accept. Kufi (*): Disapprove; disagree with.
 Kafo (N): Thank you; thanks; gratitude.
 Kave (V): Describe; explain; report.
 Kavi (V): Announce; declare; warn; alert; alarm; advertise.
 Kabo (N): Word; term.
 Kagu (N): Sentence.
 Kase (N): Language.
-Kafe (N*): Hello; hi; salutation; greeting; welcome.
+Kafe (N): Hello; hi; salutation; greeting; welcome. Kufe (*): Goodbye; bye.
 
 > GOAL (GA-)
 
-Gago (N*): Goal; target; project; task; assignment; mission; objective.
-Gako (P*): For; in order to.
-Gagi (D*): Good.
-Gaga (D*): Okay; decent; acceptable; fine; appropriate; suitable; proper; adequate.
-Gake (D*): Valuable; important; critical; crucial; major; serious; significant; vital.
-Gaka (D*): Useful; helpful; convenient; handy.
-Gaki (D*): Ready; prepared.
-Gapa (V*): Want; hope for; wish for; desire.
-Gaba (V*): Need; require; must.
+Gago (N): Goal; target; project; task; assignment; mission; objective. Gugo (*): Outcome to be avoided.
+Gako (P): For; in order to. Guko (*): Against.
+Gagi (D): Good. Gugi (*): Bad.
+Gaga (D): Okay; decent; acceptable; fine; appropriate; suitable; proper; adequate. Guga (*): Unacceptable; inappropriate.
+Gake (D): Valuable; important; critical; crucial; major; serious; significant; vital. Guke (*): Unimportant.
+Gaka (D): Useful; helpful; convenient; handy. Guka (*): Useless.
+Gaki (D): Ready; prepared. Guki (*): Unprepared.
+Gapa (V): Want; hope for; wish for; desire. Gupa (*): Dread.
+Gaba (V): Need; require; must. Guba (*): Must not.
 Gage (V): Choose; decide; pick; commit; elect; select; vote for.
 Gato (V): Use; utilize; employ.
-Gatu (V*): Try; attempt.
-Gati (V*): Win; succeed at; defeat; beat; dominate.
-Gave (V*): Help do something; serve; support; assist; aid.
+Gatu (V): Try; attempt. Gutu (*): Try not to.
+Gati (V): Win; succeed at; defeat; beat; dominate. Guti (*): Fail; lose.
+Gave (V): Help do something; serve; support; assist; aid. Guve (*): Hinder.
 Gasa (N): Purpose; point; reason for existing; role; justification.
 Gagu (N): Plan; intention; scheme; strategy; design.
-Gaku (N*): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis.
-Gapo (N*): Mistake; error; accident.
-Gapu (N*): Garbage; trash; pollution.
-Gavo (N*): Prize; reward; award; bonus; treat; present; gift.
+Gaku (N): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis. Guku (*): Harmony; peace.
+Gapo (N): Mistake; error; accident. Gupo (*): Intentional action.
+Gapu (N): Garbage; trash; pollution. Gupu (*): Treasure.
+Gavo (N): Prize; reward; award; bonus; treat; present; gift. Guvo (*): Punishment.
 
 > FEELING WITH VALUE (FE-)
 
 Feku (N): Emotion; mood.
-Feti (N*): Pain; ache.
-Fegi (D*): Happy; glad; content.
-Fega (D*): Comfortable.
-Feda (D*): Angry; mad.
-Fepi (D*): Nervous; anxious; worried; stressed.
-Fepa (V*): Care about; have concern for; worry about; respect.
-Fetu (D*): Guilty; shameful; sorry; embarrassed.
-Fedi (D*): Tired; exhausted; fatigued; sleepy; drowsy; lethargic.
-Feta (V*): Enjoy; like; love; appreciate; be appealed by; prefer.
-Fepu (V*): Annoy; irritate; bother; disturb.
-Feki (V*): Surprise; amaze; shock.
-Feka (V*): Scare; frighten; startle.
-Fefo (V*): Interest; fascinate.
-Fefi (V*): Excite; make eager.
-Fedo (V*): Entertain; be fun to; be funny to.
+Feti (N): Pain; ache. Fiti (*): Pleasure; euphoria.
+Fegi (D): Happy; glad; content. Figi (*): Unhappy; sad; upset.
+Fega (D): Comfortable. Figa (*): Uncomfortable.
+Feda (D): Angry; mad.
+Fepi (D): Nervous; anxious; worried; stressed. Fipi (*): Calm.
+Fepa (V): Care about; have concern for; worry about; respect. Fipa (*): Wish harm upon.
+Fetu (D): Guilty; shameful; sorry; embarrassed. Fitu (*): Proud.
+Fedi (D): Tired; exhausted; fatigued; sleepy; drowsy; lethargic. Fidi (*): Energetic.
+Feta (V): Enjoy; like; love; appreciate; be appealed by; prefer. Fita (*): Dislike; hate.
+Fepu (V): Annoy; irritate; bother; disturb. Fipu (*): Soothe.
+Feki (V): Surprise; amaze; shock.
+Feka (V): Scare; frighten; startle. Fika (*): Reassure.
+Fefo (V): Interest; fascinate. Fifo (*): Be uninteresting to.
+Fefi (V): Excite; make eager.
+Fedo (V): Entertain; be fun to; be funny to. Fido (*): Bore.
 Fefa (V): Laugh at.
 Febi (V): Play.
 Feba (N): Game; sport.
@@ -358,10 +357,10 @@ Fesa (N): Music; song; tune.
 
 > LIFE (PE-)
 
-Pepi (D*): Alive; living.
-Pepu (N*): Nature.
+Pepi (D): Alive; living. Pipi (*): Dead.
+Pepu (N): Nature. Pipu (*): Artifical phenomena.
 Pebo (N): Body.
-Pegi (D*): Healthy.
+Pegi (D): Healthy. Pigi (*): Unhealthy; ill; sick.
 Peva (D): Be born.
 Peku (D): Decompose; decay; rot.
 Pete (N): Baby; infant.
@@ -390,7 +389,7 @@ Peza (N): Reptile; amphibian.
 Pedo (N): Fish.
 Pesa (N): Arthropod.
 Pega (N): Mollusk.
-Pevu (D*): Sleep.
+Pevu (D): Sleep. Pivu (*): Be awake.
 Pezo (V): Breathe; inhale; exhale.
 Pefo (V): Have sex with.
 
@@ -462,15 +461,15 @@ Vetu (N): Asphalt; tar.
 Vete (N): Ceramic; cement.
 Vebi (N): Glass.
 Vefa (N): Rain; snow; precipitation.
-Vevo (N*): Acid; acidic liquid.
-Vegi (N*): Medicine; drug.
+Vevo (N): Acid; acidic liquid. Vivo (*): Basic liquid.
+Vegi (N): Medicine; drug. Vigi (*): Poison.
 Vego (N): Soap.
 Vebe (N): Powder; dust.
 Vede (N): Foam; sponge.
-Vega (D*): Flexible; soft.
-Vefe (D*): Clear; transparent; obvious.
-Vezu (D*): Viscous; thick; gooey.
-Vebo (D*): Dense.
+Vega (D): Flexible; soft. Viga (*): Hard; firm.
+Vefe (D): Clear; transparent; obvious. Vife (*): Opaque.
+Vezu (D): Viscous; thick; gooey. Vizu (*): Thin; runny.
+Vebo (D): Dense. Vibo (*): Having a low density.
 Veku (P): Made of; comprised of; composed of; consisting of.
 
 > QUANTITY (SE-)
@@ -479,18 +478,18 @@ Seku (N): Quantity; amount; number; proportion.
 Seka (N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
 Sezi (N): Limit; constraint; boundary; restriction.
 Seko (D): Plural; more than one; several; some.
-Sezu (D*): Many; a lot; often; frequent; numerous.
-Seda (D*): Every; all; each.
-Segu (D*): Common; usual; normal; average; ordinary; regular; standard; tend to; typical.
-Sego (D*): Most; the majority; almost all.
+Sezu (D): Many; a lot; often; frequent; numerous. Sizu (*): Few; not a lot.
+Seda (D): Every; all; each. Sida (*): None.
+Segu (D): Common; usual; normal; average; ordinary; regular; standard; tend to; typical. Sigu (*): Uncommon; unusual.
+Sego (D): Most; the majority; almost all. Sigo (*): The minority.
 Sedo (D): Only; just; alone; unique; sole.
 Seve (D): Again; another time.
 Sevi (D): Also; too.
-Sede (P*): Add a number.
-Sepi (P*): Multiply a number.
-Seva (P*): Exponentiate a number.
-Sevo (P*): Multiply by ten raised to a number.
-Sedu (D*): Negative; less than zero.
+Sede (P): Add a number. Side (*): Subtract.
+Sepi (P): Multiply a number. Sipi (*): Divide.
+Seva (P): Exponentiate a number. Siva (*): Logarithm.
+Sevo (P): Multiply by ten raised to a number.
+Sedu (D): Negative; less than zero. Sidu (*): Positive.
 Setu (Numeric): Zero; no; none.
 Seto (Numeric): One; single; individual.
 Seta (Numeric): Two; a couple of.
@@ -506,20 +505,20 @@ Seki (Numeric): Decimal point.
 > EXTENT AND ACTION (DE-)
 
 Dede (N): Extent; degree.
-Deko (D*): More; having a greater degree.
-Deda (D*): Most; having the greatest degree.
-Deto (D*): Total; complete; full; whole; entire; thorough.
-Dego (D*): Enough; sufficient; adequate.
+Deko (D): More; having a greater degree. Diko (*): Less.
+Deda (D): Most; having the greatest degree. Dida (*): Least.
+Deto (D): Total; complete; full; whole; entire; thorough. Dito (*): None.
+Dego (D): Enough; sufficient; adequate. Digo (*): Insufficient.
 Dega (D): Extra; spare.
 Desu (D): Too much; excessive.
-Dezu (D*): Extreme; radical; severe; intense.
+Dezu (D): Extreme; radical; severe; intense. Dizu (*): Mellow.
 Deki (D): As; to a certain extent; so.
 Dedo (D): Even.
 Degi (D): Almost; nearly; virtually.
 Desa (D): Opposite; inverse in meaning.
 Deku (P): Relative to; with respect to; than.
 Detu (N): Action; activity.
-Deka (V*): Do; perform; participate in an action.
+Deka (V): Do; perform; participate in an action. Dika (*): Undo.
 Desi (V): Respond to; react.
 Deta (V): Wait for.
 Defi (V): Bear; withstand; endure; suffer; stand; cope with; last.
@@ -530,35 +529,35 @@ Deke (D): Act; perform; behave.
 > ORGANIZATION AND RELATIONSHIP (ZE-)
 
 Zeze (N): Order; organization; arrangement; configuration.
-Zeka (V*): Organize; order; sort; arrange.
+Zeka (V): Organize; order; sort; arrange. Zika (*): Disorganize; mix; stir; scramble.
 Zeku (D): Ranked; converts a cardinal number to an ordinal number.
-Zeto (D*): First; initial; original.
-Zeti (N*): Start; beginning; first part.
-Zeso (D*): Next; following.
+Zeto (D): First; initial; original. Zito (*): Last; final.
+Zeti (N): Start; beginning; first part. Ziti (*): End.
+Zeso (D): Next; following. Ziso (*): Previous.
 Zegu (N): Group; bunch; combination; set.
 Zefi (N): List; sequence; series; queue.
 Zega (N): Member; individual of a group.
 Zese (N): System; process.
-Zezu (D*): Main; chief; principal; primary; capital.
+Zezu (D): Main; chief; principal; primary; capital. Zizu (*): Subordinate.
 Zede (P): Of; pertaining to; related to; having a conceptual connection with.
 Zedu (P): About; having a subject; having a topic.
 Zeda (V): Depend on; be controlled by; rely on.
 Zeko (P): If; under the condition that.
-Zesa (D*): But; however; although; despite.
-Zegi (P*): With; along with; accompanied by.
+Zesa (D): But; however; although; despite. Zisa (*): So; therefore.
+Zegi (P): With; along with; accompanied by. Zigi (*): Without.
 Zepa (V): Have; own; possess.
-Zeve (V*): Give; contribute; donate; transfer; grant; provide; supply.
-Zevo (V*): Get; receive; acquire; gain; obtain.
+Zeve (V): Give; contribute; donate; transfer; grant; provide; supply.
+Zevo (V): Get; receive; acquire; gain; obtain. Zivo (*): Lose possession of.
 Zefe (V): Meet; encounter.
 Zetu (P): Except; not including; aside from.
 Zepo (P): Instead of; on behalf of; in place of.
-Zepi (N*): Friend; buddy.
+Zepi (N): Friend; buddy. Zipi (*): Enemy; rival.
 Zeva (N): Family.
-Zeta (V*): Marry.
+Zeta (V): Marry. Zita (*): Divorce.
 Zete (N): Spouse.
-Zefo (N*): Parent.
+Zefo (N): Parent. Zifo (*): Child; offspring.
 Zefa (N): Sibling.
-Zege (D*): Public.
+Zege (D): Public. Zige (*): Private; secret.
 
 > QUALITY (KE-)
 
@@ -569,43 +568,43 @@ Kefe (N): Style; fashion; aesthetic.
 Keva (N): Culture; ethnicity.
 Keta (N): State; status; mode; phase; stage; version.
 Kepe (N): Weather; climate.
-Kezu (P*): Like; similar to; having a quality pertaining to.
+Kezu (P): Like; similar to; having a quality pertaining to. Kizu (*): Unlike.
 Kezo (N): Pattern; trend.
 Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
 Keti (D): Change; become different; transform.
 Kefi (V): Change; alter; convert; cause to become different.
-Keze (V*): Seem like; appear to be; look like; sound like.
-Keba (V*): Fix; heal; repair; solve; resolve.
-Keda (D*): Hot; warm.
-Kepi (D*): Wet; damp; moist.
-Kedu (D*): Clean.
-Kebe (D*): Safe; secure.
-Kebi (D*): Simple; easy; basic; plain.
-Keve (D*): Nice; kind; generous; polite.
-Kesi (D*): Cute; adorable.
-Kevi (D*): Popular; cool; famous.
-Kefo (D*): Beautiful; pretty; attractive; gorgeous.
-Kebu (D*): Fancy; formal.
-Kepu (D*): Gross; disgusting; nasty.
-Kede (D*): Brave; bold; courageous; confident.
-Kedi (D*): Crazy; mad; wild; ridiculous; silly.
-Kepa (D*): Careful; alert; prudent; cautious; gentle; responsible.
-Keka (D*): Clever; smart; intelligent.
-Kegi (D*): Logical; reasonable.
-Keza (D*): Creative.
+Keze (V): Seem like; appear to be; look like; sound like. Kize (*): Seem unlike.
+Keba (V): Fix; heal; repair; solve; resolve. Kiba (*): Damage; hurt.
+Keda (D): Hot; warm. Kida (*): Cold; cool.
+Kepi (D): Wet; damp; moist. Kipe (*): Dry.
+Kedu (D): Clean. Kidu (*): Dirty.
+Kebe (D): Safe; secure. Kibe (*): Unsafe; insecure.
+Kebi (D): Simple; easy; basic; plain. Kibi (*): Complex; difficult.
+Keve (D): Nice; kind; generous; polite. Kive (*): Unkind; mean; selfish.
+Kesi (D): Cute; adorable.
+Kevi (D): Popular; cool; famous. Kivi (*): Uncool; unpopular.
+Kefo (D): Beautiful; pretty; attractive; gorgeous. Kifo (*): Ugly.
+Kebu (D): Fancy; formal. Kibu (*): Casual.
+Kepu (D): Gross; disgusting; nasty. Kipu (*): Appealing.
+Kede (D): Brave; bold; courageous; confident. Kide (*): Cowardly.
+Kedi (D): Crazy; mad; wild; ridiculous; silly. Kidi (*): Tame.
+Kepa (D): Careful; alert; prudent; cautious; gentle; responsible. Kipa (*): Careless.
+Keka (D): Clever; smart; intelligent. Kika (*): Unintelligent; dumb; stupid.
+Kegi (D): Logical; reasonable. Kigi (*): Illogical; unreasonable.
+Keza (D): Creative. Kiza (*): Uncreative.
 
 > TECHNOLOGY AND MEDIA (ZA-)
 
 Zato (N): Tool; utensil; instrument; device; equipment.
 Zase (N): Machine.
 Zaso (N): Vehicle.
-Zako (N*): Outlet; spout; dispenser.
+Zako (N): Outlet; spout; dispenser. Zuko (*): Inlet.
 Zado (N): Lever.
 Zafi (N): String; thread; lace; rope; wire; cable.
 Zafe (N): Tape; ribbon; belt; band; strip.
 Zazu (N): Building.
 Zaze (N): Road; street.
-Zadi (D*): On; active; operating; functioning; have the capacity to work.
+Zadi (D): On; active; operating; functioning; have the capacity to work. Zudi (*): Off; inactive.
 Zape (N): Radio; wireless communication.
 Zake (N): Computer.
 Zaki (N): Program; application; software; code.
@@ -617,14 +616,14 @@ Zaga (N): Furniture.
 Zavu (N): Table.
 Zasu (N): Bag; pocket; sack.
 Zapi (N): Container; package; case.
-Zapu (V*): Cover; wrap.
+Zapu (V): Cover; wrap. Zupu (*): Uncover; unwrap.
 Zabo (N): Bowl; cup; bucket; basket; bin; pot.
 Zabu (N): Bath; basin; tub; shower; sink; toilet.
-Zate (V*): Open.
-Zada (D*): Full; with no space remaining.
-Zatu (V*): Lock.
+Zate (V): Open. Zute (*): Close; shut.
+Zada (D): Full; with no space remaining. Zuda (*): Empty.
+Zatu (V): Lock. Zutu (*): Unlock.
 Zati (N): Key; for locking and unlocking.
-Zabi (V*): Write; draw.
+Zabi (V): Write; draw. Zubi (*): Erase.
 Zafo (V): Read.
 Zaka (N): Image; picture; photo; appearance.
 Zaku (N): Video; movie; film.
@@ -641,28 +640,28 @@ Vadu (N): Country; nation; state; territory.
 Vagu (N): Town; village; city.
 Vape (N): Money; currency.
 Vapo (N): Price; cost; fee.
-Vave (V*): Pay; give money; spend.
-Vavo (V*): Buy; purchase.
+Vave (V): Pay; give money; spend. Vuve (*): Accept payment.
+Vavo (V): Buy; purchase. Vuvo (*): Sell.
 Vazu (N): Shop; store; restaurant.
 Vazo (N): Company; business; enterprise.
 Vadi (V): Work on; operate; function; do something productive.
 Vade (V): Practice; exercise; train.
-Vada (D*): Busy; preoccupied; engaged.
+Vada (D): Busy; preoccupied; engaged. Vuda (*): Idle.
 Vado (N): Job; occupation; career; duty; responsibility; profession.
-Vavu (D*): Rest; relax.
-Vaku (D*): Imperative; please.
+Vavu (D): Rest; relax.
+Vaku (D): Imperative; please. Vuku (*): Please do not.
 Vako (V): Control; drive; manage; operate; regulate.
-Vake (V*): Capture; trap.
-Vagi (V*): Let; allow; permit.
-Vage (D*): Free.
+Vake (V): Capture; trap. Vuke (*): Release.
+Vagi (V): Let; allow; permit. Vugi (*): Forbid.
+Vage (D): Free. Vuge (*): Constrained.
 Vapi (V): Suggest; recommend; advise; direct; guide; lead; propose.
-Vapa (V*): Demand; request; ask for; order; command.
-Vapu (V*): Fight; attack; compete with; battle.
+Vapa (V): Demand; request; ask for; order; command. Vupa (*): Request not.
+Vapu (V): Fight; attack; compete with; battle. Vupu (*): Defend; protect.
 Vase (N): Government; authority; committee; council; regime.
 Vaka (N): Rule; regulation; law; policy.
 Vaza (N): Religion.
-Vatu (D*): Should; ought to.
-Vato (D*): Fair; just; right.
+Vatu (D): Should; ought to. Vutu (*): Should not.
+Vato (D): Fair; just; right. Vuto (*): Unfair.
 
 > FOOD (FA-)
 
