@@ -4,11 +4,14 @@ import sys
 from copy import deepcopy
 
 dictionaryPath = "./dictionary.txt"
+verificationPath = "./verification.txt"
 categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE", "PA", "PE", "SA", "SE", "TA", "TE", "VA", "VE", "ZA", "ZE"]
 consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
 vowelSet = ["A", "E", "I", "O", "U"]
+antonymVowelPairSet = {"E": "I", "A": "U"}
 categoryList = []
 syllableSet = []
+verificationList = []
 
 for consonant in consonantSet:
     for vowel in vowelSet:
@@ -19,6 +22,9 @@ def isEntryLine(line):
 
 def isCategoryLine(line):
     return (line.find("> ") == 0)
+
+def isVerificationLine(line):
+    return (line.find(": ") >= 0 and line.find(" (") >= 0)
 
 def getLineCategoryName(line):
     endIndex = line.find(" (")
@@ -55,6 +61,11 @@ class Entry(object):
             self.hasAntonym = False
         self.definition = line[(tempEndIndex + 3):len(line)]
     
+    def getAntonymWord(self):
+        tempVowel = self.word[1]
+        tempVowel = antonymVowelPairSet[tempVowel]
+        return self.word[0] + tempVowel + self.word[2:len(self.word)]
+    
     def toString(self):
         if self.word is None:
             output = ""
@@ -83,6 +94,21 @@ class Category(object):
                 if entry.word == word:
                     return True
         return False
+
+class Verification(object):
+    
+    def __init__(self, line):
+        line = line.upper()
+        index1 = line.index(": ")
+        index2 = line.index(" (")
+        index3 = line.index(")")
+        self.original = line[0:index1]
+        tempText = line[(index1 + 2):index2]
+        self.translation = tempText.split(" ")
+        self.gloss = line[(index2 + 2):index3]
+    
+    def toString(self):
+        return "%s: %s (%s)" % (self.original, " ".join(self.translation), self.gloss)
 
 def compareCategoriesByEntryCount(category1, category2):
     tempCount1 = len(category1.entryList)
@@ -125,6 +151,15 @@ def readDictionaryFile():
         if isEntryLine(line):
             tempEntry = Entry(line)
             tempLastCategory.addEntry(tempEntry)
+
+def readVerificationFile():
+    with open(verificationPath, "r") as file:
+        inputText = file.read()
+    tempList = inputText.split("\n")
+    for line in tempList:
+        if isVerificationLine(line):
+            tempVerification = Verification(line)
+            verificationList.append(tempVerification)
 
 def countEntriesCommand():
     readDictionaryFile()
@@ -340,6 +375,35 @@ def secondSyllableCommand(secondSyllable):
                 if tempSyllable == secondSyllable:
                     print entry.toString()
 
+def analyzeVerificationCommand():
+    readDictionaryFile()
+    readVerificationFile()
+    tempUnusedEntryList = []
+    for category in categoryList:
+        for entry in category.entryList:
+            tempUnusedEntryList.append(entry)
+    for verification in verificationList:
+        for word in verification.translation:
+            # Something something bad time complexity
+            # I don't care in this context
+            index = 0
+            while index < len(tempUnusedEntryList):
+                tempEntry = tempUnusedEntryList[index]
+                tempShouldRemove = False
+                if word == tempEntry.word:
+                    tempShouldRemove = True
+                elif tempEntry.hasAntonym:
+                    tempWord = tempEntry.getAntonymWord()
+                    if word == tempWord:
+                        tempShouldRemove = True
+                if tempShouldRemove:
+                    del tempUnusedEntryList[index]
+                    break
+                index += 1
+    print "Unused words in verification:"
+    for entry in tempUnusedEntryList:
+        print entry.toString()
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -354,6 +418,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " missingWords (second syllable?)"
     print tempScriptPath + " secondSyllable (syllable)"
     print tempScriptPath + " verifyAll"
+    print tempScriptPath + " analyzeVerification"
     sys.exit(0)
 
 print "Entry Digest"
@@ -391,6 +456,8 @@ elif commandName == "syllableStats":
     syllableStatsCommand(shouldSort)
 elif commandName == "consonantStats":
     consonantStatsCommand()
+elif commandName == "analyzeVerification":
+    analyzeVerificationCommand()
 elif commandName == "missingWords":
     if len(sys.argv) < 3:
         secondSyllable = None
