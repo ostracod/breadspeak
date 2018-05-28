@@ -76,7 +76,7 @@ Pabi (P): On the surface of. Pubi (*): Off.
 Paki (P): Near; close to; around; beside; by. Puki (*): Far; distant from.
 Pake (D): Together. Puke (*): Apart; separate.
 Pazo (N): Middle; center.
-Papi (P): Between; among; within.
+Papi (P): Between; among; within. Pupi (*): Surround.
 Pasu (V): Keep; store; preserve; retain; save.
 Papu (P): Through.
 Paka (P): Across.
@@ -248,7 +248,7 @@ Bazu (D): Strong; fit; powerful; tough; sturdy; durable. Buzu (*): Weak; feeble.
 
 Sasa (D): Exist.
 Sage (N): Identity.
-Sagi (D): Equal; same.
+Sagi (D): Equal; same. Sugi (*): Different; other; another.
 Sagu (D): Any.
 Sabo (N): Object; item; physical entity.
 Sabu (N): Mass; matter.

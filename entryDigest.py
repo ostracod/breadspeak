@@ -383,11 +383,18 @@ def analyzeVerificationCommand():
     readDictionaryFile()
     readVerificationFile()
     tempUnusedEntryList = []
+    tempValidWordSet = {}
+    tempInvalidWordList = []
     for category in categoryList:
         for entry in category.entryList:
             tempUnusedEntryList.append(entry)
+            tempValidWordSet[entry.word] = True
+            if entry.hasAntonym:
+                tempValidWordSet[entry.antonymWord] = True
     for verification in verificationList:
         for word in verification.translation:
+            if word not in tempValidWordSet:
+                tempInvalidWordList.append(word)
             # Something something bad time complexity
             # I don't care in this context
             index = 0
@@ -397,8 +404,7 @@ def analyzeVerificationCommand():
                 if word == tempEntry.word:
                     tempShouldRemove = True
                 elif tempEntry.hasAntonym:
-                    tempWord = getAntonymWord(tempEntry.word)
-                    if word == tempWord:
+                    if word == tempEntry.antonymWord:
                         tempShouldRemove = True
                 if tempShouldRemove:
                     del tempUnusedEntryList[index]
@@ -407,6 +413,8 @@ def analyzeVerificationCommand():
     print "Unused words in verification:"
     for entry in tempUnusedEntryList:
         print entry.toString()
+    print "Invalid verification words:"
+    print tempInvalidWordList
 
 def verifyAntonyms():
     tempBadWordList = []
