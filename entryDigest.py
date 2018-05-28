@@ -8,7 +8,7 @@ verificationPath = "./verification.txt"
 categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE", "PA", "PE", "SA", "SE", "TA", "TE", "VA", "VE", "ZA", "ZE"]
 consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
 vowelSet = ["A", "E", "I", "O", "U"]
-antonymVowelPairSet = {"E": "I", "A": "U"}
+antonymVowelPairSet = {"E": "I", "A": "U", "I": "E", "U": "A"}
 categoryList = []
 syllableSet = []
 verificationList = []
@@ -43,6 +43,11 @@ def leftPad(text, length):
         text = " " + text
     return text
 
+def getAntonymWord(word):
+    tempVowel = word[1]
+    tempVowel = antonymVowelPairSet[tempVowel]
+    return word[0] + tempVowel + word[2:len(word)]
+
 class Entry(object):
     
     def __init__(self, line):
@@ -53,18 +58,16 @@ class Entry(object):
             self.word = None
         tempEndIndex = line.find("): ")
         self.partOfSpeech = line[(index + 1):tempEndIndex]
-        index = self.partOfSpeech.find("*")
+        self.definition = line[(tempEndIndex + 3):len(line)]
+        index = self.definition.find("(*):")
         if index >= 0:
-            self.partOfSpeech = self.partOfSpeech[0:index]
+            index2 = self.definition.rfind(".", 0, index)
+            self.antonymWord = self.definition[(index2 + 2):(index - 1)].upper()
+            self.antonymDefinition = self.definition[(index + 5):len(self.definition)]
+            self.definition = self.definition[0:(index2 + 1)]
             self.hasAntonym = True
         else:
             self.hasAntonym = False
-        self.definition = line[(tempEndIndex + 3):len(line)]
-    
-    def getAntonymWord(self):
-        tempVowel = self.word[1]
-        tempVowel = antonymVowelPairSet[tempVowel]
-        return self.word[0] + tempVowel + self.word[2:len(self.word)]
     
     def toString(self):
         if self.word is None:
@@ -300,6 +303,7 @@ def verifyAllCommand():
     readDictionaryFile()
     checkForDuplicateWords()
     verifyCategorySyllables()
+    verifyAntonyms()
     tempTotal = 0
     for category in categoryList:
         tempTotal += len(category.entryList)
@@ -393,7 +397,7 @@ def analyzeVerificationCommand():
                 if word == tempEntry.word:
                     tempShouldRemove = True
                 elif tempEntry.hasAntonym:
-                    tempWord = tempEntry.getAntonymWord()
+                    tempWord = getAntonymWord(tempEntry.word)
                     if word == tempWord:
                         tempShouldRemove = True
                 if tempShouldRemove:
@@ -403,6 +407,21 @@ def analyzeVerificationCommand():
     print "Unused words in verification:"
     for entry in tempUnusedEntryList:
         print entry.toString()
+
+def verifyAntonyms():
+    tempBadWordList = []
+    for category in categoryList:
+        for entry in category.entryList:
+            if entry.hasAntonym:
+                tempWord = getAntonymWord(entry.word)
+                if tempWord != entry.antonymWord:
+                    tempBadWordList.append(entry.word)
+    print "Words with bad antonyms:"
+    print tempBadWordList
+
+def verifyAntonymsCommand():
+    readDictionaryFile()
+    verifyAntonyms()
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
@@ -419,6 +438,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " secondSyllable (syllable)"
     print tempScriptPath + " verifyAll"
     print tempScriptPath + " analyzeVerification"
+    print tempScriptPath + " verifyAntonyms"
     sys.exit(0)
 
 print "Entry Digest"
@@ -471,6 +491,8 @@ elif commandName == "secondSyllable":
     secondSyllableCommand(tempSyllable)
 elif commandName == "verifyAll":
     verifyAllCommand()
+elif commandName == "verifyAntonyms":
+    verifyAntonymsCommand()
 else:
     printCliUsageAndQuit()
 

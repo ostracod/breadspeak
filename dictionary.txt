@@ -576,7 +576,7 @@ Kefi (V): Change; alter; convert; cause to become different.
 Keze (V): Seem like; appear to be; look like; sound like. Kize (*): Seem unlike.
 Keba (V): Fix; heal; repair; solve; resolve. Kiba (*): Damage; hurt.
 Keda (D): Hot; warm. Kida (*): Cold; cool.
-Kepi (D): Wet; damp; moist. Kipe (*): Dry.
+Kepi (D): Wet; damp; moist. Kipi (*): Dry.
 Kedu (D): Clean. Kidu (*): Dirty.
 Kebe (D): Safe; secure. Kibe (*): Unsafe; insecure.
 Kebi (D): Simple; easy; basic; plain. Kibi (*): Complex; difficult.
