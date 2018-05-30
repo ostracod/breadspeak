@@ -104,7 +104,7 @@ The noun phrase is the object of the simple preposition phrase.
 Verb phrase structure: [verb phrase?] [descriptor phrase?] [verb word]
 The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase.
 
-A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed before a preposition or at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
+A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
 A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A wide conjunction phrase behaves as the type of phrase it contains.
 
