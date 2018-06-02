@@ -34,169 +34,169 @@ Therefore its name was called Babel, because there the Lord confused the languag
 https://web.archive.org/web/20130603121930/http://fiziwig.com/conlang/syntax_tests.html
 
 The sun shines.
-
+Si pada bezu.
 
 The sun is shining.
-
+Si pada zi bezu.
 
 The sun shone.
-
+Si pada bu bezu.
 
 The sun will shine.
-
+Si pada ba bezu.
 
 The sun has been shining.
-
+Si pada zi gi bu bezu.
 
 The sun is shining again.
-
+Si pada seve bezu.
 
 The sun will shine tomorrow.
-
+Si pada bezu so tapi zeso tadi.
 
 The sun shines brightly.
+Si pada zu bezu.
 
-
-The bright sun shines.
-
+The white sun shines.
+Si bege pada bezu.
 
 The sun is rising now.
-
+Si pada zi gi bese te.
 
 All the people shouted.
-
+Seda peka beva kasa.
 
 Some of the people shouted.
-
+Seko peka beva kasa.
 
 Many of the people shouted twice.
-
+Sezu peka seta gi beva kasa.
 
 Happy people often shout.
+Fegi peka sezu beva kasa.
 
+The kitten walked forward.
+Si peke pafo teso.
 
-The kitten jumped up.
-
-
-The kitten jumped onto the table.
-
+The kitten walked onto the grass.
+Si peke teso so pabi pede.
 
 My little kitten walked away.
-
+Ki za peke de teso.
 
 It's raining.
-
+Vefa.
 
 The rain came down.
-
+Si vefa pufa tedi.
 
 The kitten is playing in the rain.
-
+Si peke febi pi vefa.
 
 The rain has stopped.
-
+Si vefa bu suti.
 
 Soon the rain will stop.
-
+Si vefa taki suti.
 
 I hope the rain stops soon.
-
+Ki gapa da si vefa taki suti.
 
 Once wild animals lived here.
-
+Kedi gi seko pepe seto gi vi sasa.
 
 Slowly she looked around.
-
+Po tita befo paki.
 
 Go away!
-
+Vaku tidi!
 
 Let's go!
-
+Bi vaku te!
 
 You should go.
-
+Ke vatu te.
 
 I will be happy to go.
-
+Ki fegi so zedu do te.
 
 He will arrive soon.
-
+To taki tedi.
 
 The baby's ball has rolled away.
-
+Pete gego bu tedo de.
 
 The two boys are working together.
-
+Si gi seta gi pezu peta peka teso.
 
 This mist will probably clear away.
-
+Fi vege ba gi sazu te de.
 
 Lovely flowers are growing everywhere.
-
+Kefo pepa sati zu pi seda papo.
 
 We should eat more slowly.
-
+Bi vatu deko tita fato.
 
 You have come too soon.
-
+Ke desu taki tedi.
 
 You must write more neatly.
-
+Ke gaba da deko vefe zabi.
 
 Directly opposite stands a wonderful palace.
-
+Vase zu gagi zazu gevi so gebi paka.
 
 Henry's dog is lost.
-
+Bu kupo Henry peko.
 
 My cat is black.
+Ki peke bega.
 
-
-The little girl's doll is broken.
-
+The little girl's bowl is broken.
+Za pezi peta zabo bu gedi.
 
 I usually sleep soundly.
-
+Ki segu gagi pevu.
 
 The children ran after Jack.
-
+Seko peta teta teda Jack.
 
 I can play after school.
-
+Ki sake febi taso do kati.
 
 We went to the village for a visit.
-
+Bi te di si vagu du gako do befe.
 
 We arrived at the river.
-
+Bi bu tedi si dapu.
 
 I have been waiting for you.
+Ki bu deta ke.
 
-
-The campers sat around the fire.
-
+The children sat around the fire.
+Si gi seko peta geva pupi veda.
 
 A little girl with a kitten sat near me.
-
+Za pezi peta zegi peke geva so paki ki.
 
 The child waited at the door for her father.
-
+Si peta deta ge pezu zefo so paki dade.
 
 Yesterday the oldest girl in the village lost her kitten.
-
+Deda tuza fo pezi deku si vagu kupo ge peke so tapi ziso tadi.
 
 Were you born in this village?
+Ke saze peva so pi fi vagu?
 
-
-Can your brother dance well?
-
+Can your brother throw well?
+Ke pezu zefa saze sake gagi bafa?
 
 Did the man leave?
-
+Si fo pezu saze tidi?
 
 Is your sister coming for you?
-
+Ke pezi zefa saze tedi gako ke?
 
 Can you come tomorrow?
 
