@@ -28,7 +28,9 @@ BreadSpeak draws inspiration from many of my previous conlangs. BreadSpeak also 
 
 (title1){PHONOLOGY AND ORTHOGRAPHY}
 
-Consonants:
+Every syllable consists of a single consonant followed by a single vowel. Every word consists of a chain of consecutive syllables.
+
+BreadSpeak has ten consonants:
 
 > (bs){k} = /k/
 > (bs){g} = /g/
@@ -41,7 +43,7 @@ Consonants:
 > (bs){p} = /p/
 > (bs){b} = /b/
 
-Vowels:
+BreadSpeak has five vowels:
 
 > (bs){i} = /i/
 > (bs){e} = /e/
@@ -51,10 +53,25 @@ Vowels:
 
 Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
 
+Examples:
+
+> (bs){Vedo} (water), (bs){veto} (metal), and (bs){veka} (lumber) pertain to materials.
+> (bs){Kasa} (talk), (bs){kabo} (word), and (bs){kapa} (know) pertain to knowledge and communication.
+> (bs){Bebi} (light), (bs){bezo} (sound), and (bs){bete} (yellow) pertain to stimuli.
+
 By altering the vowel of a category syllable, the speaker can express the antonym of a word. There are two possible vowel modifications of this kind:
 
 > (bs){_e} (original) ---> (bs){_i} (antonym)
 > (bs){_a} (original) ---> (bs){_u} (antonym)
+
+Examples:
+
+> (bs){Keda} (hot) ---> (bs){Kida} (cold)
+> (bs){Segu} (common) ---> (bs){Sigu} (rare)
+> (bs){Gagi} (good) ---> (bs){Gugi} (bad)
+> (bs){Taso} (after) ---> (bs){Tuso} (before)
+
+The speaker may perform this transformation for any multi-syllable word. However, the antonym of a word may not always be intelligible. (Ex: (bs){Fudu} = anti-potato, which probably doesn't make sense.)
 
 (title1){GRAMMAR}
 
