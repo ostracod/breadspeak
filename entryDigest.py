@@ -6,6 +6,7 @@ import json
 
 dictionaryPath = "./dictionary.txt"
 verificationPath = "./verification.txt"
+dictionaryJsonPath = "./dictionary.json"
 categorySyllableSet = ["BA", "BE", "DA", "DE", "FA", "FE", "GA", "GE", "KA", "KE", "PA", "PE", "SA", "SE", "TA", "TE", "VA", "VE", "ZA", "ZE"]
 consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
 vowelSet = ["A", "E", "I", "O", "U"]
@@ -462,7 +463,8 @@ def getJsonCommand():
     categoryJsonDataList = []
     for category in categoryList:
         categoryJsonDataList.append(category.toJsonData())
-    print json.dumps(categoryJsonDataList)
+    with open(dictionaryJsonPath, "w") as file:
+        json.dump(categoryJsonDataList, file)
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
@@ -480,10 +482,10 @@ def printCliUsageAndQuit():
     print tempScriptPath + " verifyAll"
     print tempScriptPath + " analyzeVerification"
     print tempScriptPath + " verifyAntonyms"
-    print tempScriptPath + " getJson"
+    print tempScriptPath + " getJson (destination path)"
     sys.exit(0)
 
-print "Entry Digest"
+print "Starting entry digest..."
 
 if len(sys.argv) < 2:
     printCliUsageAndQuit()
@@ -540,6 +542,6 @@ elif commandName == "getJson":
 else:
     printCliUsageAndQuit()
 
-print "Finished."
+print "Finished entry digest."
 
 
