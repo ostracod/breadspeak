@@ -51,9 +51,7 @@ BreadSpeak has five vowels:
 > (bs){o} = /o/
 > (bs){u} = /u/
 
-Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
-
-Examples:
+Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category. Examples:
 
 > (bs){Vedo} (water), (bs){veto} (metal), and (bs){veka} (lumber) pertain to materials.
 > (bs){Kasa} (talk), (bs){kabo} (word), and (bs){kapa} (know) pertain to knowledge and communication.
@@ -75,19 +73,55 @@ The speaker may perform this transformation for any multi-syllable word. However
 
 (title1){GRAMMAR}
 
-Parts of speech:
+Every word has exactly one part of speech.
+
+BreadSpeak has seven parts of speech, some of which feature different variations:
 
 > Noun
-> Verb
 > Descriptor
+> Verb
 > Preposition
 > Conjunction (wide and narrow)
 > Numeric
 > Particle (delimiting, enclosing, and singleton)
 
-Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English.
+Nouns include living things, inanimate objects, states, and concepts. Examples:
 
-Enclosing particles at the start or end of a sentence may be excluded.
+> (bs){Peka} = Person
+> (bs){Dade} = Door
+> (bs){Katu} = Story
+
+Descriptors include qualities, manners, and activities. Descriptors may describe individual nouns, verbs, prepositions, or other descriptors. Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English. Examples:
+
+> (bs){Fegi} = Happy
+> (bs){Tatu} = Early
+> (bs){Teso} = Walk
+
+Verbs include actions and relationships. All verbs in BreadSpeak are transitive, accepting a subject and direct object. Examples:
+
+> (bs){Fato} = Eat
+> (bs){Befe} = See
+> (bs){Kako} = Signify
+
+Prepositions include relationships and associations. Like verbs, prepositions relate two nouns together, but prepositions have different syntactic behavior. Examples:
+
+> (bs){Pi} = In
+> (bs){Tase} = Until
+> (bs){Zetu} = Except
+
+Conjunctions form lists of words or phrases. Examples:
+
+> (bs){Ga} = And
+> (bs){Go} = Or
+> (bs){Gu} = Exclusive or
+
+Numerics form explicit number values, including integer values and floating point values. Examples:
+
+> (bs){Seta} = Two
+> (bs){Seso} = Six
+> (bs){Seki} = Decimal point
+
+Particles enforce grammatical structure in sentences. Enclosing particles at the start or end of a sentence may be excluded.
 
 (title2){PHRASE STRUCTURE}
 
