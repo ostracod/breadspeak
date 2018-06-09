@@ -20,7 +20,7 @@ Sources of inspiration:
 > Keru ---> System of antonyms
 > Keru ---> Base dictionary definitions
 > Pegakibo ---> Script
-> V0tgil ---> Lexicon size
+> V#{00F6}tgil ---> Lexicon size
 > Conlang Critic ---> More pronouns
 > Conlang Critic ---> Improved particles
 

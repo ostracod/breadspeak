@@ -24,6 +24,20 @@ function generateStyleSpans(text) {
     return text;
 }
 
+function performUnicodeSubstitutions(text) {
+    while (true) {
+        var tempStartIndex = text.indexOf("#{");
+        if (tempStartIndex < 0) {
+            break;
+        }
+        var tempEndIndex = text.indexOf("}", tempStartIndex + 2);
+        var tempCode = text.substring(tempStartIndex + 2, tempEndIndex);
+        var tempCharacter = String.fromCharCode(parseInt(tempCode, 16));
+        text = text.substring(0, tempStartIndex) + tempCharacter + text.substring(tempEndIndex + 1, text.length);
+    }
+    return text;
+}
+
 var content = fs.readFileSync("./description.txt", "utf8");
 var lineList = content.split("\n");
 var paragraphList = [];
@@ -41,6 +55,7 @@ while (true) {
             tempLine = "\u2022" + tempLine.substring(1, tempLine.length);
         }
         tempLine = escapeHtml(tempLine);
+        tempLine = performUnicodeSubstitutions(tempLine);
         tempLine = generateStyleSpans(tempLine);
         paragraphLineList.push(tempLine);
     } else {
