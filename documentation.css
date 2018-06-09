@@ -18,4 +18,16 @@ body {
     font-size: 20px;
 }
 
+.bs {
+    font-weight: bold;
+}
+
+.code {
+    font-family: Courier New;
+    font-weight: bold;
+    font-size: 14px;
+    background: #DDDDDD;
+    border-radius: 3px;
+}
+
 
