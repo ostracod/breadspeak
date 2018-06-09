@@ -3,20 +3,22 @@
 
 A constructed language by Jack Eisenmann
 
-Language goals:
+This page was generated from !{https://github.com/ostracod/breadspeak} at CURRENT_TIMESTAMP.
 
-> Make a language that I would enjoy the most
-> Target 600 words
-> CV syllable structure
-> Less ambiguous grammar
-> Moderately efficient to use
+I started creating BreadSpeak in January 2018 as a personal conlang. I designed BreadSpeak to meet the following goals:
 
-Sources of inspiration:
+> Should closely follow my personal preferences
+> Should contain approximately 600 words
+> Should use CV syllable structure
+> Should employ less ambiguous grammar than my previous languages
+> Should be moderately efficient to use
 
-> Zese ---> Base grammar
+BreadSpeak draws inspiration from many of my previous conlangs. BreadSpeak also includes some suggestions from external sources. The following list shows the origins of various features:
+
+> Zese ---> Basic grammar
 > Zese ---> Phonology
 > Zese ---> System of word categories
-> Zese ---> Etymological spelling
+> Zese ---> Etymological spelling of words
 > Keru ---> System of antonyms
 > Keru ---> Base dictionary definitions
 > Pegakibo ---> Script

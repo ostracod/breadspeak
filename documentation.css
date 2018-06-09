@@ -5,6 +5,10 @@ body {
     font-size: 16px;
 }
 
+a {
+    color: #000000;
+}
+
 .title1, .title2 {
     font-family: Arial;
     font-weight: bold;

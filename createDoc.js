@@ -1,9 +1,12 @@
 
 var fs = require("fs");
 var escapeHtml = require("escape-html");
+var dateFormat = require("dateformat");
 
 var cssPath = "./documentation.css";
 var destinationPath = "./documentation.html";
+
+var currentTimestamp = dateFormat(new Date(), "h:MM TT (Z), mmmm dS, yyyy");
 
 function capitalize(text) {
     return text.charAt(0).toUpperCase() + text.substring(1, text.length).toLowerCase();
@@ -38,6 +41,19 @@ function performUnicodeSubstitutions(text) {
     return text;
 }
 
+function generateLinks(text) {
+    while (true) {
+        var tempStartIndex = text.indexOf("!{");
+        if (tempStartIndex < 0) {
+            break;
+        }
+        var tempEndIndex = text.indexOf("}", tempStartIndex + 2);
+        var tempUrl = text.substring(tempStartIndex + 2, tempEndIndex);
+        text = text.substring(0, tempStartIndex) + "<a href=\"" + tempUrl + "\">" + tempUrl + "</a>" + text.substring(tempEndIndex + 1, text.length);
+    }
+    return text;
+}
+
 var content = fs.readFileSync("./description.txt", "utf8");
 var lineList = content.split("\n");
 var paragraphList = [];
@@ -54,9 +70,11 @@ while (true) {
         if (tempLine.charAt(0) == ">") {
             tempLine = "\u2022" + tempLine.substring(1, tempLine.length);
         }
-        tempLine = escapeHtml(tempLine);
         tempLine = performUnicodeSubstitutions(tempLine);
+        tempLine = tempLine.replace("CURRENT_TIMESTAMP", currentTimestamp);
+        tempLine = escapeHtml(tempLine);
         tempLine = generateStyleSpans(tempLine);
+        tempLine = generateLinks(tempLine);
         paragraphLineList.push(tempLine);
     } else {
         tempShouldAddParagraph = true;
