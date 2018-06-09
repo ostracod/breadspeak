@@ -28,31 +28,31 @@ Sources of inspiration:
 
 Consonants:
 
-> k = /k/
-> g = /g/
-> s = /s/
-> z = /z/
-> t = /t/
-> d = /d/
-> f = /f/
-> v = /v/
-> p = /p/
-> b = /b/
+> (bs){k} = /k/
+> (bs){g} = /g/
+> (bs){s} = /s/
+> (bs){z} = /z/
+> (bs){t} = /t/
+> (bs){d} = /d/
+> (bs){f} = /f/
+> (bs){v} = /v/
+> (bs){p} = /p/
+> (bs){b} = /b/
 
 Vowels:
 
-> i = /i/
-> e = /e/
-> a = /a/
-> o = /o/
-> u = /u/
+> (bs){i} = /i/
+> (bs){e} = /e/
+> (bs){a} = /a/
+> (bs){o} = /o/
+> (bs){u} = /u/
 
 Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
 
 By altering the vowel of a category syllable, the speaker can express the antonym of a word. There are two possible vowel modifications of this kind:
 
-> _e (original) ---> _i (antonym)
-> _a (original) ---> _u (antonym)
+> (bs){_e} (original) ---> (bs){_i} (antonym)
+> (bs){_a} (original) ---> (bs){_u} (antonym)
 
 (title1){GRAMMAR}
 
