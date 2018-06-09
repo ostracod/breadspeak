@@ -87,30 +87,7 @@ Parts of speech:
 
 Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English.
 
-A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
-
-(title2){CLAUSE STRUCTURE}
-
-Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
-Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
-
-Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object.
-
-Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
-Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
-
-Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
-The noun phrase is the subject.
-
-Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
-The noun prase is the subject. The first object of the preposition phrase is the primary object.
-
-Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
-The noun prase is the subject. The first object of the preposition phrase is the primary object.
-
-Noun clause structure: (code){(simple noun phrase)}
-The noun prase is the subject.
+Enclosing particles at the start or end of a sentence may be excluded.
 
 (title2){PHRASE STRUCTURE}
 
@@ -134,6 +111,8 @@ The descriptor phrase describes the verb word. The verb word is of or pertaining
 
 A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
+A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains.
+
 A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A wide conjunction phrase behaves as the type of phrase it contains.
 
 A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate phrases in this order:
@@ -145,12 +124,33 @@ A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If 
 5. Simple noun phrase
 6. Descriptor phrase
 
-A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains.
+(title2){CLAUSE STRUCTURE}
+
+A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
+
+Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
+Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+
+Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
+The noun phrase is the subject. The first object of the preposition phrase is the primary object.
+
+Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
+Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+
+Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
+The noun phrase is the subject.
+
+Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
+The noun prase is the subject. The first object of the preposition phrase is the primary object.
+
+Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
+The noun prase is the subject. The first object of the preposition phrase is the primary object.
+
+Noun clause structure: (code){(simple noun phrase)}
+The noun prase is the subject.
 
 A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen.
 
-An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}. If an embedded clause contains only one word, then it may be preceded by a singleton particle instead of being surrounded by enclosing particles.
-
-Enclosing particles at the start or end of a sentence may be excluded.
+An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}. If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
 
 
