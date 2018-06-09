@@ -5,6 +5,10 @@ var escapeHtml = require("escape-html");
 var cssPath = "./documentation.css";
 var destinationPath = "./documentation.html";
 
+function capitalize(text) {
+    return text.charAt(0).toUpperCase() + text.substring(1, text.length).toLowerCase();
+}
+
 function generateStyleSpans(text) {
     while (true) {
         var index = text.indexOf("){");
@@ -54,10 +58,36 @@ while (true) {
     }
 }
 
+var dictionaryData = JSON.parse(fs.readFileSync("./dictionary.json"));
+var tempLineList = [];
+var index = 0;
+while (index < dictionaryData.length) {
+    var tempCategory = dictionaryData[index];
+    var tempText = tempCategory.name;
+    if (tempCategory.syllable !== null) {
+        tempText += " (" + tempCategory.syllable + "&ndash;)";
+    }
+    tempLineList.push("<p><span class=\"title2\">" + tempText + "</span></p>");
+    var tempLineList2 = [];
+    var tempIndex = 0;
+    while (tempIndex < tempCategory.entries.length) {
+        var tempEntry = tempCategory.entries[tempIndex];
+        var tempLine = "<span class=\"bs\">" + capitalize(tempEntry.word) + "</span> (" + tempEntry.partOfSpeech + ") " + escapeHtml(tempEntry.definition);
+        if (tempEntry.antonym !== null) {
+            tempLine += " <span class=\"bs\">" + capitalize(tempEntry.antonym.word) + "</span> (*) " + escapeHtml(tempEntry.antonym.definition);
+        }
+        tempLineList2.push(tempLine);
+        tempIndex += 1;
+    }
+    tempLineList.push(tempLineList2.join("<br />\n"));
+    index += 1;
+}
+var dictionaryContent = "<p><span class=\"title1\">DICTIONARY</span></p>\n" + tempLineList.join("\n");
+
 var cssContent = fs.readFileSync(cssPath, "utf8");
 
 var tempHead = "<head>\n<meta charset=\"UTF-8\">\n<style>\n" + cssContent + "\n</style>\n</head>";
-var tempBody = "<body>\n" + paragraphList.join("\n") + "\n</body>";
+var tempBody = "<body>\n" + paragraphList.join("\n") + "\n" + dictionaryContent + "\n</body>";
 var content = "<html>\n" + tempHead + "\n" + tempBody + "\n</html>";
 
 console.log(destinationPath);
