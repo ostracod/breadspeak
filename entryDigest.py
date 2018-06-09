@@ -2,6 +2,7 @@
 
 import sys
 from copy import deepcopy
+import json
 
 dictionaryPath = "./dictionary.txt"
 verificationPath = "./verification.txt"
@@ -79,6 +80,21 @@ class Entry(object):
             output += "*"
         output += "): " + self.definition
         return output
+    
+    def toJsonData(self):
+        if self.hasAntonym:
+            tempAntonym = {
+                "word": self.antonymWord,
+                "definition": self.antonymDefinition
+            }
+        else:
+            tempAntonym = None
+        return {
+            "word": self.word,
+            "partOfSpeech": self.partOfSpeech,
+            "definition": self.definition,
+            "antonym": tempAntonym
+        }
 
 class Category(object):
     
@@ -97,6 +113,16 @@ class Category(object):
                 if entry.word == word:
                     return True
         return False
+    
+    def toJsonData(self):
+        entryJsonDataList = []
+        for entry in self.entryList:
+            entryJsonDataList.append(entry.toJsonData())
+        return {
+            "name": self.name,
+            "syllable": self.syllable,
+            "entries": entryJsonDataList
+        }
 
 class Verification(object):
     
@@ -431,6 +457,13 @@ def verifyAntonymsCommand():
     readDictionaryFile()
     verifyAntonyms()
 
+def getJsonCommand():
+    readDictionaryFile()
+    categoryJsonDataList = []
+    for category in categoryList:
+        categoryJsonDataList.append(category.toJsonData())
+    print json.dumps(categoryJsonDataList)
+
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"
     print "Usage:"
@@ -447,6 +480,7 @@ def printCliUsageAndQuit():
     print tempScriptPath + " verifyAll"
     print tempScriptPath + " analyzeVerification"
     print tempScriptPath + " verifyAntonyms"
+    print tempScriptPath + " getJson"
     sys.exit(0)
 
 print "Entry Digest"
@@ -501,6 +535,8 @@ elif commandName == "verifyAll":
     verifyAllCommand()
 elif commandName == "verifyAntonyms":
     verifyAntonymsCommand()
+elif commandName == "getJson":
+    getJsonCommand()
 else:
     printCliUsageAndQuit()
 
