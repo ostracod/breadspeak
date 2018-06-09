@@ -13,43 +13,44 @@ Language goals:
 
 Sources of inspiration:
 
-Zese ---> Base grammar
-Zese ---> Phonology
-Zese ---> System of word categories
-Zese ---> Etymological spelling
-Keru ---> System of antonyms
-Keru ---> Base dictionary definitions
-Pegakibo ---> Script
-V0tgil ---> Lexicon size
-Conlang Critic ---> More pronouns
-Conlang Critic ---> Improved particles
+> Zese ---> Base grammar
+> Zese ---> Phonology
+> Zese ---> System of word categories
+> Zese ---> Etymological spelling
+> Keru ---> System of antonyms
+> Keru ---> Base dictionary definitions
+> Pegakibo ---> Script
+> V0tgil ---> Lexicon size
+> Conlang Critic ---> More pronouns
+> Conlang Critic ---> Improved particles
 
 Consonants:
 
-k = /k/
-g = /g/
-s = /s/
-z = /z/
-t = /t/
-d = /d/
-f = /f/
-v = /v/
-p = /p/
-b = /b/
+> k = /k/
+> g = /g/
+> s = /s/
+> z = /z/
+> t = /t/
+> d = /d/
+> f = /f/
+> v = /v/
+> p = /p/
+> b = /b/
 
 Vowels:
 
-i = /i/
-e = /e/
-a = /a/
-o = /o/
-u = /u/
+> i = /i/
+> e = /e/
+> a = /a/
+> o = /o/
+> u = /u/
 
 Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
 
 By altering the vowel of a category syllable, the speaker can express the antonym of a word. There are two possible vowel modifications of this kind:
-_e (original) ---> _i (antonym)
-_a (original) ---> _u (antonym)
+
+> _e (original) ---> _i (antonym)
+> _a (original) ---> _u (antonym)
 
 Parts of speech:
 
