@@ -125,23 +125,77 @@ Particles enforce grammatical structure in sentences. Enclosing particles at the
 
 (title2){PHRASE STRUCTURE}
 
+Clauses consist of phrases. Every phrase must follow one of the structures below.
+
 Descriptor phrase structure: (code){(descriptor phrase?) (descriptor word)}
-The descriptor phrase describes the descriptor word.
+The descriptor phrase describes the descriptor word. Examples:
+
+(bs){Zu gake}
+(code){Very important}
+Very important
+
+(bs){Teta tedo}
+(code){Fast spin}
+Spin quickly
 
 Simple noun phrase structure: (code){(simple noun phrase?) (descriptor phrase?) (noun word)}
-The descriptor phrase describes the noun word. The noun word is of or pertaining to the noun phrase.
+The descriptor phrase describes the noun word. The noun word is of or pertaining to the noun phrase. Examples:
+
+(bs){Gefi zafi}
+(code){Long string}
+Long string
+
+(bs){Peko fadi}
+(code){Dog food}
+Dog food
+
+(bs){Zapa taza vazu}
+(code){Book new store}
+New book store
 
 Noun phrase structure: (code){(simple noun phrase) (preposition phrase?)}
-The simple noun phrase is involved in the relationship described by the preposition phrase.
+The simple noun phrase is involved in the relationship described by the preposition phrase. Examples:
+
+(bs){Peke paki pevi}
+(code){Cat near tree}
+Cat near a tree
+
+(bs){Faba zabo pabi bedo zavu}
+(code){Coffee cup on blue table}
+Coffee cup on a blue table
 
 Simple preposition phrase structure: (code){(simple preposition phrase?) (descriptor phrase?) (preposition word)}
-The descriptor phrase describes the preposition word. The preposition word is of or pertaining to the preposition phrase.
+The descriptor phrase describes the preposition word. The preposition word is of or pertaining to the preposition phrase. Examples:
+
+(bs){Pi di}
+(code){In toward}
+Into
+
+(bs){Degi paga}
+(code){Almost above}
+Almost above
 
 Preposition phrase structure: (code){(simple preposition phrase) (noun phrase?)}
-The noun phrase is the object of the simple preposition phrase.
+The noun phrase is the object of the simple preposition phrase. Examples:
+
+(bs){Tapi fegu}
+(code){During party}
+During a party
+
+(bs){Zegi keve zepi}
+(code){With nice friend}
+With a nice friend
 
 Verb phrase structure: (code){(verb phrase?) (descriptor phrase?) (verb word)}
-The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase.
+The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase. Examples:
+
+(bs){Beva kavo}
+(code){Loud call}
+Loudly call
+
+(bs){Baka vapu}
+(code){Hit attack}
+Attack by hitting
 
 A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
@@ -160,7 +214,7 @@ A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If 
 
 (title2){CLAUSE STRUCTURE}
 
-A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
+A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every clause must follow one of the structures below.
 
 Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
 Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
