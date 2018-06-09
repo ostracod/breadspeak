@@ -1,5 +1,5 @@
 
-BREADSPEAK (FADE KASE)
+(title1){BREADSPEAK (FADE KASE)}
 
 A constructed language by Jack Eisenmann
 
@@ -23,6 +23,8 @@ Sources of inspiration:
 > V0tgil ---> Lexicon size
 > Conlang Critic ---> More pronouns
 > Conlang Critic ---> Improved particles
+
+(title1){PHONOLOGY AND ORTHOGRAPHY}
 
 Consonants:
 
@@ -52,6 +54,8 @@ By altering the vowel of a category syllable, the speaker can express the antony
 > _e (original) ---> _i (antonym)
 > _a (original) ---> _u (antonym)
 
+(title1){GRAMMAR}
+
 Parts of speech:
 
 > Noun
@@ -65,6 +69,8 @@ Parts of speech:
 Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English.
 
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark.
+
+(title2){CLAUSE STRUCTURE}
 
 Verb-object clause structure: [noun phrase 1?] [verb phrase] [noun phrase 2?]
 Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
@@ -86,6 +92,8 @@ The noun prase is the subject. The first object of the preposition phrase is the
 
 Noun clause structure: [simple noun phrase]
 The noun prase is the subject.
+
+(title2){PHRASE STRUCTURE}
 
 Descriptor phrase structure: [descriptor phrase?] [descriptor word]
 The descriptor phrase describes the descriptor word.

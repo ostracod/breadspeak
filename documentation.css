@@ -1,0 +1,21 @@
+
+body {
+    padding: 20px;
+    font-family: Times New Roman;
+    font-size: 16px;
+}
+
+.title1, .title2 {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.title1 {
+    font-size: 28px;
+}
+
+.title2 {
+    font-size: 20px;
+}
+
+
