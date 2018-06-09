@@ -12,6 +12,7 @@ consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"]
 vowelSet = ["A", "E", "I", "O", "U"]
 antonymVowelPairSet = {"E": "I", "A": "U", "I": "E", "U": "A"}
 categoryList = []
+legendLineList = []
 syllableSet = []
 verificationList = []
 
@@ -173,14 +174,21 @@ def readDictionaryFile():
         inputText = file.read()
     tempList = inputText.split("\n")
     tempLastCategory = None
+    tempIsInLegend = False
     for line in tempList:
         if isCategoryLine(line):
             tempCategory = Category(line)
             categoryList.append(tempCategory)
             tempLastCategory = tempCategory
+            tempIsInLegend = False
         if isEntryLine(line):
             tempEntry = Entry(line)
             tempLastCategory.addEntry(tempEntry)
+        if tempIsInLegend:
+            if len(line) > 0:
+                legendLineList.append(line)
+        elif line == "LEGEND_START":
+            tempIsInLegend = True
 
 def readVerificationFile():
     with open(verificationPath, "r") as file:
@@ -464,7 +472,10 @@ def getJsonCommand():
     for category in categoryList:
         categoryJsonDataList.append(category.toJsonData())
     with open(dictionaryJsonPath, "w") as file:
-        json.dump(categoryJsonDataList, file)
+        json.dump({
+            "legend": legendLineList,
+            "categories": categoryJsonDataList
+        }, file)
 
 def printCliUsageAndQuit():
     tempScriptPath = "./entryDigest.py"

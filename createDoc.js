@@ -59,10 +59,11 @@ while (true) {
 }
 
 var dictionaryData = JSON.parse(fs.readFileSync("./dictionary.json"));
+var tempCategoryList = dictionaryData.categories;
 var tempLineList = [];
 var index = 0;
-while (index < dictionaryData.length) {
-    var tempCategory = dictionaryData[index];
+while (index < tempCategoryList.length) {
+    var tempCategory = tempCategoryList[index];
     var tempText = tempCategory.name;
     if (tempCategory.syllable !== null) {
         tempText += " (" + tempCategory.syllable + "&ndash;)";
@@ -82,7 +83,15 @@ while (index < dictionaryData.length) {
     tempLineList.push(tempLineList2.join("<br />\n"));
     index += 1;
 }
-var dictionaryContent = "<p><span class=\"title1\">DICTIONARY</span></p>\n" + tempLineList.join("\n");
+var legendLineList = [];
+var index = 0;
+while (index < dictionaryData.legend.length) {
+    var tempText = dictionaryData.legend[index];
+    legendLineList.push(escapeHtml("\u2022 " + tempText));
+    index += 1;
+}
+var legendContent = "<p>Abbreviations:</p>\n" + legendLineList.join("<br /> \n");
+var dictionaryContent = "<p><span class=\"title1\">DICTIONARY</span></p>\n" + legendContent + "\n" + tempLineList.join("\n");
 
 var cssContent = fs.readFileSync(cssPath, "utf8");
 

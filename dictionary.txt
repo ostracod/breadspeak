@@ -1,7 +1,7 @@
 
 BREADSPEAK DICTIONARY
 
-Abbreviations:
+LEGEND_START
 
 (N) = Noun
 (V) = Verb
