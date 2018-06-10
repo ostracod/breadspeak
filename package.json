@@ -1,0 +1,23 @@
+{
+  "name": "createDoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createDoc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostracod/breadspeak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostracod/breadspeak/issues"
+  },
+  "homepage": "https://github.com/ostracod/breadspeak#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "escape-html": "^1.0.3"
+  }
+}
