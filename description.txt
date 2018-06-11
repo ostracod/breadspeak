@@ -51,6 +51,10 @@ BreadSpeak has five vowels:
 > (bs){o} = /o/
 > (bs){u} = /u/
 
+Words may be written in the Roman alphabet or BreadSpeak syllabary:
+
+IMAGE scriptLarge.png
+
 Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category. Examples:
 
 > (bs){Vedo} (water), (bs){veto} (metal), and (bs){veka} (lumber) pertain to materials.

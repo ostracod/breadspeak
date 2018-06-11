@@ -66,16 +66,21 @@ while (true) {
     tempLine = tempLine.trim();
     var tempShouldAddParagraph = false;
     if (tempLine.length > 0) {
-        tempLine = tempLine.replace("--->", "\u2192");
-        if (tempLine.charAt(0) == ">") {
-            tempLine = "\u2022" + tempLine.substring(1, tempLine.length);
+        var tempTermList = tempLine.split(" ");
+        if (tempTermList[0] == "IMAGE") {
+            paragraphLineList.push("<img src=\"" + tempTermList[1] + "\" />");
+        } else {
+            tempLine = tempLine.replace("--->", "\u2192");
+            if (tempLine.charAt(0) == ">") {
+                tempLine = "\u2022" + tempLine.substring(1, tempLine.length);
+            }
+            tempLine = performUnicodeSubstitutions(tempLine);
+            tempLine = tempLine.replace("CURRENT_TIMESTAMP", currentTimestamp);
+            tempLine = escapeHtml(tempLine);
+            tempLine = generateStyleSpans(tempLine);
+            tempLine = generateLinks(tempLine);
+            paragraphLineList.push(tempLine);
         }
-        tempLine = performUnicodeSubstitutions(tempLine);
-        tempLine = tempLine.replace("CURRENT_TIMESTAMP", currentTimestamp);
-        tempLine = escapeHtml(tempLine);
-        tempLine = generateStyleSpans(tempLine);
-        tempLine = generateLinks(tempLine);
-        paragraphLineList.push(tempLine);
     } else {
         tempShouldAddParagraph = true;
     }
