@@ -201,11 +201,39 @@ Loudly call
 (code){Hit attack}
 Attack by hitting
 
-A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
+A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word. Examples:
 
-A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains.
+(bs){Seto sesa}
+(code){One seven}
+Seventeen
+
+(bs){Seta seki sesu}
+(code){Two point five}
+Two and a half
+
+(bs){Seti dado}
+(code){Four wheel}
+Four wheels
+
+A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains. Examples:
+
+(bs){Feda gi besa daze}
+(code){Angry and red face}
+An angry, red face
+
+(bs){Kesi pege gi pego pi pede}
+(code){Cute sheep and pig in grass}
+A cute sheep and pig in the grass (Both are cute, both are in the grass)
 
 A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A wide conjunction phrase behaves as the type of phrase it contains.
+
+(bs){Kesi pege ga pego pi pede}
+(code){Cute sheep and pig in grass}
+A cute sheep andt a pig in the grass (The sheep is cute, but the pig is in the grass)
+
+(bs){Dapi gezi ga bego dape}
+(code){Ocean border and gray sky}
+Ocean border and gray sky
 
 A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate phrases in this order:
 
@@ -215,6 +243,24 @@ A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If 
 4. Noun phrase
 5. Simple noun phrase
 6. Descriptor phrase
+
+Examples:
+
+(bs){Deto zada go kepi zasu}
+(code){Complete full or wet bag}
+A completely full or wet bag (Not completely wet)
+
+(bs){Deto pa zada go kepi pu zasu}
+(code){Complete "pa" full or wet "pu" bag}
+A completely full or wet bag (Either completely full, or completely wet)
+
+(bs){Dapu go dafu pago zazu}
+(code){River or hill in-front-of building}
+A river or a hill in front of the building (The river is not in front of the building)
+
+(bs){Pa dapu go dafu pu pago zazu}
+(code){"Pa" river or hill "pu" in-front-of building}
+A river or hill in front of the building (Both are in front of the building)
 
 (title2){CLAUSE STRUCTURE}
 
