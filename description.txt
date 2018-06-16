@@ -453,6 +453,26 @@ The sand which is being carried by the vehicle on the road creates a smell.
 (code){"Va" vehicle carry sand "so" on "savo" road "vu" create smell.}
 The road on which the vehicle carries sand creates a smell.
 
+To specify the basis for (bs){deku} (relative to), use the word (bs){savu}. This word is not required, but recommended in ambiguous contexts. Examples:
+
+(bs){Savu bezu ga pafa vege deku fe pebe}
+(code){"Savu" bright and high cloud relative-to that bird}
+A bright and high cloud relative to that bird (Relative to the brightness, not elevation)
+
+(bs){Bezu ga savu pafa vege deku fe pebe}
+(code){Bright and "savu" high cloud relative-to that bird}
+A bright and high cloud relative to that bird (Relative to the elevation, not brightness)
+
+To refer to whether an embedded clause is true, use the word (bs){sase}. Examples:
+
+(bs){Zo tu kapa sase da fapa gaki du.}
+(code){They not know "sase" "da" vegetable ready "du".}
+They do not know whether the vegetable is ready.
+
+(bs){Ki fepa sase da ke feta si fesa du.}
+(code){I care "sase" "da" you enjoy the music "du".}
+I care about whether you enjoy the music.
+
 To convert a cardinal number to an ordinal number, use the word (bs){zeku}. Examples:
 
 (bs){Zeku sesu}
