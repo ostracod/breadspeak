@@ -351,8 +351,56 @@ There is rain. (It is raining.)
 (code){Vehicle.}
 There is a vehicle.
 
-A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}.
+A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}. Examples:
 
-If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
+(bs){Peta befo da vefa gave pepa du.}
+(code){Child watch "da" rain help plant "du".}
+A child is watching the rain help the plant. (The child is watching the process)
+
+(bs){Peta befo fa vefa gave pepa fu.}
+(code){Child watch "fa" rain help plant "fu".}
+A child is watching the rain which is helping the plant.
+
+(bs){Peta befo va vefa gave pepa vu.}
+(code){Child watch "va" rain help plant "vu".}
+A child is watching the plant which is being helped by the rain.
+
+(bs){Da zaso tepa veba du ka bepe.}
+(code){"Da" vehicle carry sand "du" create smell.}
+The vehicle carrying sand creates a smell. (The process creates a smell)
+
+(bs){Fa zaso tepa veba fu ka bepe.}
+(code){"Fa" vehicle carry sand "fu" create smell.}
+The vehicle which carries sand creates a smell.
+
+(bs){Va zaso tepa veba vu ka bepe.}
+(code){"Va" vehicle carry sand "vu" create smell.}
+The sand which is being carried by the vehicle creates a smell.
+
+If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles. Examples:
+
+(bs){Peta befo do gave.}
+(code){Child watch "do" help.}
+A child is watching the helping.
+
+(bs){Peta befo fo gave.}
+(code){Child watch "fo" help.}
+A child is watching the thing which is helping.
+
+(bs){Peta befo vo gave.}
+(code){Child watch "vo" help.}
+A child is watching the thing being helped.
+
+(bs){Do tepa ka bepe.}
+(code){"Do" carry create smell.}
+The carrying creates a smell.
+
+(bs){Fo tepa ka bepe.}
+(code){"Fo" carry create smell.}
+The thing which carries creates a smell.
+
+(bs){Vo tepa ka bepe.}
+(code){"Vo" carry create smell.}
+The thing which is being carried creates a smell.
 
 
