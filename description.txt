@@ -229,7 +229,7 @@ A wide conjunction phrase consists of a sequence of phrases separated by wide co
 
 (bs){Kesi pege ga pego pi pede}
 (code){Cute sheep and pig in grass}
-A cute sheep andt a pig in the grass (The sheep is cute, but the pig is in the grass)
+A cute sheep and a pig in the grass (The sheep is cute, but the pig is in the grass)
 
 (bs){Dapi gezi ga bego dape}
 (code){Ocean border and gray sky}
@@ -267,25 +267,89 @@ A river or hill in front of the building (Both are in front of the building)
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every clause must follow one of the structures below.
 
 Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
-Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase.
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. Examples:
+
+(bs){Vefa gave pepa.}
+(code){Rain help plant.}
+The rain helps the plant.
+
+(bs){Gave pepa.}
+(code){Help plant.}
+The plant is helped.
+
+(bs){Zaso tepa veba.}
+(code){Vehicle carry sand.}
+The vehicle carries sand.
+
+(bs){Tepa veba.}
+(code){Carry sand.}
+The sand is carried.
 
 Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase. Examples:
+
+(bs){Vefa gave tapi fi tado.}
+(code){Rain help during this season.}
+The rain helps during this season.
+
+(bs){Zaso tepa pabi zaze.}
+(code){Vehicle carry on road.}
+The vehicle carries on the road.
 
 Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
-Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase. Examples:
+
+(bs){Vefa gave pepa so tapi fi tado.}
+(code){Rain help plant "so" during this season.}
+The rain helps the plant during this season.
+
+(bs){Zaso tepa veba so pabi zaze.}
+(code){Vehicle carry sand "so" on road.}
+The vehicle carries sand on the road.
 
 Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
-The noun phrase is the subject. The descriptor phrase describes the noun phrase.
+The noun phrase is the subject. The descriptor phrase describes the noun phrase. Examples:
+
+(bs){Vefa tebo.}
+(code){Rain fall.}
+The rain is falling.
+
+(bs){Zaso kebe.}
+(code){Vehicle safe.}
+The vehicle is safe.
 
 Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor. Examples:
+
+(bs){Vefa tebo so tapi fi tado.}
+(code){Rain fall "so" during this season.}
+The rain falls during this season.
+
+(bs){Zaso kebe so pabi zaze.}
+(code){Vehicle safe "so" on road.}
+The vehicle is safe on the road.
 
 Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase. Examples:
+
+(bs){Vefa tapi fi tado.}
+(code){Rain during this season.}
+The rain is during this season.
+
+(bs){Zaso pabi zaze.}
+(code){Vehicle on road.}
+The vehicle is on the road.
 
 Noun clause structure: (code){(simple noun phrase)}
-The noun phrase is the subject. The emphasis of the clause is the existence of the noun phrase.
+The noun phrase is the subject. The emphasis of the clause is the existence of the noun phrase. Examples:
+
+(bs){Vefa.}
+(code){Rain.}
+There is rain. (It is raining.)
+
+(bs){Zaso.}
+(code){Vehicle.}
+There is a vehicle.
 
 A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}.
 
