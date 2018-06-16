@@ -17,8 +17,8 @@ Do (Singleton Particle): Precedes a single word; refers to the state, quality, a
 Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the clause.
 Fu (Enclosing Particle): End of embedded clause; refers to the subject of the clause.
 Fo (Singleton Particle): Precedes a single word; refers to the subject of the word.
-Va (Enclosing Particle): Start of embedded clause; refers to the object of the clause.
-Vu (Enclosing Particle): End of embedded clause; refers to the object of the clause.
+Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the clause.
+Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
 So (Delimiting particle): Forms descriptor-preposition clauses and verb-object-preposition clauses.
 Pa (Enclosing Particle): Start of conjunction phrase.

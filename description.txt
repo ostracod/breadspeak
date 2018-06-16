@@ -403,4 +403,80 @@ The thing which carries creates a smell.
 (code){"Vo" carry create smell.}
 The thing which is being carried creates a smell.
 
+(title2){USAGE OF SPECIFIC WORDS}
+
+To form an imperative sentence, use the word (bs){vaku}. Examples:
+
+(bs){Vaku gave pepa!}
+(code){"Vaku" help plant!}
+Help the plant!
+
+(bs){Vaku tepa veba!}
+(code){"Vaku" carry sand!}
+Carry the sand!
+
+To form a question with a yes-no answer, use the word (bs){saze}. Examples:
+
+(bs){Vefa saze gave pepa?}
+(code){Rain "saze" help plant?}
+Is the rain helping the plant?
+
+(bs){Zaso saze tepa veba?}
+(code){Vehicle "saze" carry sand?}
+Is the vehicle carrying sand?
+
+To form a question with an open-ended answer, use the word (bs){sazi}. Examples:
+
+(bs){Vefa gave sazi pepa?}
+(code){Rain help which plant?}
+Which plant is the rain helping?
+
+(bs){Sazi zaso tepa veba?}
+(code){Which vehicle carry sand?}
+Which vehicle is carrying sand?
+
+By default, (bs){va} and (bs){vu} refer to the primary object of a word. To refer to another object, use the word (bs){savo}. Examples:
+
+(bs){Peta befo va vefa gave pepa so pi dadu vu.}
+(code){Child watch "va" rain help plant "so" in land "vu".}
+A child watches the plant which is being helped by the rain in the land.
+
+(bs){Peta befo va vefa gave pepa so pi savo dadu vu.}
+(code){Child watch "va" rain help plant "so" in "savo" land "vu".}
+A child watches the land in which the rain is helping the plant.
+
+(bs){Va zaso tepa veba so pabi zaze vu ka bepe.}
+(code){"Va" vehicle carry sand "so" on road "vu" create smell.}
+The sand which is being carried by the vehicle on the road creates a smell.
+
+(bs){Va zaso tepa veba so pabi savo zaze vu ka bepe.}
+(code){"Va" vehicle carry sand "so" on "savo" road "vu" create smell.}
+The road on which the vehicle carries sand creates a smell.
+
+To convert a cardinal number to an ordinal number, use the word (bs){zeku}. Examples:
+
+(bs){Zeku sesu}
+(code){"Zeku" five}
+Fifth
+
+(bs){Zeku seti sesi}
+(code){"Zeku" four nine}
+Forty-ninth
+
+To perform arithmetic operations on quantities, use the words (bs){sede}, (bs){sepi}, (bs){seva}, (bs){sevo}, and (bs){sedu}. Examples:
+
+(bs){Seta geso sede sesu}
+(code){Two circle "sede" five}
+Two circles plus five (Seven circles)
+
+(bs){Seto geso sipi sete}
+(code){One circle "sipi" three}
+One third of a circle
+
+(bs){Sese geso sevo seso}
+(code){Eight circle "sevo" six}
+Eight million circles
+
+
+
 
