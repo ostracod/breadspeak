@@ -267,28 +267,28 @@ A river or hill in front of the building (Both are in front of the building)
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every clause must follow one of the structures below.
 
 Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
-Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase.
 
 Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
 
 Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
-Noun phrase 1 is the subject. Noun phrase 2 is the primary object.
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
 
 Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
-The noun phrase is the subject.
+The noun phrase is the subject. The descriptor phrase describes the noun phrase.
 
 Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
-The noun prase is the subject. The first object of the preposition phrase is the primary object.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor.
 
 Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
-The noun prase is the subject. The first object of the preposition phrase is the primary object.
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase.
 
 Noun clause structure: (code){(simple noun phrase)}
-The noun prase is the subject.
+The noun phrase is the subject. The emphasis of the clause is the existence of the noun phrase.
 
-A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen.
+A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}.
 
-An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}. If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
+If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
 
 
