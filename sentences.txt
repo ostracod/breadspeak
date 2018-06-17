@@ -151,7 +151,7 @@ Henry's dog is lost.
 Bu kupo Henry peko.
 
 My cat is black.
-Ki peke bega.
+Ki peke bego.
 
 The little girl's bowl is broken.
 Za pezi peta zabo bu gedi.
@@ -358,7 +358,7 @@ He is small, but strong.
 To za ga zesa bazu.
 
 Does the sky look blue or gray?
-Dape keze sazi fa bedo go bego?
+Dape keze sazi fa bedo go bega?
 
 Come with your father or mother.
 Vaku tedi zegi ge pa pezi go pezu pu zefo.
