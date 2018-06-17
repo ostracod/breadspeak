@@ -55,7 +55,7 @@ Words may be written in the Roman alphabet or BreadSpeak syllabary:
 
 IMAGE scriptLarge.png
 
-Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category. Examples:
+Every word containing more than one syllable belongs to a semantic category. The semantic category of a word is determined by its first syllable. The meaning of a multi-syllable word pertains in some way to its category.
 
 > (bs){Vedo} (water), (bs){veto} (metal), and (bs){veka} (lumber) pertain to materials.
 > (bs){Kasa} (talk), (bs){kabo} (word), and (bs){kapa} (know) pertain to knowledge and communication.
@@ -89,37 +89,37 @@ BreadSpeak has seven parts of speech, some of which feature different variations
 > Numeric
 > Particle (delimiting, enclosing, and singleton)
 
-Nouns include living things, inanimate objects, states, and concepts. Examples:
+Nouns include living things, inanimate objects, states, and concepts.
 
 > (bs){Peka} = Person
 > (bs){Dade} = Door
 > (bs){Katu} = Story
 
-Descriptors include qualities, manners, and activities. Descriptors may describe individual nouns, verbs, prepositions, or other descriptors. Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English. Examples:
+Descriptors include qualities, manners, and activities. Descriptors may describe individual nouns, verbs, prepositions, or other descriptors. Descriptors encompass what would be adjectives, adverbs, articles, and intransitive verbs in English.
 
 > (bs){Fegi} = Happy
 > (bs){Tatu} = Early
 > (bs){Teso} = Walk
 
-Verbs include actions and relationships. All verbs in BreadSpeak are transitive, accepting a subject and direct object. Examples:
+Verbs include actions and relationships. All verbs in BreadSpeak are transitive, accepting a subject and direct object.
 
 > (bs){Fato} = Eat
 > (bs){Befe} = See
 > (bs){Kako} = Signify
 
-Prepositions include relationships and associations. Like verbs, prepositions relate two nouns together, but prepositions have different syntactic behavior. Examples:
+Prepositions include relationships and associations. Like verbs, prepositions relate two nouns together, but prepositions have different syntactic behavior.
 
 > (bs){Pi} = In
 > (bs){Tase} = Until
 > (bs){Zetu} = Except
 
-Conjunctions form lists of words or phrases. Examples:
+Conjunctions form lists of words or phrases.
 
 > (bs){Ga} = And
 > (bs){Go} = Or
 > (bs){Gu} = Exclusive or
 
-Numerics form explicit number values, including integer values and floating point values. Examples:
+Numerics form explicit number values, including integer values and floating point values.
 
 > (bs){Seta} = Two
 > (bs){Seso} = Six
@@ -132,7 +132,7 @@ Particles enforce grammatical structure in sentences. Enclosing particles at the
 Clauses consist of phrases. Every phrase must follow one of the structures below.
 
 Descriptor phrase structure: (code){(descriptor phrase?) (descriptor word)}
-The descriptor phrase describes the descriptor word. Examples:
+The descriptor phrase describes the descriptor word.
 
 (bs){Zu gake}
 (code){Very important}
@@ -143,7 +143,7 @@ Very important
 Spin quickly
 
 Simple noun phrase structure: (code){(simple noun phrase?) (descriptor phrase?) (noun word)}
-The descriptor phrase describes the noun word. The noun word is of or pertaining to the noun phrase. Examples:
+The descriptor phrase describes the noun word. The noun word is of or pertaining to the noun phrase.
 
 (bs){Gefi zafi}
 (code){Long string}
@@ -158,7 +158,7 @@ Dog food
 New book store
 
 Noun phrase structure: (code){(simple noun phrase) (preposition phrase?)}
-The simple noun phrase is involved in the relationship described by the preposition phrase. Examples:
+The simple noun phrase is involved in the relationship described by the preposition phrase.
 
 (bs){Peke paki pevi}
 (code){Cat near tree}
@@ -169,7 +169,7 @@ Cat near a tree
 Coffee cup on a blue table
 
 Simple preposition phrase structure: (code){(simple preposition phrase?) (descriptor phrase?) (preposition word)}
-The descriptor phrase describes the preposition word. The preposition word is of or pertaining to the preposition phrase. Examples:
+The descriptor phrase describes the preposition word. The preposition word is of or pertaining to the preposition phrase.
 
 (bs){Pi di}
 (code){In toward}
@@ -180,7 +180,7 @@ Into
 Almost above
 
 Preposition phrase structure: (code){(simple preposition phrase) (noun phrase?)}
-The noun phrase is the object of the simple preposition phrase. Examples:
+The noun phrase is the object of the simple preposition phrase.
 
 (bs){Tapi fegu}
 (code){During party}
@@ -191,7 +191,7 @@ During a party
 With a nice friend
 
 Verb phrase structure: (code){(verb phrase?) (descriptor phrase?) (verb word)}
-The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase. Examples:
+The descriptor phrase describes the verb word. The verb word is of or pertaining to the verb phrase.
 
 (bs){Beva kavo}
 (code){Loud call}
@@ -201,7 +201,7 @@ Loudly call
 (code){Hit attack}
 Attack by hitting
 
-A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word. Examples:
+A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
 (bs){Seto sesa}
 (code){One seven}
@@ -215,7 +215,7 @@ Two and a half
 (code){Four wheel}
 Four wheels
 
-A narrow conjunction only captures individual words immediately before and after. All words in a narrow conjunction phrase must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains. Examples:
+A narrow conjunction phrase consists of a sequence of individual words separated by narrow conjunction words. Each conjunction word must be the same, and each word must have the same part of speech. A narrow conjunction phrase behaves as the same part of speech as the words it contains.
 
 (bs){Feda gi besa daze}
 (code){Angry and red face}
@@ -225,7 +225,7 @@ An angry, red face
 (code){Cute sheep and pig in grass}
 A cute sheep and pig in the grass (Both are cute, both are in the grass)
 
-A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must be of the same type. A wide conjunction phrase behaves as the type of phrase it contains.
+A wide conjunction phrase consists of a sequence of phrases separated by wide conjunction words. Each conjunction word must be the same, and each phrase must have the same type. A wide conjunction phrase behaves as the type of phrase it contains.
 
 (bs){Kesi pege ga pego pi pede}
 (code){Cute sheep and pig in grass}
@@ -235,7 +235,7 @@ A cute sheep and a pig in the grass (The sheep is cute, but the pig is in the gr
 (code){Ocean border and gray sky}
 Ocean border and gray sky
 
-A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate phrases in this order:
+A conjunction phrase may be enclosed by the particles (bs){pa} and (bs){pu}. If a wide conjunction phrase is not enclosed by these particles, it will attempt to incorporate the largest phrases possible in this order:
 
 1. Verb phrase
 2. Preposition phrase
@@ -267,7 +267,7 @@ A river or hill in front of the building (Both are in front of the building)
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every clause must follow one of the structures below.
 
 Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
-Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. Examples:
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase.
 
 (bs){Vefa gave pepa.}
 (code){Rain help plant.}
@@ -286,7 +286,7 @@ The vehicle carries sand.
 The sand is carried.
 
 Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase. Examples:
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
 
 (bs){Vefa gave tapi fi tado.}
 (code){Rain help during this season.}
@@ -297,7 +297,7 @@ The rain helps during this season.
 The vehicle carries on the road.
 
 Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
-Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase. Examples:
+Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
 
 (bs){Vefa gave pepa so tapi fi tado.}
 (code){Rain help plant "so" during this season.}
@@ -308,7 +308,7 @@ The rain helps the plant during this season.
 The vehicle carries sand on the road.
 
 Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
-The noun phrase is the subject. The descriptor phrase describes the noun phrase. Examples:
+The noun phrase is the subject. The descriptor phrase describes the noun phrase.
 
 (bs){Vefa tebo.}
 (code){Rain fall.}
@@ -319,7 +319,7 @@ The rain is falling.
 The vehicle is safe.
 
 Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor. Examples:
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor.
 
 (bs){Vefa tebo so tapi fi tado.}
 (code){Rain fall "so" during this season.}
@@ -330,7 +330,7 @@ The rain falls during this season.
 The vehicle is safe on the road.
 
 Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase. Examples:
+The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase.
 
 (bs){Vefa tapi fi tado.}
 (code){Rain during this season.}
@@ -341,7 +341,7 @@ The rain is during this season.
 The vehicle is on the road.
 
 Noun clause structure: (code){(simple noun phrase)}
-The noun phrase is the subject. The emphasis of the clause is the existence of the noun phrase. Examples:
+The noun phrase is the subject. The emphasis of the clause is on the existence of the noun phrase.
 
 (bs){Vefa.}
 (code){Rain.}
@@ -351,19 +351,19 @@ There is rain. (It is raining.)
 (code){Vehicle.}
 There is a vehicle.
 
-A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}. Examples:
+A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}.
 
 (bs){Peta befo da vefa gave pepa du.}
 (code){Child watch "da" rain help plant "du".}
-A child is watching the rain help the plant. (The child is watching the process)
+A child watches the rain help the plant. (The child is watching the process)
 
 (bs){Peta befo fa vefa gave pepa fu.}
 (code){Child watch "fa" rain help plant "fu".}
-A child is watching the rain which is helping the plant.
+A child watches the rain which is helping the plant.
 
 (bs){Peta befo va vefa gave pepa vu.}
 (code){Child watch "va" rain help plant "vu".}
-A child is watching the plant which is being helped by the rain.
+A child watches the plant which is being helped by the rain.
 
 (bs){Da zaso tepa veba du ka bepe.}
 (code){"Da" vehicle carry sand "du" create smell.}
@@ -377,19 +377,19 @@ The vehicle which carries sand creates a smell.
 (code){"Va" vehicle carry sand "vu" create smell.}
 The sand which is being carried by the vehicle creates a smell.
 
-If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles. Examples:
+If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
 
 (bs){Peta befo do gave.}
 (code){Child watch "do" help.}
-A child is watching the helping.
+A child watches the helping.
 
 (bs){Peta befo fo gave.}
 (code){Child watch "fo" help.}
-A child is watching the thing which is helping.
+A child watches the thing which is helping.
 
 (bs){Peta befo vo gave.}
 (code){Child watch "vo" help.}
-A child is watching the thing being helped.
+A child watches the thing which is being helped.
 
 (bs){Do tepa ka bepe.}
 (code){"Do" carry create smell.}
@@ -405,7 +405,7 @@ The thing which is being carried creates a smell.
 
 (title2){USAGE OF SPECIFIC WORDS}
 
-To form an imperative sentence, use the word (bs){vaku}. Examples:
+To form an imperative sentence, use the word (bs){vaku}.
 
 (bs){Vaku gave pepa!}
 (code){"Vaku" help plant!}
@@ -415,7 +415,7 @@ Help the plant!
 (code){"Vaku" carry sand!}
 Carry the sand!
 
-To form a question with a yes-no answer, use the word (bs){saze}. Examples:
+To form a question with a yes-no answer, use the word (bs){saze}.
 
 (bs){Vefa saze gave pepa?}
 (code){Rain "saze" help plant?}
@@ -425,7 +425,7 @@ Is the rain helping the plant?
 (code){Vehicle "saze" carry sand?}
 Is the vehicle carrying sand?
 
-To form a question with an open-ended answer, use the word (bs){sazi}. Examples:
+To form a question with an open-ended answer, use the word (bs){sazi}.
 
 (bs){Vefa gave sazi pepa?}
 (code){Rain help which plant?}
@@ -435,7 +435,7 @@ Which plant is the rain helping?
 (code){Which vehicle carry sand?}
 Which vehicle is carrying sand?
 
-By default, (bs){va} and (bs){vu} refer to the primary object of a word. To refer to another object, use the word (bs){savo}. Examples:
+By default, (bs){va} and (bs){vu} refer to the primary object of a word. To refer to another object, use the word (bs){savo}.
 
 (bs){Peta befo va vefa gave pepa so pi dadu vu.}
 (code){Child watch "va" rain help plant "so" in land "vu".}
@@ -453,7 +453,7 @@ The sand which is being carried by the vehicle on the road creates a smell.
 (code){"Va" vehicle carry sand "so" on "savo" road "vu" create smell.}
 The road on which the vehicle carries sand creates a smell.
 
-To specify the basis for (bs){deku} (relative to), use the word (bs){savu}. This word is not required, but recommended in ambiguous contexts. Examples:
+To specify the basis for (bs){deku} (relative to), use the word (bs){savu}. This word is not required, but recommended in ambiguous contexts.
 
 (bs){Savu bezu ga pafa vege deku fe pebe}
 (code){"Savu" bright and high cloud relative-to that bird}
@@ -463,7 +463,7 @@ A bright and high cloud relative to that bird (Relative to the brightness, not e
 (code){Bright and "savu" high cloud relative-to that bird}
 A bright and high cloud relative to that bird (Relative to the elevation, not brightness)
 
-To refer to whether an embedded clause is true, use the word (bs){sase}. Examples:
+To refer to whether an embedded clause is true, use the word (bs){sase}.
 
 (bs){Zo tu kapa sase da fapa gaki du.}
 (code){They not know "sase" "da" vegetable ready "du".}
@@ -473,7 +473,7 @@ They do not know whether the vegetable is ready.
 (code){I care "sase" "da" you enjoy the music "du".}
 I care about whether you enjoy the music.
 
-To convert a cardinal number to an ordinal number, use the word (bs){zeku}. Examples:
+To convert a cardinal number to an ordinal number, use the word (bs){zeku}.
 
 (bs){Zeku sesu}
 (code){"Zeku" five}
@@ -483,7 +483,7 @@ Fifth
 (code){"Zeku" four nine}
 Forty-ninth
 
-To perform arithmetic operations on quantities, use the words (bs){sede}, (bs){sepi}, (bs){seva}, (bs){sevo}, and (bs){sedu}. Examples:
+To perform arithmetic operations on quantities, use the words (bs){sede}, (bs){sepi}, (bs){seva}, (bs){sevo}, and (bs){sedu}.
 
 (bs){Seta geso sede sesu}
 (code){Two circle "sede" five}
