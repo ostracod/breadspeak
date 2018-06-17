@@ -175,8 +175,8 @@ Bede (D): Green.
 Bedo (D): Blue.
 Beso (D): Purple.
 Bege (D): White.
-Bega (D): Black.
-Bego (D): Gray.
+Bega (D): Gray.
+Bego (D): Black.
 Bezo (N): Sound; noise.
 Beve (V): Hear.
 Bevo (V): Listen.

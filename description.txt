@@ -231,7 +231,7 @@ A wide conjunction phrase consists of a sequence of phrases separated by wide co
 (code){Cute sheep and pig in grass}
 A cute sheep and a pig in the grass (The sheep is cute, but the pig is in the grass)
 
-(bs){Dapi gezi ga bego dape}
+(bs){Dapi gezi ga bega dape}
 (code){Ocean border and gray sky}
 Ocean border and gray sky
 
