@@ -118,7 +118,7 @@ while (index < tempCategoryList.length) {
         tempLineList2.push(tempLine);
         tempIndex += 1;
     }
-    tempLineList.push(tempLineList2.join("<br />\n"));
+    tempLineList.push("<p>" + tempLineList2.join("<br />\n") + "</p>");
     index += 1;
 }
 var legendLineList = [];
