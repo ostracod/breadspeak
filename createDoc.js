@@ -111,7 +111,7 @@ while (index < tempCategoryList.length) {
     var tempIndex = 0;
     while (tempIndex < tempCategory.entries.length) {
         var tempEntry = tempCategory.entries[tempIndex];
-        var tempLine = "<span class=\"bs\">" + capitalize(tempEntry.word) + "</span> (" + tempEntry.partOfSpeech + ") " + escapeHtml(tempEntry.definition);
+        var tempLine = "<span class=\"bs\">" + capitalize(tempEntry.word) + "</span> (" + tempEntry.partOfSpeech + "): " + escapeHtml(tempEntry.definition);
         if (tempEntry.antonym !== null) {
             tempLine += " <span class=\"bs\">" + capitalize(tempEntry.antonym.word) + "</span> (*) " + escapeHtml(tempEntry.antonym.definition);
         }
