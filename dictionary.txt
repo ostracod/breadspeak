@@ -23,20 +23,20 @@ Vo (Singleton Particle): Precedes a single word; refers to the object of the wor
 So (Delimiting Particle): Forms descriptor-preposition clauses and verb-object-preposition clauses.
 Pa (Enclosing Particle): Start of conjunction phrase.
 Pu (Enclosing Particle): End of conjunction phrase.
-Gi (Narrow Conjunction): And; both.
-Ga (Wide Conjunction): And; both.
-Go (Wide Conjunction): Or; either; one or both.
-Gu (Wide Conjunction): Xor; exactly one but not both.
-Ke (N): You.
-Ki (N): I/me.
-Be (N): You all.
-Bi (N): We/us.
-To (N): He/him.
-Po (N): She/her.
-Bo (N): It.
-Zo (N): They/them; genderless.
-Ko (N): They/them; plural.
-Ge (N): Self; refers to the subject of the containing clause.
+Gi (Narrow Conjunction): ~And; ~both.
+Ga (Wide Conjunction): ~And; ~both.
+Go (Wide Conjunction): ~Or; ~either; one or both.
+Gu (Wide Conjunction): ~Xor; exactly one but not both. {"extraKeywords": ["or"]}
+Ke (N): ~You; singular.
+Ki (N): ~I/~me.
+Be (N): ~You all; plural.
+Bi (N): ~We/~us.
+To (N): ~He/~him.
+Po (N): ~She/~her.
+Bo (N): ~It.
+Zo (N): ~They/~them; genderless.
+Ko (N): ~They/~them; plural.
+Ge (N): ~Self; refers to the subject of the containing clause.
 Su (N): Thing; the most general noun; stuff.
 Se (D): A not previously mentioned one; some.
 Si (D): The previously mentioned one.

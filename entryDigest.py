@@ -51,9 +51,36 @@ def getAntonymWord(word):
     tempVowel = antonymVowelPairSet[tempVowel]
     return word[0] + tempVowel + word[2:len(word)]
 
+def parseKeywords(definition):
+    output = []
+    while True:
+        tempStartIndex = definition.find("~")
+        if tempStartIndex < 0:
+            break
+        tempEndIndex = tempStartIndex + 1
+        while tempEndIndex < len(definition):
+            tempCharacter = ord(definition[tempEndIndex])
+            # Not A-Z or a-z.
+            if not ((tempCharacter >= 65 and tempCharacter <= 90) \
+                    or (tempCharacter >= 97 and tempCharacter <= 122)):
+                break
+            tempEndIndex += 1
+        output.append(definition[(tempStartIndex + 1):tempEndIndex])
+        definition = definition[0:tempStartIndex] + definition[(tempStartIndex + 1):len(definition)]
+    return (definition, output)
+
 class Entry(object):
     
     def __init__(self, line):
+        self.keywordList = []
+        tempStartIndex = line.find("{")
+        if tempStartIndex > 0:
+            tempEndIndex = line.rfind("}")
+            tempMetadata = json.loads(line[tempStartIndex:(tempEndIndex + 1)])
+            line = line[0:tempStartIndex] + line[(tempEndIndex + 1):len(line)]
+            if "extraKeywords" in tempMetadata:
+                for keyword in tempMetadata["extraKeywords"]:
+                    self.keywordList.append(str(keyword))
         index = line.find("(");
         if index > 0:
             self.word = line[0:(index - 1)].upper()
@@ -71,6 +98,11 @@ class Entry(object):
             self.hasAntonym = True
         else:
             self.hasAntonym = False
+        self.definition, tempKeywordList = parseKeywords(self.definition)
+        self.keywordList.extend(tempKeywordList)
+        if len(self.keywordList) > 0:
+            print self.definition
+            print self.keywordList
     
     def toString(self):
         if self.word is None:
