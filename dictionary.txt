@@ -246,67 +246,67 @@ Bazu (D): ~Strong; ~fit; ~powerful; ~tough; ~sturdy; ~durable. Buzu (*): ~Weak; 
 
 > EXISTENCE AND IDENTITY (SA-)
 
-Sasa (D): Exist.
-Sage (N): Identity.
-Sagi (D): Equal; same. Sugi (*): Different; other; another.
-Sagu (D): Any.
-Sabo (N): Object; item; physical entity.
-Sabu (N): Mass; matter.
-Satu (N): Event; incident.
-Saba (D): Happen; occur.
+Sasa (D): ~Exist. {"extraKeywords": ["be"]}
+Sage (N): ~Identity.
+Sagi (D): ~Equal; ~same. Sugi (*): ~Different; ~other; ~another.
+Sagu (D): ~Any.
+Sabo (N): ~Object; ~item; physical ~entity.
+Sabu (N): ~Mass; ~matter.
+Satu (N): ~Event; ~incident.
+Saba (D): ~Happen; ~occur.
 Savo (D): Specifies the object to which an embedded clause is referring. The default object is the primary object.
 Savu (D): Specifies the concept to which "deku" is referring. Usage is optional, but recommended to remove ambiguity.
-Saki (D): Exact; precise; particular; specific; certain; definite. Suki (*): Vague; general; imprecise.
-Sazi (D): Which; interrogative identity.
-Saze (D): Does; interrogative truth.
-Sase (D): Whether; if; represents the truth of a clause.
-Saka (N): Name; title.
-Sade (N): Example; sample; instance; model.
-Sako (D): Copy; duplicate; replicate; repeat; multiply.
-Sake (D): Possible; can; able to happen; capable of happening; potential. Suke (*): Impossible.
-Saku (N): Probability; chance; luck; odds; prospect.
-Sazu (D): Probably; likely. Suzu (*): Unlikely.
-Sadi (D): May; might; maybe; perhaps.
-Sadu (D): Hypothetical; imaginary; conditional; would.
-Sati (D): Start; begin; initiate; launch; proceed; become. Suti (*): Stop; end.
-Safi (V): Start; cause to begin; initiate; launch; proceed. Sufi (*): Stop; cause to end.
-Sato (D): Complete; finished; be accomplished; be achieved; conclude.
-Safo (V): Complete; finish; accomplish; achieve; conclude.
-Sata (V): Become; start to be. Suta (*): Become not.
+Saki (D): ~Exact; ~precise; ~particular; ~specific; ~certain; ~definite. Suki (*): ~Vague; ~general; ~imprecise.
+Sazi (D): ~Which; ~interrogative identity.
+Saze (D): ~Does; ~interrogative truth.
+Sase (D): ~Whether; ~if; represents the ~truth of a clause.
+Saka (N): ~Name; ~title.
+Sade (N): ~Example; ~sample; ~instance; ~model.
+Sako (D): ~Copy; ~duplicate; ~replicate; ~repeat; ~multiply.
+Sake (D): ~Possible; ~can; ~able to happen; ~capable of happening; ~potential. Suke (*): ~Impossible.
+Saku (N): ~Probability; ~chance; ~luck; ~odds; ~prospect.
+Sazu (D): ~Probably; ~likely. Suzu (*): ~Unlikely. {"extraKeywords": ["probable"]}
+Sadi (D): ~May; ~might; ~maybe; ~perhaps.
+Sadu (D): ~Hypothetical; ~imaginary; ~conditional; ~would.
+Sati (D): ~Start; ~begin; ~initiate; ~launch; ~proceed; ~become. Suti (*): ~Stop; ~end.
+Safi (V): ~Start; cause to ~begin; ~initiate; ~launch; ~proceed. Sufi (*): ~Stop; cause to ~end.
+Sato (D): ~Complete; ~finish; be accomplished; be achieved; ~conclude. {"extraKeywords": ["accomplish", "conclude"]}
+Safo (V): ~Complete; ~finish; ~accomplish; ~achieve; ~conclude.
+Sata (V): ~Become; start to be. Suta (*): Become not.
 
 > INFORMATION AND COMMUNICATION (KA-)
 
-Kaka (N): Concept; idea; information; data; signal; notion.
-Katu (N): Story; tale; rumor; plot.
-Kagi (N): Science.
-Kaki (D): Sure; confident; certain; indeed; definitely. Kuki (*): Unsure; uncertain.
-Kako (V): Mean; signify; imply; indicate; represent; be a symbol for.
-Kake (V): Think about; process; calculate; compute; analyze; imagine.
-Kapa (V): Know; have knowledge about; be aware of; be conscious of; recognize; be familiar with.
-Kape (V): Have the opinion that; think; suppose; believe. Kupe (*): Not believe.
-Kadi (V): Understand; comprehend. Kudi (*): Be confused by; misunderstand.
-Kapi (V): Recall; remember; recollect.
-Kaba (V): Predict; expect; infer; assume; estimate; judge; guess; suspect; presume; anticipate.
-Kata (V): Focus on; notice; pay attention to; concentrate on. Kuta (*): Ignore.
-Kati (V): Learn; study; research; investigate. Kuti (*): Forget.
-Kate (V): Teach; instruct; educate; lecture.
-Kapu (V): Search for; look for; hunt for; seek; try to find. Kupu (*): Avoid.
-Kapo (V): Find; discover; measure; determine. Kupo (*): Lose.
-Kade (V): Test; experiment with.
-Kadu (V): Communicate; state; claim; tell; discuss; express; inform.
-Kasa (V): Say; speak; talk; communicate verbally.
-Kavo (V): Call.
-Kazi (V): Ask; inquire.
-Kasi (V): Answer; respond; reply.
-Kafa (V): Argue about; debate; dispute; protest.
-Kafi (V): Approve; verify; confirm; praise; support; agree with; concur; accept. Kufi (*): Disapprove; disagree with.
-Kafo (N): Thank you; thanks; gratitude.
-Kave (V): Describe; explain; report.
-Kavi (V): Announce; declare; warn; alert; alarm; advertise.
-Kabo (N): Word; term.
-Kagu (N): Sentence.
-Kase (N): Language.
-Kafe (N): Hello; hi; salutation; greeting; welcome. Kufe (*): Goodbye; bye.
+Kaka (N): ~Concept; ~idea; ~information; ~data; ~signal; ~notion.
+Katu (N): ~Story; ~tale; ~rumor; ~plot.
+Kagi (N): ~Science.
+Kaki (D): ~Sure; ~confident; ~certain; ~indeed; ~definite. Kuki (*): ~Unsure; ~uncertain.
+Kako (V): ~Mean; ~signify; ~imply; ~indicate; ~represent; be a ~symbol for.
+Kake (V): ~Think about; ~process; ~calculate; ~compute; ~analyze; ~imagine.
+Kapa (V): ~Know; have ~knowledge about; be ~aware of; be ~conscious of; ~recognize; be ~familiar with.
+Kape (V): Have the ~opinion that; ~think; ~suppose; ~believe. Kupe (*): Not believe; ~doubt.
+Kadi (V): ~Understand; ~comprehend. Kudi (*): Be ~confused by; ~misunderstand. {"extraKeywords": ["confuse"]}
+Kapi (V): ~Recall; ~remember; ~recollect.
+Kaba (V): ~Predict; ~expect; ~infer; ~assume; ~estimate; ~judge; ~guess; ~suspect; ~presume; ~anticipate.
+Kata (V): ~Focus on; ~notice; pay ~attention to; ~concentrate on. Kuta (*): ~Ignore.
+Kati (V): ~Learn; ~study; ~research; ~investigate. Kuti (*): ~Forget.
+Kate (V): ~Teach; ~instruct; ~educate; ~lecture.
+Kapu (V): ~Search for; ~look for; ~hunt for; ~seek; try to ~find. Kupu (*): ~Avoid.
+Kapo (V): ~Find; ~discover; ~measure; ~determine. Kupo (*): ~Lose.
+Kade (V): ~Test; ~experiment with.
+Kadu (V): ~Communicate; ~state; ~claim; ~tell; ~discuss; ~express; ~inform.
+Kasa (V): ~Say; ~speak; ~talk; ~communicate verbally.
+Kavo (V): ~Call.
+Kazi (V): ~Ask; ~inquire.
+Kasi (V): ~Answer; ~respond; ~reply.
+Kafa (V): ~Argue about; ~debate; ~dispute; ~protest.
+Kafi (V): ~Approve; ~verify; ~confirm; ~praise; ~support; ~agree with; ~concur; ~accept. Kufi (*): ~Disapprove; ~disagree with.
+Kafo (N): ~Thank you; ~thanks; ~gratitude.
+Kave (V): ~Describe; ~explain; ~report.
+Kavi (V): ~Announce; ~declare; ~warn; ~alert; ~alarm; ~advertise.
+Kabo (N): ~Word; ~term.
+Kagu (N): ~Sentence.
+Kase (N): ~Language.
+Kafe (N): ~Hello; ~hi; ~salutation; ~greeting; ~welcome. Kufe (*): ~Goodbye; ~bye.
 
 > GOAL (GA-)
 
