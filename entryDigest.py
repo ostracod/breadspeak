@@ -100,6 +100,9 @@ class Entry(object):
             self.hasAntonym = False
         self.definition, tempKeywordList = parseKeywords(self.definition)
         self.keywordList.extend(tempKeywordList)
+        if self.hasAntonym:
+            self.antonymDefinition, tempKeywordList = parseKeywords(self.antonymDefinition)
+            self.keywordList.extend(tempKeywordList)
     
     def toString(self):
         if self.word is None:
