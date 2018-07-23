@@ -100,9 +100,6 @@ class Entry(object):
             self.hasAntonym = False
         self.definition, tempKeywordList = parseKeywords(self.definition)
         self.keywordList.extend(tempKeywordList)
-        if len(self.keywordList) > 0:
-            print self.definition
-            print self.keywordList
     
     def toString(self):
         if self.word is None:
@@ -127,7 +124,8 @@ class Entry(object):
             "word": self.word,
             "partOfSpeech": self.partOfSpeech,
             "definition": self.definition,
-            "antonym": tempAntonym
+            "antonym": tempAntonym,
+            "keywords": self.keywordList
         }
 
 class Category(object):
