@@ -97,152 +97,152 @@ Pase (N): ~Environment; ~setting; ~surroundings; ~context; ~circumstance; ~situa
 
 > TIME (TA-)
 
-Tata (N): Time.
-Taso (P): After; since. Tuso (*): Before.
-Tase (P): Until.
-Tapi (P): While; during. Tupi (*): Not while.
-Taki (D): Soon. Tuki (*): Eventual.
-Tafi (D): Recent; just.
-Taka (D): Sudden; abrupt.
-Tazi (D): Already.
-Taba (D): Yet.
-Tabe (D): Still; not having changed; keep doing; continue.
-Taza (D): New; young; fresh. Tuza (*): Old.
-Tatu (D): Early. Tutu (*): Late.
-Tate (D): Temporary. Tute (*): Permanent.
-Take (N): Minute.
-Tako (N): Hour.
-Tadi (N): Day; a period of 24 hours.
-Tabi (N): Day; the time when the sun is in the sky. Tubi (*): Night.
-Tade (N): Week.
-Tada (N): Month.
-Tado (N): Season.
-Tadu (N): Year.
+Tata (N): ~Time.
+Taso (P): ~After; ~since. Tuso (*): ~Before; ~ago.
+Tase (P): ~Until.
+Tapi (P): ~While; ~during. Tupi (*): Not while.
+Taki (D): ~Soon. Tuki (*): ~Eventual.
+Tafi (D): ~Recent; ~just.
+Taka (D): ~Sudden; ~abrupt.
+Tazi (D): ~Already.
+Taba (D): ~Yet.
+Tabe (D): ~Still; not having changed; ~keep doing; ~continue.
+Taza (D): ~New; ~young; fresh. Tuza (*): ~Old; ~elderly; ~ancient.
+Tatu (D): ~Early. Tutu (*): ~Late.
+Tate (D): ~Temporary. Tute (*): ~Permanent.
+Take (N): ~Minute.
+Tako (N): ~Hour.
+Tadi (N): ~Day; a period of 24 hours.
+Tabi (N): ~Day; the time when the sun is in the sky. Tubi (*): ~Night.
+Tade (N): ~Week.
+Tada (N): ~Month.
+Tado (N): ~Season.
+Tadu (N): ~Year.
 
 > GEOMETRY (GE-)
 
-Gega (N): Shape; form; figure; structure.
-Gesu (N): Rectangle; square.
-Geso (N): Circle; oval.
-Gegu (N): Prism; block; box; cylinder.
-Gego (N): Ball; sphere.
-Gepu (N): Pipe; tube.
-Gebu (N): Wave.
-Gefu (N): Bump; lump; pile; mound; heap.
-Gese (N): Net; mesh; network; web.
-Geki (N): Corner; vertex; point.
-Geke (N): Edge; line; length; distance; range; span; interval.
-Geka (N): Area of a surface; region; zone.
-Geku (N): Volume; amount of space.
-Gezi (N): Border; outline; frame; profile.
-Geze (N): Surface; side; face; skin.
-Gezo (N): Side; neither the top nor the bottom.
-Gefa (N): Top; peak. Gifa (*): Bottom; base.
-Gete (N): Hole; cavity.
-Gepe (N): Space; gap.
-Gefi (D): Long; tall. Gifi (*): Short.
-Gefe (D): Wide; broad. Gife (*): Narrow.
-Gefo (D): Thick in a geometric sense; deep; fat. Gifo (*): Thin.
-Gebi (D): Straight; direct.
-Gebe (D): Flat.
-Gebo (D): Curved; round.
-Geza (D): Bumpy; rough. Giza (*): Smooth.
-Getu (D): Tapered.
-Geti (D): Sharp; pointy. Giti (*): Dull.
-Gedi (D): Split; divide; tear; rip; break; crack; snap. Gidi (*): Merge; fuse.
-Gepa (V): Connect to; join; attach; mechanically link to. Gipa (*): Disconnect; separate.
-Gepi (V): Tie a string; sew; stitch. Gipi (*): Untie.
-Gezu (V): Reach; access.
-Gevi (D): Stand.
-Geva (D): Sit.
-Gevu (D): Lie down.
+Gega (N): ~Shape; ~form; ~figure; ~structure.
+Gesu (N): ~Rectangle; ~square.
+Geso (N): ~Circle; ~oval.
+Gegu (N): ~Prism; ~block; ~box; ~cylinder.
+Gego (N): ~Ball; ~sphere.
+Gepu (N): ~Pipe; ~tube.
+Gebu (N): ~Wave.
+Gefu (N): ~Bump; ~lump; ~pile; ~mound; ~heap.
+Gese (N): ~Net; ~mesh; ~network; ~web.
+Geki (N): ~Corner; ~vertex; ~point.
+Geke (N): ~Edge; ~line; ~length; ~distance; ~range; ~span; ~interval.
+Geka (N): ~Area of a surface; ~region; ~zone.
+Geku (N): ~Volume; amount of ~space.
+Gezi (N): ~Border; ~outline; ~frame; ~profile.
+Geze (N): ~Surface; ~side; ~face; ~skin.
+Gezo (N): ~Side; neither the top nor the bottom.
+Gefa (N): ~Top; ~peak. Gifa (*): ~Bottom; ~base.
+Gete (N): ~Hole; ~cavity.
+Gepe (N): ~Space; ~gap.
+Gefi (D): ~Long; ~tall. Gifi (*): ~Short.
+Gefe (D): ~Wide; ~broad. Gife (*): ~Narrow.
+Gefo (D): ~Thick in a geometric sense; ~deep; ~fat. Gifo (*): ~Thin.
+Gebi (D): ~Straight; ~direct.
+Gebe (D): ~Flat.
+Gebo (D): ~Curved; ~round.
+Geza (D): ~Bumpy; ~rough. Giza (*): ~Smooth.
+Getu (D): ~Tapered.
+Geti (D): ~Sharp; ~pointy. Giti (*): ~Dull.
+Gedi (D): ~Split; ~divide; ~tear; ~rip; ~break; ~crack; ~snap. Gidi (*): ~Merge; ~fuse.
+Gepa (V): ~Connect to; ~join; ~attach; mechanically ~link to. Gipa (*): ~Disconnect; ~separate.
+Gepi (V): ~Tie a string; ~sew; ~stitch. Gipi (*): ~Untie.
+Gezu (V): ~Reach; ~access.
+Gevi (D): ~Stand.
+Geva (D): ~Sit.
+Gevu (D): ~Lie down.
 
 > STIMULI (BE-)
 
-Beki (V): Feel; sense; detect; perceive; witness.
-Bebi (N): Light. Bibi (*): Shadow; shade.
-Befe (V): See.
-Befo (V): Look at; watch; view; examine; inspect; observe.
-Beko (V): Show; draw attention to; demonstrate; display; indicate; expose; present; reveal. Biko (*): Hide; conceal.
-Bezu (D): Bright; light. Bizu (*): Dark; dim.
-Besu (D): Saturated; vibrant. Bisu (*): Pale.
-Beti (D): Flash; blink; sparkle; glimmer.
-Bebe (N): Color.
-Besa (D): Red.
-Beta (D): Orange.
-Bete (D): Yellow.
-Bede (D): Green.
-Bedo (D): Blue.
-Beso (D): Purple.
-Bege (D): White.
-Bega (D): Gray.
-Bego (D): Black.
-Bezo (N): Sound; noise.
-Beve (V): Hear.
-Bevo (V): Listen.
-Beva (D): Loud; noisy. Biva (*): Quiet.
-Besi (D): High pitched. Bisi (*): Low pitched.
-Beze (N): Buzz; hum.
-Bepi (N): Beep; chirp.
-Beka (N): Click; tick.
-Bepu (N): Taste; flavor.
-Bepe (N): Smell; odor.
-Bezi (D): Sweet.
-Beza (D): Salty.
-Bebu (D): Sour.
-Beba (D): Bitter.
-Begi (D): Spicy.
-Begu (D): Umami; meaty.
+Beki (V): ~Feel; ~sense; ~detect; ~perceive; ~witness.
+Bebi (N): ~Light. Bibi (*): ~Shadow; ~shade.
+Befe (V): ~See.
+Befo (V): ~Look at; ~watch; ~view; ~examine; ~inspect; ~observe.
+Beko (V): ~Show; draw attention to; ~demonstrate; ~display; ~indicate; ~expose; ~present; ~reveal. Biko (*): ~Hide; ~conceal.
+Bezu (D): ~Bright; ~light. Bizu (*): ~Dark; ~dim.
+Besu (D): ~Saturated; ~vibrant. Bisu (*): ~Pale.
+Beti (D): ~Flash; ~blink; ~sparkle; ~glimmer.
+Bebe (N): ~Color.
+Besa (D): ~Red.
+Beta (D): ~Orange.
+Bete (D): ~Yellow.
+Bede (D): ~Green.
+Bedo (D): ~Blue.
+Beso (D): ~Purple.
+Bege (D): ~White.
+Bega (D): ~Gray.
+Bego (D): ~Black.
+Bezo (N): ~Sound; ~noise.
+Beve (V): ~Hear.
+Bevo (V): ~Listen.
+Beva (D): ~Loud; ~noisy. Biva (*): ~Quiet.
+Besi (D): ~High pitched. Bisi (*): ~Low pitched.
+Beze (N): ~Buzz; ~hum.
+Bepi (N): ~Beep; ~chirp.
+Beka (N): ~Click; ~tick.
+Bepu (N): ~Taste; ~flavor.
+Bepe (N): ~Smell; ~odor.
+Bezi (D): ~Sweet.
+Beza (D): ~Salty.
+Bebu (D): ~Sour.
+Beba (D): ~Bitter.
+Begi (D): ~Spicy.
+Begu (D): ~Umami; ~meaty.
 
 > MOVEMENT (TE-)
 
-Tepo (V): Move; cause to go. Tipo (*): Stop.
-Tepa (V): Carry; bring; transport; deliver; fetch.
-Teko (V): Put; place; add. Tiko (*): Take; remove.
-Tefa (V): Raise; lift. Tifa (*): Lower.
-Teve (V): Send; submit; transmit.
-Tedi (V): Come; go toward; arrive; approach. Tidi (*): Leave.
-Teda (V): Follow; pursue.
-Tezu (V): Enter; go in. Tizu (*): Exit.
-Teso (D): Walk; run.
-Tebu (D): Reflect; deflect; bounce.
-Tebo (D): Fall; drop; collapse; pour; spill.
-Tepe (D): Fly.
-Teze (D): Slide; glide; slip.
-Tepi (D): Shower; spray.
-Tede (D): Spread; disperse. Tide (*): Gather; congregate.
-Tezo (D): Shake; vibrate; shiver.
-Tedo (D): Spin; turn; rotate; tip; twist. Tido (*): Keep a constant orientation.
-Tefo (V): Spin; turn; cause to rotate; tip; twist. Tifo (*): Cause to have a constant orientation.
-Tega (N): Path; way; route; channel; course.
-Teku (N): Speed; rate; pace.
-Teta (D): Fast; quick; rapid. Tita (*): Slow.
-Tebe (D): Stable; steady; difficult to change. Tibe (*): Unstable.
+Tepo (V): ~Move; cause to go. Tipo (*): ~Stop.
+Tepa (V): ~Carry; ~bring; ~transport; ~deliver; ~fetch.
+Teko (V): ~Put; ~place; ~add. Tiko (*): ~Take; ~remove.
+Tefa (V): ~Raise; ~lift. Tifa (*): ~Lower.
+Teve (V): ~Send; ~submit; ~transmit.
+Tedi (V): ~Come; go toward; ~arrive; ~approach. Tidi (*): ~Leave.
+Teda (V): ~Follow; ~pursue.
+Tezu (V): ~Enter; go in. Tizu (*): ~Exit.
+Teso (D): ~Walk; ~run.
+Tebu (D): ~Reflect; ~deflect; ~bounce.
+Tebo (D): ~Fall; ~drop; ~collapse; ~pour; ~spill.
+Tepe (D): ~Fly.
+Teze (D): ~Slide; ~glide; ~slip.
+Tepi (D): ~Shower; ~spray.
+Tede (D): ~Spread; ~disperse. Tide (*): ~Gather; ~congregate.
+Tezo (D): ~Shake; ~vibrate; ~shiver.
+Tedo (D): ~Spin; ~turn; ~rotate; ~tip; ~twist. Tido (*): Keep a constant orientation.
+Tefo (V): ~Spin; ~turn; cause to ~rotate; ~tip; ~twist. Tifo (*): Cause to have a constant orientation.
+Tega (N): ~Path; ~way; ~route; ~channel; ~course.
+Teku (N): ~Speed; ~rate; ~pace.
+Teta (D): ~Fast; ~quick; ~rapid. Tita (*): ~Slow.
+Tebe (D): ~Stable; ~steady; difficult to change. Tibe (*): ~Unstable.
 
 > FORCE (BA-)
 
-Babu (N): Force.
-Babo (N): Gravity; weight.
-Babi (N): Contact; touch.
-Baba (N): Magnetism.
-Bapa (N): Electricity.
-Baku (N): Friction.
-Bade (V): Push; press; shove. Bude (*): Tug.
-Badu (V): Squeeze; compress. Budu (*): Stretch.
-Bapo (V): Hold; support; grab.
-Bapu (V): Bond to; stick to.
-Bati (V): Cut; chop; shear; slice.
-Baka (V): Hit; beat; strike; crash; knock.
-Bada (V): Brush; comb; sweep.
-Baza (V): Rub; drag on; wipe; stroke.
-Baze (V): Scratch; scrape.
-Bafa (V): Throw; toss. Bufa (*): Catch.
-Bafu (V): Shoot; fire.
-Bado (D): Bend; fold. Budo (*): Unfold.
-Bafo (D): Explode; pop; burst. Bufo (*): Implode.
-Bavi (D): Hang.
-Badi (N): Energy; power.
-Bazu (D): Strong; fit; powerful; tough; sturdy; durable. Buzu (*): Weak; feeble.
+Babu (N): ~Force.
+Babo (N): ~Gravity; ~weight.
+Babi (N): ~Contact; ~touch.
+Baba (N): ~Magnetism. {"extraKeywords": ["magnetic"]}
+Bapa (N): ~Electricity. {"extraKeywords": ["electric"]}
+Baku (N): ~Friction.
+Bade (V): ~Push; ~press; ~shove. Bude (*): ~Pull; ~tug.
+Badu (V): ~Squeeze; ~compress. Budu (*): ~Stretch.
+Bapo (V): ~Hold; ~support; ~grab.
+Bapu (V): ~Bond to; ~stick to.
+Bati (V): ~Cut; ~chop; ~shear; ~slice.
+Baka (V): ~Hit; ~beat; ~strike; ~crash; ~knock.
+Bada (V): ~Brush; ~comb; ~sweep.
+Baza (V): ~Rub; ~drag on; ~wipe; ~stroke.
+Baze (V): ~Scratch; ~scrape.
+Bafa (V): ~Throw; ~toss. Bufa (*): ~Catch.
+Bafu (V): ~Shoot; ~fire.
+Bado (D): ~Bend; ~fold. Budo (*): ~Unfold.
+Bafo (D): ~Explode; ~pop; ~burst. Bufo (*): ~Implode.
+Bavi (D): ~Hang.
+Badi (N): ~Energy; ~power.
+Bazu (D): ~Strong; ~fit; ~powerful; ~tough; ~sturdy; ~durable. Buzu (*): ~Weak; ~feeble.
 
 > EXISTENCE AND IDENTITY (SA-)
 
