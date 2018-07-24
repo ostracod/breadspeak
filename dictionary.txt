@@ -310,168 +310,168 @@ Kafe (N): ~Hello; ~hi; ~salutation; ~greeting; ~welcome. Kufe (*): ~Goodbye; ~by
 
 > GOAL (GA-)
 
-Gago (N): Goal; target; project; task; assignment; mission; objective. Gugo (*): Outcome to be avoided.
-Gako (P): For; in order to. Guko (*): Against.
-Gagi (D): Good. Gugi (*): Bad.
-Gaga (D): Okay; decent; acceptable; fine; appropriate; suitable; proper; adequate. Guga (*): Unacceptable; inappropriate.
-Gake (D): Valuable; important; critical; crucial; major; serious; significant; vital. Guke (*): Unimportant.
-Gaka (D): Useful; helpful; convenient; handy. Guka (*): Useless.
-Gaki (D): Ready; prepared. Guki (*): Unprepared.
-Gapa (V): Want; hope for; wish for; desire. Gupa (*): Dread.
-Gaba (V): Need; require; must. Guba (*): Must not.
-Gage (V): Choose; decide; pick; commit; elect; select; vote for.
-Gato (V): Use; utilize; employ.
-Gatu (V): Try; attempt. Gutu (*): Try not to.
-Gati (V): Win; succeed at; defeat; beat; dominate. Guti (*): Fail; lose.
-Gave (V): Help do something; serve; support; assist; aid. Guve (*): Hinder.
-Gasa (N): Purpose; point; reason for existing; role; justification.
-Gagu (N): Plan; intention; scheme; strategy; design.
-Gaku (N): Problem; conflict; issue; drama; trouble; puzzle; challenge; flaw; emergency; crisis. Guku (*): Harmony; peace.
-Gapo (N): Mistake; error; accident. Gupo (*): Intentional action.
-Gapu (N): Garbage; trash; pollution. Gupu (*): Treasure.
-Gavo (N): Prize; reward; award; bonus; treat; present; gift. Guvo (*): Punishment.
+Gago (N): ~Goal; ~target; ~project; ~task; ~assignment; ~mission; ~objective. Gugo (*): Outcome to be avoided.
+Gako (P): ~For; in order to. Guko (*): ~Against.
+Gagi (D): ~Good. Gugi (*): ~Bad.
+Gaga (D): ~Okay; ~decent; ~acceptable; ~fine; ~appropriate; ~suitable; ~proper; ~adequate. Guga (*): ~Unacceptable; ~inappropriate.
+Gake (D): ~Valuable; ~important; ~critical; ~crucial; ~major; ~serious; ~significant; ~vital. Guke (*): ~Unimportant.
+Gaka (D): ~Useful; ~helpful; ~convenient; ~handy. Guka (*): ~Useless.
+Gaki (D): ~Ready; ~prepared. Guki (*): ~Unprepared.
+Gapa (V): ~Want; ~hope for; ~wish for; ~desire. Gupa (*): ~Dread.
+Gaba (V): ~Need; ~require; ~must. Guba (*): Must not.
+Gage (V): ~Choose; ~decide; ~pick; ~commit; ~elect; ~select; ~vote for.
+Gato (V): ~Use; ~utilize; ~employ.
+Gatu (V): ~Try; ~attempt. Gutu (*): Try not to.
+Gati (V): ~Win; ~succeed at; ~defeat; ~beat; ~dominate. Guti (*): ~Fail; ~lose.
+Gave (V): ~Help do something; ~serve; ~support; ~assist; ~aid. Guve (*): ~Hinder.
+Gasa (N): ~Purpose; ~point; ~reason for existing; ~role; ~justification.
+Gagu (N): ~Plan; ~intention; ~scheme; ~strategy; ~design.
+Gaku (N): ~Problem; ~conflict; ~issue; ~drama; ~trouble; ~puzzle; ~challenge; ~flaw; ~emergency; ~crisis. Guku (*): ~Harmony; ~peace.
+Gapo (N): ~Mistake; ~error; ~accident. Gupo (*): ~Intentional ~action.
+Gapu (N): ~Garbage; ~trash; ~pollution. Gupu (*): ~Treasure.
+Gavo (N): ~Prize; ~reward; ~award; ~bonus; ~treat; ~present; ~gift. Guvo (*): ~Punishment.
 
 > FEELING WITH VALUE (FE-)
 
-Feku (N): Emotion; mood.
-Feti (N): Pain; ache. Fiti (*): Pleasure; euphoria.
-Fegi (D): Happy; glad; content. Figi (*): Unhappy; sad; upset.
-Fega (D): Comfortable. Figa (*): Uncomfortable.
-Feda (D): Angry; mad.
-Fepi (D): Nervous; anxious; worried; stressed. Fipi (*): Calm.
-Fepa (V): Care about; have concern for; worry about; respect. Fipa (*): Wish harm upon.
-Fetu (D): Guilty; shameful; sorry; embarrassed. Fitu (*): Proud.
-Fedi (D): Tired; exhausted; fatigued; sleepy; drowsy; lethargic. Fidi (*): Energetic.
-Feta (V): Enjoy; like; love; appreciate; be appealed by; prefer. Fita (*): Dislike; hate.
-Fepu (V): Annoy; irritate; bother; disturb. Fipu (*): Soothe.
-Feki (V): Surprise; amaze; shock.
-Feka (V): Scare; frighten; startle. Fika (*): Reassure.
-Fefo (V): Interest; fascinate. Fifo (*): Be uninteresting to.
-Fefi (V): Excite; make eager.
-Fedo (V): Entertain; be fun to; be funny to. Fido (*): Bore.
-Fefa (V): Laugh at.
-Febi (V): Play.
-Feba (N): Game; sport.
-Fegu (N): Party; festival; celebration; ceremony.
-Febo (N): Art.
-Fesa (N): Music; song; tune.
+Feku (N): ~Emotion; ~mood.
+Feti (N): ~Pain; ~ache. Fiti (*): ~Pleasure; ~euphoria.
+Fegi (D): ~Happy; ~glad; ~content. Figi (*): ~Unhappy; ~sad; ~upset.
+Fega (D): ~Comfortable. Figa (*): ~Uncomfortable.
+Feda (D): ~Angry; ~mad.
+Fepi (D): ~Nervous; ~anxious; ~worried; ~stressed. Fipi (*): ~Calm.
+Fepa (V): ~Care about; have ~concern for; ~worry about; ~respect. Fipa (*): Wish harm upon.
+Fetu (D): ~Guilty; ~shameful; ~sorry; ~embarrassed. Fitu (*): ~Proud.
+Fedi (D): ~Tired; ~exhausted; ~fatigued; ~sleepy; ~drowsy; ~lethargic. Fidi (*): ~Energetic.
+Feta (V): ~Enjoy; ~like; ~love; ~appreciate; be appealed by; ~prefer. Fita (*): ~Dislike; ~hate. {"extraKeywords": ["appeal"]}
+Fepu (V): ~Annoy; ~irritate; ~bother; ~disturb. Fipu (*): ~Soothe.
+Feki (V): ~Surprise; ~amaze; ~shock.
+Feka (V): ~Scare; ~frighten; ~startle. Fika (*): ~Reassure.
+Fefo (V): ~Interest; ~fascinate. Fifo (*): Be ~uninteresting to.
+Fefi (V): ~Excite; make ~eager.
+Fedo (V): ~Entertain; be ~fun to; be ~funny to. Fido (*): ~Bore.
+Fefa (V): ~Laugh at.
+Febi (V): ~Play.
+Feba (N): ~Game; ~sport.
+Fegu (N): ~Party; ~festival; ~celebration; ~ceremony.
+Febo (N): ~Art.
+Fesa (N): ~Music; ~song; ~tune.
 
 > LIFE (PE-)
 
-Pepi (D): Alive; living. Pipi (*): Dead.
-Pepu (N): Nature. Pipu (*): Artifical phenomena.
-Pebo (N): Body.
-Pegi (D): Healthy. Pigi (*): Unhealthy; ill; sick.
-Peva (D): Be born.
-Peku (D): Decompose; decay; rot.
-Pete (N): Baby; infant.
-Peta (N): Child; kid; teenager; adolescent.
-Peto (N): Adult.
-Peze (N): Gender.
-Pezu (D): Male.
-Pezi (D): Female.
-Pepo (N): Fungus; mushroom; mold.
-Pepa (N): Plant.
-Pedi (N): Seed; bean; nut.
-Pevi (N): Tree.
-Pede (N): Grass.
-Pepe (N): Animal; creature.
-Peti (N): Egg.
-Peda (N): Mammal.
-Peka (N): Person; human.
-Peke (N): Cat.
-Peko (N): Dog.
-Pege (N): Sheep.
-Pego (N): Pig.
-Pegu (N): Cow.
-Pebe (N): Bird.
-Peba (N): Chicken.
-Peza (N): Reptile; amphibian.
-Pedo (N): Fish.
-Pesa (N): Arthropod.
-Pega (N): Mollusk.
-Pevu (D): Sleep. Pivu (*): Be awake.
-Pezo (V): Breathe; inhale; exhale.
-Pefo (V): Have sex with.
+Pepi (D): ~Alive; ~living. Pipi (*): ~Dead. {"extraKeywords": ["live"]}
+Pepu (N): ~Nature. Pipu (*): ~Artifical phenomena.
+Pebo (N): ~Body.
+Pegi (D): ~Healthy. Pigi (*): ~Unhealthy; ~ill; ~sick.
+Peva (D): Be ~born.
+Peku (D): ~Decompose; ~decay; ~rot.
+Pete (N): ~Baby; ~infant.
+Peta (N): ~Child; ~kid; ~teenager; ~adolescent.
+Peto (N): ~Adult.
+Peze (N): ~Gender.
+Pezu (D): ~Male.
+Pezi (D): ~Female.
+Pepo (N): ~Fungus; ~mushroom; ~mold.
+Pepa (N): ~Plant.
+Pedi (N): ~Seed; ~bean; ~nut.
+Pevi (N): ~Tree.
+Pede (N): ~Grass.
+Pepe (N): ~Animal; ~creature.
+Peti (N): ~Egg.
+Peda (N): ~Mammal.
+Peka (N): ~Person; ~human.
+Peke (N): ~Cat.
+Peko (N): ~Dog.
+Pege (N): ~Sheep.
+Pego (N): ~Pig.
+Pegu (N): ~Cow.
+Pebe (N): ~Bird.
+Peba (N): ~Chicken.
+Peza (N): ~Reptile; ~amphibian.
+Pedo (N): ~Fish.
+Pesa (N): ~Arthropod.
+Pega (N): ~Mollusk.
+Pevu (D): ~Sleep. Pivu (*): Be ~awake.
+Pezo (V): ~Breathe; ~inhale; ~exhale.
+Pefo (V): Have ~sex with.
 
 > PARTS (DA-)
 
-Dagi (N): Part; piece; component; element; factor; section.
-Dadu (N): Land; ground.
-Dapi (N): Ocean; sea; lake; pond.
-Dapu (N): River; stream.
-Dafu (N): Hill; mountain.
-Dape (N): Sky.
-Dazu (N): Room; chamber.
-Davi (N): Wall.
-Davu (N): Floor.
-Dabi (N): Window.
-Dafa (N): Level; layer; shelf.
-Dafo (N): Stair; step.
-Dadi (N): Hinge; joint.
-Dade (N): Door; gate.
-Dado (N): Wheel.
-Dabe (N): Button; key; switch.
-Dapo (N): Knob; handle.
-Dafi (N): Rod; pole; axle; track; rail; bar; prong.
-Dazo (N): Torso; trunk.
-Daku (N): Head.
-Daze (N): Face of a person or animal.
-Davo (N): Mouth.
-Dafe (N): Eye.
-Dagu (N): Appendage; limb; branch; arm; leg; neck.
-Dage (N): Finger; toe; stick.
-Dasu (N): Leaf.
-Dabu (N): Hand.
-Date (N): Foot.
-Dada (N): Hair; fur; feather.
-Daga (N): Organ.
-Dasa (N): Cell; part of an organism.
-Daza (N): Atom.
-Daba (N): Proton.
-Dabo (N): Neutron.
-Dapa (N): Electron.
+Dagi (N): ~Part; ~piece; ~component; ~element; ~factor; ~section.
+Dadu (N): ~Land; ~ground.
+Dapi (N): ~Ocean; ~sea; ~lake; ~pond.
+Dapu (N): ~River; ~stream.
+Dafu (N): ~Hill; ~mountain.
+Dape (N): ~Sky.
+Dazu (N): ~Room; ~chamber.
+Davi (N): ~Wall.
+Davu (N): ~Floor.
+Dabi (N): ~Window.
+Dafa (N): ~Level; ~layer; ~shelf.
+Dafo (N): ~Stair; ~step.
+Dadi (N): ~Hinge; ~joint.
+Dade (N): ~Door; ~gate.
+Dado (N): ~Wheel.
+Dabe (N): ~Button; ~key; ~switch.
+Dapo (N): ~Knob; ~handle.
+Dafi (N): ~Rod; ~pole; ~axle; ~track; ~rail; ~bar; ~prong.
+Dazo (N): ~Torso; ~trunk.
+Daku (N): ~Head.
+Daze (N): ~Face of a person or animal.
+Davo (N): ~Mouth.
+Dafe (N): ~Eye.
+Dagu (N): ~Appendage; ~limb; ~branch; ~arm; ~leg; ~neck.
+Dage (N): ~Finger; ~toe; ~stick.
+Dasu (N): ~Leaf.
+Dabu (N): ~Hand.
+Date (N): ~Foot.
+Dada (N): ~Hair; ~fur; ~feather.
+Daga (N): ~Organ.
+Dasa (N): ~Cell; part of an organism.
+Daza (N): ~Atom.
+Daba (N): ~Proton.
+Dabo (N): ~Neutron.
+Dapa (N): ~Electron.
 
 > MATERIALS (VE-)
 
-Vepu (N): Material; substance.
-Vepo (N): Solid.
-Vepi (N): Liquid.
-Vepe (N): Gas; material in a gaseous state.
-Vedo (N): Water.
-Vezo (N): Air; atmosphere.
-Veda (N): Fire; flame.
-Vege (N): Cloud; steam; smoke.
-Veta (N): Rock; stone.
-Veba (N): Sand.
-Veto (N): Metal.
-Veke (N): Gem; crystal; jewel.
-Vedu (N): Soil; dirt.
-Vefu (N): Clay; dough.
-Vese (N): Cotton.
-Vebu (N): Rubber.
-Vefo (N): Fat.
-Vesa (N): Blood.
-Veka (N): Lumber; wood.
-Veko (N): Bone.
-Vepa (N): Paper.
-Veza (N): Cloth.
-Vedi (N): Oil.
-Veti (N): Plastic.
-Vetu (N): Asphalt; tar.
-Vete (N): Ceramic; cement.
-Vebi (N): Glass.
-Vefa (N): Rain; snow; precipitation.
-Vevo (N): Acid; acidic liquid. Vivo (*): Basic liquid.
-Vegi (N): Medicine; drug. Vigi (*): Poison.
-Vego (N): Soap.
-Vebe (N): Powder; dust.
-Vede (N): Foam; sponge.
-Vega (D): Flexible; soft. Viga (*): Hard; firm.
-Vefe (D): Clear; transparent; obvious. Vife (*): Opaque.
-Vezu (D): Viscous; thick; gooey. Vizu (*): Thin; runny.
-Vebo (D): Dense. Vibo (*): Having a low density.
-Veku (P): Made of; comprised of; composed of; consisting of.
+Vepu (N): ~Material; ~substance.
+Vepo (N): ~Solid.
+Vepi (N): ~Liquid.
+Vepe (N): ~Gas; material in a ~gaseous state.
+Vedo (N): ~Water.
+Vezo (N): ~Air; ~atmosphere.
+Veda (N): ~Fire; ~flame.
+Vege (N): ~Cloud; ~steam; ~smoke.
+Veta (N): ~Rock; ~stone.
+Veba (N): ~Sand.
+Veto (N): ~Metal.
+Veke (N): ~Gem; ~crystal; ~jewel.
+Vedu (N): ~Soil; ~dirt.
+Vefu (N): ~Clay; ~dough.
+Vese (N): ~Cotton.
+Vebu (N): ~Rubber.
+Vefo (N): ~Fat.
+Vesa (N): ~Blood.
+Veka (N): ~Lumber; ~wood.
+Veko (N): ~Bone.
+Vepa (N): ~Paper.
+Veza (N): ~Cloth.
+Vedi (N): ~Oil.
+Veti (N): ~Plastic.
+Vetu (N): ~Asphalt; ~tar.
+Vete (N): ~Ceramic; ~cement.
+Vebi (N): ~Glass.
+Vefa (N): ~Rain; ~snow; ~precipitation.
+Vevo (N): ~Acid; ~acidic liquid. Vivo (*): ~Basic liquid.
+Vegi (N): ~Medicine; ~drug. Vigi (*): ~Poison; ~venom.
+Vego (N): ~Soap.
+Vebe (N): ~Powder; ~dust.
+Vede (N): ~Foam; ~sponge.
+Vega (D): ~Flexible; ~soft. Viga (*): ~Hard; ~firm.
+Vefe (D): ~Clear; ~transparent; ~obvious. Vife (*): ~Opaque.
+Vezu (D): ~Viscous; ~thick; ~gooey. Vizu (*): ~Thin; ~runny.
+Vebo (D): ~Dense. Vibo (*): Having a low density.
+Veku (P): ~Made of; ~comprised of; ~composed of; ~consisting of. {"extraKeywords": ["comprise", "compose", "consist"]}
 
 > QUANTITY (SE-)
 
