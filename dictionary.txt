@@ -313,7 +313,7 @@ Kafe (N): ~Hello; ~hi; ~salutation; ~greeting; ~welcome. Kufe (*): ~Goodbye; ~by
 Gago (N): ~Goal; ~target; ~project; ~task; ~assignment; ~mission; ~objective. Gugo (*): Outcome to be avoided.
 Gako (P): ~For; in order to. Guko (*): ~Against.
 Gagi (D): ~Good. Gugi (*): ~Bad.
-Gaga (D): ~Okay; ~decent; ~acceptable; ~fine; ~appropriate; ~suitable; ~proper; ~adequate. Guga (*): ~Unacceptable; ~inappropriate.
+Gaga (D): ~Okay; ~decent; ~acceptable; ~fine; ~appropriate; ~suitable; ~proper; ~adequate; ~correct; ~right. Guga (*): ~Unacceptable; ~inappropriate; ~wrong.
 Gake (D): ~Valuable; ~important; ~critical; ~crucial; ~major; ~serious; ~significant; ~vital. Guke (*): ~Unimportant.
 Gaka (D): ~Useful; ~helpful; ~convenient; ~handy. Guka (*): ~Useless.
 Gaki (D): ~Ready; ~prepared. Guki (*): ~Unprepared.
@@ -475,222 +475,222 @@ Veku (P): ~Made of; ~comprised of; ~composed of; ~consisting of. {"extraKeywords
 
 > QUANTITY (SE-)
 
-Seku (N): Quantity; amount; number; proportion.
-Seka (N): Unit; meter; second; gram; newton; degree; degree celsius; dollar.
-Sezi (N): Limit; constraint; boundary; restriction.
-Seko (D): Plural; more than one; several; some.
-Sezu (D): Many; a lot; often; frequent; numerous. Sizu (*): Few; not a lot.
-Seda (D): Every; all; each. Sida (*): None.
-Segu (D): Common; usual; normal; average; ordinary; regular; standard; tend to; typical. Sigu (*): Uncommon; unusual.
-Sego (D): Most; the majority; almost all. Sigo (*): The minority.
-Sedo (D): Only; just; alone; unique; sole.
-Seve (D): Again; another time.
-Sevi (D): Also; too.
-Sede (P): Add a number. Side (*): Subtract.
-Sepi (P): Multiply a number. Sipi (*): Divide.
-Seva (P): Exponentiate a number. Siva (*): Logarithm.
-Sevo (P): Multiply by ten raised to a number.
-Sedu (D): Negative; less than zero. Sidu (*): Positive.
-Setu (Numeric): Zero; no; none.
-Seto (Numeric): One; single; individual.
-Seta (Numeric): Two; a couple of.
-Sete (Numeric): Three.
-Seti (Numeric): Four.
-Sesu (Numeric): Five.
-Seso (Numeric): Six.
-Sesa (Numeric): Seven.
-Sese (Numeric): Eight.
-Sesi (Numeric): Nine.
-Seki (Numeric): Decimal point.
+Seku (N): ~Quantity; ~amount; ~number; ~proportion.
+Seka (N): ~Unit; ~meter; ~second; ~gram; ~newton; ~degree; degree ~celsius; ~dollar.
+Sezi (N): ~Limit; ~constraint; ~boundary; ~restriction.
+Seko (D): ~Plural; more than one; ~several; ~some.
+Sezu (D): ~Many; a ~lot; ~often; ~frequent; ~numerous. Sizu (*): ~Few; not a lot.
+Seda (D): ~Every; ~all; ~each. Sida (*): ~None.
+Segu (D): ~Common; ~usual; ~normal; ~average; ~ordinary; ~regular; ~standard; ~tend to; ~typical. Sigu (*): ~Uncommon; ~unusual.
+Sego (D): ~Most; the ~majority; almost all. Sigo (*): The ~minority.
+Sedo (D): ~Only; ~just; ~alone; ~unique; ~sole.
+Seve (D): ~Again; another time.
+Sevi (D): ~Also; ~too.
+Sede (P): ~Add a number. Side (*): ~Subtract.
+Sepi (P): ~Multiply a number. Sipi (*): ~Divide.
+Seva (P): ~Exponentiate a number. Siva (*): ~Logarithm.
+Sevo (P): Multiply by ~ten raised to a number.
+Sedu (D): ~Negative; less than zero. Sidu (*): ~Positive.
+Setu (Numeric): ~Zero; ~no; ~none.
+Seto (Numeric): ~One; ~single; ~individual.
+Seta (Numeric): ~Two; a ~couple of; a ~pair of.
+Sete (Numeric): ~Three.
+Seti (Numeric): ~Four.
+Sesu (Numeric): ~Five.
+Seso (Numeric): ~Six.
+Sesa (Numeric): ~Seven.
+Sese (Numeric): ~Eight.
+Sesi (Numeric): ~Nine.
+Seki (Numeric): ~Decimal ~point.
 
 > EXTENT AND ACTION (DE-)
 
-Dede (N): Extent; degree.
-Deko (D): More; having a greater degree. Diko (*): Less.
-Deda (D): Most; having the greatest degree. Dida (*): Least.
-Deto (D): Total; complete; full; whole; entire; thorough. Dito (*): None.
-Dego (D): Enough; sufficient; adequate. Digo (*): Insufficient.
-Dega (D): Extra; spare.
-Desu (D): Too much; excessive.
-Dezu (D): Extreme; radical; severe; intense. Dizu (*): Mellow.
-Deki (D): As; to a certain extent; so.
-Dedo (D): Even.
-Degi (D): Almost; nearly; virtually.
-Desa (D): Opposite; inverse in meaning.
-Deku (P): Relative to; with respect to; than. Optionally use in combination with "savu".
-Detu (N): Action; activity.
-Deka (V): Do; perform; participate in an action. Dika (*): Undo.
-Desi (V): Respond to; react.
-Deta (V): Wait for.
-Defi (V): Bear; withstand; endure; suffer; stand; cope with; last.
-Dedu (V): Act upon; affect; influence.
-Depi (V): Interrupt; interfere.
-Deke (D): Act; perform; behave.
+Dede (N): ~Extent; ~degree.
+Deko (D): ~More; having a greater degree. Diko (*): ~Less.
+Deda (D): ~Most; having the greatest degree. Dida (*): ~Least.
+Deto (D): ~Total; ~complete; ~full; ~whole; ~entire; ~thorough. Dito (*): ~None.
+Dego (D): ~Enough; ~sufficient; ~adequate. Digo (*): ~Insufficient.
+Dega (D): ~Extra; ~spare.
+Desu (D): ~Too much; ~excessive.
+Dezu (D): ~Extreme; ~radical; ~severe; ~intense. Dizu (*): ~Mellow.
+Deki (D): ~As; to a certain ~extent; ~so.
+Dedo (D): ~Even.
+Degi (D): ~Almost; ~nearly; ~virtually.
+Desa (D): ~Opposite; ~inverse in meaning.
+Deku (P): ~Relative to; with ~respect to; ~than. Optionally use in combination with "savu".
+Detu (N): ~Action; ~activity.
+Deka (V): ~Do; ~perform; ~participate in an action. Dika (*): ~Undo.
+Desi (V): ~Respond to; ~react.
+Deta (V): ~Wait for.
+Defi (V): ~Bear; ~withstand; ~endure; ~suffer; ~stand; ~cope with; ~last.
+Dedu (V): ~Act upon; ~affect; ~influence.
+Depi (V): ~Interrupt; ~interfere.
+Deke (D): ~Act; ~perform; ~behave.
 
 > ORGANIZATION AND RELATIONSHIP (ZE-)
 
-Zeze (N): Order; organization; arrangement; configuration.
-Zeka (V): Organize; order; sort; arrange. Zika (*): Disorganize; mix; stir; scramble.
-Zeku (D): Ranked; converts a cardinal number to an ordinal number.
-Zeto (D): First; initial; original. Zito (*): Last; final.
-Zeti (N): Start; beginning; first part. Ziti (*): End.
-Zeso (D): Next; following. Ziso (*): Previous.
-Zegu (N): Group; bunch; combination; set.
-Zefi (N): List; sequence; series; queue.
-Zega (N): Member; individual of a group.
-Zese (N): System; process.
-Zezu (D): Main; chief; principal; primary; capital. Zizu (*): Subordinate.
-Zede (P): Of; pertaining to; related to; having a conceptual connection with.
-Zedu (P): About; having a subject; having a topic.
-Zeda (V): Depend on; be controlled by; rely on.
-Zeko (P): If; under the condition that.
-Zesa (D): But; however; although; despite. Zisa (*): So; therefore.
-Zegi (P): With; along with; accompanied by. Zigi (*): Without.
-Zepa (V): Have; own; possess.
-Zeve (V): Give; contribute; donate; transfer; grant; provide; supply.
-Zevo (V): Get; receive; acquire; gain; obtain. Zivo (*): Lose possession of.
-Zefe (V): Meet; encounter.
-Zetu (P): Except; not including; aside from.
-Zepo (P): Instead of; on behalf of; in place of.
-Zepi (N): Friend; buddy. Zipi (*): Enemy; rival.
-Zeva (N): Family.
-Zeta (V): Marry. Zita (*): Divorce.
-Zete (N): Spouse.
-Zefo (N): Parent. Zifo (*): Child; offspring.
-Zefa (N): Sibling.
-Zege (D): Public. Zige (*): Private; secret.
+Zeze (N): ~Order; ~organization; ~arrangement; ~configuration.
+Zeka (V): ~Organize; ~order; ~sort; ~arrange. Zika (*): ~Disorganize; ~mix; ~stir; ~scramble.
+Zeku (D): ~Ranked; converts a cardinal number to an ~ordinal number.
+Zeto (D): ~First; ~initial; ~original. Zito (*): ~Last; ~final.
+Zeti (N): ~Start; ~beginning; first part. Ziti (*): ~End.
+Zeso (D): ~Next; ~following. Ziso (*): ~Previous.
+Zegu (N): ~Group; ~bunch; ~combination; ~set.
+Zefi (N): ~List; ~sequence; ~series; ~queue.
+Zega (N): ~Member; ~individual of a group.
+Zese (N): ~System; ~process.
+Zezu (D): ~Main; ~chief; ~principal; ~primary; ~capital. Zizu (*): ~Subordinate.
+Zede (P): ~Of; ~pertaining to; ~related to; having a conceptual connection with. {"extraKeywords": ["pertain", "relate"]}
+Zedu (P): ~About; having a ~subject; having a ~topic.
+Zeda (V): ~Depend on; be ~controlled by; ~rely on.
+Zeko (P): ~If; under the ~condition that.
+Zesa (D): ~But; ~however; ~although; ~despite. Zisa (*): ~So; ~therefore.
+Zegi (P): ~With; ~along with; ~accompanied by. Zigi (*): ~Without.
+Zepa (V): ~Have; ~own; ~possess.
+Zeve (V): ~Give; ~contribute; ~donate; ~transfer; ~grant; ~provide; ~supply.
+Zevo (V): ~Get; ~receive; ~acquire; ~gain; ~obtain. Zivo (*): ~Lose possession of.
+Zefe (V): ~Meet; ~encounter.
+Zetu (P): ~Except; not including; ~aside from.
+Zepo (P): ~Instead of; on ~behalf of; in place of.
+Zepi (N): ~Friend; ~buddy. Zipi (*): ~Enemy; ~rival.
+Zeva (N): ~Family.
+Zeta (V): ~Marry. Zita (*): ~Divorce.
+Zete (N): ~Spouse.
+Zefo (N): ~Parent. Zifo (*): ~Child; ~offspring.
+Zefa (N): ~Sibling.
+Zege (D): ~Public. Zige (*): ~Private; ~secret.
 
 > QUALITY (KE-)
 
-Keke (N): Quality; characteristic; attribute.
-Kegu (N): Category; kind; sort; type.
-Ketu (N): Manner; method; way; mechanism; technique.
-Kefe (N): Style; fashion; aesthetic.
-Keva (N): Culture; ethnicity.
-Keta (N): State; status; mode; phase; stage; version.
-Kepe (N): Weather; climate.
-Kezu (P): Like; similar to; having a quality pertaining to. Kizu (*): Unlike.
-Kezo (N): Pattern; trend.
-Keko (P): By means of; having a manner pertaining to; in accordance with; as though; as if.
-Keti (D): Change; become different; transform.
-Kefi (V): Change; alter; convert; cause to become different.
-Keze (V): Seem like; appear to be; look like; sound like. Kize (*): Seem unlike.
-Keba (V): Fix; heal; repair; solve; resolve. Kiba (*): Damage; hurt.
-Keda (D): Hot; warm. Kida (*): Cold; cool.
-Kepi (D): Wet; damp; moist. Kipi (*): Dry.
-Kedu (D): Clean. Kidu (*): Dirty.
-Kebe (D): Safe; secure. Kibe (*): Unsafe; insecure.
-Kebi (D): Simple; easy; basic; plain. Kibi (*): Complex; difficult.
-Keve (D): Nice; kind; generous; polite. Kive (*): Unkind; mean; selfish.
-Kesi (D): Cute; adorable.
-Kevi (D): Popular; cool; famous. Kivi (*): Uncool; unpopular.
-Kefo (D): Beautiful; pretty; attractive; gorgeous. Kifo (*): Ugly.
-Kebu (D): Fancy; formal. Kibu (*): Casual.
-Kepu (D): Gross; disgusting; nasty. Kipu (*): Appealing.
-Kede (D): Brave; bold; courageous; confident. Kide (*): Cowardly.
-Kedi (D): Crazy; mad; wild; ridiculous; silly. Kidi (*): Tame.
-Kepa (D): Careful; alert; prudent; cautious; gentle; responsible. Kipa (*): Careless.
-Keka (D): Clever; smart; intelligent. Kika (*): Unintelligent; dumb; stupid.
-Kegi (D): Logical; reasonable. Kigi (*): Illogical; unreasonable.
-Keza (D): Creative. Kiza (*): Uncreative.
+Keke (N): ~Quality; ~characteristic; ~attribute.
+Kegu (N): ~Category; ~kind; ~sort; ~type.
+Ketu (N): ~Manner; ~method; ~way; ~mechanism; ~technique.
+Kefe (N): ~Style; ~fashion; ~aesthetic.
+Keva (N): ~Culture; ~ethnicity.
+Keta (N): ~State; ~status; ~mode; ~phase; ~stage; ~version.
+Kepe (N): ~Weather; ~climate.
+Kezu (P): ~Like; ~similar to; having a quality pertaining to. Kizu (*): ~Unlike.
+Kezo (N): ~Pattern; ~trend.
+Keko (P): ~By ~means of; having a ~manner pertaining to; in ~accordance with; ~as ~though; as ~if.
+Keti (D): ~Change; become different; ~transform.
+Kefi (V): ~Change; ~alter; ~convert; cause to become different.
+Keze (V): ~Seem like; ~appear to be; ~look like; ~sound like. Kize (*): Seem unlike.
+Keba (V): ~Fix; ~heal; ~repair; ~solve; ~resolve. Kiba (*): ~Damage; ~hurt.
+Keda (D): ~Hot; ~warm. Kida (*): ~Cold; ~cool.
+Kepi (D): ~Wet; ~damp; ~moist. Kipi (*): ~Dry.
+Kedu (D): ~Clean. Kidu (*): ~Dirty.
+Kebe (D): ~Safe; ~secure. Kibe (*): ~Unsafe; ~insecure; ~dangerous.
+Kebi (D): ~Simple; ~easy; ~basic; ~plain. Kibi (*): ~Complex; ~difficult.
+Keve (D): ~Nice; ~kind; ~generous; ~polite. Kive (*): ~Unkind; ~mean; ~selfish.
+Kesi (D): ~Cute; ~adorable.
+Kevi (D): ~Popular; ~cool; ~famous. Kivi (*): ~Uncool; ~unpopular.
+Kefo (D): ~Beautiful; ~pretty; ~attractive; ~gorgeous. Kifo (*): ~Ugly.
+Kebu (D): ~Fancy; ~formal. Kibu (*): ~Casual.
+Kepu (D): ~Gross; ~disgusting; ~nasty. Kipu (*): ~Appealing.
+Kede (D): ~Brave; ~bold; ~courageous; ~confident. Kide (*): ~Cowardly.
+Kedi (D): ~Crazy; ~mad; ~wild; ~ridiculous; ~silly. Kidi (*): ~Tame.
+Kepa (D): ~Careful; ~alert; ~prudent; ~cautious; ~gentle; ~responsible. Kipa (*): ~Careless.
+Keka (D): ~Clever; ~smart; ~intelligent. Kika (*): ~Unintelligent; ~dumb; ~stupid.
+Kegi (D): ~Logical; ~reasonable. Kigi (*): ~Illogical; ~unreasonable.
+Keza (D): ~Creative. Kiza (*): ~Uncreative.
 
 > TECHNOLOGY AND MEDIA (ZA-)
 
-Zato (N): Tool; utensil; instrument; device; equipment.
-Zase (N): Machine.
-Zaso (N): Vehicle.
-Zako (N): Outlet; spout; dispenser. Zuko (*): Inlet.
-Zado (N): Lever.
-Zafi (N): String; thread; lace; rope; wire; cable.
-Zafe (N): Tape; ribbon; belt; band; strip.
-Zazu (N): Building.
-Zaze (N): Road; street.
-Zadi (D): On; active; operating; functioning; have the capacity to work. Zudi (*): Off; inactive.
-Zape (N): Radio; wireless communication.
-Zake (N): Computer.
-Zaki (N): Program; application; software; code.
-Zasa (N): Phone; telephone.
-Zadu (N): Web; internet.
-Zaza (N): Clothing; clothes.
-Zazo (V): Wear clothing.
-Zaga (N): Furniture.
-Zavu (N): Table.
-Zasu (N): Bag; pocket; sack.
-Zapi (N): Container; package; case.
-Zapu (V): Cover; wrap. Zupu (*): Uncover; unwrap.
-Zabo (N): Bowl; cup; bucket; basket; bin; pot.
-Zabu (N): Bath; basin; tub; shower; sink; toilet.
-Zate (V): Open. Zute (*): Close; shut.
-Zada (D): Full; with no space remaining. Zuda (*): Empty.
-Zatu (V): Lock. Zutu (*): Unlock.
-Zati (N): Key; for locking and unlocking.
-Zabi (V): Write; draw. Zubi (*): Erase.
-Zafo (V): Read.
-Zaka (N): Image; picture; photo; appearance.
-Zaku (N): Video; movie; film.
-Zavi (N): Mark.
-Zava (N): Symbol; letter; digit; character.
-Zavo (N): Text; script.
-Zapa (N): Book.
-Zave (N): Mail; letter.
-Zata (N): News; tabloid.
+Zato (N): ~Tool; ~utensil; ~instrument; ~device; ~equipment.
+Zase (N): ~Machine.
+Zaso (N): ~Vehicle.
+Zako (N): ~Outlet; ~spout; ~dispenser. Zuko (*): ~Inlet.
+Zado (N): ~Lever.
+Zafi (N): ~String; ~thread; ~lace; ~rope; ~wire; ~cable.
+Zafe (N): ~Tape; ~ribbon; ~belt; ~band; ~strip.
+Zazu (N): ~Building.
+Zaze (N): ~Road; ~street.
+Zadi (D): ~On; ~active; ~operating; ~functioning; have the capacity to work. Zudi (*): ~Off; ~inactive. {"extraKeywords": ["operate", "function"]}
+Zape (N): ~Radio; ~wireless communication.
+Zake (N): ~Computer.
+Zaki (N): ~Program; ~application; ~software; ~code.
+Zasa (N): ~Phone; ~telephone.
+Zadu (N): ~Web; ~internet.
+Zaza (N): ~Clothing; ~clothes.
+Zazo (V): ~Wear clothing.
+Zaga (N): ~Furniture.
+Zavu (N): ~Table.
+Zasu (N): ~Bag; ~pocket; ~sack.
+Zapi (N): ~Container; ~package; ~case.
+Zapu (V): ~Cover; ~wrap. Zupu (*): ~Uncover; ~unwrap.
+Zabo (N): ~Bowl; ~cup; ~bucket; ~basket; ~bin; ~pot.
+Zabu (N): ~Bath; ~basin; ~tub; ~shower; ~sink; ~toilet.
+Zate (V): ~Open. Zute (*): ~Close; ~shut.
+Zada (D): ~Full; with no space remaining. Zuda (*): ~Empty.
+Zatu (V): ~Lock. Zutu (*): ~Unlock.
+Zati (N): ~Key; for locking and unlocking.
+Zabi (V): ~Write; ~draw. Zubi (*): ~Erase.
+Zafo (V): ~Read.
+Zaka (N): ~Image; ~picture; ~photo; ~appearance.
+Zaku (N): ~Video; ~movie; ~film.
+Zavi (N): ~Mark.
+Zava (N): ~Symbol; ~letter; ~digit; ~character.
+Zavo (N): ~Text; ~script.
+Zapa (N): ~Book.
+Zave (N): ~Mail; ~letter.
+Zata (N): ~News; ~tabloid.
 
 > SOCIETY AND WORK (VA-)
 
-Vadu (N): Country; nation; state; territory.
-Vagu (N): Town; village; city.
-Vape (N): Money; currency.
-Vapo (N): Price; cost; fee.
-Vave (V): Pay; give money; spend. Vuve (*): Accept payment.
-Vavo (V): Buy; purchase. Vuvo (*): Sell.
-Vazu (N): Shop; store; restaurant.
-Vazo (N): Company; business; enterprise.
-Vadi (V): Work on; operate; function; do something productive.
-Vade (V): Practice; exercise; train.
-Vada (D): Busy; preoccupied; engaged. Vuda (*): Idle.
-Vado (N): Job; occupation; career; duty; responsibility; profession.
-Vavu (D): Rest; relax.
-Vaku (D): Imperative; please. Vuku (*): Please do not.
-Vako (V): Control; drive; manage; operate; regulate.
-Vake (V): Capture; trap. Vuke (*): Release.
-Vagi (V): Let; allow; permit. Vugi (*): Forbid.
-Vage (D): Free. Vuge (*): Constrained.
-Vapi (V): Suggest; recommend; advise; direct; guide; lead; propose.
-Vapa (V): Demand; request; ask for; order; command. Vupa (*): Request not.
-Vapu (V): Fight; attack; compete with; battle. Vupu (*): Defend; protect.
-Vase (N): Government; authority; committee; council; regime.
-Vaka (N): Rule; regulation; law; policy.
-Vaza (N): Religion.
-Vatu (D): Should; ought to. Vutu (*): Should not.
-Vato (D): Fair; just; right. Vuto (*): Unfair.
+Vadu (N): ~Country; ~nation; ~state; ~territory.
+Vagu (N): ~Town; ~village; ~city.
+Vape (N): ~Money; ~currency.
+Vapo (N): ~Price; ~cost; ~fee.
+Vave (V): ~Pay; give money; ~spend. Vuve (*): Accept payment.
+Vavo (V): ~Buy; ~purchase. Vuvo (*): ~Sell.
+Vazu (N): ~Shop; ~store; ~restaurant.
+Vazo (N): ~Company; ~business; ~enterprise.
+Vadi (V): ~Work on; ~operate; ~function; do something productive.
+Vade (V): ~Practice; ~exercise; ~train.
+Vada (D): ~Busy; ~preoccupied; ~engaged. Vuda (*): ~Idle.
+Vado (N): ~Job; ~occupation; ~career; ~duty; ~responsibility; ~profession.
+Vavu (D): ~Rest; ~relax.
+Vaku (D): ~Imperative; ~please. Vuku (*): Please do not.
+Vako (V): ~Control; ~drive; ~manage; ~operate; ~regulate.
+Vake (V): ~Capture; ~trap. Vuke (*): ~Release.
+Vagi (V): ~Let; ~allow; ~permit. Vugi (*): ~Forbid.
+Vage (D): ~Free. Vuge (*): ~Constrained.
+Vapi (V): ~Suggest; ~recommend; ~advise; ~direct; ~guide; ~lead; ~propose.
+Vapa (V): ~Demand; ~request; ~ask for; ~order; ~command. Vupa (*): Request not.
+Vapu (V): ~Fight; ~attack; ~compete with; ~battle. Vupu (*): ~Defend; ~protect.
+Vase (N): ~Government; ~authority; ~committee; ~council; ~regime.
+Vaka (N): ~Rule; ~regulation; ~law; ~policy.
+Vaza (N): ~Religion.
+Vatu (D): ~Should; ~ought to. Vutu (*): Should not.
+Vato (D): ~Fair; ~just; ~right. Vuto (*): ~Unfair.
 
 > FOOD (FA-)
 
-Fadi (N): Food; fuel.
-Fapi (N): Drink; beverage.
-Fapo (N): Alcohol.
-Fagi (N): Dessert; treat; candy.
-Fapa (N): Vegetable.
-Fasi (N): Fruit.
-Fadu (N): Potato.
-Fava (N): Grain.
-Fave (N): Wheat.
-Favi (N): Rice.
-Fate (N): Corn.
-Fasa (N): Tomato.
-Fape (N): Meat; flesh; muscle.
-Fazi (N): Sugar.
-Faza (N): Salt.
-Fade (N): Bread; cake; pastry.
-Faba (N): Coffee.
-Fage (N): Milk.
-Fafu (N): Pasta.
-Fagu (N): Cheese.
-Fato (V): Eat; drink; consume.
-Fati (V): Bite; chew.
-Fapu (V): Swallow.
-Favo (V): Digest.
-Favu (N): Dish; plate; tray.
-Fada (D): Cook; bake.
+Fadi (N): ~Food; ~fuel.
+Fapi (N): ~Drink; ~beverage.
+Fapo (N): ~Alcohol.
+Fagi (N): ~Dessert; ~treat; ~candy.
+Fapa (N): ~Vegetable.
+Fasi (N): ~Fruit.
+Fadu (N): ~Potato.
+Fava (N): ~Grain.
+Fave (N): ~Wheat.
+Favi (N): ~Rice.
+Fate (N): ~Corn.
+Fasa (N): ~Tomato.
+Fape (N): ~Meat; ~flesh; ~muscle.
+Fazi (N): ~Sugar.
+Faza (N): ~Salt.
+Fade (N): ~Bread; ~cake; ~pastry.
+Faba (N): ~Coffee.
+Fage (N): ~Milk.
+Fafu (N): ~Pasta.
+Fagu (N): ~Cheese.
+Fato (V): ~Eat; ~drink; ~consume.
+Fati (V): ~Bite; ~chew.
+Fapu (V): ~Swallow.
+Favo (V): ~Digest.
+Favu (N): ~Dish; ~plate; ~tray.
+Fada (D): ~Cook; ~bake.
 
 
