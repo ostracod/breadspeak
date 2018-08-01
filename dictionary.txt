@@ -322,7 +322,7 @@ Gaba (V): ~Need; ~require; ~must. Guba (*): Must not.
 Gage (V): ~Choose; ~decide; ~pick; ~commit; ~elect; ~select; ~vote for.
 Gato (V): ~Use; ~utilize; ~employ.
 Gatu (V): ~Try; ~attempt. Gutu (*): Try not to.
-Gati (V): ~Win; ~succeed at; ~defeat; ~beat; ~dominate. Guti (*): ~Fail; ~lose.
+Gati (V): ~Win; ~succeed at; ~defeat; ~beat; ~dominate; ~work. Guti (*): ~Fail; ~lose.
 Gave (V): ~Help do something; ~serve; ~support; ~assist; ~aid. Guve (*): ~Hinder.
 Gasa (N): ~Purpose; ~point; ~reason for existing; ~role; ~justification.
 Gagu (N): ~Plan; ~intention; ~scheme; ~strategy; ~design.
