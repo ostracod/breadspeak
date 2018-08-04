@@ -415,7 +415,7 @@ Help the plant!
 (code){"Vaku" carry sand!}
 Carry the sand!
 
-To form a question with a yes-no answer, use the word (bs){saze}.
+To form a question about the probability of something or whether it is true, use the word (bs){saze}.
 
 (bs){Vefa saze gave pepa?}
 (code){Rain "saze" help plant?}
@@ -425,7 +425,7 @@ Is the rain helping the plant?
 (code){Vehicle "saze" carry sand?}
 Is the vehicle carrying sand?
 
-To form a question with an open-ended answer, use the word (bs){sazi}.
+To form a question about the identity of something, use the word (bs){sazi}.
 
 (bs){Vefa gave sazi pepa?}
 (code){Rain help which plant?}
@@ -434,6 +434,16 @@ Which plant is the rain helping?
 (bs){Sazi zaso tepa veba?}
 (code){Which vehicle carry sand?}
 Which vehicle is carrying sand?
+
+To form a question about the extent or degree of something, use the word (bs){saza}.
+
+(bs){Ke saza fedi?}
+(code){You how-much tired?}
+How tired are you?
+
+(bs){Saza sezu favu pi zapi?}
+(code){How many dish in container?}
+How many dishes are in the container?
 
 By default, (bs){va} and (bs){vu} refer to the primary object of a word. To refer to another object, use the word (bs){savo}.
 

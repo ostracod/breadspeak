@@ -257,8 +257,9 @@ Saba (D): ~Happen; ~occur.
 Savo (D): Specifies the object to which an embedded clause is referring. The default object is the primary object.
 Savu (D): Specifies the concept to which "deku" is referring. Usage is optional, but recommended to remove ambiguity.
 Saki (D): ~Exact; ~precise; ~particular; ~specific; ~certain; ~definite. Suki (*): ~Vague; ~general; ~imprecise.
-Sazi (D): ~Which; ~interrogative identity.
-Saze (D): ~Does; ~interrogative truth.
+Sazi (D): ~Which; which one; ~interrogative identity.
+Saze (D): ~Does; how likely; ~interrogative truth or probability.
+Saza (D): ~How much; how; to what degree; ~interrogative extent.
 Sase (D): ~Whether; ~if; represents the ~truth of a clause.
 Saka (N): ~Name; ~title.
 Sade (N): ~Example; ~sample; ~instance; ~model.
