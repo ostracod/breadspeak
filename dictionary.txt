@@ -575,7 +575,7 @@ Kezo (N): ~Pattern; ~trend.
 Keko (P): ~By ~means of; having a ~manner pertaining to; in ~accordance with; ~as ~though; as ~if.
 Keti (D): ~Change; become different; ~transform.
 Kefi (V): ~Change; ~alter; ~convert; cause to become different.
-Keze (V): ~Seem like; ~appear to be; ~look like; ~sound like. Kize (*): Seem unlike.
+Keze (D): ~Seem to be; ~seemingly; ~ostensibly; ~appear to be. Kize (*): Seem unlike.
 Keba (V): ~Fix; ~heal; ~repair; ~solve; ~resolve. Kiba (*): ~Damage; ~hurt.
 Keda (D): ~Hot; ~warm. Kida (*): ~Cold; ~cool.
 Kepi (D): ~Wet; ~damp; ~moist. Kipi (*): ~Dry.
