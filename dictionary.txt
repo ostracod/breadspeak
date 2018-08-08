@@ -208,7 +208,7 @@ Teso (D): ~Walk; ~run.
 Tebu (D): ~Reflect; ~deflect; ~bounce.
 Tebo (D): ~Fall; ~drop; ~collapse; ~pour; ~spill.
 Tepe (D): ~Fly.
-Teze (D): ~Slide; ~glide; ~slip.
+Tesu (D): ~Slide; ~glide; ~slip.
 Tepi (D): ~Shower; ~spray.
 Tede (D): ~Spread; ~disperse. Tide (*): ~Gather; ~congregate.
 Tezo (D): ~Shake; ~vibrate; ~shiver.
