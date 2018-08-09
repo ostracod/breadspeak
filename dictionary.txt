@@ -254,8 +254,7 @@ Sabo (N): ~Object; ~item; physical ~entity.
 Sabu (N): ~Mass; ~matter.
 Satu (N): ~Event; ~incident.
 Saba (D): ~Happen; ~occur.
-Savo (D): Specifies the object to which an embedded clause is referring. The default object is the primary object.
-Savu (D): Specifies the concept to which "deku" is referring. Usage is optional, but recommended to remove ambiguity.
+Savo (D): Specifies the concept to which an embedded clause is referring.
 Saki (D): ~Exact; ~precise; ~particular; ~specific; ~certain; ~definite. Suki (*): ~Vague; ~general; ~imprecise.
 Sazi (D): ~Which; which one; ~interrogative identity.
 Saze (D): ~Does; how likely; ~interrogative truth or probability.
@@ -518,7 +517,7 @@ Deki (D): ~As; to a certain ~extent; ~so.
 Dedo (D): ~Even.
 Degi (D): ~Almost; ~nearly; ~virtually.
 Desa (D): ~Opposite; ~inverse in meaning.
-Deku (P): ~Relative to; with ~respect to; ~than. Optionally use in combination with "savu".
+Deku (P): ~Relative to; with ~respect to; ~than.
 Detu (N): ~Action; ~activity.
 Deka (V): ~Do; ~perform; ~participate in an action. Dika (*): ~Undo.
 Desi (V): ~Respond to; ~react.

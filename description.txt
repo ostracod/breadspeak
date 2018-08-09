@@ -463,15 +463,15 @@ The sand which is being carried by the vehicle on the road creates a smell.
 (code){"Va" vehicle carry sand "so" on "savo" road "vu" create smell.}
 The road on which the vehicle carries sand creates a smell.
 
-To specify the basis for (bs){deku} (relative to), use the word (bs){savu}. This word is not required, but recommended in ambiguous contexts.
+The word (bs){savo} may also be used to refer to descriptors and prepositions in an embedded clause.
 
-(bs){Savu bezu ga pafa vege deku fe pebe}
-(code){"Savu" bright and high cloud relative-to that bird}
-A bright and high cloud relative to that bird (Relative to the brightness, not elevation)
+(bs){Da pebe savo teta tepe du deku pesa.}
+(code){"Da" bird "savo" fast fly "du" relative-to bug.}
+The bird is flying quickly relative to the bug.
 
-(bs){Bezu ga savu pafa vege deku fe pebe}
-(code){Bright and "savu" high cloud relative-to that bird}
-A bright and high cloud relative to that bird (Relative to the elevation, not brightness)
+(bs){Da peka savo kepa tepa peti du gako bo tu gedi.}
+(code){"Da" person "savo" careful carry egg "du" for it not break.}
+The person carefully carried the egg so that it would not break.
 
 To refer to whether an embedded clause is true, use the word (bs){sase}.
 
