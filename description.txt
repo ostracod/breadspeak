@@ -507,6 +507,22 @@ One third of a circle
 (code){Eight circle "sevo" six}
 Eight million circles
 
+To swap the roles of subject and object for a verb or preposition, use the word (bs){zedo}.
 
+(bs){Zake pasu kaka.}
+(code){Computer store information.}
+The computer stores information.
+
+(bs){Kaka zedo pasu zake.}
+(code){Information "zedo" store computer.}
+Information is stored by the computer.
+
+(bs){Si vaza zedu do keve.}
+(code){The religion about "do" nice.}
+The religion is about kindness.
+
+(bs){Do keve zedo zedu si vaza.}
+(code){"Do" nice "zedo" about the religion.}
+The religion is about kindness. (Kindness is being "abouted" by the religion)
 
 

@@ -531,6 +531,7 @@ Deke (D): ~Act; ~perform; ~behave.
 
 Zeze (N): ~Order; ~organization; ~arrangement; ~configuration.
 Zeka (V): ~Organize; ~order; ~sort; ~arrange. Zika (*): ~Disorganize; ~mix; ~stir; ~scramble.
+Zedo (D): Reverses the order of subject and object for a verb or preposition.
 Zeku (D): ~Ranked; converts a cardinal number to an ~ordinal number.
 Zeto (D): ~First; ~initial; ~original. Zito (*): ~Last; ~final.
 Zeti (N): ~Start; ~beginning; first part. Ziti (*): ~End.
