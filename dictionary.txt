@@ -11,16 +11,16 @@ LEGEND_START
 
 > SINGLE SYLLABLE
 
-Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the clause.
-Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the clause.
-Do (Singleton Particle): Precedes a single word; refers to the state, quality, action or process of the word.
+Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause.
+Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause.
+Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word.
 Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the clause.
 Fu (Enclosing Particle): End of embedded clause; refers to the subject of the clause.
 Fo (Singleton Particle): Precedes a single word; refers to the subject of the word.
 Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the clause.
 Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
-So (Delimiting Particle): Forms descriptor-preposition clauses and verb-object-preposition clauses.
+So (Delimiting Particle): Forms clause extensions.
 Pa (Enclosing Particle): Start of conjunction phrase.
 Pu (Enclosing Particle): End of conjunction phrase.
 Gi (Narrow Conjunction): ~And; ~both.

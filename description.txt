@@ -296,17 +296,6 @@ The rain helps during this season.
 (code){Vehicle carry on road.}
 The vehicle carries on the road.
 
-Verb-object-preposition clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2) "so" (preposition phrase)}
-Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
-
-(bs){Vefa gave pepa so tapi fi tado.}
-(code){Rain help plant "so" during this season.}
-The rain helps the plant during this season.
-
-(bs){Zaso tepa veba so pabi zaze.}
-(code){Vehicle carry sand "so" on road.}
-The vehicle carries sand on the road.
-
 Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
 The noun phrase is the subject. The descriptor phrase describes the noun phrase.
 
@@ -317,17 +306,6 @@ The rain is falling.
 (bs){Zaso kebe.}
 (code){Vehicle safe.}
 The vehicle is safe.
-
-Descriptor-preposition clause structure: (code){(noun phrase?) (descriptor phrase) "so" (preposition phrase)}
-The noun phrase is the subject. The first object of the preposition phrase is the primary object. The descriptor phrase describes the noun phrase. The preposition phrase modifies the action of the descriptor.
-
-(bs){Vefa tebo so tapi fi tado.}
-(code){Rain fall "so" during this season.}
-The rain falls during this season.
-
-(bs){Zaso kebe so pabi zaze.}
-(code){Vehicle safe "so" on road.}
-The vehicle is safe on the road.
 
 Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
 The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase.
@@ -350,6 +328,30 @@ There is rain. (It is raining.)
 (bs){Zaso.}
 (code){Vehicle.}
 There is a vehicle.
+
+A clause extension may be formed with the particle (bs){so}. Every clause extension must follow one of the structures below.
+
+Preposition clause extension structure: (code){(base clause) "so" (preposition phrase)}
+The preposition phrase modifies the state, quality, action, or process of the base clause.
+
+(bs){Vefa gave pepa so tapi fi tado.}
+(code){Rain help plant "so" during this season.}
+The rain helps the plant during this season.
+
+(bs){Zaso kebe so pabi zaze.}
+(code){Vehicle safe "so" on road.}
+The vehicle is safe on the road.
+
+Verb clause extension structure: (code){(base clause) "so" (verb phrase) (noun phrase)}
+The state, quality, action, or process of the base clause is the subject. The noun phrase is the direct object. The state, quality, action, or process of the base clause performs the action of the verb phrase. The noun phrase receives the action of the verb phrase.
+
+(bs){Vefa baka dadu so ka bezo.}
+(code){Rain hit ground "so" cause noise.}
+The act of the rain hitting the ground causes noise.
+
+(bs){Zaso kebe so feki peto.}
+(code){Vehicle safe "so" surprise adult.}
+The fact that the vehicle is safe surprises the adult.
 
 A clause may be embedded in another clause by using specific particles. An embedded clause behaves as a noun. The meaning of this noun depends on the particles chosen. An embedded clause starts with the particle (bs){da}, (bs){fa}, or (bs){va}, and ends with the corresponding particle (bs){du}, (bs){fu}, or (bs){vu}.
 
