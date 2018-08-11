@@ -342,7 +342,7 @@ The rain helps the plant during this season.
 (code){Vehicle safe "so" on road.}
 The vehicle is safe on the road.
 
-Verb clause extension structure: (code){(base clause) "so" (verb phrase) (noun phrase)}
+Verb clause extension structure: (code){(base clause) "so" (verb phrase) (noun phrase?)}
 The state, quality, action, or process of the base clause is the subject. The noun phrase is the direct object. The state, quality, action, or process of the base clause performs the action of the verb phrase. The noun phrase receives the action of the verb phrase.
 
 (bs){Vefa baka dadu so ka bezo.}
