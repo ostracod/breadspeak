@@ -264,7 +264,7 @@ A river or hill in front of the building (Both are in front of the building)
 
 (title2){CLAUSE STRUCTURE}
 
-A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every clause must follow one of the structures below.
+A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every base clause must follow one of the structures below.
 
 Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
 Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase.
