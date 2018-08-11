@@ -14,11 +14,11 @@ LEGEND_START
 Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause.
 Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause.
 Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word.
-Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the clause.
-Fu (Enclosing Particle): End of embedded clause; refers to the subject of the clause.
+Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the base clause.
+Fu (Enclosing Particle): End of embedded clause; refers to the subject of the base clause.
 Fo (Singleton Particle): Precedes a single word; refers to the subject of the word.
-Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the clause.
-Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the clause.
+Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause.
+Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
 So (Delimiting Particle): Forms clause extensions.
 Pa (Enclosing Particle): Start of conjunction phrase.

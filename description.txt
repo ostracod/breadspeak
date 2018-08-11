@@ -129,7 +129,7 @@ Particles enforce grammatical structure in sentences. Enclosing particles at the
 
 (title2){PHRASE STRUCTURE}
 
-Clauses consist of phrases. Every phrase must follow one of the structures below.
+Clauses consist of phrases and particles. Every phrase must follow one of the structures below.
 
 Descriptor phrase structure: (code){(descriptor phrase?) (descriptor word)}
 The descriptor phrase describes the descriptor word.
@@ -201,7 +201,7 @@ Loudly call
 (code){Hit attack}
 Attack by hitting
 
-A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a clause, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
+A numeric phrase consists of a sequence of consecutive numeric words. If a numeric phrase is placed at the end of a base clause or clause extension, the numeric phrase behaves as a noun word. Otherwise, the numeric phrase behaves as a descriptor word.
 
 (bs){Seto sesa}
 (code){One seven}
@@ -266,7 +266,7 @@ A river or hill in front of the building (Both are in front of the building)
 
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every base clause must follow one of the structures below.
 
-Verb-object clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
+Verb-object base clause structure: (code){(noun phrase 1?) (verb phrase) (noun phrase 2?)}
 Noun phrase 1 is the subject. Noun phrase 2 is the direct object and primary object. Noun phrase 1 performs the action of the verb phrase. Noun phrase 2 receives the action of the verb phrase.
 
 (bs){Vefa gave pepa.}
@@ -285,7 +285,7 @@ The vehicle carries sand.
 (code){Carry sand.}
 The sand is carried.
 
-Verb-preposition clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
+Verb-preposition base clause structure: (code){(noun phrase?) (verb phrase) (preposition phrase)}
 The noun phrase is the subject. The first object of the preposition phrase is the primary object. The noun phrase performs the action of the verb phrase. The preposition phrase modifies the action of the verb phrase.
 
 (bs){Vefa gave tapi fi tado.}
@@ -296,7 +296,7 @@ The rain helps during this season.
 (code){Vehicle carry on road.}
 The vehicle carries on the road.
 
-Descriptor clause structure: (code){(noun phrase?) (descriptor phrase)}
+Descriptor base clause structure: (code){(noun phrase?) (descriptor phrase)}
 The noun phrase is the subject. The descriptor phrase describes the noun phrase.
 
 (bs){Vefa tebo.}
@@ -307,7 +307,7 @@ The rain is falling.
 (code){Vehicle safe.}
 The vehicle is safe.
 
-Preposition clause structure: (code){(simple noun phrase?) (preposition phrase)}
+Preposition base clause structure: (code){(simple noun phrase?) (preposition phrase)}
 The noun phrase is the subject. The first object of the preposition phrase is the primary object. The preposition phrase modifies the noun phrase.
 
 (bs){Vefa tapi fi tado.}
@@ -318,7 +318,7 @@ The rain is during this season.
 (code){Vehicle on road.}
 The vehicle is on the road.
 
-Noun clause structure: (code){(simple noun phrase)}
+Noun base clause structure: (code){(simple noun phrase)}
 The noun phrase is the subject. The emphasis of the clause is on the existence of the noun phrase.
 
 (bs){Vefa.}
