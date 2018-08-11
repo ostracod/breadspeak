@@ -329,10 +329,33 @@ There is rain. (It is raining.)
 (code){Vehicle.}
 There is a vehicle.
 
-A clause extension may be formed with the particle (bs){so}. Every clause extension must follow one of the structures below.
+Clause extension is a mechanism for adding extra detail to a base clause. Clause extension structure is the same as base clause structure, except clause extensions have no noun phrase subject. The structures below are valid for clause extensions.
 
-Preposition clause extension structure: (code){(base clause) "so" (preposition phrase)}
-The preposition phrase modifies the state, quality, action, or process of the base clause.
+Verb-object clause extension structure: (code){(verb phrase) (noun phrase?)}
+Verb-preposition clause extension structure: (code){(verb phrase) (preposition phrase)}
+Preposition clause extension structure: (code){(preposition phrase)}
+Descriptor clause extension structure: (code){(descriptor phrase)}
+
+(bs){Ka bezo}
+(code){Cause noise}
+Causes noise
+
+(bs){Fedo tapi tubi}
+(code){Entertain during night}
+Is entertaining during the night
+
+(bs){Tapi fi tado}
+(code){During this season}
+During this season
+
+(bs){Zu gagi}
+(code){Very good}
+Is very good
+
+Clause extensions are placed after a base clause, and are each immediately preceded by the particle (bs){so}. The subject of a clause extension is the state, quality, action, or process of its base clause.
+
+Structure of clause with one clause extension: (code){(base clause) "so" (clause extension)}
+The subject of the clause extension is the state, quality, action or process of the base clause.
 
 (bs){Vefa gave pepa so tapi fi tado.}
 (code){Rain help plant "so" during this season.}
@@ -341,9 +364,6 @@ The rain helps the plant during this season.
 (bs){Zaso kebe so pabi zaze.}
 (code){Vehicle safe "so" on road.}
 The vehicle is safe on the road.
-
-Verb clause extension structure: (code){(base clause) "so" (verb phrase) (noun phrase?)}
-The state, quality, action, or process of the base clause is the subject. The noun phrase is the direct object. The state, quality, action, or process of the base clause performs the action of the verb phrase. The noun phrase receives the action of the verb phrase.
 
 (bs){Vefa baka dadu so ka bezo.}
 (code){Rain hit ground "so" cause noise.}
