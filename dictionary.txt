@@ -20,7 +20,7 @@ Fo (Singleton Particle): Precedes a single word; refers to the subject of the wo
 Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause.
 Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause.
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
-So (Delimiting Particle): Forms clause extensions.
+So (Delimiting Particle): Precedes a clause extension.
 Pa (Enclosing Particle): Start of conjunction phrase.
 Pu (Enclosing Particle): End of conjunction phrase.
 Gi (Narrow Conjunction): ~And; ~both.
