@@ -69,6 +69,16 @@ def parseKeywords(definition):
         definition = definition[0:tempStartIndex] + definition[(tempStartIndex + 1):len(definition)]
     return (definition, output)
 
+def parseShortDefinition(definition):
+    tempMarker = "SHORT["
+    tempStartIndex = definition.find(tempMarker)
+    if tempStartIndex < 0:
+        return (definition, None)
+    tempEndIndex = definition.find("]", tempStartIndex)
+    output = definition[(tempStartIndex + len(tempMarker)):tempEndIndex]
+    definition = definition[0:tempStartIndex] + definition[(tempEndIndex + 1):len(definition)]
+    return (definition, output)
+
 class Entry(object):
     
     def __init__(self, line):
@@ -100,9 +110,12 @@ class Entry(object):
             self.hasAntonym = False
         self.definition, tempKeywordList = parseKeywords(self.definition)
         self.keywordList.extend(tempKeywordList)
+        self.definition, self.shortDefinition = parseShortDefinition(self.definition)
+        self.definition = self.definition.strip()
         if self.hasAntonym:
             self.antonymDefinition, tempKeywordList = parseKeywords(self.antonymDefinition)
             self.keywordList.extend(tempKeywordList)
+            self.antonymDefinition = self.antonymDefinition.strip()
     
     def toString(self):
         if self.word is None:
@@ -127,6 +140,7 @@ class Entry(object):
             "word": self.word,
             "partOfSpeech": self.partOfSpeech,
             "definition": self.definition,
+            "shortDefinition": self.shortDefinition,
             "antonym": tempAntonym,
             "keywords": self.keywordList
         }

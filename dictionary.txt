@@ -11,56 +11,56 @@ LEGEND_START
 
 > SINGLE SYLLABLE
 
-Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause.
-Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause.
-Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word.
-Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the base clause.
-Fu (Enclosing Particle): End of embedded clause; refers to the subject of the base clause.
-Fo (Singleton Particle): Precedes a single word; refers to the subject of the word.
-Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause.
-Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause.
-Vo (Singleton Particle): Precedes a single word; refers to the object of the word.
-So (Delimiting Particle): Precedes a clause extension.
-Pa (Enclosing Particle): Start of conjunction phrase.
-Pu (Enclosing Particle): End of conjunction phrase.
-Gi (Narrow Conjunction): ~And; ~both.
-Ga (Wide Conjunction): ~And; ~both.
-Go (Wide Conjunction): ~Or; ~either; one or both.
-Gu (Wide Conjunction): ~Xor; exactly one but not both. {"extraKeywords": ["or"]}
-Ke (N): ~You; singular.
-Ki (N): ~I/~me.
-Be (N): ~You all; plural.
-Bi (N): ~We/~us.
-To (N): ~He/~him.
-Po (N): ~She/~her.
-Bo (N): ~It.
-Zo (N): ~They/~them; genderless.
-Ko (N): ~They/~them; plural.
-Ge (N): ~Self; refers to the subject of the containing clause.
-Su (N): ~Thing; the most general noun; ~stuff.
-Se (D): ~A not previously mentioned one; ~some.
-Si (D): ~The previously mentioned one.
-Fe (D): ~That; a more distant one.
-Fi (D): ~This; a closer one.
-Ve (D): ~There.
-Vi (D): ~Here.
-Ba (D): ~Future tense. {"extraKeywords": ["will"]}
-Bu (D): ~Past tense. {"extraKeywords": ["was"]}
-Ze (D): ~Then.
-Zi (D): ~Now; ~current; ~present.
-Ta (D): ~True; ~real; ~actual; ~accurate; ~correct; ~yes; ~genuine.
-Tu (D): ~False; ~not; ~no.
-Sa (V): ~Be an instance of. {"extraKeywords": ["is"]}
-Ka (V): ~Cause; ~create; ~because; ~build; ~construct; ~craft; ~establish; ~generate; ~produce.
-Ku (V): ~Prevent; ~destroy.
-Pe (P): ~Out; ~outside.
-Pi (P): ~In; ~inside; ~at.
-De (P): ~From; away from.
-Di (P): ~To; ~toward.
-Za (D): Not a lot; a ~little; ~slight; little; ~small.
-Zu (D): ~Very; a ~lot; ~big; ~large; ~extensive; ~grand; ~quite.
-Te (D): ~Go; ~move; ~travel.
-Ti (D): ~Stay; not move.
+Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Clause start]
+Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Clause end]
+Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word. SHORT[Clause word]
+Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the base clause. SHORT[Clause start]
+Fu (Enclosing Particle): End of embedded clause; refers to the subject of the base clause. SHORT[Clause end]
+Fo (Singleton Particle): Precedes a single word; refers to the subject of the word. SHORT[Clause word]
+Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause. SHORT[Clause start]
+Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause. SHORT[Clause end]
+Vo (Singleton Particle): Precedes a single word; refers to the object of the word. SHORT[Clause word]
+So (Delimiting Particle): Precedes a clause extension. SHORT[Clause extension]
+Pa (Enclosing Particle): Start of conjunction phrase. SHORT[Conjunction phrase]
+Pu (Enclosing Particle): End of conjunction phrase. SHORT[Conjunction phrase]
+Gi (Narrow Conjunction): ~And; ~both. SHORT[Narrow and]
+Ga (Wide Conjunction): ~And; ~both. SHORT[Wide and]
+Go (Wide Conjunction): ~Or; ~either; one or both. SHORT[Inclusive or]
+Gu (Wide Conjunction): ~Xor; exactly one but not both. SHORT[Exclusive or] {"extraKeywords": ["or"]}
+Ke (N): ~You; singular. SHORT[You singular]
+Ki (N): ~I/~me. SHORT[I]
+Be (N): ~You all; plural. SHORT[You plural]
+Bi (N): ~We/~us. SHORT[We]
+To (N): ~He/~him. SHORT[He]
+Po (N): ~She/~her. SHORT[She]
+Bo (N): ~It. SHORT[It]
+Zo (N): ~They/~them; genderless. SHORT[They genderless]
+Ko (N): ~They/~them; plural. SHORT[They plural]
+Ge (N): ~Self; refers to the subject of the containing clause. SHORT[Self]
+Su (N): ~Thing; the most general noun; ~stuff. SHORT[Thing]
+Se (D): ~A not previously mentioned one; ~some. SHORT[A]
+Si (D): ~The previously mentioned one. SHORT[The]
+Fe (D): ~That; a more distant one. SHORT[That]
+Fi (D): ~This; a closer one. SHORT[This]
+Ve (D): ~There. SHORT[There]
+Vi (D): ~Here. SHORT[Here]
+Ba (D): ~Future tense. SHORT[Future] {"extraKeywords": ["will"]}
+Bu (D): ~Past tense. SHORT[Past] {"extraKeywords": ["was"]}
+Ze (D): ~Then. SHORT[Then]
+Zi (D): ~Now; ~current; ~present. SHORT[Now]
+Ta (D): ~True; ~real; ~actual; ~accurate; ~correct; ~yes; ~genuine. SHORT[True]
+Tu (D): ~False; ~not; ~no. SHORT[False]
+Sa (V): ~Be an instance of. SHORT[Be] {"extraKeywords": ["is"]}
+Ka (V): ~Cause; ~create; ~because; ~build; ~construct; ~craft; ~establish; ~generate; ~produce. SHORT[Cause]
+Ku (V): ~Prevent; ~destroy. SHORT[Prevent]
+Pe (P): ~Out; ~outside. SHORT[Out]
+Pi (P): ~In; ~inside; ~at. SHORT[In]
+De (P): ~From; away from. SHORT[From]
+Di (P): ~To; ~toward. SHORT[To]
+Za (D): Not a lot; a ~little; ~slight; little; ~small. SHORT[A little]
+Zu (D): ~Very; a ~lot; ~big; ~large; ~extensive; ~grand; ~quite. SHORT[Very]
+Te (D): ~Go; ~move; ~travel. SHORT[Go]
+Ti (D): ~Stay; not move. SHORT[Stay]
 
 > POSITION AND ROTATION (PA-)
 
