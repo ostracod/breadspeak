@@ -101,16 +101,18 @@ class Entry(object):
         self.definition = line[(tempEndIndex + 3):len(line)]
         index = self.definition.find("(*):")
         if index >= 0:
-            index2 = self.definition.rfind(".", 0, index)
-            self.antonymWord = self.definition[(index2 + 2):(index - 1)].upper()
+            index2 = self.definition.rfind(" ", 0, index - 2)
+            self.antonymWord = self.definition[(index2 + 1):(index - 1)].upper()
             self.antonymDefinition = self.definition[(index + 5):len(self.definition)]
-            self.definition = self.definition[0:(index2 + 1)]
+            self.definition = self.definition[0:index2]
             self.hasAntonym = True
         else:
             self.hasAntonym = False
         self.definition, tempKeywordList = parseKeywords(self.definition)
         self.keywordList.extend(tempKeywordList)
         self.definition, self.shortDefinition = parseShortDefinition(self.definition)
+        if self.shortDefinition is None and len(tempKeywordList) > 0:
+            self.shortDefinition = tempKeywordList[0].capitalize()
         self.definition = self.definition.strip()
         if self.hasAntonym:
             self.antonymDefinition, tempKeywordList = parseKeywords(self.antonymDefinition)

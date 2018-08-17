@@ -11,18 +11,18 @@ LEGEND_START
 
 > SINGLE SYLLABLE
 
-Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Clause start]
-Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Clause end]
-Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word. SHORT[Clause word]
-Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the base clause. SHORT[Clause start]
-Fu (Enclosing Particle): End of embedded clause; refers to the subject of the base clause. SHORT[Clause end]
-Fo (Singleton Particle): Precedes a single word; refers to the subject of the word. SHORT[Clause word]
-Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause. SHORT[Clause start]
-Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause. SHORT[Clause end]
-Vo (Singleton Particle): Precedes a single word; refers to the object of the word. SHORT[Clause word]
+Da (Enclosing Particle): Start of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Action clause start]
+Du (Enclosing Particle): End of embedded clause; refers to the state, quality, action, or process of the base clause. SHORT[Action clause end]
+Do (Singleton Particle): Precedes a single word; refers to the state, quality, action, or process of the word. SHORT[Action clause word]
+Fa (Enclosing Particle): Start of embedded clause; refers to the subject of the base clause. SHORT[Subject clause start]
+Fu (Enclosing Particle): End of embedded clause; refers to the subject of the base clause. SHORT[Subject clause end]
+Fo (Singleton Particle): Precedes a single word; refers to the subject of the word. SHORT[Subject clause word]
+Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause. SHORT[Object clause start]
+Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause. SHORT[Object clause end]
+Vo (Singleton Particle): Precedes a single word; refers to the object of the word. SHORT[Object clause word]
 So (Delimiting Particle): Precedes a clause extension. SHORT[Clause extension]
-Pa (Enclosing Particle): Start of conjunction phrase. SHORT[Conjunction phrase]
-Pu (Enclosing Particle): End of conjunction phrase. SHORT[Conjunction phrase]
+Pa (Enclosing Particle): Start of conjunction phrase. SHORT[Conjunction phrase start]
+Pu (Enclosing Particle): End of conjunction phrase. SHORT[Conjunction phrase end]
 Gi (Narrow Conjunction): ~And; ~both. SHORT[Narrow and]
 Ga (Wide Conjunction): ~And; ~both. SHORT[Wide and]
 Go (Wide Conjunction): ~Or; ~either; one or both. SHORT[Inclusive or]
@@ -66,9 +66,9 @@ Ti (D): ~Stay; not move. SHORT[Stay]
 
 Papo (N): ~Position; ~location; ~place; ~site.
 Pado (N): ~Rotation; ~orientation; ~direction; ~angle.
-Pagu (P): To the ~right of. Pugu (*): To the ~left of.
-Pafu (D): ~Right; the direction. Pufu (*): ~Left.
-Pago (P): In ~front of; ~ahead of; ~beyond. Pugo (*): ~Behind.
+Pagu (P): To the ~right of. SHORT[Right preposition] Pugu (*): To the ~left of.
+Pafu (D): ~Right; the direction. SHORT[Right descriptor] Pufu (*): ~Left.
+Pago (P): In ~front of; ~ahead of; ~beyond. SHORT[Front] Pugo (*): ~Behind.
 Pafo (D): ~Forward. Pufo (*): ~Backward.
 Paga (P): ~Over; ~above. Puga (*): ~Under; ~below; ~beneath.
 Pafa (D): ~Up; ~high. Pufa (*): ~Down; ~low.
@@ -112,8 +112,8 @@ Tatu (D): ~Early. Tutu (*): ~Late.
 Tate (D): ~Temporary. Tute (*): ~Permanent.
 Take (N): ~Minute.
 Tako (N): ~Hour.
-Tadi (N): ~Day; a period of 24 hours.
-Tabi (N): ~Day; the time when the sun is in the sky. Tubi (*): ~Night.
+Tadi (N): ~Day; a period of 24 hours. SHORT[Day 24 hours]
+Tabi (N): ~Day; the time when the sun is in the sky. SHORT[Day bright time] Tubi (*): ~Night.
 Tade (N): ~Week.
 Tada (N): ~Month.
 Tado (N): ~Season.
