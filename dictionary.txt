@@ -334,7 +334,7 @@ Gavo (N): ~Prize; ~reward; ~award; ~bonus; ~treat; ~present; ~gift. Guvo (*): ~P
 > FEELING WITH VALUE (FE-)
 
 Feku (N): ~Emotion; ~mood.
-Feti (N): ~Pain; ~ache. Fiti (*): ~Pleasure; ~euphoria.
+Feti (D): Be in ~pain; ~ache. Fiti (*): Experience ~pleasure; ~euphoria.
 Fegi (D): ~Happy; ~glad; ~content. Figi (*): ~Unhappy; ~sad; ~upset.
 Fega (D): ~Comfortable. Figa (*): ~Uncomfortable.
 Feda (D): ~Angry; ~mad.
@@ -424,7 +424,7 @@ Dage (N): ~Finger; ~toe; ~stick.
 Dasu (N): ~Leaf.
 Dabu (N): ~Hand.
 Date (N): ~Foot.
-Dada (N): ~Hair; ~fur; ~feather.
+Dada (N): ~Hair; strand of ~fur; ~feather.
 Daga (N): ~Organ.
 Dasa (N): ~Cell; part of an organism.
 Daza (N): ~Atom.
