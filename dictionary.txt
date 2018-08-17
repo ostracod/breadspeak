@@ -359,7 +359,7 @@ Fesa (N): ~Music; ~song; ~tune.
 > LIFE (PE-)
 
 Pepi (D): ~Alive; ~living. Pipi (*): ~Dead. {"extraKeywords": ["live"]}
-Pepu (N): ~Nature. Pipu (*): ~Artifical phenomena.
+Pepu (D): ~Natural. Pipu (*): ~Artifical.
 Pebo (N): ~Body.
 Pegi (D): ~Healthy. Pigi (*): ~Unhealthy; ~ill; ~sick.
 Peva (D): Be ~born.
