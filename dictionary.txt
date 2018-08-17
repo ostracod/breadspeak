@@ -334,7 +334,7 @@ Gavo (N): ~Prize; ~reward; ~award; ~bonus; ~treat; ~present; ~gift. Guvo (*): ~P
 > FEELING WITH VALUE (FE-)
 
 Feku (N): ~Emotion; ~mood.
-Feti (D): Be in ~pain; ~ache. Fiti (*): Experience ~pleasure; ~euphoria.
+Feti (D): Be in ~pain; ~ache; ~hurt. Fiti (*): Experience ~pleasure; ~euphoria.
 Fegi (D): ~Happy; ~glad; ~content. Figi (*): ~Unhappy; ~sad; ~upset.
 Fega (D): ~Comfortable. Figa (*): ~Uncomfortable.
 Feda (D): ~Angry; ~mad.
