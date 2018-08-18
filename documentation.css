@@ -36,4 +36,18 @@ a {
     border-radius: 3px;
 }
 
+.wordTableCell {
+    width: 100px;
+    height: 60px;
+}
+
+.wordTable {
+    border-collapse: collapse;
+}
+
+.wordTable td {
+    padding: 5px;
+    border: 1px #CCCCCC solid;
+}
+
 

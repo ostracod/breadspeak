@@ -8,6 +8,9 @@ echo "Converting dictionary to JSON..."
 echo "Creating documentation file..."
 node ./createDoc.js
 
+echo "Creating word table file..."
+node ./createWordTable.js
+
 echo "Finished faking."
 
 
