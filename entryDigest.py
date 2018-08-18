@@ -383,11 +383,26 @@ def wordExistsCommand(word):
                     return
     print word + " is not in the dictionary."
 
+def checkForDuplicateShortDefinitions():
+    tempUsedDefinitionList = []
+    tempDuplicateDefinitionList = []
+    for category in categoryList:
+        for entry in category.entryList:
+            tempDefinition = "(%s) %s" % (entry.partOfSpeech, entry.shortDefinition)
+            if tempDefinition in tempUsedDefinitionList:
+                if tempDefinition not in tempDuplicateDefinitionList:
+                    tempDuplicateDefinitionList.append(tempDefinition)
+            else:
+                tempUsedDefinitionList.append(tempDefinition)
+    print "Duplicate short definitions:"
+    print tempDuplicateDefinitionList
+
 def verifyAllCommand():
     readDictionaryFile()
     checkForDuplicateWords()
     verifyCategorySyllables()
     verifyAntonyms()
+    checkForDuplicateShortDefinitions()
     tempTotal = 0
     for category in categoryList:
         tempTotal += len(category.entryList)

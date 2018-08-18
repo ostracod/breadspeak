@@ -181,7 +181,7 @@ Bezo (N): ~Sound; ~noise.
 Beve (V): ~Hear.
 Bevo (V): ~Listen.
 Beva (D): ~Loud; ~noisy. Biva (*): ~Quiet.
-Besi (D): ~High pitched. Bisi (*): ~Low pitched.
+Besi (D): ~High pitched. SHORT[High pitched] Bisi (*): ~Low pitched.
 Beze (N): ~Buzz; ~hum.
 Bepi (N): ~Beep; ~chirp.
 Beka (N): ~Click; ~tick.
@@ -254,11 +254,11 @@ Sabo (N): ~Object; ~item; physical ~entity.
 Sabu (N): ~Mass; ~matter.
 Satu (N): ~Event; ~incident.
 Saba (D): ~Happen; ~occur.
-Savo (D): Specifies the concept to which an embedded clause is referring.
+Savo (D): Specifies the concept to which an embedded clause is referring. SHORT[Select clause concept]
 Saki (D): ~Exact; ~precise; ~particular; ~specific; ~certain; ~definite. Suki (*): ~Vague; ~general; ~imprecise.
 Sazi (D): ~Which; which one; ~interrogative identity.
-Saze (D): ~Does; how likely; ~interrogative truth or probability.
-Saza (D): ~How much; how; to what degree; ~interrogative extent.
+Saze (D): ~Does; how likely; ~interrogative truth or probability. SHORT[Interrogative truth]
+Saza (D): ~How much; how; to what degree; ~interrogative extent. SHORT[How much]
 Sase (D): ~Whether; ~if; represents the ~truth of a clause.
 Saka (N): ~Name; ~title.
 Sade (N): ~Example; ~sample; ~instance; ~model.
@@ -283,7 +283,7 @@ Kaki (D): ~Sure; ~confident; ~certain; ~indeed; ~definite. Kuki (*): ~Unsure; ~u
 Kako (V): ~Mean; ~signify; ~imply; ~indicate; ~represent; be a ~symbol for.
 Kake (V): ~Think about; ~process; ~calculate; ~compute; ~analyze; ~imagine.
 Kapa (V): ~Know; have ~knowledge about; be ~aware of; be ~conscious of; ~recognize; be ~familiar with.
-Kape (V): Have the ~opinion that; ~think; ~suppose; ~believe. Kupe (*): Not believe; ~doubt.
+Kape (V): Have the ~opinion that; ~think; ~suppose; ~believe. SHORT[Believe] Kupe (*): Not believe; ~doubt.
 Kadi (V): ~Understand; ~comprehend. Kudi (*): Be ~confused by; ~misunderstand. {"extraKeywords": ["confuse"]}
 Kapi (V): ~Recall; ~remember; ~recollect.
 Kaba (V): ~Predict; ~expect; ~infer; ~assume; ~estimate; ~judge; ~guess; ~suspect; ~presume; ~anticipate.
@@ -300,7 +300,7 @@ Kazi (V): ~Ask; ~inquire.
 Kasi (V): ~Answer; ~respond; ~reply.
 Kafa (V): ~Argue about; ~debate; ~dispute; ~protest.
 Kafi (V): ~Approve; ~verify; ~confirm; ~praise; ~support; ~agree with; ~concur; ~accept. Kufi (*): ~Disapprove; ~disagree with.
-Kafo (N): ~Thank you; ~thanks; ~gratitude.
+Kafo (N): ~Thank you; ~thanks; ~gratitude. SHORT[Thank you]
 Kave (V): ~Describe; ~explain; ~report.
 Kavi (V): ~Announce; ~declare; ~warn; ~alert; ~alarm; ~advertise.
 Kabo (N): ~Word; ~term.
@@ -334,7 +334,7 @@ Gavo (N): ~Prize; ~reward; ~award; ~bonus; ~treat; ~present; ~gift. Guvo (*): ~P
 > FEELING WITH VALUE (FE-)
 
 Feku (N): ~Emotion; ~mood.
-Feti (D): Be in ~pain; ~ache; ~hurt. Fiti (*): Experience ~pleasure; ~euphoria.
+Feti (D): Be in ~pain; ~ache; ~hurt. SHORT[Be in pain] Fiti (*): Experience ~pleasure; ~euphoria.
 Fegi (D): ~Happy; ~glad; ~content. Figi (*): ~Unhappy; ~sad; ~upset.
 Fega (D): ~Comfortable. Figa (*): ~Uncomfortable.
 Feda (D): ~Angry; ~mad.
@@ -362,7 +362,7 @@ Pepi (D): ~Alive; ~living. Pipi (*): ~Dead. {"extraKeywords": ["live"]}
 Pepu (D): ~Natural. Pipu (*): ~Artifical.
 Pebo (N): ~Body.
 Pegi (D): ~Healthy. Pigi (*): ~Unhealthy; ~ill; ~sick.
-Peva (D): Be ~born.
+Peva (D): Be ~born. SHORT[Be born]
 Peku (D): ~Decompose; ~decay; ~rot.
 Pete (N): ~Baby; ~infant.
 Peta (N): ~Child; ~kid; ~teenager; ~adolescent.
@@ -392,7 +392,7 @@ Pesa (N): ~Arthropod.
 Pega (N): ~Mollusk.
 Pevu (D): ~Sleep. Pivu (*): Be ~awake.
 Pezo (V): ~Breathe; ~inhale; ~exhale.
-Pefo (V): Have ~sex with.
+Pefo (V): Have ~sex with. SHORT[Have sex]
 
 > PARTS (DA-)
 
@@ -471,7 +471,7 @@ Vega (D): ~Flexible; ~soft. Viga (*): ~Hard; ~firm.
 Vefe (D): ~Clear; ~transparent; ~obvious. Vife (*): ~Opaque.
 Vezu (D): ~Viscous; ~thick; ~gooey. Vizu (*): ~Thin; ~runny.
 Vebo (D): ~Dense. Vibo (*): Having a low density.
-Veku (P): ~Made of; ~comprised of; ~composed of; ~consisting of. {"extraKeywords": ["comprise", "compose", "consist"]}
+Veku (P): ~Made of; ~comprised of; ~composed of; ~consisting of. SHORT[Made of] {"extraKeywords": ["comprise", "compose", "consist"]}
 
 > QUANTITY (SE-)
 
@@ -482,14 +482,14 @@ Seko (D): ~Plural; more than one; ~several; ~some.
 Sezu (D): ~Many; a ~lot; ~often; ~frequent; ~numerous. Sizu (*): ~Few; not a lot.
 Seda (D): ~Every; ~all; ~each. Sida (*): ~None.
 Segu (D): ~Common; ~usual; ~normal; ~average; ~ordinary; ~regular; ~standard; ~tend to; ~typical. Sigu (*): ~Uncommon; ~unusual.
-Sego (D): ~Most; the ~majority; almost all. Sigo (*): The ~minority.
+Sego (D): ~Most; the ~majority; almost all. SHORT[Majority] Sigo (*): The ~minority.
 Sedo (D): ~Only; ~just; ~alone; ~unique; ~sole.
 Seve (D): ~Again; another time.
 Sevi (D): ~Also; ~too.
 Sede (P): ~Add a number. Side (*): ~Subtract.
 Sepi (P): ~Multiply a number. Sipi (*): ~Divide.
 Seva (P): ~Exponentiate a number. Siva (*): ~Logarithm.
-Sevo (P): Multiply by ~ten raised to a number.
+Sevo (P): Multiply by ~ten raised to a number. SHORT[Scientific notation]
 Sedu (D): ~Negative; less than zero. Sidu (*): ~Positive.
 Setu (Numeric): ~Zero; ~no; ~none.
 Seto (Numeric): ~One; ~single; ~individual.
@@ -501,7 +501,7 @@ Seso (Numeric): ~Six.
 Sesa (Numeric): ~Seven.
 Sese (Numeric): ~Eight.
 Sesi (Numeric): ~Nine.
-Seki (Numeric): ~Decimal ~point.
+Seki (Numeric): ~Decimal ~point. SHORT[Decimal point]
 
 > EXTENT AND ACTION (DE-)
 
@@ -517,22 +517,22 @@ Deki (D): ~As; to a certain ~extent; ~so.
 Dedo (D): ~Even.
 Degi (D): ~Almost; ~nearly; ~virtually.
 Desa (D): ~Opposite; ~inverse in meaning.
-Deku (P): ~Relative to; with ~respect to; ~than.
+Deku (P): ~Relative to; with ~respect to; ~than. SHORT[Relative to]
 Detu (N): ~Action; ~activity.
 Deka (V): ~Do; ~perform; ~participate in an action. Dika (*): ~Undo.
 Desi (V): ~Respond to; ~react.
 Deta (V): ~Wait for.
 Defi (V): ~Bear; ~withstand; ~endure; ~suffer; ~stand; ~cope with; ~last.
-Dedu (V): ~Act upon; ~affect; ~influence.
+Dedu (V): ~Act upon; ~affect; ~influence. SHORT[Affect]
 Depi (V): ~Interrupt; ~interfere.
-Deke (D): ~Act; ~perform; ~behave.
+Deke (D): ~Act; ~perform; ~behave. SHORT[Behave]
 
 > ORGANIZATION AND RELATIONSHIP (ZE-)
 
 Zeze (N): ~Order; ~organization; ~arrangement; ~configuration.
 Zeka (V): ~Organize; ~order; ~sort; ~arrange. Zika (*): ~Disorganize; ~mix; ~stir; ~scramble.
-Zedo (D): Reverses the order of subject and object for a verb or preposition.
-Zeku (D): ~Ranked; converts a cardinal number to an ~ordinal number.
+Zedo (D): Reverses the order of subject and object for a verb or preposition. SHORT[Swap subject]
+Zeku (D): ~Ranked; converts a cardinal number to an ~ordinal number. SHORT[Ordinal number]
 Zeto (D): ~First; ~initial; ~original. Zito (*): ~Last; ~final.
 Zeti (N): ~Start; ~beginning; first part. Ziti (*): ~End.
 Zeso (D): ~Next; ~following. Ziso (*): ~Previous.
@@ -543,7 +543,7 @@ Zese (N): ~System; ~process.
 Zezu (D): ~Main; ~chief; ~principal; ~primary; ~capital. Zizu (*): ~Subordinate.
 Zede (P): ~Of; ~pertaining to; ~related to; having a conceptual connection with. {"extraKeywords": ["pertain", "relate"]}
 Zedu (P): ~About; having a ~subject; having a ~topic.
-Zeda (V): ~Depend on; be ~controlled by; ~rely on.
+Zeda (V): ~Depend on; be ~controlled by; ~rely on. SHORT[Depend on]
 Zeko (P): ~If; under the ~condition that.
 Zesa (D): ~But; ~however; ~although; ~despite. Zisa (*): ~So; ~therefore.
 Zegi (P): ~With; ~along with; ~accompanied by. Zigi (*): ~Without.
@@ -552,7 +552,7 @@ Zeve (V): ~Give; ~contribute; ~donate; ~transfer; ~grant; ~provide; ~supply.
 Zevo (V): ~Get; ~receive; ~acquire; ~gain; ~obtain. Zivo (*): ~Lose possession of.
 Zefe (V): ~Meet; ~encounter.
 Zetu (P): ~Except; not including; ~aside from.
-Zepo (P): ~Instead of; on ~behalf of; in place of.
+Zepo (P): ~Instead of; on ~behalf of; in place of. SHORT[Instead of]
 Zepi (N): ~Friend; ~buddy. Zipi (*): ~Enemy; ~rival.
 Zeva (N): ~Family.
 Zeta (V): ~Marry. Zita (*): ~Divorce.
@@ -572,7 +572,7 @@ Keta (N): ~State; ~status; ~mode; ~phase; ~stage; ~version.
 Kepe (N): ~Weather; ~climate.
 Kezu (P): ~Like; ~similar to; having a quality pertaining to. Kizu (*): ~Unlike.
 Kezo (N): ~Pattern; ~trend.
-Keko (P): ~By ~means of; having a ~manner pertaining to; in ~accordance with; ~as ~though; as ~if.
+Keko (P): ~By ~means of; having a ~manner pertaining to; in ~accordance with; ~as ~though; as ~if. SHORT[By]
 Keti (D): ~Change; become different; ~transform.
 Kefi (V): ~Change; ~alter; ~convert; cause to become different.
 Keze (D): ~Seem to be; ~seemingly; ~ostensibly; ~appear to be. Kize (*): Seem unlike.
@@ -606,14 +606,14 @@ Zafi (N): ~String; ~thread; ~lace; ~rope; ~wire; ~cable.
 Zafe (N): ~Tape; ~ribbon; ~belt; ~band; ~strip.
 Zazu (N): ~Building.
 Zaze (N): ~Road; ~street.
-Zadi (D): ~On; ~active; ~operating; ~functioning; have the capacity to work. Zudi (*): ~Off; ~inactive. {"extraKeywords": ["operate", "function"]}
+Zadi (D): ~On; ~active; ~operating; ~functioning; have the capacity to work. SHORT[Active] Zudi (*): ~Off; ~inactive. {"extraKeywords": ["operate", "function"]}
 Zape (N): ~Radio; ~wireless communication.
 Zake (N): ~Computer.
 Zaki (N): ~Program; ~application; ~software; ~code.
 Zasa (N): ~Phone; ~telephone.
 Zadu (N): ~Web; ~internet.
 Zaza (N): ~Clothing; ~clothes.
-Zazo (V): ~Wear clothing.
+Zazo (V): ~Wear clothing. SHORT[Wear]
 Zaga (N): ~Furniture.
 Zavu (N): ~Table.
 Zasu (N): ~Bag; ~pocket; ~sack.
@@ -646,7 +646,7 @@ Vave (V): ~Pay; give money; ~spend. Vuve (*): Accept payment.
 Vavo (V): ~Buy; ~purchase. Vuvo (*): ~Sell.
 Vazu (N): ~Shop; ~store; ~restaurant.
 Vazo (N): ~Company; ~business; ~enterprise.
-Vadi (V): ~Work on; ~operate; ~function; do something productive.
+Vadi (V): ~Work on; ~operate; ~function; do something productive. SHORT[Work]
 Vade (V): ~Practice; ~exercise; ~train.
 Vada (D): ~Busy; ~preoccupied; ~engaged. Vuda (*): ~Idle.
 Vado (N): ~Job; ~occupation; ~career; ~duty; ~responsibility; ~profession.
