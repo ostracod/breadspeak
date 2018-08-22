@@ -150,8 +150,7 @@ Geza (D): ~Bumpy; ~rough. Giza (*): ~Smooth.
 Getu (D): ~Tapered.
 Geti (D): ~Sharp; ~pointy. Giti (*): ~Dull.
 Gedi (D): ~Split; ~divide; ~tear; ~rip; ~break; ~crack; ~snap. Gidi (*): ~Merge; ~fuse.
-Gepa (V): ~Connect to; ~join; ~attach; mechanically ~link to. Gipa (*): ~Disconnect; ~separate.
-Gepi (V): ~Tie a string; ~sew; ~stitch. Gipi (*): ~Untie.
+Gepa (V): ~Connect to; ~join; ~attach; ~tie; mechanically ~link to. Gipa (*): ~Disconnect; ~separate.
 Gezu (V): ~Reach; ~access.
 Gevi (D): ~Stand.
 Geva (D): ~Sit.
@@ -509,6 +508,7 @@ Dede (N): ~Extent; ~degree.
 Deko (D): ~More; having a greater degree. Diko (*): ~Less.
 Deda (D): ~Most; having the greatest degree. Dida (*): ~Least.
 Deto (D): ~Total; ~complete; ~full; ~whole; ~entire; ~thorough. Dito (*): ~None.
+Dedi (D): ~Partial; ~some; ~somewhat.
 Dego (D): ~Enough; ~sufficient; ~adequate. Digo (*): ~Insufficient.
 Dega (D): ~Extra; ~spare.
 Desu (D): ~Too much; ~excessive.
