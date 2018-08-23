@@ -689,7 +689,6 @@ Fafu (N): ~Pasta.
 Fagu (N): ~Cheese.
 Fato (V): ~Eat; ~drink; ~consume.
 Fati (V): ~Bite; ~chew.
-Fapu (V): ~Swallow.
 Favo (V): ~Digest.
 Favu (N): ~Dish; ~plate; ~tray.
 Fada (D): ~Cook; ~bake.
