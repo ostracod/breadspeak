@@ -60,7 +60,7 @@ Di (P): ~To; ~toward. SHORT[To]
 Za (D): Not a lot; a ~little; ~slight; little; ~small. SHORT[A little]
 Zu (D): ~Very; a ~lot; ~big; ~large; ~extensive; ~grand; ~quite. SHORT[Very]
 Te (D): ~Go; ~move; ~travel. SHORT[Go]
-Ti (D): ~Stay; not move. SHORT[Stay]
+Ti (D): ~Stay; not move; ~remain. SHORT[Stay]
 
 > POSITION AND ROTATION (PA-)
 
@@ -106,7 +106,8 @@ Tafi (D): ~Recent; ~just.
 Taka (D): ~Sudden; ~abrupt.
 Tazi (D): ~Already.
 Taba (D): ~Yet.
-Tabe (D): ~Still; not having changed; ~keep doing; ~continue.
+Tabe (D): ~Still; not having changed; ~keep doing; ~continue; ~remain.
+Tazu (D): For a ~long time; having a large duration. SHORT[Long time] Tuzu (*): For a ~short time.
 Taza (D): ~New; ~young; fresh. Tuza (*): ~Old; ~elderly; ~ancient.
 Tatu (D): ~Early. Tutu (*): ~Late.
 Tate (D): ~Temporary. Tute (*): ~Permanent.
@@ -582,7 +583,7 @@ Kepi (D): ~Wet; ~damp; ~moist. Kipi (*): ~Dry.
 Kedu (D): ~Clean. Kidu (*): ~Dirty.
 Kebe (D): ~Safe; ~secure. Kibe (*): ~Unsafe; ~insecure; ~dangerous.
 Kebi (D): ~Simple; ~easy; ~basic; ~plain. Kibi (*): ~Complex; ~difficult.
-Keve (D): ~Nice; ~kind; ~generous; ~polite. Kive (*): ~Unkind; ~mean; ~selfish.
+Keve (D): ~Nice; ~kind; ~generous; ~polite; ~pleasant. Kive (*): ~Unkind; ~mean; ~selfish.
 Kesi (D): ~Cute; ~adorable.
 Kevi (D): ~Popular; ~cool; ~famous. Kivi (*): ~Uncool; ~unpopular.
 Kefo (D): ~Beautiful; ~pretty; ~attractive; ~gorgeous. Kifo (*): ~Ugly.
