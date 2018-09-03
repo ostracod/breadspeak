@@ -267,7 +267,7 @@ Sake (D): ~Possible; ~can; ~able to happen; ~capable of happening; ~potential. S
 Saku (N): ~Probability; ~chance; ~luck; ~odds; ~prospect.
 Sazu (D): ~Probably; ~likely. Suzu (*): ~Unlikely. {"extraKeywords": ["probable"]}
 Sadi (D): ~May; ~might; ~maybe; ~perhaps.
-Sadu (D): ~Hypothetical; ~imaginary; ~conditional; ~would.
+Sadu (D): ~Hypothetical; ~imaginary; ~conditional; ~would; ~subjunctive mood. Sudu (*): ~Indicative mood.
 Sati (D): ~Start; ~begin; ~initiate; ~launch; ~proceed; ~become. Suti (*): ~Stop; ~end.
 Safi (V): ~Start; cause to ~begin; ~initiate; ~launch; ~proceed. Sufi (*): ~Stop; cause to ~end.
 Sato (D): ~Complete; ~finish; be accomplished; be achieved; ~conclude. {"extraKeywords": ["accomplish", "conclude"]}
