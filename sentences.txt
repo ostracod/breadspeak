@@ -52,7 +52,7 @@ The sun is shining again.
 Si pada seve bezu.
 
 The sun will shine tomorrow.
-Si pada bezu so tapi zeso tadi.
+Si pada bezu so pi zeso tadi.
 
 The sun shines brightly.
 Si pada zu bezu.
@@ -184,7 +184,7 @@ The child waited at the door for her father.
 Si peta deta ge pezu zefo so paki dade.
 
 Yesterday the oldest girl in the village lost her kitten.
-Deda tuza fo pezi deku si vagu kupo ge peke so tapi ziso tadi.
+Deda tuza fo pezi deku si vagu kupo ge peke so pi ziso tadi.
 
 Were you born in this village?
 Ke saze peva so pi fi vagu?
@@ -199,7 +199,7 @@ Is your sister coming for you?
 Ke pezi zefa saze tedi so gako ke?
 
 Can you come tomorrow?
-Ke sake tedi so tapi zeso tadi?
+Ke sake tedi so pi zeso tadi?
 
 Have the neighbors gone away for the winter?
 Seko peka paki saze tidi so gako kida tado?
@@ -211,7 +211,7 @@ Are you going with us to the concert?
 Ke saze te so zegi bi ga di fesa satu?
 
 Have you ever travelled in the forest?
-Ke saze te pi pevi dadu ga tapi sagu tata?
+Ke saze te pi pevi dadu ga pi sagu tata?
 
 We walked down the river for several miles.
 Bi pafa teso so paki dapu ga tapi seko geke seka sevo sete.
@@ -220,7 +220,7 @@ Everybody knows about hunting.
 Seda peka kapa da vake pepe.
 
 On a Sunny morning after the solstice we started for the mountains.
-Bi sati te so di dafu ga tapi tabi bezu zeti taso keda tado pazo.
+Bi sati te so di dafu ga pi tabi bezu zeti taso keda tado pazo.
 
 Tom laughed at the monkey's tricks.
 Tom fefa keka peda seko fa detu fedo.
@@ -247,7 +247,7 @@ On the top of the hill in a little hut lived a wise old woman.
 Keka gi tuza fo pezi pepi so pabi si dafu gefa ga pi za zazu.
 
 During our residence in the country we often walked in the pastures.
-Bi sezu teso so pede dadu ga tapi ge do ti pi si vadu.
+Bi sezu teso so pede dadu ga pi ge do ti pi si vadu.
 
 When will your guests from the city arrive?
 Ke seko zepi de vagu tedi so tadi sazi tata?
@@ -289,7 +289,7 @@ A bird has built his nest in the apple tree.
 Se pebe bu ka ge pagi pi besa fasi si pevi.
 
 At noon we ate our lunch by the roadside.
-Bi fato ge fadi so paki si zaze ga tapi tabi pazo.
+Bi fato ge fadi so paki si zaze ga pi tabi pazo.
 
 Mr. Jones made a knife for his little boy.
 Mr. Jones ka fa zato bati fu gako ge zifo.
@@ -442,7 +442,7 @@ This cottage stood on a low hill, at some distance from the village.
 Fi zazu gevi so pabi pufa dafu ga keko suki geke de si vagu.
 
 On a fine summer evening, the two old people were sitting outside the door of their cottage.
-Tuza gi seta peka geva so pe ge zazu dade ga tapi keda tado gagi tabi ziti.
+Tuza gi seta peka geva so pe ge zazu dade ga pi keda tado gagi tabi ziti.
 
 Our bird's name is Jacko.
 Bi pebe saka sa Jacko.
@@ -463,10 +463,10 @@ We visited my uncle's village, the largest village in the world.
 Bi bu tedi ki zefo zefa fa vagu deda zu fu deku deto paso.
 
 We learn something new each day.
-Bi kati se gi taza su tapi seda tadi.
+Bi kati se gi taza su pi seda tadi.
 
 The market begins five minutes earlier this week.
-Vazu si zese tatu sati so keko sesu take ga tapi fi tade.
+Vazu si zese tatu sati so keko sesu take ga pi fi tade.
 
 Did you find the distance too great?
 Ke saze kape da si geke desu zu?
@@ -481,7 +481,7 @@ Here under this tree they gave their guests a splendid feast.
 Ko vi zeve gagi fadi so di ge seko zepi ga puga fi pevi.
 
 In winter I get up at night, and dress by yellow candlelight.
-Ki sati pivu so tapi kida tado. Ki tezu zaza so paki vede bete bebi.
+Ki sati pivu so pi kida tado. Ki tezu zaza so paki vede bete bebi.
 
 Tell the last part of that story again.
 Vaku seve kadu fe katu zito dagi.
