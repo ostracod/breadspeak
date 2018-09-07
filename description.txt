@@ -32,24 +32,24 @@ Every syllable consists of a single consonant followed by a single vowel. Every 
 
 BreadSpeak has ten consonants:
 
-> (bs){k} = /k/
-> (bs){g} = /g/
-> (bs){s} = /s/
-> (bs){z} = /z/
-> (bs){t} = /t/
-> (bs){d} = /d/
-> (bs){f} = /f/
-> (bs){v} = /v/
-> (bs){p} = /p/
-> (bs){b} = /b/
+> (bs){k} = /k/ as in "(underline){C}an"
+> (bs){g} = /g/ as in "(underline){G}et"
+> (bs){s} = /s/ as in "(underline){S}et"
+> (bs){z} = /z/ as in "(underline){Z}ip"
+> (bs){t} = /t/ as in "(underline){T}an"
+> (bs){d} = /d/ as in "(underline){D}ot"
+> (bs){f} = /f/ as in "(underline){F}an"
+> (bs){v} = /v/ as in "(underline){V}an"
+> (bs){p} = /p/ as in "(underline){P}an"
+> (bs){b} = /b/ as in "(underline){B}an"
 
 BreadSpeak has five vowels:
 
-> (bs){i} = /i/
-> (bs){e} = /e/
-> (bs){a} = /a/
-> (bs){o} = /o/
-> (bs){u} = /u/
+> (bs){i} = /i/ as in "B(underline){ee}t"
+> (bs){e} = /e/ as in "B(underline){e}t
+> (bs){a} = /a/ as in "B(underline){a}t"
+> (bs){o} = /o/ as in "B(underline){oa}t"
+> (bs){u} = /u/ as in "B(underline){oo}t"
 
 Words may be written in the Roman alphabet or BreadSpeak syllabary:
 

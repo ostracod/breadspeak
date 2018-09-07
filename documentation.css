@@ -36,6 +36,10 @@ a {
     border-radius: 3px;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 .wordTableCell {
     width: 100px;
     height: 60px;
