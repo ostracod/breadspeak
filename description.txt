@@ -547,4 +547,54 @@ The religion is about kindness.
 (code){"Do" nice "zedo" about the religion.}
 The religion is about kindness. (Kindness is being "abouted" by the religion)
 
+BreadSpeak has a variety of words which describe extent. The list below shows some examples.
+
+> (bs){Dede} = Extent
+> (bs){Zu} = Very (Having a large extent)
+> (bs){Desu} = Too much (Having an excessive extent)
+> (bs){Saza} = How much (Having an interrogative extent)
+
+If a word is a quality or action, then the extent of the word is its intensity. Otherwise, the extent of the word is its geometric size.
+
+(bs){Zaza zu vega.}
+(code){Clothing very soft.}
+The clothing is very soft.
+
+(bs){Vepa deto zapu gegu.}
+(code){Paper completely cover box.}
+The paper completely covers the box.
+
+(bs){Paso desu.}
+(code){World too-much.}
+The world is too big.
+
+(bs){Ki befe dego dabi.}
+(code){I see enough window.}
+I see a window which is big enough.
+
+(bs){Ke zepa saza vedi?}
+(code){You have how-much oil?}
+How much oil do you have?
+
+BreadSpeak also has words which describe countable quantity. The list below shows some examples.
+
+> (bs){Seku} = Quantity
+> (bs){Seko} = Several (Having a quantity greater than one)
+> (bs){Sezu} = Many (Having a large quantity)
+> (bs){Sesa} = Seven
+
+Countable quantity always refers to the number of distinct entities, not their geometric size.
+
+(bs){Sezu fagu}
+(code){Many cheese}
+Many pieces of cheese
+
+(bs){Zu fagu}
+(code){Very cheese}
+A lot of cheese (The number of pieces is unknown)
+
+(bs){Zu gi seto fagu}
+(code){Very and one cheese}
+One big piece of cheese
+
 
