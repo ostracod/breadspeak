@@ -544,7 +544,7 @@ Zese (N): ~System; ~process.
 Zezu (D): ~Main; ~chief; ~principal; ~primary; ~capital. Zizu (*): ~Subordinate.
 Zede (P): ~Of; ~pertaining to; ~related to; having a conceptual connection with. {"extraKeywords": ["pertain", "relate"]}
 Zedu (P): ~About; having a ~subject; having a ~topic.
-Zeda (V): ~Depend on; be ~controlled by; ~rely on. SHORT[Depend on]
+Zeda (P): ~Depend on; be ~controlled by; ~rely on. SHORT[Depend on]
 Zeko (P): ~If; under the ~condition that.
 Zesa (D): ~But; ~however; ~although; ~despite. Zisa (*): ~So; ~therefore.
 Zegi (P): ~With; ~along with; ~accompanied by. Zigi (*): ~Without.
