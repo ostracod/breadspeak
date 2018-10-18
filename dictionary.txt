@@ -507,6 +507,7 @@ Seki (Numeric): ~Decimal ~point. SHORT[Decimal point]
 
 Dede (N): ~Extent; ~degree; ~intensity.
 Deko (D): ~More; having a greater degree. Diko (*): ~Less.
+Dezo (P): ~More than; having a greater degree than. SHORT[More than] Dizo (*): ~Less than.
 Deda (D): ~Most; having the greatest degree. Dida (*): ~Least.
 Deto (D): ~Total; ~complete; ~full; ~whole; ~entire; ~thorough. Dito (*): ~None.
 Dedi (D): ~Partial; ~some; ~somewhat.
