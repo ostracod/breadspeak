@@ -2,37 +2,12 @@
 var fs = require("fs");
 var escapeHtml = require("escape-html");
 
+var commonUtils = require("./common.js").commonUtils;
+
 var consonantSet = ["B", "D", "F", "G", "K", "P", "S", "T", "V", "Z"];
 var vowelSet = ["A", "E", "I", "O", "U"];
 
-var cssPath = "./documentation.css";
 var destinationPath = "./wordTable.html";
-
-function capitalize(text) {
-    return text.charAt(0).toUpperCase() + text.substring(1, text.length).toLowerCase();
-}
-
-function abbreviatePartOfSpeech(partOfSpeech) {
-    if (partOfSpeech == "Enclosing Particle") {
-        return "EP";
-    }
-    if (partOfSpeech == "Singleton Particle") {
-        return "SP";
-    }
-    if (partOfSpeech == "Delimiting Particle") {
-        return "DP";
-    }
-    if (partOfSpeech == "Narrow Conjunction") {
-        return "NC";
-    }
-    if (partOfSpeech == "Wide Conjunction") {
-        return "WC";
-    }
-    if (partOfSpeech == "Numeric") {
-        return "Num";
-    }
-    return partOfSpeech;
-}
 
 function getEntryInCategoryByWord(category, word) {
     var index = 0;
@@ -47,7 +22,7 @@ function getEntryInCategoryByWord(category, word) {
     return null;
 }
 
-var dictionaryData = JSON.parse(fs.readFileSync("./dictionary.json"));
+var dictionaryData = commonUtils.getDictionaryData();
 dictionaryData.categories.sort(function(category1, category2) {
     if (category1.syllable === null) {
         if (category2.syllable === null) {
@@ -95,12 +70,12 @@ while (tempConsonantIndex < consonantSet.length) {
                 tempWord = tempCategory.syllable + tempSyllable;
             }
             var tempEntry = getEntryInCategoryByWord(tempCategory, tempWord);
-            tempWord = capitalize(tempWord);
+            tempWord = commonUtils.capitalize(tempWord);
             var tempCellContent;
             if (tempEntry === null) {
                 tempCellContent = "&ndash;";
             } else {
-                tempCellContent = "<span class=\"bs\">" + tempWord + "</span> (" + abbreviatePartOfSpeech(tempEntry.partOfSpeech) + ")<br />" + escapeHtml(tempEntry.shortDefinition);
+                tempCellContent = "<span class=\"bs\">" + tempWord + "</span> (" + commonUtils.abbreviatePartOfSpeech(tempEntry.partOfSpeech) + ")<br />" + escapeHtml(tempEntry.shortDefinition);
             }
             tempCell = "<td><div class=\"wordTableCell\">" + tempCellContent + "</div></td>";
             tempCellList.push(tempCell);
@@ -113,11 +88,7 @@ while (tempConsonantIndex < consonantSet.length) {
 }
 var tempTable = "<table class=\"wordTable\">" + tempRowList.join("\n") + "</table>";
 
-var cssContent = fs.readFileSync(cssPath, "utf8");
-
-var tempHead = "<head>\n<meta charset=\"UTF-8\">\n<style>\n" + cssContent + "\n</style>\n</head>";
-var tempBody = "<body><p class=\"title1\">BREADSPEAK WORD TABLE</p>\n" + tempTable + "\n</body>";
-var content = "<html>\n" + tempHead + "\n" + tempBody + "\n</html>";
+var content = commonUtils.createHtmlPage("<p class=\"title1\">BREADSPEAK WORD TABLE</p>\n" + tempTable);
 
 console.log(destinationPath);
 fs.writeFileSync(destinationPath, content);
