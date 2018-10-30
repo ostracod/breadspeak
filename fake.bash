@@ -11,6 +11,9 @@ node ./createDoc.js
 echo "Creating word table file..."
 node ./createWordTable.js
 
+echo "Creating cheat sheet file..."
+node ./createCheatSheet.js
+
 echo "Finished faking."
 
 
