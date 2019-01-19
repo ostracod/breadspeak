@@ -41,8 +41,8 @@ dictionaryData.categories.sort(function(category1, category2) {
     if (tempIndex1 < tempIndex2) {
         return -1;
     }
-    var tempIndex1 = consonantSet.indexOf(category1.syllable.charAt(1));
-    var tempIndex2 = consonantSet.indexOf(category2.syllable.charAt(1));
+    var tempIndex1 = vowelSet.indexOf(category1.syllable.charAt(1));
+    var tempIndex2 = vowelSet.indexOf(category2.syllable.charAt(1));
     if (tempIndex1 > tempIndex2) {
         return 1;
     }

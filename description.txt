@@ -262,6 +262,16 @@ A river or a hill in front of the building (The river is not in front of the bui
 (code){"Pa" river or hill "pu" in-front-of building}
 A river or hill in front of the building (Both are in front of the building)
 
+The particles (bs){te} and (bs){ti} may be placed before a verb or preposition to make it behave as a descriptor.
+
+(bs){Te bafa peka}
+(code){"Te" throw person}
+Throwing person (Person who is throwing)
+
+(bs){Ti bafa veta}
+(code){"Ti" throw veta}
+Thrown rock (Rock which is thrown)
+
 (title2){CLAUSE STRUCTURE}
 
 A sentence consists of a clause punctuated by a period, exclamation mark, or question mark. Every base clause must follow one of the structures below.
@@ -399,7 +409,7 @@ The vehicle which carries sand creates a smell.
 (code){"Va" vehicle carry sand "vu" create smell.}
 The sand which is being carried by the vehicle creates a smell.
 
-If an embedded clause contains only one word, then it may be preceded by a singleton particle ((bs){do}, (bs){fo}, or (bs){vo}) instead of being surrounded by enclosing particles.
+If an embedded clause contains only one word, then it may be preceded by (bs){do}, (bs){fo}, or (bs){vo} instead of being surrounded by enclosing particles.
 
 (bs){Peta befo do gave.}
 (code){Child watch "do" help.}

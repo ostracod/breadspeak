@@ -20,6 +20,8 @@ Fo (Singleton Particle): Precedes a single word; refers to the subject of the wo
 Va (Enclosing Particle): Start of embedded clause; refers to the primary object of the base clause. SHORT[Object clause start]
 Vu (Enclosing Particle): End of embedded clause; refers to the primary object of the base clause. SHORT[Object clause end]
 Vo (Singleton Particle): Precedes a single word; refers to the object of the word. SHORT[Object clause word]
+Te (Singleton Particle): Converts a word to a descriptor whose subject is the subject of the original word. SHORT[Active participle]
+Ti (Singleton Particle): Converts a word to a descriptor whose subject is the object of the original word. SHORT[Passive participle]
 So (Delimiting Particle): Precedes a clause extension. SHORT[Clause extension]
 Pa (Enclosing Particle): Start of conjunction phrase. SHORT[Conjunction phrase start]
 Pu (Enclosing Particle): End of conjunction phrase. SHORT[Conjunction phrase end]
@@ -59,8 +61,6 @@ De (P): ~From; away from. SHORT[From]
 Di (P): ~To; ~toward. SHORT[To]
 Za (D): Not a lot; a ~little; ~slight; little; ~small. SHORT[A little]
 Zu (D): ~Very; a ~lot; ~big; ~large; ~extensive; ~grand; ~quite. SHORT[Very]
-Te (D): ~Go; ~move; ~travel. SHORT[Go]
-Ti (D): ~Stay; not move; ~remain. SHORT[Stay]
 
 > POSITION AND ROTATION (PA-)
 
@@ -196,6 +196,7 @@ Begu (D): ~Umami; ~meaty.
 
 > MOVEMENT (TE-)
 
+Tete (D): ~Go; ~move; ~travel. Tite (*): ~Stay; not move; ~remain.
 Tepo (V): ~Move; cause to go. Tipo (*): ~Stop.
 Tepa (V): ~Carry; ~bring; ~transport; ~deliver; ~fetch.
 Teko (V): ~Put; ~place; ~add. Tiko (*): ~Take; ~remove.

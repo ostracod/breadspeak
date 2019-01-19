@@ -8,7 +8,7 @@ Now the whole earth had one language and the same words.
 Deto padu zi zepa seto kase ga sagi gi seko kabo.
 
 And as people migrated from the east, they found a plain in the land of Shinar and settled there.
-Seko peka kapo gebe gi se dadu pi Shinar geka so tapi da ge te pade de. Ko ve ka pagi.
+Seko peka kapo gebe gi se dadu pi Shinar geka so tapi da ge tete pade de. Ko ve ka pagi.
 
 And they said to one another, "Come, let us make bricks, and burn them thoroughly." And they had brick for stone, and bitumen for mortar.
 Ko kasa, "Vaku tedi, bi vaku ka zazu seku gegu. Bi vaku deto teko ko so pi veda." so di ge. Ko zepa vete gako veta ga vedi vepo gako fo bapu.
@@ -23,7 +23,7 @@ And the Lord said, "Behold, they are one people, and they have all one language,
 Vaza peka kasa, "Vaku befo, ko sa peka seto zegu. Seda ko zepa seto kase. Fi su sa sedo zeti zede vo ko ba ka. Seda va ko vapi vu ba sake so kedu ge.
 
 Come, let us go down and there confuse their language, so that they may not understand one another's speech."
-Vaku tedi, bi vaku pufa te. Bi vaku zika ko kase so gako da ko sadi tu kadi ge do kasa."
+Vaku tedi, bi vaku pufa tete. Bi vaku zika ko kase so gako da ko sadi tu kadi ge do kasa."
 
 So the Lord dispersed them from there over the face of all the earth, and they left off building the city.
 Vaza peka zisa ka da ko tede so ve de ga pabi deto padu geze. Ko suti ka si vagu.
@@ -61,7 +61,7 @@ The white sun shines.
 Si bege pada bezu.
 
 The sun is rising now.
-Si pada zi gi bese te.
+Si pada zi gi bese tete.
 
 All the people shouted.
 Seda peka beva kasa.
@@ -112,13 +112,13 @@ Go away!
 Vaku tidi!
 
 Let's go!
-Bi vaku te!
+Bi vaku tete!
 
 You should go.
-Ke vatu te.
+Ke vatu tete.
 
 I will be happy to go.
-Ki fegi so zedu do te.
+Ki fegi so zedu do tete.
 
 He will arrive soon.
 To taki tedi.
@@ -130,7 +130,7 @@ The two boys are working together.
 Si gi seta gi pezu peta peka teso.
 
 This mist will probably clear away.
-Fi vege ba gi sazu te de.
+Fi vege ba gi sazu tete de.
 
 Lovely flowers are growing everywhere.
 Kefo pepa sati zu pi seda papo.
@@ -166,7 +166,7 @@ I can play after school.
 Ki sake febi taso do kati.
 
 We went to the village for a visit.
-Bi te di si vagu du gako do befe.
+Bi tete di si vagu du gako do befe.
 
 We arrived at the river.
 Bi bu tedi si dapu.
@@ -208,10 +208,10 @@ Does the bird sing in the rain?
 Si pebe saze kasa fesa so pi vefa?
 
 Are you going with us to the concert?
-Ke saze te so zegi bi ga di fesa satu?
+Ke saze tete so zegi bi ga di fesa satu?
 
 Have you ever travelled in the forest?
-Ke saze te pi pevi dadu ga pi sagu tata?
+Ke saze tete pi pevi dadu ga pi sagu tata?
 
 We walked down the river for several miles.
 Bi pafa teso so paki dapu ga tapi seko geke seka sevo sete.
@@ -220,7 +220,7 @@ Everybody knows about hunting.
 Seda peka kapa da vake pepe.
 
 On a Sunny morning after the solstice we started for the mountains.
-Bi sati te so di dafu ga pi tabi bezu zeti taso keda tado pazo.
+Bi sati tete so di dafu ga pi tabi bezu zeti taso keda tado pazo.
 
 Tom laughed at the monkey's tricks.
 Tom fefa keka peda seko fa detu fedo.
@@ -235,19 +235,19 @@ The little seeds waited patiently under the snow for the warm spring sun.
 Za gi seko pedi fipi deta keda tado pada so puga veke vefa.
 
 Many little girls with wreaths of flowers on their heads danced around the bonfire.
-Sezu gi pezi peta zegi kefo pepa geso pabi ge daku te so keko fesa ga paki veda.
+Sezu gi pezi peta zegi kefo pepa geso pabi ge daku tete so keko fesa ga paki veda.
 
 The cover of the basket fell to the floor.
 Si zabo fo zapu tebo so di davu.
 
 The first boy in the line stopped at the entrance.
-Zeto gi pezu peta pi si zefi ti so pi do tezu papo.
+Zeto gi pezu peta pi si zefi tite so pi do tezu papo.
 
 On the top of the hill in a little hut lived a wise old woman.
 Keka gi tuza fo pezi pepi so pabi si dafu gefa ga pi za zazu.
 
 During our residence in the country we often walked in the pastures.
-Bi sezu teso so pede dadu ga pi ge do ti pi si vadu.
+Bi sezu teso so pede dadu ga pi ge do tite pi si vadu.
 
 When will your guests from the city arrive?
 Ke seko zepi de vagu tedi so tadi sazi tata?
@@ -349,7 +349,7 @@ John and Elizabeth are brother and sister.
 John gi Elizabeth sa zefa.
 
 You and I will go together.
-Ke gi ki ba pake te.
+Ke gi ki ba pake tete.
 
 They opened all the doors and windows.
 Ko bu zate seda dade gi dabi.
@@ -394,7 +394,7 @@ Do you like summer or winter better?
 Ke feta sazi pa keda go kida pu tado?
 
 That boy will have a wonderful trip.
-Fe gi pezu peta ba zepa zu gagi do te.
+Fe gi pezu peta ba zepa zu gagi do tete.
 
 They popped corn, and then sat around the fire and ate it.
 Ko ka da fate fada. Ko geva so taso ga paki bafu fu fato si fate.
@@ -406,7 +406,7 @@ Take this note, carry it to your mother; and wait for an answer.
 Vaku tiko fi zavo. Vaku teko bo di ge pezi zefo. Vaku deta vo kasi.
 
 I awoke early, dressed hastily, and went down to breakfast.
-Ki tatu sati pivu. Ki teta tezu zaza. Ki pufa te gako tatu fadi.
+Ki tatu sati pivu. Ki teta tezu zaza. Ki pufa tete gako tatu fadi.
 
 Aha! I have caught you!
 Aha! Ki bu bufa ke!
@@ -451,7 +451,7 @@ The river knows the way to the sea.
 Si dapu kapa tega di dapi.
 
 The boat sails away, like a bird on the wing.
-Vedo si zaso te so de ga kezu pebe pabi do tepe dagu.
+Vedo si zaso tete so de ga kezu pebe pabi do tepe dagu.
 
 They looked cautiously about, but saw nothing.
 Ko kepa gi bu befo paki. Ko zesa befe seto su.
@@ -490,7 +490,7 @@ Be quick or you will be too late.
 Vaku teta so gako du tu desu tutu.
 
 Will you go with us or wait here?
-Ke saze te so zegi bi? Ke saze vi deta?
+Ke saze tete so zegi bi? Ke saze vi deta?
 
 Think first and then act.
 Vaku zeto kake tuso da deka.
