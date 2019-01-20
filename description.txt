@@ -28,7 +28,7 @@ BreadSpeak draws inspiration from many of my previous conlangs. BreadSpeak also 
 
 (title1){PHONOLOGY AND ORTHOGRAPHY}
 
-Every syllable consists of a single consonant followed by a single vowel. Every word consists of a chain of consecutive syllables.
+Every syllable consists of a single consonant followed by a single vowel. Every word consists of a chain of consecutive syllables. Emphasis falls on the first syllable, and then alternatives every other syllable.
 
 BreadSpeak has ten consonants:
 
@@ -606,5 +606,44 @@ A lot of cheese (The number of pieces is unknown)
 (bs){Zu gi seto fagu}
 (code){Very and one cheese}
 One big piece of cheese
+
+(title2){EXTENDED WORDS}
+
+For convenience, a sequence of numeric words may be collapsed into a single word with fewer total syllables. This new word must begin with (bs){se-} followed by syllables representing each of the original numeric words. The list below shows valid syllable representations.
+
+> (bs){-tu} = (bs){Setu} (Zero)
+> (bs){-to} = (bs){Seto} (One)
+> (bs){-ta} = (bs){Seta} (Two)
+> (bs){-te} = (bs){Sete} (Three)
+> (bs){-ti} = (bs){Seti} (Four)
+> (bs){-su} = (bs){Sesu} (Five)
+> (bs){-so} = (bs){Seso} (Six)
+> (bs){-sa} = (bs){Sesa} (Seven)
+> (bs){-se} = (bs){Sese} (Eight)
+> (bs){-si} = (bs){Sesi} (Nine)
+> (bs){-ki} = (bs){Seki} (Decimal point)
+
+Examples:
+
+> (bs){Setotu} = Ten
+> (bs){Setasu} = Twenty five
+> (bs){Sesatese} = Seven hundred thirty eight
+
+The following syllables are also available as operators in extended numeric words.
+
+> (bs){-du} = (bs){Sedu} (Negative)
+> (bs){-vo} = (bs){Sevo} (Ten raised to a power)
+
+Examples:
+
+> (bs){Seduti} = Negative four
+> (bs){Setovote} = One thousand
+> (bs){Setasuvosi} = Twenty five billion
+
+An extended ordinal number word begins with (bs){Zeku-} followed by the same syllables listed above.
+
+> (bs){Zekuta} = Second
+> (bs){Zekusu} = Fifth
+> (bs){Zekutotu} = Tenth
 
 
