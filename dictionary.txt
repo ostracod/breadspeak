@@ -144,7 +144,7 @@ Gepe (N): ~Space; ~gap.
 Gefi (D): ~Long; ~tall. Gifi (*): ~Short.
 Gefe (D): ~Wide; ~broad. Gife (*): ~Narrow.
 Gefo (D): ~Thick in a geometric sense; ~deep; ~fat. Gifo (*): ~Thin.
-Gebi (D): ~Straight; ~direct.
+Gebi (D): ~Straight; ~direct; ~immediate.
 Gebe (D): ~Flat.
 Gebo (D): ~Curved; ~round.
 Geza (D): ~Bumpy; ~rough. Giza (*): ~Smooth.
@@ -296,8 +296,8 @@ Kapo (V): ~Find; ~discover; ~measure; ~determine. Kupo (*): ~Lose.
 Kade (V): ~Test; ~experiment with.
 Kadu (V): ~Communicate; ~state; ~claim; ~tell; ~discuss; ~express; ~inform.
 Kasa (V): ~Say; ~speak; ~talk; ~communicate verbally.
-Kavo (V): ~Call.
-Kazi (V): ~Ask; ~inquire.
+Kavo (V): ~Call; communicate something to get attention.
+Kazi (V): ~Ask; ~inquire; request information.
 Kasi (V): ~Answer; ~respond; ~reply.
 Kafa (V): ~Argue about; ~debate; ~dispute; ~protest.
 Kafi (V): ~Approve; ~verify; ~confirm; ~praise; ~support; ~agree with; ~concur; ~accept. Kufi (*): ~Disapprove; ~disagree with.
@@ -451,7 +451,7 @@ Vedu (N): ~Soil; ~dirt.
 Vefu (N): ~Clay; ~dough.
 Vese (N): ~Cotton.
 Vebu (N): ~Rubber.
-Vefo (N): ~Fat.
+Vefo (N): ~Fat; ~butter.
 Vesa (N): ~Blood.
 Veka (N): ~Lumber; ~wood.
 Veko (N): ~Bone.
@@ -486,7 +486,7 @@ Segu (D): ~Common; ~usual; ~normal; ~average; ~ordinary; ~regular; ~standard; ~t
 Sego (D): ~Most; the ~majority; almost all. SHORT[Majority] Sigo (*): The ~minority.
 Sedo (D): ~Only; ~just; ~alone; ~unique; ~sole.
 Seve (D): ~Again; another time.
-Sevi (D): ~Also; ~too.
+Sevi (D): ~Also; ~too; in addition.
 Sede (P): ~Add a number. Side (*): ~Subtract.
 Sepi (P): ~Multiply a number. Sipi (*): ~Divide.
 Seva (P): ~Exponentiate a number. Siva (*): ~Logarithm.
@@ -517,7 +517,7 @@ Dega (D): ~Extra; ~spare.
 Desu (D): ~Too much; ~excessive.
 Dezu (D): ~Extreme; ~radical; ~severe; ~intense. Dizu (*): ~Mellow.
 Deki (D): ~As; to a certain ~extent; ~so.
-Dedo (D): ~Even.
+Dedo (D): ~Even; pertaining to a surprising extent.
 Degi (D): ~Almost; ~nearly; ~virtually.
 Desa (D): ~Opposite; ~inverse in meaning.
 Deku (P): ~Relative to; with ~respect to; ~than. SHORT[Relative to]
@@ -558,7 +558,7 @@ Zetu (P): ~Except; not including; ~aside from.
 Zepo (P): ~Instead of; on ~behalf of; in place of. SHORT[Instead of]
 Zepi (N): ~Friend; ~buddy. Zipi (*): ~Enemy; ~rival.
 Zeva (N): ~Family.
-Zeta (V): ~Marry. Zita (*): ~Divorce.
+Zeta (V): ~Marry; become married to. Zita (*): ~Divorce.
 Zete (N): ~Spouse.
 Zefo (N): ~Parent. Zifo (*): ~Child; ~offspring.
 Zefa (N): ~Sibling.
