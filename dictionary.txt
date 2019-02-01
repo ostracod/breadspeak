@@ -99,7 +99,7 @@ Pase (N): ~Environment; ~setting; ~surroundings; ~context; ~circumstance; ~situa
 
 Tata (N): ~Time.
 Taso (P): ~After; ~since. Tuso (*): ~Before; ~ago.
-Tase (P): ~Until.
+Tase (P): ~Until; for the entire duration before.
 Tapi (P): ~While; ~during; for the entire duration of. Tupi (*): Not while.
 Taki (D): ~Soon. Tuki (*): ~Eventual.
 Tafi (D): ~Recent; ~just.
