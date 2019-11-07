@@ -435,6 +435,16 @@ The thing which carries creates a smell.
 (code){"Vo" carry create smell.}
 The thing which is being carried creates a smell.
 
+A direct address delimited by commas may be placed anywhere in a clause.
+
+(bs){Kedi peko, ke vatu tu fato fe gapu!}
+(code){Crazy dog, you should not eat that garbage!}
+Crazy dog, you should not eat that garbage!
+
+(bs){Ki feta si gavo, gagi zepi.}
+(code){I love the gift, good friend.}
+I love the gift, good friend.
+
 (title2){USAGE OF SPECIFIC WORDS}
 
 To form an imperative sentence, use the word (bs){vaku}.

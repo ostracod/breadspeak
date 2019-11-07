@@ -249,7 +249,8 @@ Bazu (D): ~Strong; ~fit; ~powerful; ~tough; ~sturdy; ~durable. Buzu (*): ~Weak; 
 
 Sasa (D): ~Exist. {"extraKeywords": ["be"]}
 Sage (N): ~Identity.
-Sagi (D): ~Equal; ~same. Sugi (*): ~Different; ~other; ~another.
+Sagi (D): ~Equal; ~same; ~identical. SHORT[Equal descriptor] Sugi (*): ~Different; ~other; ~another.
+Saga (P): ~Equal to; the ~same as; ~identical to. SHORT[Equal preposition] Suga (*): ~Different than. {"extraKeywords": ["be"]}
 Sagu (D): ~Any.
 Sabo (N): ~Object; ~item; physical ~entity.
 Sabu (N): ~Mass; ~matter.
