@@ -511,9 +511,9 @@ The word (bs){savo} may also be used to refer to descriptors and prepositions in
 (code){"Da" bird "savo" fast fly "du" relative-to bug.}
 The bird is flying quickly relative to the bug.
 
-(bs){Da peka savo kepa tepa peti du gako bo tu gedi.}
-(code){"Da" person "savo" careful carry egg "du" for it not break.}
-The person carefully carried the egg so that it would not break.
+(bs){Da peka savo kepa tepa peti du gako da bo tu gedi du.}
+(code){"Da" person "savo" careful carry egg "du" for "da" it not break "du".}
+The person carried the egg carefully so that it would not break.
 
 To refer to whether an embedded clause is true, use the word (bs){sase}.
 
